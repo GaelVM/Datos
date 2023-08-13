@@ -45,9 +45,15 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
         primary_type = type_data["primaryType"]["names"]["Spanish"]
         secondary_type = type_data["secondaryType"]["names"]["Spanish"] if type_data["secondaryType"] else None
+
+        assets = type_data.get("assets", {})
+        image_url = assets.get("image", "N/A")
+        shiny_image_url = assets.get("shinyImage", "N/A")
     else:
         primary_type = "Desconocido"
         secondary_type = None
+        image_url = "N/A"
+        shiny_image_url = "N/A"
 
     pokemon_data = {
         "#": number,
@@ -60,7 +66,9 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
         "CP": cp,
         "IV": iv,
         "primaryType": primary_type,
-        "secondaryType": secondary_type
+        "secondaryType": secondary_type,
+        "image": image_url,
+        "shinyImage": shiny_image_url
     }
 
     data.append(pokemon_data)
