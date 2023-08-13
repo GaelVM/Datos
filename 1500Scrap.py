@@ -17,21 +17,23 @@ else:
 # Analizar el contenido HTML
 soup = BeautifulSoup(page_content, 'html.parser')
 
-# Encontrar los elementos que contienen la información
-pokemon_entries = soup.find_all("div", class_="pokemon-entry")
+# Encontrar la tabla que contiene los datos
+table = soup.find("table", class_="pokemons-table")
 
 data = []
 
-for index, entry in enumerate(pokemon_entries, start=1):
-    number = index
-    name = entry.find("th").text
-    fast_skill = entry.find("th", class_="fast-skill").text
-    charged_skills = entry.find_all("th", class_="charged-skill")
-    charged_skill_1 = charged_skills[0].text
-    charged_skill_2 = charged_skills[1].text
-    level = entry.find("th", class_="level").text
-    cp = entry.find("th", class_="cp").text
-    iv = entry.find("th", class_="iv").text
+# Iterar sobre las filas de la tabla
+for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
+    cells = row.find_all("th")
+
+    number = cells[0].text
+    name = cells[1].text
+    fast_skill = cells[2].text
+    charged_skill_1 = cells[3].text
+    charged_skill_2 = cells[4].text
+    level = cells[5].text
+    cp = cells[6].text
+    iv = cells[7].text
 
     pokemon_data = {
         "#": number,
