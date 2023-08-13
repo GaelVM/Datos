@@ -62,13 +62,17 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
             for form_key, form_data in region_forms.items():
                 if "GALARIAN" in form_key:
                     assets_galarian = form_data.get("assets", {})
+                    image_url = assets_galarian.get("image", image_url)
+                    shiny_image_url = assets_galarian.get("shinyImage", shiny_image_url)
                     break  # Detener la búsqueda una vez que se encuentre la forma "GALARIAN"
-            image_url = assets_galarian.get("image", image_url)
-            shiny_image_url = assets_galarian.get("shinyImage", shiny_image_url)
         elif "shadow" in name_lower:
             # Agrega aquí las URLs reales de las imágenes para Pokémon Shadow
             image_url = "URL de la imagen para Pokémon Shadow"
             shiny_image_url = "URL de la imagen shiny para Pokémon Shadow"
+        else:
+            assets_normal = api_data.get("assets", {})
+            image_url = assets_normal.get("image", image_url)
+            shiny_image_url = assets_normal.get("shinyImage", shiny_image_url)
 
         pokemon_data = {
             "#": number,
