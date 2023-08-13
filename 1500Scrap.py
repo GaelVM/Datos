@@ -4,7 +4,10 @@ import json
 
 # Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
-    return attack_data.get(attack_id, {}).get("names", {}).get("Spanish", "Desconocido")
+    for key, value in attack_data.items():
+        if value.get("names", {}).get("English") == attack_id:
+            return value.get("names", {}).get("Spanish", "Desconocido")
+    return "Desconocido"
 
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
