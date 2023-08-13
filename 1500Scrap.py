@@ -36,38 +36,38 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     cp = cells[7].text
     iv = cells[8].text
 
-    # Realizar la solicitud para obtener más información del Pokémon
-    pokemon_info_url = f"https://pokemon-go-api.github.io/pokemon-go-api/api/pokedex/id/{number_dex}.json"
-    pokemon_info_response = requests.get(pokemon_info_url)
+    # Realizar solicitud para obtener los datos del tipo del Pokémon
+    type_url = f"https://pokemon-go-api.github.io/pokemon-go-api/api/pokedex/id/{number_dex}.json"
+    type_response = requests.get(type_url)
 
-    if pokemon_info_response.status_code == 200:
-        pokemon_info = pokemon_info_response.json()
-
-        primary_type = pokemon_info.get("primaryType", {}).get("names", {}).get("Spanish", "Desconocido")
-        secondary_type = pokemon_info.get("secondaryType", {}).get("names", {}).get("Spanish", "")
-
-        pokemon_data = {
-            "#": number,
-            "Name": name,
-            "NumberDex": number_dex,
-            "Fast Skill": fast_skill,
-            "Charged Skill 1": charged_skill_1,
-            "Charged Skill 2": charged_skill_2,
-            "Level": level,
-            "CP": cp,
-            "IV": iv,
-            "primaryType": primary_type,
-            "secondaryType": secondary_type
-        }
-
-        data.append(pokemon_data)
+    if type_response.status_code == 200:
+        type_data = type_response.json()
+        primary_type = type_data["types"][0]["names"]["Spanish"]
+        secondary_type = type_data["types"][1]["names"]["Spanish"] if len(type_data["types"]) > 1 else None
     else:
-        print(f"No se pudo obtener información para el Pokémon con NumberDex {number_dex}")
+        primary_type = "Desconocido"
+        secondary_type = None
+
+    pokemon_data = {
+        "#": number,
+        "Name": name,
+        "NumberDex": number_dex,
+        "Fast Skill": fast_skill,
+        "Charged Skill 1": charged_skill_1,
+        "Charged Skill 2": charged_skill_2,
+        "Level": level,
+        "CP": cp,
+        "IV": iv,
+        "primaryType": primary_type,
+        "secondaryType": secondary_type
+    }
+
+    data.append(pokemon_data)
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
 
 with open(output_file, "w") as json_file:
-    json.dump(data, json_file, indent=4)
+    json.dump(data, json_file, indent=4, ensure_ascii=False)
 
 print(f"Se han raspado y guardado {len(data)} registros en {output_file}")
