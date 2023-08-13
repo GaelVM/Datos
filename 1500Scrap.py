@@ -24,14 +24,14 @@ data = []
 
 for index, entry in enumerate(pokemon_entries, start=1):
     number = index
-    name = entry.find("h3").text
-    fast_skill = entry.find("p", class_="fast-skill").text
-    charged_skills = entry.find_all("p", class_="charged-skill")
+    name = entry.find("th").text
+    fast_skill = entry.find("th", class_="fast-skill").text
+    charged_skills = entry.find_all("th", class_="charged-skill")
     charged_skill_1 = charged_skills[0].text
     charged_skill_2 = charged_skills[1].text
-    level = entry.find("p", class_="level").text
-    cp = entry.find("p", class_="cp").text
-    iv = entry.find("p", class_="iv").text
+    level = entry.find("th", class_="level").text
+    cp = entry.find("th", class_="cp").text
+    iv = entry.find("th", class_="iv").text
 
     pokemon_data = {
         "#": number,
