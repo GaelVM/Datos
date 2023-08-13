@@ -28,7 +28,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
     number = cells[0].text
     name = cells[1].text
-    number = cells [2].text
+    number_dex = cells[2].text
     fast_skill = cells[3].text
     charged_skill_1 = cells[4].text
     charged_skill_2 = cells[5].text
@@ -36,19 +36,32 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     cp = cells[7].text
     iv = cells[8].text
 
-    pokemon_data = {
-        "#": number,
-        "Name": name,
-        "NumberDex": number,
-        "Fast Skill": fast_skill,
-        "Charged Skill 1": charged_skill_1,
-        "Charged Skill 2": charged_skill_2,
-        "Level": level,
-        "CP": cp,
-        "IV": iv
-    }
+    # Realizar la solicitud para obtener más información del Pokémon
+    pokemon_info_url = f"https://pokemon-go-api.github.io/pokemon-go-api/api/pokedex/id/{number_dex}.json"
+    pokemon_info_response = requests.get(pokemon_info_url)
 
-    data.append(pokemon_data)
+    if pokemon_info_response.status_code == 200:
+        pokemon_info = pokemon_info_response.json()
+        primary_type = pokemon_info["types"][0]["Spanish"]
+        secondary_type = pokemon_info["types"][1]["Spanish"] if len(pokemon_info["types"]) > 1 else ""
+
+        pokemon_data = {
+            "#": number,
+            "Name": name,
+            "NumberDex": number_dex,
+            "Fast Skill": fast_skill,
+            "Charged Skill 1": charged_skill_1,
+            "Charged Skill 2": charged_skill_2,
+            "Level": level,
+            "CP": cp,
+            "IV": iv,
+            "primaryType": primary_type,
+            "secondaryType": secondary_type
+        }
+
+        data.append(pokemon_data)
+    else:
+        print(f"No se pudo obtener información para el Pokémon con NumberDex {number_dex}")
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
