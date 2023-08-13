@@ -36,22 +36,18 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     cp = cells[7].text
     iv = cells[8].text
 
-   # Realizar solicitud para obtener los datos del tipo del Pokémon
-type_url = f"https://pokemon-go-api.github.io/pokemon-go-api/api/pokedex/id/{number_dex}.json"
-type_response = requests.get(type_url)
+    # Realizar solicitud para obtener los datos del tipo del Pokémon
+    type_url = f"https://pokemon-go-api.github.io/pokemon-go-api/api/pokedex/id/{number_dex}.json"
+    type_response = requests.get(type_url)
 
-if type_response.status_code == 200:
-    type_data = type_response.json()
+    if type_response.status_code == 200:
+        type_data = type_response.json()
 
-    if "types" in type_data:  # Verificar si la clave "types" existe en el JSON
-        primary_type = type_data["types"][0]["names"]["Spanish"]
-        secondary_type = type_data["types"][1]["names"]["Spanish"] if len(type_data["types"]) > 1 else None
+        primary_type = type_data["primaryType"]["names"]["Spanish"]
+        secondary_type = type_data["secondaryType"]["names"]["Spanish"] if type_data["secondaryType"] else None
     else:
         primary_type = "Desconocido"
         secondary_type = None
-else:
-    primary_type = "Desconocido"
-    secondary_type = None
 
     pokemon_data = {
         "#": number,
