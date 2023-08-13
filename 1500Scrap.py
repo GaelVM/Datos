@@ -112,8 +112,8 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
         data.append(pokemon_data)
 
-# Guardar en formato JSON en la carpeta /Data
-output_file = "Data/pvp1500_data.json"
+# Guardar en formato JSON
+output_file = "pvp1500_data.json"
 
 with open(output_file, "w") as json_file:
     json.dump(data, json_file, indent=4, ensure_ascii=False)
