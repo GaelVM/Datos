@@ -58,13 +58,13 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
         name_lower = name.lower()
         if "galarian" in name_lower and region_forms:
-            assets_galarian = region_forms[0].get("assets", {})
-            image_url = assets_galarian.get("image", image_url)
-            shiny_image_url = assets_galarian.get("shinyImage", shiny_image_url)
+         assets_galarian = region_forms[0].get("assets", {})
+         image_url = assets_galarian.get("image", image_url)
+         shiny_image_url = assets_galarian.get("shinyImage", shiny_image_url)
         elif "shadow" in name_lower:
-            # Agrega aquí las URLs reales de las imágenes para Pokémon Shadow
-            image_url = "URL de la imagen para Pokémon Shadow"
-            shiny_image_url = "URL de la imagen shiny para Pokémon Shadow"
+    # Agrega aquí las URLs reales de las imágenes para Pokémon Shadow
+         image_url = "URL de la imagen para Pokémon Shadow"
+         shiny_image_url = "URL de la imagen shiny para Pokémon Shadow"
 
         pokemon_data = {
             "#": number,
