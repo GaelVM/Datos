@@ -28,17 +28,18 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
     number = cells[0].text
     name = cells[1].text
-    fast_skill = cells[2].text
-    charged_skill_1 = cells[3].text
-    charged_skill_2 = cells[4].text
-    level = cells[5].text
-    cp = cells[6].text
-    iv = cells[7].text
+    number = cells [2].text
+    fast_skill = cells[3].text
+    charged_skill_1 = cells[4].text
+    charged_skill_2 = cells[5].text
+    level = cells[6].text
+    cp = cells[7].text
+    iv = cells[8].text
 
     pokemon_data = {
         "#": number,
         "Name": name,
-        "Number": fast_skill,
+        "Number": number,
         "Fast Skill": fast_skill,
         "Charged Skill 1": charged_skill_1,
         "Charged Skill 2": charged_skill_2,
