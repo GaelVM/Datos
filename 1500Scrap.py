@@ -2,18 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-# Función para obtener el nombre en español de un movimiento desde la API
-def get_move_name(move_id):
-    api_url = f"https://pokemon-go-api.github.io/pokemon-go-api/api/v2/move/{move_id}.json"
-    api_response = requests.get(api_url)
-
-    if api_response.status_code == 200:
-        api_data = api_response.json()
-        names = api_data.get("names", {})
-        spanish_name = names.get("Spanish")
-        return spanish_name
-
-    return "Desconocido"
+# Definir una función para obtener el nombre en "Spanish" de un ataque de la API
+def get_attack_name(attack_id, attack_data):
+    return attack_data.get(attack_id, {}).get("names", {}).get("Spanish", "Desconocido")
 
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
@@ -91,10 +82,16 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
         else:
             additional_image_url = None
 
-        # Obtener nombres en español de los movimientos
-        fast_skill_name = get_move_name(fast_skill)
-        charged_skill_1_name = get_move_name(charged_skill_1)
-        charged_skill_2_name = get_move_name(charged_skill_2)
+        # Obtener los datos de los ataques de la API
+        api_quick_moves = api_data.get("quickMoves", {})
+        api_cinematic_moves = api_data.get("cinematicMoves", {})
+        api_elite_quick_moves = api_data.get("eliteQuickMoves", {})
+        api_elite_cinematic_moves = api_data.get("eliteCinematicMoves", {})
+
+        # Comparar los ataques y obtener los nombres en "Spanish" de los ataques coincidentes
+        fast_skill_name = get_attack_name(fast_skill, api_quick_moves)
+        charged_skill_1_name = get_attack_name(charged_skill_1, api_cinematic_moves)
+        charged_skill_2_name = get_attack_name(charged_skill_2, api_cinematic_moves)
 
         pokemon_data = {
             "#": number,
