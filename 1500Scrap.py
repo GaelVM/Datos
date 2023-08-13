@@ -42,8 +42,9 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
     if pokemon_info_response.status_code == 200:
         pokemon_info = pokemon_info_response.json()
-        primary_type = pokemon_info["types"][0]["Spanish"]
-        secondary_type = pokemon_info["types"][1]["Spanish"] if len(pokemon_info["types"]) > 1 else ""
+
+        primary_type = pokemon_info.get("primaryType", {}).get("names", {}).get("Spanish", "Desconocido")
+        secondary_type = pokemon_info.get("secondaryType", {}).get("names", {}).get("Spanish", "")
 
         pokemon_data = {
             "#": number,
