@@ -49,6 +49,16 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
         assets = type_data.get("assets", {})
         image_url = assets.get("image", "N/A")
         shiny_image_url = assets.get("shinyImage", "N/A")
+
+        name_lower = name.lower()
+        if "galarian" in name_lower:
+            region_forms = type_data.get("regionForms", [])
+            if region_forms:
+                image_url = region_forms[0]["image"]
+                shiny_image_url = region_forms[0]["shinyImage"]
+        elif "shadow" in name_lower:
+            image_url = "URL de la imagen para Pokémon Shadow"
+            shiny_image_url = "URL de la imagen shiny para Pokémon Shadow"
     else:
         primary_type = "Desconocido"
         secondary_type = None
