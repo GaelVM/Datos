@@ -55,7 +55,6 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
         image_url = "N/A"
         shiny_image_url = "N/A"
-        shadow_image_url = "N/A"  # Imagen por defecto para Pokémon Shadow
 
         name_lower = name.lower()
         if "galarian" in name_lower:
@@ -68,6 +67,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
                     break  # Detener la búsqueda una vez que se encuentre la forma "GALARIAN"
         elif "shadow" in name_lower:
             shadow_image_url = "URL de la imagen para Pokémon Shadow"
+            # Agrega aquí las URLs reales de las imágenes para Pokémon Shadow
 
         pokemon_data = {
             "#": number,
@@ -82,8 +82,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
             "primaryType": primary_type,
             "secondaryType": secondary_type,
             "image": image_url,
-            "shinyImage": shiny_image_url,
-            "shadowImage": shadow_image_url  # Agrega la URL de imagen para Pokémon Shadow
+            "shinyImage": shiny_image_url
         }
 
         data.append(pokemon_data)
