@@ -4,9 +4,9 @@ import json
 
 # Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
-    for entry in attack_data:
-        if entry.get("id") == attack_id:
-            return entry.get("names", {}).get("Spanish", "Desconocido")
+    for key, value in attack_data.items():
+        if value.get("names", {}).get("English") == attack_id:
+            return value.get("names", {}).get("Spanish", "Desconocido")
     return "Desconocido"
 
 # URL del sitio web a raspar
@@ -89,12 +89,12 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
         api_quick_moves = api_data.get("quickMoves", {})
         api_cinematic_moves = api_data.get("cinematicMoves", {})
         api_elite_quick_moves = api_data.get("eliteQuickMoves", {})
-        api_elite_cinematic_moves = api_data.get("eliteCinematicMoves", [])
+        api_elite_cinematic_moves = api_data.get("eliteCinematicMoves", {})
 
         # Comparar los ataques y obtener los nombres en "Spanish" de los ataques coincidentes
         fast_skill_name = get_attack_name(fast_skill, api_quick_moves)
-        charged_skill_1_name = get_attack_name(charged_skill_1, api_cinematic_moves + api_elite_cinematic_moves)
-        charged_skill_2_name = get_attack_name(charged_skill_2, api_cinematic_moves + api_elite_cinematic_moves)
+        charged_skill_1_name = get_attack_name(charged_skill_1, api_cinematic_moves)
+        charged_skill_2_name = get_attack_name(charged_skill_2, api_cinematic_moves)
 
         pokemon_data = {
             "#": number,
@@ -119,4 +119,6 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 output_file = "pvp1500_data.json"
 
 with open(output_file, "w") as json_file:
-    json.dump
+    json.dump(data, json_file, indent=4, ensure_ascii=False)
+
+print(f"Se han raspado y guardado {len(data)} registros en {output_file}")
