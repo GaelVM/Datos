@@ -2,13 +2,13 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-# Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
     for key, value in attack_data.items():
         english_name = value.get("names", {}).get("English", "")
-        if english_name.startswith(attack_id):
+        if attack_id in english_name:
             return value.get("names", {}).get("Spanish", "Desconocido")
     return "Desconocido"
+
 
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
