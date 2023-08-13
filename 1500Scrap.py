@@ -23,10 +23,10 @@ table = soup.find("table", id="customers")
 data = []
 
 # Iterar sobre las filas de la tabla
-for index, row in enumerate(table.find_all("tr")[1:], start=1):  # Ignorar la primera fila de encabezados
+for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     cells = row.find_all("td")
 
-    number = str(index)  # Convierte el índice en una cadena
+    number = cells[0].text
     name = cells[1].text
     fast_skill = cells[2].text
     charged_skill_1 = cells[3].text
