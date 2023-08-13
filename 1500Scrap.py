@@ -57,16 +57,23 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
         shiny_image_url = "N/A"
 
         name_lower = name.lower()
-        if "galarian" in name_lower and region_forms:
-         assets_galarian = region_forms[0].get("assets", {})
+        if "galarian" in name_lower:
+         assets_galarian = {}
+         for form in region_forms:
+            if form.get("form") == "GALARIAN":
+              assets_galarian = form.get("assets", {})
+            break  # Detener la búsqueda una vez que se encuentre la forma "GALARIAN"
          image_url = assets_galarian.get("image", image_url)
          shiny_image_url = assets_galarian.get("shinyImage", shiny_image_url)
         elif "shadow" in name_lower:
     # Agrega aquí las URLs reales de las imágenes para Pokémon Shadow
          image_url = "URL de la imagen para Pokémon Shadow"
-         shiny_image_url = "URL de la imagen shiny para Pokémon Shadow"
+    shiny_image_url = "URL de la imagen shiny para Pokémon Shadow"
+    # Agrega aquí las URLs reales de las imágenes para Pokémon Shadow
+    image_url = "URL de la imagen para Pokémon Shadow"
+    shiny_image_url = "URL de la imagen shiny para Pokémon Shadow"
 
-        pokemon_data = {
+    pokemon_data = {
             "#": number,
             "Name": name,
             "NumberDex": number_dex,
@@ -82,7 +89,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
             "shinyImage": shiny_image_url
         }
 
-        data.append(pokemon_data)
+    data.append(pokemon_data)
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
