@@ -6,9 +6,8 @@ import json
 def get_attack_name(attack_id, attack_data):
     for key, value in attack_data.items():
         english_name = value.get("names", {}).get("English", "")
-        for lang, names in value.get("names", {}).items():
-            if lang != "English" and attack_id.lower() == english_name.lower().replace(" ", "").replace("*", "").replace("-", "").replace("_", ""):
-                return names.get("Spanish", "Desconocido")
+        if attack_id.lower() == english_name.lower().replace(" ", "").replace("*", "").replace("-", "").replace("_", ""):
+            return value.get("names", {}).get("Spanish", "Desconocido")
     return "Desconocido"
 
 # URL del sitio web a raspar
