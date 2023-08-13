@@ -37,7 +37,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     iv = cells[8].text
 
     # Obtener información adicional del Pokémon desde la API
-   number_dex_int = int(number_dex)
+    number_dex_int = int(number_dex)
 api_url = f"https://pokemon-go-api.github.io/pokemon-go-api/api/pokedex/id/{number_dex}.json"
 api_response = requests.get(api_url)
 
