@@ -17,14 +17,14 @@ else:
 # Analizar el contenido HTML
 soup = BeautifulSoup(page_content, 'html.parser')
 
-# Encontrar la tabla que contiene los datos
-table = soup.find("table", class_="pokemons-table")
+# Encontrar la tabla por su atributo id
+table = soup.find("table", id="customers")
 
 data = []
 
 # Iterar sobre las filas de la tabla
 for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
-    cells = row.find_all("th")
+    cells = row.find_all("td")
 
     number = cells[0].text
     name = cells[1].text
