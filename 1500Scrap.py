@@ -36,43 +36,49 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     cp = cells[7].text
     iv = cells[8].text
 
-    # ... Código anterior ...
+    # Obtener información adicional del Pokémon desde la API
+    number_dex_int = int(number_dex)
+    api_url = f"https://pokemon-go-api.github.io/pokemon-go-api/api/pokedex/id/{number_dex}.json"
+    api_response = requests.get(api_url)
 
-    name_lower = name.lower()
-    if "galarian" in name_lower:
-        region_forms = type_data.get("regionForms", [])
-        if region_forms:
-            assets_galarian = region_forms[0].get("assets", {})
-            image_url = assets_galarian.get("image", image_url)
-            shiny_image_url = assets_galarian.get("shinyImage", shiny_image_url)
-    elif "shadow" in name_lower:
-        # Agrega aquí las URLs reales de las imágenes para Pokémon Shadow
-        image_url = "URL de la imagen para Pokémon Shadow"
-        shiny_image_url = "URL de la imagen shiny para Pokémon Shadow"
+    if api_response.status_code == 200:
+        api_data = api_response.json()
+        primary_type = api_data.get("primaryType", {}).get("names", {}).get("Spanish", "Desconocido")
+        secondary_type = api_data.get("secondaryType", {}).get("names", {}).get("Spanish", None)
+        region_forms = api_data.get("regionForms", [])
 
-    else:
-        primary_type = "Desconocido"
-        secondary_type = None
         image_url = "N/A"
         shiny_image_url = "N/A"
 
-    pokemon_data = {
-        "#": number,
-        "Name": name,
-        "NumberDex": number_dex,
-        "Fast Skill": fast_skill,
-        "Charged Skill 1": charged_skill_1,
-        "Charged Skill 2": charged_skill_2,
-        "Level": level,
-        "CP": cp,
-        "IV": iv,
-        "primaryType": primary_type,
-        "secondaryType": secondary_type,
-        "image": image_url,
-        "shinyImage": shiny_image_url
-    }
+        name_lower = name.lower()
+        if "galarian" in name_lower and region_forms:
+            assets_galarian = region_forms[0].get("assets", {})
+            image_url = assets_galarian.get("image", image_url)
+            shiny_image_url = assets_galarian.get("shinyImage", shiny_image_url)
+        elif "shadow" in name_lower:
+            # Agrega aquí las URLs reales de las imágenes para Pokémon Shadow
+            image_url = "URL de la imagen para Pokémon Shadow"
+            shiny_image_url = "URL de la imagen shiny para Pokémon Shadow"
 
-    data.append(pokemon_data)
+        # ... Código anterior ...
+
+        pokemon_data = {
+            "#": number,
+            "Name": name,
+            "NumberDex": number_dex,
+            "Fast Skill": fast_skill,
+            "Charged Skill 1": charged_skill_1,
+            "Charged Skill 2": charged_skill_2,
+            "Level": level,
+            "CP": cp,
+            "IV": iv,
+            "primaryType": primary_type,
+            "secondaryType": secondary_type,
+            "image": image_url,
+            "shinyImage": shiny_image_url
+        }
+
+        data.append(pokemon_data)
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
@@ -81,6 +87,3 @@ with open(output_file, "w") as json_file:
     json.dump(data, json_file, indent=4, ensure_ascii=False)
 
 print(f"Se han raspado y guardado {len(data)} registros en {output_file}")
-
-   
-
