@@ -39,7 +39,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     pokemon_data = {
         "#": number,
         "Name": name,
-        "Number": number,
+        "NumberDex": number,
         "Fast Skill": fast_skill,
         "Charged Skill 1": charged_skill_1,
         "Charged Skill 2": charged_skill_2,
