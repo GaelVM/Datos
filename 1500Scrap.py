@@ -2,6 +2,19 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+# Función para obtener el nombre en español de un movimiento desde la API
+def get_move_name(move_id):
+    api_url = f"https://pokemon-go-api.github.io/pokemon-go-api/api/v2/move/{move_id}.json"
+    api_response = requests.get(api_url)
+
+    if api_response.status_code == 200:
+        api_data = api_response.json()
+        names = api_data.get("names", {})
+        spanish_name = names.get("Spanish")
+        return spanish_name
+
+    return "Desconocido"
+
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
 
@@ -78,13 +91,18 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
         else:
             additional_image_url = None
 
+        # Obtener nombres en español de los movimientos
+        fast_skill_name = get_move_name(fast_skill)
+        charged_skill_1_name = get_move_name(charged_skill_1)
+        charged_skill_2_name = get_move_name(charged_skill_2)
+
         pokemon_data = {
             "#": number,
             "Name": name,
             "NumberDex": number_dex,
-            "Fast Skill": fast_skill,
-            "Charged Skill 1": charged_skill_1,
-            "Charged Skill 2": charged_skill_2,
+            "Fast Skill": fast_skill_name,
+            "Charged Skill 1": charged_skill_1_name,
+            "Charged Skill 2": charged_skill_2_name,
             "Level": level,
             "CP": cp,
             "IV": iv,
@@ -97,8 +115,8 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
         data.append(pokemon_data)
 
-# Guardar en formato JSON
-output_file = "pvp1500_data.json"
+# Guardar en formato JSON en la carpeta /Data
+output_file = "Data/pvp1500_data.json"
 
 with open(output_file, "w") as json_file:
     json.dump(data, json_file, indent=4, ensure_ascii=False)
