@@ -71,6 +71,13 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
             image_url = assets_normal.get("image", image_url)
             shiny_image_url = assets_normal.get("shinyImage", shiny_image_url)
 
+        if "shadow" in name_lower:
+            name = name.replace("Shadow", "Oscuro")
+            # Agrega aquí la URL real de la imagen adicional para Pokémon Shadow
+            additional_image_url = "URL de la imagen adicional para Pokémon Shadow"
+        else:
+            additional_image_url = None
+
         pokemon_data = {
             "#": number,
             "Name": name,
@@ -84,7 +91,8 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
             "primaryType": primary_type,
             "secondaryType": secondary_type,
             "image": image_url,
-            "shinyImage": shiny_image_url
+            "shinyImage": shiny_image_url,
+            "additionalImage": additional_image_url
         }
 
         data.append(pokemon_data)
