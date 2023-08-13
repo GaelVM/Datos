@@ -6,7 +6,10 @@ import json
 def get_attack_name(attack_id, attack_data):
     for key, value in attack_data.items():
         english_name = value.get("names", {}).get("English", "")
-        if attack_id.lower() == english_name.lower().replace(" ", "").replace("*", "").replace("-", "").replace("_", ""):
+        english_name_cleaned = english_name.lower().replace(" ", "").replace("*", "").replace("-", "").replace("_", "")
+        attack_id_cleaned = attack_id.lower().replace(" ", "").replace("-", "").replace("_", "")
+        
+        if attack_id_cleaned == english_name_cleaned:
             return value.get("names", {}).get("Spanish", "Desconocido")
     return "Desconocido"
 
