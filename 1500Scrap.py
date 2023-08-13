@@ -93,8 +93,8 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
         # Comparar los ataques y obtener los nombres en "Spanish" de los ataques coincidentes
         fast_skill_name = get_attack_name(fast_skill, api_quick_moves)
-        charged_skill_1_name = get_attack_name(charged_skill_1, api_cinematic_moves)
-        charged_skill_2_name = get_attack_name(charged_skill_2, api_cinematic_moves)
+        charged_skill_1_name = get_attack_name(charged_skill_1, {**api_cinematic_moves, **api_elite_cinematic_moves})
+        charged_skill_2_name = get_attack_name(charged_skill_2, {**api_cinematic_moves, **api_elite_cinematic_moves})
 
         pokemon_data = {
             "#": number,
