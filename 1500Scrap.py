@@ -5,7 +5,7 @@ import json
 # Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
     for key, value in attack_data.items():
-        if value.get("names", {}).get("English") == attack_id:
+        if value.get("names", {}).get("English") == attack_id or value.get("names", {}).get("English") + "_FAST" == attack_id:
             return value.get("names", {}).get("Spanish", "Desconocido")
     return "Desconocido"
 
@@ -36,7 +36,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     number = cells[0].text
     name = cells[1].text
     number_dex = cells[2].text
-    fast_skill = cells[3].text
+    fast_skill = cells[3].text + "_FAST"  # Agregar "_FAST" al final del nombre del ataque
     charged_skill_1 = cells[4].text
     charged_skill_2 = cells[5].text
     level = cells[6].text
