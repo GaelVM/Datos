@@ -59,8 +59,8 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
         name_lower = name.lower()
         for form in region_forms:
-            if form.get("formId", "").startswith("GALARIAN"):
-                assets_galarian = form.get("assets", {})
+            if form.startswith("GALARIAN"):
+                assets_galarian = form_data.get("assets", {})
                 image_url = assets_galarian.get("image", image_url)
                 shiny_image_url = assets_galarian.get("shinyImage", shiny_image_url)
             elif "shadow" in name_lower:
