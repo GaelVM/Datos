@@ -97,17 +97,15 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
         data.append(pokemon_data)
 
-# Nombre del directorio de salida
-output_dir = "Data"
+# Directorio de salida
+output_directory = "Data"
 
-# Verificar si el directorio existe, si no, crearlo
-if not os.path.exists(output_dir):
-    os.makedirs(output_dir)
+# Crear el directorio si no existe
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
 
-# Ruta completa del archivo de salida
-output_file = os.path.join(output_dir, "pvp1500_data.json")
-
-# Guardar en formato JSON en la nueva ruta
+# Guardar en formato JSON en la carpeta /Data
+output_file = os.path.join(output_directory, "pvp1500_data.json")
 with open(output_file, "w") as json_file:
     json.dump(data, json_file, indent=4, ensure_ascii=False)
 
