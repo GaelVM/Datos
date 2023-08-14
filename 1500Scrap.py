@@ -4,16 +4,13 @@ import json
 
 # Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
+    attack_id_normalized = re.sub(r'[-*_]', '', attack_id).lower()  # Normalizar ID del ataque
     for key, value in attack_data.items():
         english_name = value.get("names", {}).get("English", "")
-        # Normalizamos los nombres eliminando caracteres no alfanuméricos y convirtiendo a minúsculas
-        normalized_english_name = ''.join(c for c in english_name if c.isalnum()).lower()
-        normalized_attack_id = ''.join(c for c in attack_id if c.isalnum()).lower()
-        
-        if normalized_english_name == normalized_attack_id:
+        english_name_normalized = re.sub(r'[-*_]', '', english_name).lower()  # Normalizar nombre del ataque
+        if attack_id_normalized == english_name_normalized:
             return value.get("names", {}).get("Spanish", "Desconocido")
     return "Desconocido"
-
 
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
