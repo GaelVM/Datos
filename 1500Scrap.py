@@ -2,10 +2,15 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+# Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
     for key, value in attack_data.items():
         english_name = value.get("names", {}).get("English", "")
-        if attack_id in english_name:
+        # Normalizamos los nombres eliminando caracteres no alfanuméricos y convirtiendo a minúsculas
+        normalized_english_name = ''.join(c for c in english_name if c.isalnum()).lower()
+        normalized_attack_id = ''.join(c for c in attack_id if c.isalnum()).lower()
+        
+        if normalized_english_name == normalized_attack_id:
             return value.get("names", {}).get("Spanish", "Desconocido")
     return "Desconocido"
 
