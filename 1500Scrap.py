@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re  # Importar el módulo re necesario para las expresiones regulares
 
 # Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
@@ -11,6 +12,7 @@ def get_attack_name(attack_id, attack_data):
         if attack_id_normalized == english_name_normalized:
             return value.get("names", {}).get("Spanish", "Desconocido")
     return "Desconocido"
+
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
 
