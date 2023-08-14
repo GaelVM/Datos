@@ -11,7 +11,6 @@ def get_attack_name(attack_id, attack_data):
         if attack_id_normalized == english_name_normalized:
             return value.get("names", {}).get("Spanish", "Desconocido")
     return "Desconocido"
-
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
 
