@@ -1,21 +1,22 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from fuzzywuzzy import fuzz
-from fuzzywuzzy import process
+import unicodedata
+
+# Función para normalizar y comparar nombres de ataques
+def compare_attack_names(attack_name1, attack_name2):
+    normalized_name1 = unicodedata.normalize('NFKD', attack_name1).encode('ASCII', 'ignore').decode().lower()
+    normalized_name2 = unicodedata.normalize('NFKD', attack_name2).encode('ASCII', 'ignore').decode().lower()
+    return normalized_name1 == normalized_name2
 
 # Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
-    attack_names = [value.get("names", {}).get("English", "") for value in attack_data.values()]
-    best_match, score = process.extractOne(attack_id, attack_names)
-    
-    if score >= 80:  # Umbral de similitud para considerar una coincidencia
-        for key, value in attack_data.items():
-            if value.get("names", {}).get("English", "") == best_match:
-                return value.get("names", {}).get("Spanish", "Desconocido")
+    for key, value in attack_data.items():
+        english_name = value.get("names", {}).get("English", "")
+        if compare_attack_names(attack_id, english_name):
+            return value.get("names", {}).get("Spanish", "Desconocido")
     
     return "Desconocido"
-
 
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
