@@ -80,8 +80,8 @@ for entry in data:
 
     region_forms = []
     region_forms_data = entry.get("regionForms", [])
-    if isinstance(region_forms_data, list):
-        for form_data in region_forms_data:
+    if isinstance(region_forms_data, dict):
+        for form_id, form_data in region_forms_data.items():
             form_entry = {
                 "id": form_data.get("id"),
                 "formId": form_data.get("formId"),
