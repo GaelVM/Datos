@@ -79,62 +79,43 @@ for entry in data:
                 mega_evolutions.append(mega_entry)
 
     region_forms = []
-region_forms_data = entry.get("regionForms", {})
-if isinstance(region_forms_data, dict):
-    for form_id, form_data in region_forms_data.items():
-        quick_moves_en = [value["names"]["English"] for value in form_data.get("quickMoves", {}).values()]
-        quick_moves_es = [value["names"]["Spanish"] for value in form_data.get("quickMoves", {}).values()]
-        
-        cinematic_moves_en = [value["names"]["English"] for value in form_data.get("cinematicMoves", {}).values()]
-        cinematic_moves_es = [value["names"]["Spanish"] for value in form_data.get("cinematicMoves", {}).values()]
-        
-        elite_quick_moves_en = [move_data["names"]["English"] for move_data in form_data.get("eliteQuickMoves", [])]
-        elite_quick_moves_es = [move_data["names"]["Spanish"] for move_data in form_data.get("eliteQuickMoves", [])]
-        
-        elite_cinematic_moves_en = [move_data["names"]["English"] for move_data in form_data.get("eliteCinematicMoves", [])]
-        elite_cinematic_moves_es = [move_data["names"]["Spanish"] for move_data in form_data.get("eliteCinematicMoves", [])]
-
-        form_entry = {
-            "id": form_data.get("id"),
-            "formId": form_data.get("formId"),
-            "dexNr": form_data.get("dexNr"),
-            "generation": form_data.get("generation"),
-            "primaryType": {
-                "en": form_data["primaryType"]["names"]["English"],
-                "es": form_data["primaryType"]["names"]["Spanish"]
-            },
-            "secondaryType": {
-                "en": form_data["secondaryType"]["names"]["English"] if form_data.get("secondaryType") else None,
-                "es": form_data["secondaryType"]["names"]["Spanish"] if form_data.get("secondaryType") else None
-            },
-            "names": {
-                "en": form_data["names"]["English"],
-                "es": form_data["names"]["Spanish"]
-            },
-            "quickMoves": {
-                "en": quick_moves_en,
-                "es": quick_moves_es
-            },
-            "cinematicMoves": {
-                "en": cinematic_moves_en,
-                "es": cinematic_moves_es
-            },
-            "eliteQuickMoves": {
-                "en": elite_quick_moves_en,
-                "es": elite_quick_moves_es
-            },
-            "eliteCinematicMoves": {
-                "en": elite_cinematic_moves_en,
-                "es": elite_cinematic_moves_es
-            },
-            "assets": {
-                "image": form_data["assets"]["image"] if form_data.get("assets") else None,
-                "shinyImage": form_data["assets"]["shinyImage"] if form_data.get("assets") else None
+    region_forms_data = entry.get("regionForms", [])
+    if isinstance(region_forms_data, dict):
+        for form_id, form_data in region_forms_data.items():
+            form_entry = {
+                "id": form_data.get("id"),
+                "formId": form_data.get("formId"),
+                "dexNr": form_data.get("dexNr"),
+                "generation": form_data.get("generation"),
+                "primaryType": {
+                    "en": form_data["primaryType"]["names"]["English"],
+                    "es": form_data["primaryType"]["names"]["Spanish"]
+                },
+                "secondaryType": {
+                    "en": form_data["secondaryType"]["names"]["English"] if form_data.get("secondaryType") else None,
+                    "es": form_data["secondaryType"]["names"]["Spanish"] if form_data.get("secondaryType") else None
+                },
+                "names": {
+                    "en": form_data["names"]["English"],
+                    "es": form_data["names"]["Spanish"]
+                },
+                "quickMoves": {
+                    "en": [value["names"]["English"] for value in form_data.get("quickMoves", {}).values()],
+                    "es": [value["names"]["Spanish"] for value in form_data.get("quickMoves", {}).values()]
+                },
+                 "cinematicMoves": {
+                    "en": [value["names"]["English"] for value in form_data.get("cinematicMoves", {}).values()],
+                    "es": [value["names"]["Spanish"] for value in form_data.get("cinematicMoves", {}).values()]
+                },
+                "eliteQuickMoves": form_data.get("eliteQuickMoves", []),
+                "eliteCinematicMoves": form_data.get("eliteCinematicMoves", []),
+                "assets": {
+                    "image": form_data["assets"]["image"] if form_data.get("assets") else None,
+                    "shinyImage": form_data["assets"]["shinyImage"] if form_data.get("assets") else None
+                }
+                # Agregar más campos aquí según sea necesario
             }
-
-              # Agregar más campos aquí según sea necesario
-        }
-        region_forms.append(form_entry)
+            region_forms.append(form_entry)
 
     stats = entry.get("stats")
     stats_en = {
