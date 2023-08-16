@@ -78,6 +78,19 @@ for entry in data:
                 }
                 mega_evolutions.append(mega_entry)
 
+    region_forms = []
+    region_forms_data = entry.get("regionForms", [])
+    if isinstance(region_forms_data, list):
+        for form_data in region_forms_data:
+            form_entry = {
+                "form": form_data.get("form"),
+                "costume": form_data.get("costume"),
+                "isFemale": form_data.get("isFemale"),
+                "image": form_data.get("image"),
+                "shinyImage": form_data.get("shinyImage")
+            }
+            region_forms.append(form_entry)
+
     stats = entry.get("stats")
     stats_en = {
         "stamina": stats.get("stamina") if stats else None,
@@ -120,6 +133,7 @@ for entry in data:
         },
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
         "megaEvolutions": mega_evolutions,
+        "regionForms": region_forms,  # Agregamos los datos de regionForms si existen
         "stats": stats_en,  # Solo mostramos las estadísticas sin traducción
         "assets": {
             "image": entry["assets"]["image"] if entry.get("assets") else None,
