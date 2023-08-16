@@ -79,7 +79,7 @@ for entry in data:
                 mega_evolutions.append(mega_entry)
 
     region_forms = []
-    region_forms_data = entry.get("regionForms", [])
+    region_forms_data = entry.get("regionForms", {})
     if isinstance(region_forms_data, dict):
         for form_id, form_data in region_forms_data.items():
             form_entry = {
@@ -100,8 +100,20 @@ for entry in data:
                     "es": form_data["names"]["Spanish"]
                 },
                 "quickMoves": {
-                    "en": form_data.get("quickMoves", {}).get("names", {}).get("English", []),
-                    "es": form_data.get("quickMoves", {}).get("names", {}).get("Spanish", [])
+                    "en": form_data.get("quickMoves", {}).get("names", {}).get("English", {}),
+                    "es": form_data.get("quickMoves", {}).get("names", {}).get("Spanish", {})
+                },
+                "cinematicMoves": {
+                    "en": form_data.get("cinematicMoves", {}).get("names", {}).get("English", {}),
+                    "es": form_data.get("cinematicMoves", {}).get("names", {}).get("Spanish", {})
+                },
+                "eliteQuickMoves": {
+                    "en": form_data.get("eliteQuickMoves", {}).get("names", {}).get("English", []),
+                    "es": form_data.get("eliteQuickMoves", {}).get("names", {}).get("Spanish", [])
+                },
+                "eliteCinematicMoves": {
+                    "en": form_data.get("eliteCinematicMoves", {}).get("names", {}).get("English", []),
+                    "es": form_data.get("eliteCinematicMoves", {}).get("names", {}).get("Spanish", [])
                 },
                 "assets": {
                     "image": form_data["assets"]["image"] if form_data.get("assets") else None,
