@@ -109,7 +109,8 @@ for entry in data:
                 },
                 "eliteQuickMoves": form_data.get("eliteQuickMoves", []),
                 "eliteCinematicMoves": {
-                 "en": elite_cinematic_moves_en
+                 "en": elite_cinematic_moves_en,
+                 "es": elite_cinematic_moves_es
                 },
                 "assets": {
                     "image": form_data["assets"]["image"] if form_data.get("assets") else None,
