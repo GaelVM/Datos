@@ -99,10 +99,8 @@ for entry in data:
                     "en": form_data["names"]["English"],
                     "es": form_data["names"]["Spanish"]
                 },
-                "quickMoves": {
-                    "en": form_data.get("quickMoves", {}).get("names", {}).get("English", []),
-                    "es": form_data.get("quickMoves", {}).get("names", {}).get("Spanish", [])
-                },
+                "quickMoves": form_data.get("quickMoves", {}),
+                
                 "assets": {
                     "image": form_data["assets"]["image"] if form_data.get("assets") else None,
                     "shinyImage": form_data["assets"]["shinyImage"] if form_data.get("assets") else None
