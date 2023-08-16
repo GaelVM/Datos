@@ -15,7 +15,7 @@ for entry in data:
 
     quick_moves_en = []
     quick_moves_es = []
-    for move_data in entry["quickMoves"]:
+    for move_key, move_data in entry["quickMoves"].items():
         quick_moves_en.append(move_data["names"]["English"])
         quick_moves_es.append(move_data["names"]["Spanish"])
 
