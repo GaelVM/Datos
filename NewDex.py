@@ -107,7 +107,10 @@ for entry in data:
                     "en": [value["names"]["English"] for value in form_data.get("cinematicMoves", {}).values()],
                     "es": [value["names"]["Spanish"] for value in form_data.get("cinematicMoves", {}).values()]
                 },
-                "eliteQuickMoves": form_data.get("eliteQuickMoves", []),
+                "eliteQuickMoves": {
+                 "en": elite_quick_moves_en,
+                 "es": elite_quick_moves_es
+                },
                 "eliteCinematicMoves": {
                  "en": elite_cinematic_moves_en,
                  "es": elite_cinematic_moves_es

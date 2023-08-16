@@ -1357,7 +1357,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm19.fALOLA.icon.png",
@@ -1466,7 +1467,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm20.fALOLA.icon.png",
@@ -1880,6 +1882,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -1967,6 +1973,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2054,6 +2064,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2141,6 +2155,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2194,6 +2212,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2245,6 +2267,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2296,6 +2322,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2347,6 +2377,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2398,6 +2432,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2483,6 +2521,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2568,6 +2610,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2653,6 +2699,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2738,6 +2788,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2823,6 +2877,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2874,6 +2932,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -2925,6 +2987,10 @@
                     "en": [
                         "Surf",
                         "Thunder"
+                    ],
+                    "es": [
+                        "Surf",
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -3050,6 +3116,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Thunder"
+                    ],
+                    "es": [
+                        "Trueno"
                     ]
                 },
                 "assets": {
@@ -3165,6 +3234,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Rock Tomb"
+                    ],
+                    "es": [
+                        "Tumba Rocas"
                     ]
                 },
                 "assets": {
@@ -3318,6 +3390,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Night Slash"
+                    ],
+                    "es": [
+                        "Tajo Umbrío"
                     ]
                 },
                 "assets": {
@@ -3939,7 +4014,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm37.fALOLA.icon.png",
@@ -4071,6 +4147,10 @@
                     "en": [
                         "Fire Blast",
                         "Flamethrower"
+                    ],
+                    "es": [
+                        "Llamarada",
+                        "Lanzallamas"
                     ]
                 },
                 "assets": {
@@ -4872,7 +4952,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm50.fALOLA.icon.png",
@@ -4981,7 +5062,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm51.fALOLA.icon.png",
@@ -5096,6 +5178,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Body Slam"
+                    ],
+                    "es": [
+                        "Golpe Cuerpo"
                     ]
                 },
                 "assets": {
@@ -5146,6 +5231,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Body Slam"
+                    ],
+                    "es": [
+                        "Golpe Cuerpo"
                     ]
                 },
                 "assets": {
@@ -5265,6 +5353,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Night Slash"
+                    ],
+                    "es": [
+                        "Tajo Umbrío"
                     ]
                 },
                 "assets": {
@@ -5632,7 +5723,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm58.fHISUIAN.icon.png",
@@ -5761,6 +5853,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Bulldoze"
+                    ],
+                    "es": [
+                        "Terratemblor"
                     ]
                 },
                 "assets": {
@@ -6801,7 +6896,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm74.fALOLA.icon.png",
@@ -6916,6 +7012,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Rock Slide"
+                    ],
+                    "es": [
+                        "Avalancha"
                     ]
                 },
                 "assets": {
@@ -7061,7 +7160,8 @@
                     }
                 },
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm76.fALOLA.icon.png",
@@ -7176,6 +7276,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Fire Blast"
+                    ],
+                    "es": [
+                        "Llamarada"
                     ]
                 },
                 "assets": {
@@ -7299,7 +7402,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm78.fGALARIAN.icon.png",
@@ -7408,7 +7512,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm79.fGALARIAN.icon.png",
@@ -7547,6 +7652,9 @@
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
                     "en": [
+                        "Surf"
+                    ],
+                    "es": [
                         "Surf"
                     ]
                 },
@@ -7785,7 +7893,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm83.fGALARIAN.icon.png",
@@ -8164,7 +8273,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm88.fALOLA.icon.png",
@@ -8285,7 +8395,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm89.fALOLA.icon.png",
@@ -9089,6 +9200,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Signal Beam"
+                    ],
+                    "es": [
+                        "Doble Rayo"
                     ]
                 },
                 "assets": {
@@ -9204,7 +9318,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm101.fHISUIAN.icon.png",
@@ -9379,7 +9494,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.fALOLA.icon.png",
@@ -9554,7 +9670,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm105.fALOLA.icon.png",
@@ -9933,7 +10050,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm110.fGALARIAN.icon.png",
@@ -10765,7 +10883,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm122.fGALARIAN.icon.png",
@@ -12333,6 +12452,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Hurricane"
+                    ],
+                    "es": [
+                        "Vendaval"
                     ]
                 },
                 "assets": {
@@ -12446,7 +12568,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm145.fGALARIAN.icon.png",
@@ -12563,6 +12686,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Sky Attack"
+                    ],
+                    "es": [
+                        "Ataque Aéreo"
                     ]
                 },
                 "assets": {
@@ -12884,6 +13010,11 @@
                         "Psystrike",
                         "Shadow Ball",
                         "Hyper Beam"
+                    ],
+                    "es": [
+                        "Onda Mental",
+                        "Bola Sombra",
+                        "Hiperrayo"
                     ]
                 },
                 "assets": {
@@ -16078,6 +16209,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf"
+                    ],
+                    "es": [
+                        "Surf"
                     ]
                 },
                 "assets": {
@@ -16888,7 +17022,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm211.fHISUIAN.icon.png",
@@ -17204,7 +17339,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm215.fHISUIAN.icon.png",
@@ -19000,7 +19136,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm243.icon.png",
@@ -19117,7 +19254,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm244.icon.png",
@@ -19272,7 +19410,8 @@
                     }
                 },
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm245.icon.png",
@@ -19598,6 +19737,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Aeroblast"
+                    ],
+                    "es": [
+                        "Aerochorro"
                     ]
                 },
                 "assets": {
@@ -19724,6 +19866,10 @@
                     "en": [
                         "Earthquake",
                         "Sacred Fire"
+                    ],
+                    "es": [
+                        "Terremoto",
+                        "Fuego Sagrado"
                     ]
                 },
                 "assets": {
@@ -20660,7 +20806,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm263.fGALARIAN.icon.png",
@@ -20769,7 +20916,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm264.fGALARIAN.icon.png",
@@ -26270,7 +26418,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm351.fRAINY.icon.png",
@@ -26318,7 +26467,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm351.fSNOWY.icon.png",
@@ -26366,7 +26516,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm351.fSUNNY.icon.png",
@@ -28324,6 +28475,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Mist Ball"
+                    ],
+                    "es": [
+                        "Bola Neblina"
                     ]
                 },
                 "assets": {
@@ -28464,6 +28618,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Luster Purge"
+                    ],
+                    "es": [
+                        "Resplandor"
                     ]
                 },
                 "assets": {
@@ -28904,7 +29061,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm386.fATTACK.icon.png",
@@ -28952,7 +29110,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm386.fDEFENSE.icon.png",
@@ -29000,7 +29159,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm386.fSPEED.icon.png",
@@ -30641,7 +30801,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_412_11.png",
@@ -30685,7 +30846,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_412_12.png",
@@ -30729,7 +30891,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_412_13.png",
@@ -30834,7 +30997,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_413_11.png",
@@ -30882,7 +31046,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_413_12.png",
@@ -30930,7 +31095,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_413_13.png",
@@ -31463,7 +31629,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_421_11.png",
@@ -31513,7 +31680,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm421.fSUNNY.icon.png",
@@ -31622,7 +31790,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm422.fEAST_SEA.icon.png",
@@ -31670,7 +31839,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_422_11.png",
@@ -31779,7 +31949,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm423.fEAST_SEA.icon.png",
@@ -31827,7 +31998,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_423_11.png",
@@ -35410,7 +35582,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm479.fFAN.icon.png",
@@ -35458,7 +35631,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm479.fFROST.icon.png",
@@ -35506,7 +35680,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm479.fHEAT.icon.png",
@@ -35554,7 +35729,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm479.fMOW.icon.png",
@@ -35602,7 +35778,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm479.fWASH.icon.png",
@@ -36147,6 +36324,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Shadow Force"
+                    ],
+                    "es": [
+                        "Golpe Umbrío"
                     ]
                 },
                 "assets": {
@@ -36197,6 +36377,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Shadow Force"
+                    ],
+                    "es": [
+                        "Golpe Umbrío"
                     ]
                 },
                 "assets": {
@@ -36558,7 +36741,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm492.icon.png",
@@ -36608,7 +36792,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm492.fSKY.icon.png",
@@ -36717,7 +36902,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fBUG.icon.png",
@@ -36765,7 +36951,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fDARK.icon.png",
@@ -36813,7 +37000,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fDRAGON.icon.png",
@@ -36861,7 +37049,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fELECTRIC.icon.png",
@@ -36909,7 +37098,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fFAIRY.icon.png",
@@ -36957,7 +37147,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fFIGHTING.icon.png",
@@ -37005,7 +37196,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fFIRE.icon.png",
@@ -37053,7 +37245,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fFLYING.icon.png",
@@ -37101,7 +37294,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fGHOST.icon.png",
@@ -37149,7 +37343,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fGRASS.icon.png",
@@ -37197,7 +37392,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fGROUND.icon.png",
@@ -37245,7 +37441,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fICE.icon.png",
@@ -37293,7 +37490,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fPOISON.icon.png",
@@ -37341,7 +37539,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fPSYCHIC.icon.png",
@@ -37389,7 +37588,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fROCK.icon.png",
@@ -37437,7 +37637,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fSTEEL.icon.png",
@@ -37485,7 +37686,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm493.fWATER.icon.png",
@@ -40996,7 +41198,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm550.fBLUE_STRIPED.icon.png",
@@ -41044,7 +41247,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_550_11.png",
@@ -41329,7 +41533,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm554.fGALARIAN.icon.png",
@@ -41444,7 +41649,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm555.fGALARIAN_STANDARD.icon.png",
@@ -41494,7 +41700,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm555.fGALARIAN_ZEN.icon.png",
@@ -41546,7 +41753,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_555_11.png",
@@ -41598,7 +41806,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm555.fZEN.icon.png",
@@ -42065,7 +42274,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm562.fGALARIAN.icon.png",
@@ -43498,7 +43708,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm585.fAUTUMN.icon.png",
@@ -43546,7 +43757,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_585_11.png",
@@ -43594,7 +43806,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm585.fSUMMER.icon.png",
@@ -43642,7 +43855,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm585.fWINTER.icon.png",
@@ -43755,7 +43969,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm586.fAUTUMN.icon.png",
@@ -43805,7 +44020,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_586_11.png",
@@ -43855,7 +44071,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm586.fSUMMER.icon.png",
@@ -43905,7 +44122,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm586.fWINTER.icon.png",
@@ -44320,7 +44538,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm592.fFEMALE.icon.png",
@@ -44433,7 +44652,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm593.fFEMALE.icon.png",
@@ -46016,7 +46236,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm618.fGALARIAN.icon.png",
@@ -46675,7 +46896,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm628.fHISUIAN.icon.png",
@@ -47534,7 +47756,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_641_11.png",
@@ -47584,7 +47807,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm641.fTHERIAN.icon.png",
@@ -47697,7 +47921,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_642_11.png",
@@ -47747,7 +47972,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm642.fTHERIAN.icon.png",
@@ -47992,7 +48218,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_645_11.png",
@@ -48042,7 +48269,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm645.fTHERIAN.icon.png",
@@ -48159,6 +48387,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Glaciate"
+                    ],
+                    "es": [
+                        "Mundo Gélido"
                     ]
                 },
                 "assets": {
@@ -48211,6 +48442,9 @@
                 "eliteCinematicMoves": {
                     "en": [
                         "Glaciate"
+                    ],
+                    "es": [
+                        "Mundo Gélido"
                     ]
                 },
                 "assets": {
@@ -48328,7 +48562,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_647_11.png",
@@ -48380,7 +48615,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm647.fRESOLUTE.icon.png",
@@ -48493,7 +48729,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm648.icon.png",
@@ -48543,7 +48780,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm648.fPIROUETTE.icon.png",
@@ -48652,7 +48890,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm649.fBURN.icon.png",
@@ -48700,7 +48939,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm649.fCHILL.icon.png",
@@ -48748,7 +48988,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm649.fDOUSE.icon.png",
@@ -48796,7 +49037,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm649.fSHOCK.icon.png",
@@ -49769,7 +50011,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -49813,7 +50056,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -49857,7 +50101,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -49901,7 +50146,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -49945,7 +50191,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -49989,7 +50236,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50033,7 +50281,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50077,7 +50326,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50121,7 +50371,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50165,7 +50416,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50209,7 +50461,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50253,7 +50506,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50297,7 +50551,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50341,7 +50596,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50385,7 +50641,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50429,7 +50686,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50473,7 +50731,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50517,7 +50776,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50561,7 +50821,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50605,7 +50866,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm664.icon.png",
@@ -50702,7 +50964,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -50744,7 +51007,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -50786,7 +51050,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -50828,7 +51093,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -50870,7 +51136,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -50912,7 +51179,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -50954,7 +51222,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -50996,7 +51265,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51038,7 +51308,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51080,7 +51351,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51122,7 +51394,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51164,7 +51437,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51206,7 +51480,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51248,7 +51523,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51290,7 +51566,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51332,7 +51609,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51374,7 +51652,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51416,7 +51695,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51458,7 +51738,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51500,7 +51781,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm665.icon.png",
@@ -51613,7 +51895,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fARCHIPELAGO.icon.png",
@@ -51663,7 +51946,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fCONTINENTAL.icon.png",
@@ -51713,7 +51997,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fELEGANT.icon.png",
@@ -51763,7 +52048,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fFANCY.icon.png",
@@ -51813,7 +52099,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fGARDEN.icon.png",
@@ -51863,7 +52150,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fHIGH_PLAINS.icon.png",
@@ -51913,7 +52201,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fICY_SNOW.icon.png",
@@ -51963,7 +52252,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fJUNGLE.icon.png",
@@ -52013,7 +52303,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fMARINE.icon.png",
@@ -52063,7 +52354,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fMEADOW.icon.png",
@@ -52113,7 +52405,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fMODERN.icon.png",
@@ -52163,7 +52456,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fMONSOON.icon.png",
@@ -52213,7 +52507,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fOCEAN.icon.png",
@@ -52263,7 +52558,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fPOKEBALL.icon.png",
@@ -52313,7 +52609,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fPOLAR.icon.png",
@@ -52363,7 +52660,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fRIVER.icon.png",
@@ -52413,7 +52711,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fSANDSTORM.icon.png",
@@ -52463,7 +52762,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fSAVANNA.icon.png",
@@ -52513,7 +52813,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fSUN.icon.png",
@@ -52563,7 +52864,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm666.fTUNDRA.icon.png",
@@ -52748,7 +53050,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm668.fFEMALE.icon.png",
@@ -52857,7 +53160,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm669.fBLUE.icon.png",
@@ -52905,7 +53209,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm669.fORANGE.icon.png",
@@ -52953,7 +53258,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm669.fBLUE.icon.png",
@@ -53001,7 +53307,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm669.fWHITE.icon.png",
@@ -53049,7 +53356,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm669.fYELLOW.icon.png",
@@ -53158,7 +53466,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm670.fBLUE.icon.png",
@@ -53206,7 +53515,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm670.fORANGE.icon.png",
@@ -53254,7 +53564,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm670.fBLUE.icon.png",
@@ -53302,7 +53613,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm670.fWHITE.icon.png",
@@ -53350,7 +53662,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm670.fYELLOW.icon.png",
@@ -53471,7 +53784,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm671.fBLUE.icon.png",
@@ -53525,7 +53839,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm671.fORANGE.icon.png",
@@ -53579,7 +53894,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm671.fBLUE.icon.png",
@@ -53633,7 +53949,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm671.fWHITE.icon.png",
@@ -53687,7 +54004,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm671.fYELLOW.icon.png",
@@ -54048,7 +54366,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fDANDY.icon.png",
@@ -54098,7 +54417,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fDEBUTANTE.icon.png",
@@ -54148,7 +54468,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fDIAMOND.icon.png",
@@ -54198,7 +54519,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fHEART.icon.png",
@@ -54248,7 +54570,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fKABUKI.icon.png",
@@ -54298,7 +54621,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fLA_REINE.icon.png",
@@ -54348,7 +54672,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fMATRON.icon.png",
@@ -54398,7 +54723,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fDANDY.icon.png",
@@ -54448,7 +54774,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fPHARAOH.icon.png",
@@ -54498,7 +54825,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm676.fSTAR.icon.png",
@@ -54667,7 +54995,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm678.fFEMALE.icon.png",
@@ -56676,7 +57005,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm710.fAVERAGE.icon.png",
@@ -56724,7 +57054,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm710.fLARGE.icon.png",
@@ -56772,7 +57103,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm710.icon.png",
@@ -56820,7 +57152,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm710.fSUPER.icon.png",
@@ -56937,7 +57270,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm711.fAVERAGE.icon.png",
@@ -56989,7 +57323,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm711.fLARGE.icon.png",
@@ -57041,7 +57376,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm711.icon.png",
@@ -57093,7 +57429,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm711.fSUPER.icon.png",
@@ -57268,7 +57605,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm713.fHISUIAN.icon.png",
@@ -57645,7 +57983,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm718.fCOMPLETE.icon.png",
@@ -57699,7 +58038,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm718.fCOMPLETE.icon.png",
@@ -57753,7 +58093,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_718_00.png",
@@ -57807,7 +58148,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm718.fFIFTY_PERCENT.icon.png",
@@ -57861,7 +58203,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_718_00.png",
@@ -58055,7 +58398,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm720.icon.png",
@@ -58103,7 +58447,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm720.fUNBOUND.icon.png",
@@ -59430,7 +59775,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm741.fBAILE.icon.png",
@@ -59478,7 +59824,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm741.fPAU.icon.png",
@@ -59526,7 +59873,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm741.fPOMPOM.icon.png",
@@ -59574,7 +59922,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm741.fSENSU.icon.png",
@@ -59861,7 +60210,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm745.fMIDDAY.icon.png",
@@ -59909,7 +60259,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm745.fMIDDAY.icon.png",
@@ -59957,7 +60308,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm745.fMIDNIGHT.icon.png",
@@ -60070,7 +60422,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -60120,7 +60473,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -61807,7 +62161,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -61859,7 +62214,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -61911,7 +62267,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -61963,7 +62320,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62015,7 +62373,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62067,7 +62426,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62119,7 +62479,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62171,7 +62532,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62223,7 +62585,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62275,7 +62638,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62327,7 +62691,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62379,7 +62744,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62431,7 +62797,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62483,7 +62850,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62535,7 +62903,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62587,7 +62956,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62639,7 +63009,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62748,7 +63119,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62796,7 +63168,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62844,7 +63217,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62892,7 +63266,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62940,7 +63315,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -62988,7 +63364,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -63036,7 +63413,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -63329,7 +63707,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -63377,7 +63756,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -64754,7 +65134,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -64796,7 +65177,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -64838,7 +65220,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -64935,7 +65318,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -67794,7 +68178,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -67846,7 +68231,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -68197,7 +68583,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -68245,7 +68632,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -68358,7 +68746,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -68408,7 +68797,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -69673,7 +70063,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -69719,7 +70110,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -69824,7 +70216,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -69870,7 +70263,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -69983,7 +70377,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -70033,7 +70428,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -70752,7 +71148,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm888.icon.png",
@@ -70806,7 +71203,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm888.icon.png",
@@ -70927,7 +71325,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm889.icon.png",
@@ -70981,7 +71380,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm889.icon.png",
@@ -71092,7 +71492,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -71265,7 +71666,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -71317,7 +71719,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
@@ -71726,7 +72129,8 @@
                 },
                 "eliteQuickMoves": [],
                 "eliteCinematicMoves": {
-                    "en": []
+                    "en": [],
+                    "es": []
                 },
                 "assets": {
                     "image": null,
