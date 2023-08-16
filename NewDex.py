@@ -13,6 +13,12 @@ for entry in data:
     primary_type = entry["primaryType"]["names"]["English"]
     secondary_type = entry["secondaryType"]["names"]["English"] if entry.get("secondaryType") else None
 
+    quick_moves_en = []
+    quick_moves_es = []
+    for move_data in entry["quickMoves"]:
+        quick_moves_en.append(move_data["names"]["English"])
+        quick_moves_es.append(move_data["names"]["Spanish"])
+
     processed_entry = {
         "id": entry["id"],
         "formId": entry["formId"],
@@ -25,8 +31,8 @@ for entry in data:
             "es": entry["names"]["Spanish"]
         },
         "quickMoves": {
-            "en": [move_data["names"]["English"] for move_data in entry["quickMoves"]],
-            "es": [move_data["names"]["Spanish"] for move_data in entry["quickMoves"]]
+            "en": quick_moves_en,
+            "es": quick_moves_es
         }
     }
     processed_data.append(processed_entry)
