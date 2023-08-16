@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import unicodedata
+import difflib
 
 # Función para normalizar y comparar nombres de ataques
 def compare_attack_names(attack_name1, attack_name2):
@@ -9,14 +10,26 @@ def compare_attack_names(attack_name1, attack_name2):
     normalized_name2 = unicodedata.normalize('NFKD', attack_name2).encode('ASCII', 'ignore').decode().lower()
     return normalized_name1 == normalized_name2
 
+# Función para encontrar el nombre de ataque más similar en una lista
+def find_most_similar_attack_name(target_name, attack_names):
+    similar_names = difflib.get_close_matches(target_name, attack_names, n=1, cutoff=0.8)
+    return similar_names[0] if similar_names else "Desconocido"
+
 # Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
+    attack_names = [value.get("names", {}).get("English", "") for value in attack_data.values()]
+
+    if compare_attack_names(attack_id, "lockon"):
+        target_name = "Lock-On"
+    else:
+        target_name = attack_id
+    
     for key, value in attack_data.items():
         english_name = value.get("names", {}).get("English", "")
-        if compare_attack_names(attack_id, english_name):
+        if compare_attack_names(target_name, english_name):
             return value.get("names", {}).get("Spanish", "Desconocido")
     
-    return "Desconocido"
+    return find_most_similar_attack_name(target_name, attack_names)
 
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
