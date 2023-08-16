@@ -25,6 +25,26 @@ for entry in data:
                 quick_moves_en.append(move_names["English"])
                 quick_moves_es.append(move_names["Spanish"])
 
+    cinematic_moves_en = []
+    cinematic_moves_es = []
+    cinematic_moves_data = entry.get("cinematicMoves", {})
+    if isinstance(cinematic_moves_data, dict):
+        for move_key, move_data in cinematic_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                cinematic_moves_en.append(move_names["English"])
+                cinematic_moves_es.append(move_names["Spanish"])
+
+    elite_quick_moves_en = []
+    elite_quick_moves_es = []
+    elite_quick_moves_data = entry.get("eliteQuickMoves", {})
+    if isinstance(elite_quick_moves_data, dict):
+        for move_key, move_data in elite_quick_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                elite_quick_moves_en.append(move_names["English"])
+                elite_quick_moves_es.append(move_names["Spanish"])
+
     mega_evolutions = []
     if entry.get("hasMegaEvolution") == True:
         mega_evolution_data = entry.get("megaEvolutions")
@@ -68,6 +88,14 @@ for entry in data:
         "quickMoves": {
             "en": quick_moves_en,
             "es": quick_moves_es
+        },
+        "cinematicMoves": {
+            "en": cinematic_moves_en,
+            "es": cinematic_moves_es
+        },
+        "eliteQuickMoves": {
+            "en": elite_quick_moves_en,
+            "es": elite_quick_moves_es
         },
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
         "megaEvolutions": mega_evolutions,
