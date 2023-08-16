@@ -25,8 +25,8 @@ for entry in data:
             "es": entry["names"]["Spanish"]
         },
         "quickMoves": {
-            "en": [move_data["names"]["English"] for move_data in entry["quickMoves"].values()],
-            "es": [move_data["names"]["Spanish"] for move_data in entry["quickMoves"].values()]
+            "en": [move_data["names"]["English"] for move_data in entry["quickMoves"]],
+            "es": [move_data["names"]["Spanish"] for move_data in entry["quickMoves"]]
         }
     }
     processed_data.append(processed_entry)
