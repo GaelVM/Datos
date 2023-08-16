@@ -82,9 +82,13 @@ for entry in data:
 region_forms_data = entry.get("regionForms", {})
 if isinstance(region_forms_data, dict):
     for form_id, form_data in region_forms_data.items():
-        elite_cinematic_moves_en = [move_data["names"]["English"] for move_data in form_data.get("eliteCinematicMoves", [])]
-        elite_cinematic_moves_es = [move_data["names"]["Spanish"] for move_data in form_data.get("eliteCinematicMoves", [])]
+        elite_cinematic_moves_data = form_data.get("eliteCinematicMoves", {})
+        elite_cinematic_moves_en = [move_data["names"]["English"] for move_data in elite_cinematic_moves_data.values()]
+        elite_cinematic_moves_es = [move_data["names"]["Spanish"] for move_data in elite_cinematic_moves_data.values()]
 
+        print("eliteCinematicMoves (English):", elite_cinematic_moves_en)
+        print("eliteCinematicMoves (Spanish):", elite_cinematic_moves_es)
+        
         form_entry = {
             "id": form_data.get("id"),
             "formId": form_data.get("formId"),
