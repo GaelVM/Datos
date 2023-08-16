@@ -24,34 +24,16 @@ table_es = soup_es.find('table', class_='sortable')
 moves_data = []
 
 # Iterar a través de las filas de la tabla en inglés
-
 for row_en, row_es in zip(table_en.find_all('tr')[1:], table_es.find_all('tr')[1:]):
     cells_en = row_en.find_all('td')
     cells_es = row_es.find_all('td')
 
     move_name_en = cells_en[1].text.strip()
-
-    # Obtener el tipo de ataque a partir de la clase del elemento span
-    span_en = cells_en[2].find('span')
-    if span_en is not None and 'class' in span_en.attrs:
-        move_type_en = span_en['class'][1].split('-')[2]
-    else:
-        move_type_en = "Unknown"
-
     move_name_es = cells_es[1].text.strip()
-
-    # Obtener el tipo de ataque a partir de la clase del elemento span
-    span_es = cells_es[2].find('span')
-    if span_es is not None and 'class' in span_es.attrs:
-        move_type_es = span_es['class'][1].split('-')[2]
-    else:
-        move_type_es = "Unknown"
 
     move_data = {
         "ataque": move_name_en,
-        "tipo": move_type_en,
-        "ataquetraduccion": move_name_es,
-        "tipotraduccion": move_type_es
+        "ataquetraduccion": move_name_es
     }
 
     moves_data.append(move_data)
