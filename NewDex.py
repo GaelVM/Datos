@@ -103,9 +103,18 @@ for entry in data:
                     "en": [value["names"]["English"] for value in form_data.get("quickMoves", {}).values()],
                     "es": [value["names"]["Spanish"] for value in form_data.get("quickMoves", {}).values()]
                 },
-                "cinematicMoves": form_data.get("cinematicMoves", {}),
-                "eliteQuickMoves": form_data.get("eliteQuickMoves", []),
-                "eliteCinematicMoves": form_data.get("eliteCinematicMoves", []),
+                 "cinematicMoves": {
+                    "en": [value["names"]["English"] for value in form_data.get("cinematicMoves", {}).values()],
+                    "es": [value["names"]["Spanish"] for value in form_data.get("cinematicMoves", {}).values()]
+                },
+                "eliteQuickMoves": {
+                    "en": [value["names"]["English"] for value in form_data.get("eliteQuickMoves", {}).values()],
+                    "es": [value["names"]["Spanish"] for value in form_data.get("eliteQuickMoves", {}).values()]
+                },
+                "eliteCinematicMoves": {
+                    "en": [value["names"]["English"] for value in form_data.get("eliteCinematicMoves", {}).values()],
+                    "es": [value["names"]["Spanish"] for value in form_data.get("eliteCinematicMoves", {}).values()]
+                },
                 "assets": {
                     "image": form_data["assets"]["image"] if form_data.get("assets") else None,
                     "shinyImage": form_data["assets"]["shinyImage"] if form_data.get("assets") else None
