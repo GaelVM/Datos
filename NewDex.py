@@ -45,7 +45,9 @@ for entry in data:
         "quickMoves": {
             "en": quick_moves_en,
             "es": quick_moves_es
-        }
+        },
+        "hasMegaEvolution": entry.get("hasMegaEvolution", False),
+        # Agrega aquí otros campos que necesites
     }
     processed_data.append(processed_entry)
 
