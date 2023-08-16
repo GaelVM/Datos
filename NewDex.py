@@ -99,7 +99,10 @@ for entry in data:
                     "en": form_data["names"]["English"],
                     "es": form_data["names"]["Spanish"]
                 },
-                "quickMoves": form_data.get("quickMoves", {}),
+                "quickMoves": {
+                    "en": {key: value["names"]["English"] for key, value in form_data.get("quickMoves", {}).items()},
+                    "es": {key: value["names"]["Spanish"] for key, value in form_data.get("quickMoves", {}).items()}
+                },
                 "cinematicMoves": form_data.get("cinematicMoves", {}),
                 "eliteQuickMoves": form_data.get("eliteQuickMoves", []),
                 "eliteCinematicMoves": form_data.get("eliteCinematicMoves", []),
