@@ -12,6 +12,8 @@ processed_data = []
 for entry in data:
     primary_type = entry["primaryType"]["names"]["English"]
     secondary_type = entry["secondaryType"]["names"]["English"] if entry.get("secondaryType") else None
+    primary_type_es = entry["primaryType"]["names"]["Spanish"]
+    secondary_type_es = entry["secondaryType"]["names"]["Spanish"] if entry.get("secondaryType") else None
 
     quick_moves_en = []
     quick_moves_es = []
@@ -28,8 +30,14 @@ for entry in data:
         "formId": entry["formId"],
         "dexNr": entry["dexNr"],
         "generation": entry["generation"],
-        "primaryType": primary_type,
-        "secondaryType": secondary_type,
+        "primaryType": {
+            "en": primary_type,
+            "es": primary_type_es
+        },
+        "secondaryType": {
+            "en": secondary_type,
+            "es": secondary_type_es
+        },
         "names": {
             "en": entry["names"]["English"],
             "es": entry["names"]["Spanish"]
