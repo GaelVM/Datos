@@ -108,8 +108,8 @@ for entry in data:
                     "es": [value["names"]["Spanish"] for value in form_data.get("cinematicMoves", {}).values()]
                 },
                 "eliteQuickMoves": {
-                    "en": [value["names"]["English"] for value in form_data.get("eliteQuickMoves", {}).values()],
-                    "es": [value["names"]["Spanish"] for value in form_data.get("eliteQuickMoves", {}).values()]
+                    "en": [move_data["names"]["English"] for move_data in form_data.get("eliteQuickMoves", [])],
+                    "es": [move_data["names"]["Spanish"] for move_data in form_data.get("eliteQuickMoves", [])]
                 },
                 "eliteCinematicMoves": {
                     "en": [value["names"]["English"] for value in form_data.get("eliteCinematicMoves", {}).values()],
