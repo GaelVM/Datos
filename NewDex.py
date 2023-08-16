@@ -25,6 +25,25 @@ for entry in data:
                 quick_moves_en.append(move_names["English"])
                 quick_moves_es.append(move_names["Spanish"])
 
+    mega_evolutions = []
+    if entry.get("hasMegaEvolution") == True:
+        mega_evolution_data = entry.get("megaEvolutions")
+        if mega_evolution_data:
+            for mega_evo in mega_evolution_data:
+                mega_entry = {
+                    "id": mega_evo["id"],
+                    "names": mega_evo["names"],
+                    "primaryType": {
+                        "en": mega_evo["primaryType"]["names"]["English"],
+                        "es": mega_evo["primaryType"]["names"]["Spanish"]
+                    },
+                    "secondaryType": {
+                        "en": mega_evo["secondaryType"]["names"]["English"] if mega_evo.get("secondaryType") else None,
+                        "es": mega_evo["secondaryType"]["names"]["Spanish"] if mega_evo.get("secondaryType") else None
+                    }
+                }
+                mega_evolutions.append(mega_entry)
+
     processed_entry = {
         "id": entry["id"],
         "formId": entry["formId"],
@@ -47,7 +66,7 @@ for entry in data:
             "es": quick_moves_es
         },
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
-        # Agrega aquí otros campos que necesites
+        "megaEvolutions": mega_evolutions
     }
     processed_data.append(processed_entry)
 

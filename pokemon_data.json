@@ -25,7 +25,8 @@
                 "Látigo Cepa",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "IVYSAUR",
@@ -53,7 +54,8 @@
                 "Hoja Afilada",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VENUSAUR",
@@ -81,7 +83,8 @@
                 "Hoja Afilada",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHARMANDER",
@@ -109,7 +112,8 @@
                 "Ascuas",
                 "Arañazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHARMELEON",
@@ -137,7 +141,8 @@
                 "Ascuas",
                 "Colmillo Ígneo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHARIZARD",
@@ -165,7 +170,8 @@
                 "Giro Fuego",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SQUIRTLE",
@@ -193,7 +199,8 @@
                 "Burbuja",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WARTORTLE",
@@ -221,7 +228,8 @@
                 "Pistola Agua",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BLASTOISE",
@@ -249,7 +257,8 @@
                 "Pistola Agua",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CATERPIE",
@@ -277,7 +286,8 @@
                 "Picadura",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "METAPOD",
@@ -305,7 +315,8 @@
                 "Picadura",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BUTTERFREE",
@@ -333,7 +344,8 @@
                 "Estoicismo",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WEEDLE",
@@ -361,7 +373,8 @@
                 "Picadura",
                 "Picotazo Veneno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KAKUNA",
@@ -389,7 +402,8 @@
                 "Picadura",
                 "Picotazo Veneno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BEEDRILL",
@@ -417,7 +431,8 @@
                 "Acoso",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PIDGEY",
@@ -445,7 +460,8 @@
                 "Ataque Rápido",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PIDGEOTTO",
@@ -473,7 +489,8 @@
                 "Ataque Ala",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PIDGEOT",
@@ -501,7 +518,8 @@
                 "Tajo Aéreo",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RATTATA",
@@ -529,7 +547,8 @@
                 "Placaje",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RATICATE",
@@ -557,7 +576,8 @@
                 "Mordisco",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SPEAROW",
@@ -585,7 +605,8 @@
                 "Picotazo",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FEAROW",
@@ -613,7 +634,8 @@
                 "Picotazo",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EKANS",
@@ -641,7 +663,8 @@
                 "Picotazo Veneno",
                 "Ácido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARBOK",
@@ -671,7 +694,8 @@
                 "Ácido",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PIKACHU",
@@ -699,7 +723,8 @@
                 "Impactrueno",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RAICHU",
@@ -731,7 +756,8 @@
                 "Encanto",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SANDSHREW",
@@ -759,7 +785,8 @@
                 "Arañazo",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SANDSLASH",
@@ -787,7 +814,8 @@
                 "Garra Metal",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NIDORAN_FEMALE",
@@ -815,7 +843,8 @@
                 "Mordisco",
                 "Picotazo Veneno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NIDORINA",
@@ -843,7 +872,8 @@
                 "Mordisco",
                 "Picotazo Veneno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NIDOQUEEN",
@@ -871,7 +901,8 @@
                 "Puya Nociva",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NIDORAN_MALE",
@@ -899,7 +930,8 @@
                 "Picotazo",
                 "Picotazo Veneno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NIDORINO",
@@ -927,7 +959,8 @@
                 "Puya Nociva",
                 "Picotazo Veneno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NIDOKING",
@@ -957,7 +990,8 @@
                 "Cola Férrea",
                 "Doble Patada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CLEFAIRY",
@@ -985,7 +1019,8 @@
                 "Destructor",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CLEFABLE",
@@ -1017,7 +1052,8 @@
                 "Encanto",
                 "Viento Feérico"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VULPIX",
@@ -1045,7 +1081,8 @@
                 "Ataque Rápido",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NINETALES",
@@ -1073,7 +1110,8 @@
                 "Finta",
                 "Giro Fuego"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "JIGGLYPUFF",
@@ -1101,7 +1139,8 @@
                 "Destructor",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WIGGLYTUFF",
@@ -1131,7 +1170,8 @@
                 "Finta",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZUBAT",
@@ -1159,7 +1199,8 @@
                 "Ataque Rápido",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOLBAT",
@@ -1187,7 +1228,8 @@
                 "Ataque Ala",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ODDISH",
@@ -1215,7 +1257,8 @@
                 "Hoja Afilada",
                 "Ácido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GLOOM",
@@ -1243,7 +1286,8 @@
                 "Hoja Afilada",
                 "Ácido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VILEPLUME",
@@ -1271,7 +1315,8 @@
                 "Hoja Afilada",
                 "Ácido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PARAS",
@@ -1299,7 +1344,8 @@
                 "Arañazo",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PARASECT",
@@ -1327,7 +1373,8 @@
                 "Estoicismo",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VENONAT",
@@ -1355,7 +1402,8 @@
                 "Picadura",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VENOMOTH",
@@ -1383,7 +1431,8 @@
                 "Acoso",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DIGLETT",
@@ -1411,7 +1460,8 @@
                 "Bofetón Lodo",
                 "Arañazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DUGTRIO",
@@ -1439,7 +1489,8 @@
                 "Golpe Bajo",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MEOWTH",
@@ -1467,7 +1518,8 @@
                 "Arañazo",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PERSIAN",
@@ -1495,7 +1547,8 @@
                 "Arañazo",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PSYDUCK",
@@ -1523,7 +1576,8 @@
                 "Pistola Agua",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOLDUCK",
@@ -1551,7 +1605,8 @@
                 "Pistola Agua",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MANKEY",
@@ -1579,7 +1634,8 @@
                 "Golpe Kárate",
                 "Arañazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PRIMEAPE",
@@ -1607,7 +1663,8 @@
                 "Patada Baja",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GROWLITHE",
@@ -1635,7 +1692,8 @@
                 "Ascuas",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARCANINE",
@@ -1665,7 +1723,8 @@
                 "Alarido",
                 "Colmillo Rayo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "POLIWAG",
@@ -1693,7 +1752,8 @@
                 "Burbuja",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "POLIWHIRL",
@@ -1721,7 +1781,8 @@
                 "Burbuja",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "POLIWRATH",
@@ -1751,7 +1812,8 @@
                 "Golpe Roca",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ABRA",
@@ -1779,7 +1841,8 @@
                 "Cabezazo Zen",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KADABRA",
@@ -1807,7 +1870,8 @@
                 "Psicocorte",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ALAKAZAM",
@@ -1835,7 +1899,8 @@
                 "Psicocorte",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MACHOP",
@@ -1863,7 +1928,8 @@
                 "Golpe Roca",
                 "Golpe Kárate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MACHOKE",
@@ -1891,7 +1957,8 @@
                 "Patada Baja",
                 "Golpe Kárate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MACHAMP",
@@ -1919,7 +1986,8 @@
                 "Puño Bala",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BELLSPROUT",
@@ -1947,7 +2015,8 @@
                 "Látigo Cepa",
                 "Ácido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WEEPINBELL",
@@ -1975,7 +2044,8 @@
                 "Semilladora",
                 "Ácido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VICTREEBEL",
@@ -2003,7 +2073,8 @@
                 "Hoja Afilada",
                 "Ácido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TENTACOOL",
@@ -2031,7 +2102,8 @@
                 "Burbuja",
                 "Picotazo Veneno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TENTACRUEL",
@@ -2059,7 +2131,8 @@
                 "Ácido",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GEODUDE",
@@ -2087,7 +2160,8 @@
                 "Lanzarrocas",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GRAVELER",
@@ -2115,7 +2189,8 @@
                 "Lanzarrocas",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOLEM",
@@ -2143,7 +2218,8 @@
                 "Lanzarrocas",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PONYTA",
@@ -2171,7 +2247,8 @@
                 "Placaje",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RAPIDASH",
@@ -2201,7 +2278,8 @@
                 "Giro Fuego",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SLOWPOKE",
@@ -2229,7 +2307,8 @@
                 "Pistola Agua",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SLOWBRO",
@@ -2257,7 +2336,8 @@
                 "Pistola Agua",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAGNEMITE",
@@ -2285,7 +2365,8 @@
                 "Chispa",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAGNETON",
@@ -2315,7 +2396,8 @@
                 "Rayo Carga",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FARFETCHD",
@@ -2343,7 +2425,8 @@
                 "Tajo Aéreo",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DODUO",
@@ -2371,7 +2454,8 @@
                 "Picotazo",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DODRIO",
@@ -2399,7 +2483,8 @@
                 "Finta",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SEEL",
@@ -2427,7 +2512,8 @@
                 "Canto Helado",
                 "Lengüetazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DEWGONG",
@@ -2455,7 +2541,8 @@
                 "Vaho Gélido",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GRIMER",
@@ -2483,7 +2570,8 @@
                 "Puya Nociva",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MUK",
@@ -2511,7 +2599,8 @@
                 "Acoso",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHELLDER",
@@ -2539,7 +2628,8 @@
                 "Canto Helado",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CLOYSTER",
@@ -2567,7 +2657,8 @@
                 "Vaho Gélido",
                 "Canto Helado"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GASTLY",
@@ -2595,7 +2686,8 @@
                 "Lengüetazo",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HAUNTER",
@@ -2623,7 +2715,8 @@
                 "Garra Umbría",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GENGAR",
@@ -2653,7 +2746,8 @@
                 "Infortunio",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ONIX",
@@ -2681,7 +2775,8 @@
                 "Lanzarrocas",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DROWZEE",
@@ -2709,7 +2804,8 @@
                 "Destructor",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HYPNO",
@@ -2737,7 +2833,8 @@
                 "Cabezazo Zen",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KRABBY",
@@ -2765,7 +2862,8 @@
                 "Burbuja",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KINGLER",
@@ -2793,7 +2891,8 @@
                 "Burbuja",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VOLTORB",
@@ -2821,7 +2920,8 @@
                 "Chispa",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ELECTRODE",
@@ -2849,7 +2949,8 @@
                 "Chispa",
                 "Voltiocambio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EXEGGCUTE",
@@ -2877,7 +2978,8 @@
                 "Confusión",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EXEGGUTOR",
@@ -2907,7 +3009,8 @@
                 "Paranormal",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CUBONE",
@@ -2935,7 +3038,8 @@
                 "Bofetón Lodo",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAROWAK",
@@ -2963,7 +3067,8 @@
                 "Bofetón Lodo",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HITMONLEE",
@@ -2993,7 +3098,8 @@
                 "Golpe Roca",
                 "Doble Patada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HITMONCHAN",
@@ -3021,7 +3127,8 @@
                 "Puño Bala",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LICKITUNG",
@@ -3049,7 +3156,8 @@
                 "Lengüetazo",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KOFFING",
@@ -3077,7 +3185,8 @@
                 "Placaje",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WEEZING",
@@ -3105,7 +3214,8 @@
                 "Placaje",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RHYHORN",
@@ -3133,7 +3243,8 @@
                 "Bofetón Lodo",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RHYDON",
@@ -3161,7 +3272,8 @@
                 "Bofetón Lodo",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHANSEY",
@@ -3189,7 +3301,8 @@
                 "Destructor",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TANGELA",
@@ -3217,7 +3330,8 @@
                 "Látigo Cepa",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KANGASKHAN",
@@ -3245,7 +3359,8 @@
                 "Bofetón Lodo",
                 "Patada Baja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HORSEA",
@@ -3273,7 +3388,8 @@
                 "Pistola Agua",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SEADRA",
@@ -3301,7 +3417,8 @@
                 "Pistola Agua",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOLDEEN",
@@ -3329,7 +3446,8 @@
                 "Picotazo",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SEAKING",
@@ -3357,7 +3475,8 @@
                 "Picotazo",
                 "Cascada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STARYU",
@@ -3385,7 +3504,8 @@
                 "Placaje",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STARMIE",
@@ -3413,7 +3533,8 @@
                 "Poder Oculto",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MR_MIME",
@@ -3441,7 +3562,8 @@
                 "Confusión",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SCYTHER",
@@ -3469,7 +3591,8 @@
                 "Corte Furia",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "JYNX",
@@ -3497,7 +3620,8 @@
                 "Vaho Gélido",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ELECTABUZZ",
@@ -3525,7 +3649,8 @@
                 "Impactrueno",
                 "Patada Baja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAGMAR",
@@ -3553,7 +3678,8 @@
                 "Ascuas",
                 "Golpe Kárate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PINSIR",
@@ -3583,7 +3709,8 @@
                 "Picadura",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TAUROS",
@@ -3611,7 +3738,8 @@
                 "Placaje",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAGIKARP",
@@ -3637,7 +3765,8 @@
             "es": [
                 "Salpicadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GYARADOS",
@@ -3667,7 +3796,8 @@
                 "Cascada",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LAPRAS",
@@ -3695,7 +3825,8 @@
                 "Vaho Gélido",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DITTO",
@@ -3721,7 +3852,8 @@
             "es": [
                 "Transformación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EEVEE",
@@ -3749,7 +3881,8 @@
                 "Ataque Rápido",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VAPOREON",
@@ -3775,7 +3908,8 @@
             "es": [
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "JOLTEON",
@@ -3803,7 +3937,8 @@
                 "Impactrueno",
                 "Voltiocambio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLAREON",
@@ -3831,7 +3966,8 @@
                 "Ascuas",
                 "Giro Fuego"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PORYGON",
@@ -3859,7 +3995,8 @@
                 "Rayo Carga",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "OMANYTE",
@@ -3887,7 +4024,8 @@
                 "Pistola Agua",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "OMASTAR",
@@ -3915,7 +4053,8 @@
                 "Disparo Lodo",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KABUTO",
@@ -3943,7 +4082,8 @@
                 "Arañazo",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KABUTOPS",
@@ -3973,7 +4113,8 @@
                 "Golpe Roca",
                 "Cascada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AERODACTYL",
@@ -4003,7 +4144,8 @@
                 "Mordisco",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SNORLAX",
@@ -4031,7 +4173,8 @@
                 "Cabezazo Zen",
                 "Lengüetazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARTICUNO",
@@ -4059,7 +4202,8 @@
                 "Vaho Gélido",
                 "Canto Helado"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZAPDOS",
@@ -4085,7 +4229,8 @@
             "es": [
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MOLTRES",
@@ -4113,7 +4258,8 @@
                 "Giro Fuego",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRATINI",
@@ -4141,7 +4287,8 @@
                 "Dragoaliento",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRAGONAIR",
@@ -4169,7 +4316,8 @@
                 "Dragoaliento",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRAGONITE",
@@ -4199,7 +4347,8 @@
                 "Ala de Acero",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MEWTWO",
@@ -4227,7 +4376,8 @@
                 "Psicocorte",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MEW",
@@ -4279,7 +4429,8 @@
                 "Corte",
                 "Cascada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHIKORITA",
@@ -4307,7 +4458,8 @@
                 "Látigo Cepa",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BAYLEEF",
@@ -4335,7 +4487,8 @@
                 "Hoja Afilada",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MEGANIUM",
@@ -4363,7 +4516,8 @@
                 "Hoja Afilada",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CYNDAQUIL",
@@ -4391,7 +4545,8 @@
                 "Ascuas",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "QUILAVA",
@@ -4419,7 +4574,8 @@
                 "Ascuas",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TYPHLOSION",
@@ -4449,7 +4605,8 @@
                 "Garra Umbría",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOTODILE",
@@ -4477,7 +4634,8 @@
                 "Pistola Agua",
                 "Arañazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CROCONAW",
@@ -4505,7 +4663,8 @@
                 "Pistola Agua",
                 "Arañazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FERALIGATR",
@@ -4535,7 +4694,8 @@
                 "Mordisco",
                 "Colmillo Hielo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SENTRET",
@@ -4563,7 +4723,8 @@
                 "Arañazo",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FURRET",
@@ -4591,7 +4752,8 @@
                 "Ataque Rápido",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HOOTHOOT",
@@ -4619,7 +4781,8 @@
                 "Finta",
                 "Picotazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NOCTOWL",
@@ -4647,7 +4810,8 @@
                 "Ataque Ala",
                 "Paranormal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LEDYBA",
@@ -4675,7 +4839,8 @@
                 "Placaje",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LEDIAN",
@@ -4703,7 +4868,8 @@
                 "Estoicismo",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SPINARAK",
@@ -4731,7 +4897,8 @@
                 "Picotazo Veneno",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARIADOS",
@@ -4759,7 +4926,8 @@
                 "Picotazo Veneno",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CROBAT",
@@ -4787,7 +4955,8 @@
                 "Tajo Aéreo",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHINCHOU",
@@ -4815,7 +4984,8 @@
                 "Burbuja",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LANTURN",
@@ -4845,7 +5015,8 @@
                 "Rayo Carga",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PICHU",
@@ -4871,7 +5042,8 @@
             "es": [
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CLEFFA",
@@ -4899,7 +5071,8 @@
                 "Destructor",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "IGGLYBUFF",
@@ -4927,7 +5100,8 @@
                 "Destructor",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOGEPI",
@@ -4955,7 +5129,8 @@
                 "Poder Oculto",
                 "Picotazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOGETIC",
@@ -4985,7 +5160,8 @@
                 "Poder Oculto",
                 "Viento Feérico"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NATU",
@@ -5013,7 +5189,8 @@
                 "Picotazo",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "XATU",
@@ -5041,7 +5218,8 @@
                 "Tajo Aéreo",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAREEP",
@@ -5069,7 +5247,8 @@
                 "Placaje",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLAAFFY",
@@ -5097,7 +5276,8 @@
                 "Placaje",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AMPHAROS",
@@ -5125,7 +5305,8 @@
                 "Rayo Carga",
                 "Voltiocambio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BELLOSSOM",
@@ -5155,7 +5336,8 @@
                 "Ácido",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MARILL",
@@ -5183,7 +5365,8 @@
                 "Placaje",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AZUMARILL",
@@ -5211,7 +5394,8 @@
                 "Golpe Roca",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SUDOWOODO",
@@ -5239,7 +5423,8 @@
                 "Lanzarrocas",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "POLITOED",
@@ -5267,7 +5452,8 @@
                 "Disparo Lodo",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HOPPIP",
@@ -5295,7 +5481,8 @@
                 "Placaje",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SKIPLOOM",
@@ -5323,7 +5510,8 @@
                 "Placaje",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "JUMPLUFF",
@@ -5353,7 +5541,8 @@
                 "Semilladora",
                 "Viento Feérico"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AIPOM",
@@ -5381,7 +5570,8 @@
                 "Arañazo",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SUNKERN",
@@ -5409,7 +5599,8 @@
                 "Hoja Afilada",
                 "Corte"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SUNFLORA",
@@ -5437,7 +5628,8 @@
                 "Hoja Afilada",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "YANMA",
@@ -5465,7 +5657,8 @@
                 "Ataque Rápido",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WOOPER",
@@ -5493,7 +5686,8 @@
                 "Pistola Agua",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "QUAGSIRE",
@@ -5521,7 +5715,8 @@
                 "Pistola Agua",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ESPEON",
@@ -5549,7 +5744,8 @@
                 "Confusión",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "UMBREON",
@@ -5577,7 +5773,8 @@
                 "Finta",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MURKROW",
@@ -5605,7 +5802,8 @@
                 "Picotazo",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SLOWKING",
@@ -5633,7 +5831,8 @@
                 "Pistola Agua",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MISDREAVUS",
@@ -5661,7 +5860,8 @@
                 "Impresionar",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "UNOWN",
@@ -5687,7 +5887,8 @@
             "es": [
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WOBBUFFET",
@@ -5717,7 +5918,8 @@
                 "Salpicadura",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GIRAFARIG",
@@ -5747,7 +5949,8 @@
                 "Confusión",
                 "Doble Patada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PINECO",
@@ -5775,7 +5978,8 @@
                 "Placaje",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FORRETRESS",
@@ -5803,7 +6007,8 @@
                 "Picadura",
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DUNSPARCE",
@@ -5833,7 +6038,8 @@
                 "Impresionar",
                 "Desenrollar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GLIGAR",
@@ -5861,7 +6067,8 @@
                 "Corte Furia",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STEELIX",
@@ -5891,7 +6098,8 @@
                 "Cola Dragón",
                 "Colmillo Rayo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SNUBBULL",
@@ -5919,7 +6127,8 @@
                 "Placaje",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GRANBULL",
@@ -5949,7 +6158,8 @@
                 "Alarido",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "QWILFISH",
@@ -5977,7 +6187,8 @@
                 "Picotazo Veneno",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SCIZOR",
@@ -6005,7 +6216,8 @@
                 "Puño Bala",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHUCKLE",
@@ -6033,7 +6245,8 @@
                 "Estoicismo",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HERACROSS",
@@ -6061,7 +6274,8 @@
                 "Contraataque",
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SNEASEL",
@@ -6089,7 +6303,8 @@
                 "Canto Helado",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TEDDIURSA",
@@ -6117,7 +6332,8 @@
                 "Arañazo",
                 "Lengüetazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "URSARING",
@@ -6147,7 +6363,8 @@
                 "Contraataque",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SLUGMA",
@@ -6175,7 +6392,8 @@
                 "Ascuas",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAGCARGO",
@@ -6205,7 +6423,8 @@
                 "Lanzarrocas",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SWINUB",
@@ -6233,7 +6452,8 @@
                 "Placaje",
                 "Nieve Polvo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PILOSWINE",
@@ -6261,7 +6481,8 @@
                 "Canto Helado",
                 "Nieve Polvo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CORSOLA",
@@ -6289,7 +6510,8 @@
                 "Placaje",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "REMORAID",
@@ -6317,7 +6539,8 @@
                 "Pistola Agua",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "OCTILLERY",
@@ -6347,7 +6570,8 @@
                 "Disparo Lodo",
                 "Fijar Blanco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DELIBIRD",
@@ -6373,7 +6597,8 @@
             "es": [
                 "Presente"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MANTINE",
@@ -6403,7 +6628,8 @@
                 "Ataque Ala",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SKARMORY",
@@ -6431,7 +6657,8 @@
                 "Ala de Acero",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HOUNDOUR",
@@ -6459,7 +6686,8 @@
                 "Finta",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HOUNDOOM",
@@ -6487,7 +6715,8 @@
                 "Alarido",
                 "Colmillo Ígneo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KINGDRA",
@@ -6515,7 +6744,8 @@
                 "Cascada",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PHANPY",
@@ -6543,7 +6773,8 @@
                 "Placaje",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DONPHAN",
@@ -6575,7 +6806,8 @@
                 "Bofetón Lodo",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PORYGON2",
@@ -6605,7 +6837,8 @@
                 "Rayo Carga",
                 "Fijar Blanco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STANTLER",
@@ -6633,7 +6866,8 @@
                 "Placaje",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SMEARGLE",
@@ -6655,7 +6889,8 @@
         "quickMoves": {
             "en": [],
             "es": []
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TYROGUE",
@@ -6683,7 +6918,8 @@
                 "Golpe Roca",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HITMONTOP",
@@ -6711,7 +6947,8 @@
                 "Golpe Roca",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SMOOCHUM",
@@ -6739,7 +6976,8 @@
                 "Nieve Polvo",
                 "Destructor"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ELEKID",
@@ -6767,7 +7005,8 @@
                 "Impactrueno",
                 "Patada Baja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAGBY",
@@ -6795,7 +7034,8 @@
                 "Ascuas",
                 "Golpe Kárate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MILTANK",
@@ -6825,7 +7065,8 @@
                 "Cabezazo Zen",
                 "Desenrollar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BLISSEY",
@@ -6853,7 +7094,8 @@
                 "Destructor",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RAIKOU",
@@ -6881,7 +7123,8 @@
                 "Impactrueno",
                 "Voltiocambio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ENTEI",
@@ -6909,7 +7152,8 @@
                 "Giro Fuego",
                 "Colmillo Ígneo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SUICUNE",
@@ -6939,7 +7183,8 @@
                 "Alarido",
                 "Colmillo Hielo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LARVITAR",
@@ -6967,7 +7212,8 @@
                 "Mordisco",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PUPITAR",
@@ -6995,7 +7241,8 @@
                 "Mordisco",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TYRANITAR",
@@ -7023,7 +7270,8 @@
                 "Mordisco",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LUGIA",
@@ -7051,7 +7299,8 @@
                 "Paranormal",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HO_OH",
@@ -7083,7 +7332,8 @@
                 "Poder Oculto",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CELEBI",
@@ -7111,7 +7361,8 @@
                 "Confusión",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TREECKO",
@@ -7139,7 +7390,8 @@
                 "Destructor",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GROVYLE",
@@ -7167,7 +7419,8 @@
                 "Ataque Rápido",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SCEPTILE",
@@ -7195,7 +7448,8 @@
                 "Corte Furia",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TORCHIC",
@@ -7223,7 +7477,8 @@
                 "Arañazo",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COMBUSKEN",
@@ -7251,7 +7506,8 @@
                 "Picotazo",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BLAZIKEN",
@@ -7279,7 +7535,8 @@
                 "Contraataque",
                 "Giro Fuego"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MUDKIP",
@@ -7307,7 +7564,8 @@
                 "Placaje",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MARSHTOMP",
@@ -7335,7 +7593,8 @@
                 "Disparo Lodo",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SWAMPERT",
@@ -7363,7 +7622,8 @@
                 "Disparo Lodo",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "POOCHYENA",
@@ -7391,7 +7651,8 @@
                 "Placaje",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MIGHTYENA",
@@ -7423,7 +7684,8 @@
                 "Colmillo Rayo",
                 "Colmillo Hielo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZIGZAGOON",
@@ -7451,7 +7713,8 @@
                 "Placaje",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LINOONE",
@@ -7479,7 +7742,8 @@
                 "Garra Umbría",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WURMPLE",
@@ -7507,7 +7771,8 @@
                 "Placaje",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SILCOON",
@@ -7535,7 +7800,8 @@
                 "Picotazo Veneno",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BEAUTIFLY",
@@ -7563,7 +7829,8 @@
                 "Estoicismo",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CASCOON",
@@ -7591,7 +7858,8 @@
                 "Picotazo Veneno",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DUSTOX",
@@ -7619,7 +7887,8 @@
                 "Estoicismo",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LOTAD",
@@ -7647,7 +7916,8 @@
                 "Pistola Agua",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LOMBRE",
@@ -7675,7 +7945,8 @@
                 "Burbuja",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LUDICOLO",
@@ -7703,7 +7974,8 @@
                 "Burbuja",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SEEDOT",
@@ -7731,7 +8003,8 @@
                 "Semilladora",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NUZLEAF",
@@ -7759,7 +8032,8 @@
                 "Hoja Afilada",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHIFTRY",
@@ -7789,7 +8063,8 @@
                 "Finta",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TAILLOW",
@@ -7817,7 +8092,8 @@
                 "Picotazo",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SWELLOW",
@@ -7845,7 +8121,8 @@
                 "Ataque Ala",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WINGULL",
@@ -7873,7 +8150,8 @@
                 "Pistola Agua",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PELIPPER",
@@ -7901,7 +8179,8 @@
                 "Pistola Agua",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RALTS",
@@ -7929,7 +8208,8 @@
                 "Confusión",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KIRLIA",
@@ -7957,7 +8237,8 @@
                 "Confusión",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GARDEVOIR",
@@ -7987,7 +8268,8 @@
                 "Rayo Carga",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SURSKIT",
@@ -8015,7 +8297,8 @@
                 "Burbuja",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MASQUERAIN",
@@ -8043,7 +8326,8 @@
                 "Acoso",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHROOMISH",
@@ -8071,7 +8355,8 @@
                 "Placaje",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BRELOOM",
@@ -8099,7 +8384,8 @@
                 "Contraataque",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SLAKOTH",
@@ -8125,7 +8411,8 @@
             "es": [
                 "Bostezo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VIGOROTH",
@@ -8153,7 +8440,8 @@
                 "Arañazo",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SLAKING",
@@ -8179,7 +8467,8 @@
             "es": [
                 "Bostezo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NINCADA",
@@ -8207,7 +8496,8 @@
                 "Arañazo",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NINJASK",
@@ -8235,7 +8525,8 @@
                 "Corte Furia",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHEDINJA",
@@ -8263,7 +8554,8 @@
                 "Picadura",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WHISMUR",
@@ -8291,7 +8583,8 @@
                 "Destructor",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LOUDRED",
@@ -8319,7 +8612,8 @@
                 "Mordisco",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EXPLOUD",
@@ -8347,7 +8641,8 @@
                 "Mordisco",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAKUHITA",
@@ -8375,7 +8670,8 @@
                 "Golpe Roca",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HARIYAMA",
@@ -8403,7 +8699,8 @@
                 "Contraataque",
                 "Puño Bala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AZURILL",
@@ -8431,7 +8728,8 @@
                 "Salpicadura",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NOSEPASS",
@@ -8459,7 +8757,8 @@
                 "Lanzarrocas",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SKITTY",
@@ -8487,7 +8786,8 @@
                 "Finta",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DELCATTY",
@@ -8517,7 +8817,8 @@
                 "Cabezazo Zen",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SABLEYE",
@@ -8545,7 +8846,8 @@
                 "Garra Umbría",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAWILE",
@@ -8579,7 +8881,8 @@
                 "Colmillo Ígneo",
                 "Viento Feérico"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARON",
@@ -8607,7 +8910,8 @@
                 "Placaje",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LAIRON",
@@ -8635,7 +8939,8 @@
                 "Garra Metal",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AGGRON",
@@ -8665,7 +8970,8 @@
                 "Cola Férrea",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MEDITITE",
@@ -8693,7 +8999,8 @@
                 "Confusión",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MEDICHAM",
@@ -8721,7 +9028,8 @@
                 "Psicocorte",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ELECTRIKE",
@@ -8749,7 +9057,8 @@
                 "Ataque Rápido",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MANECTRIC",
@@ -8779,7 +9088,8 @@
                 "Rayo Carga",
                 "Colmillo Rayo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PLUSLE",
@@ -8807,7 +9117,8 @@
                 "Chispa",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MINUN",
@@ -8835,7 +9146,8 @@
                 "Chispa",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VOLBEAT",
@@ -8863,7 +9175,8 @@
                 "Estoicismo",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ILLUMISE",
@@ -8891,7 +9204,8 @@
                 "Estoicismo",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ROSELIA",
@@ -8919,7 +9233,8 @@
                 "Puya Nociva",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GULPIN",
@@ -8947,7 +9262,8 @@
                 "Destructor",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SWALOT",
@@ -8975,7 +9291,8 @@
                 "Golpe Roca",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CARVANHA",
@@ -9003,7 +9320,8 @@
                 "Mordisco",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHARPEDO",
@@ -9031,7 +9349,8 @@
                 "Mordisco",
                 "Cascada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WAILMER",
@@ -9059,7 +9378,8 @@
                 "Salpicadura",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WAILORD",
@@ -9087,7 +9407,8 @@
                 "Cabezazo Zen",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NUMEL",
@@ -9115,7 +9436,8 @@
                 "Ascuas",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CAMERUPT",
@@ -9145,7 +9467,8 @@
                 "Golpe Roca",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TORKOAL",
@@ -9173,7 +9496,8 @@
                 "Giro Fuego",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SPOINK",
@@ -9201,7 +9525,8 @@
                 "Salpicadura",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GRUMPIG",
@@ -9229,7 +9554,8 @@
                 "Rayo Carga",
                 "Paranormal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SPINDA",
@@ -9257,7 +9583,8 @@
                 "Golpe Bajo",
                 "Psicocorte"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TRAPINCH",
@@ -9285,7 +9612,8 @@
                 "Disparo Lodo",
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VIBRAVA",
@@ -9313,7 +9641,8 @@
                 "Disparo Lodo",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLYGON",
@@ -9341,7 +9670,8 @@
                 "Disparo Lodo",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CACNEA",
@@ -9369,7 +9699,8 @@
                 "Picotazo Veneno",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CACTURNE",
@@ -9397,7 +9728,8 @@
                 "Puya Nociva",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SWABLU",
@@ -9425,7 +9757,8 @@
                 "Picotazo",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ALTARIA",
@@ -9453,7 +9786,8 @@
                 "Picotazo",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZANGOOSE",
@@ -9481,7 +9815,8 @@
                 "Corte Furia",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SEVIPER",
@@ -9509,7 +9844,8 @@
                 "Puya Nociva",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LUNATONE",
@@ -9537,7 +9873,8 @@
                 "Lanzarrocas",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SOLROCK",
@@ -9565,7 +9902,8 @@
                 "Lanzarrocas",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BARBOACH",
@@ -9593,7 +9931,8 @@
                 "Pistola Agua",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WHISCASH",
@@ -9621,7 +9960,8 @@
                 "Pistola Agua",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CORPHISH",
@@ -9649,7 +9989,8 @@
                 "Burbuja",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CRAWDAUNT",
@@ -9677,7 +10018,8 @@
                 "Cascada",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BALTOY",
@@ -9705,7 +10047,8 @@
                 "Confusión",
                 "Paranormal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CLAYDOL",
@@ -9735,7 +10078,8 @@
                 "Confusión",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LILEEP",
@@ -9763,7 +10107,8 @@
                 "Ácido",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CRADILY",
@@ -9793,7 +10138,8 @@
                 "Acoso",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ANORITH",
@@ -9821,7 +10167,8 @@
                 "Estoicismo",
                 "Arañazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARMALDO",
@@ -9849,7 +10196,8 @@
                 "Corte Furia",
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FEEBAS",
@@ -9877,7 +10225,8 @@
                 "Salpicadura",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MILOTIC",
@@ -9905,7 +10254,8 @@
                 "Cascada",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CASTFORM",
@@ -9933,7 +10283,8 @@
                 "Placaje",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KECLEON",
@@ -9961,7 +10312,8 @@
                 "Lengüetazo",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHUPPET",
@@ -9989,7 +10341,8 @@
                 "Finta",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BANETTE",
@@ -10017,7 +10370,8 @@
                 "Infortunio",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DUSKULL",
@@ -10045,7 +10399,8 @@
                 "Infortunio",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DUSCLOPS",
@@ -10073,7 +10428,8 @@
                 "Infortunio",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TROPIUS",
@@ -10101,7 +10457,8 @@
                 "Tajo Aéreo",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHIMECHO",
@@ -10129,7 +10486,8 @@
                 "Paranormal",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ABSOL",
@@ -10157,7 +10515,8 @@
                 "Psicocorte",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WYNAUT",
@@ -10185,7 +10544,8 @@
                 "Salpicadura",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SNORUNT",
@@ -10213,7 +10573,8 @@
                 "Nieve Polvo",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GLALIE",
@@ -10241,7 +10602,8 @@
                 "Canto Helado",
                 "Vaho Gélido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SPHEAL",
@@ -10269,7 +10631,8 @@
                 "Pistola Agua",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SEALEO",
@@ -10297,7 +10660,8 @@
                 "Pistola Agua",
                 "Nieve Polvo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WALREIN",
@@ -10325,7 +10689,8 @@
                 "Cascada",
                 "Vaho Gélido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CLAMPERL",
@@ -10351,7 +10716,8 @@
             "es": [
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HUNTAIL",
@@ -10379,7 +10745,8 @@
                 "Pistola Agua",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOREBYSS",
@@ -10407,7 +10774,8 @@
                 "Pistola Agua",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RELICANTH",
@@ -10435,7 +10803,8 @@
                 "Pistola Agua",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LUVDISC",
@@ -10463,7 +10832,8 @@
                 "Pistola Agua",
                 "Salpicadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BAGON",
@@ -10491,7 +10861,8 @@
                 "Mordisco",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHELGON",
@@ -10519,7 +10890,8 @@
                 "Ascuas",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SALAMENCE",
@@ -10549,7 +10921,8 @@
                 "Colmillo Ígneo",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BELDUM",
@@ -10575,7 +10948,8 @@
             "es": [
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "METANG",
@@ -10603,7 +10977,8 @@
                 "Cabezazo Zen",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "METAGROSS",
@@ -10631,7 +11006,8 @@
                 "Puño Bala",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "REGIROCK",
@@ -10661,7 +11037,8 @@
                 "Golpe Roca",
                 "Fijar Blanco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "REGICE",
@@ -10691,7 +11068,8 @@
                 "Golpe Roca",
                 "Fijar Blanco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "REGISTEEL",
@@ -10721,7 +11099,8 @@
                 "Golpe Roca",
                 "Fijar Blanco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LATIAS",
@@ -10751,7 +11130,8 @@
                 "Cabezazo Zen",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LATIOS",
@@ -10779,7 +11159,8 @@
                 "Dragoaliento",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KYOGRE",
@@ -10805,7 +11186,8 @@
             "es": [
                 "Cascada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GROUDON",
@@ -10833,7 +11215,8 @@
                 "Disparo Lodo",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RAYQUAZA",
@@ -10861,7 +11244,8 @@
                 "Tajo Aéreo",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "JIRACHI",
@@ -10889,7 +11273,8 @@
                 "Confusión",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DEOXYS",
@@ -10917,7 +11302,8 @@
                 "Cabezazo Zen",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TURTWIG",
@@ -10945,7 +11331,8 @@
                 "Placaje",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GROTLE",
@@ -10973,7 +11360,8 @@
                 "Mordisco",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TORTERRA",
@@ -11001,7 +11389,8 @@
                 "Mordisco",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHIMCHAR",
@@ -11029,7 +11418,8 @@
                 "Ascuas",
                 "Arañazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MONFERNO",
@@ -11057,7 +11447,8 @@
                 "Ascuas",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "INFERNAPE",
@@ -11085,7 +11476,8 @@
                 "Giro Fuego",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PIPLUP",
@@ -11113,7 +11505,8 @@
                 "Burbuja",
                 "Destructor"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PRINPLUP",
@@ -11141,7 +11534,8 @@
                 "Burbuja",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EMPOLEON",
@@ -11169,7 +11563,8 @@
                 "Cascada",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STARLY",
@@ -11197,7 +11592,8 @@
                 "Placaje",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STARAVIA",
@@ -11225,7 +11621,8 @@
                 "Ataque Ala",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STARAPTOR",
@@ -11253,7 +11650,8 @@
                 "Ataque Ala",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BIDOOF",
@@ -11281,7 +11679,8 @@
                 "Placaje",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BIBAREL",
@@ -11309,7 +11708,8 @@
                 "Pistola Agua",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KRICKETOT",
@@ -11337,7 +11737,8 @@
                 "Estoicismo",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KRICKETUNE",
@@ -11365,7 +11766,8 @@
                 "Estoicismo",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHINX",
@@ -11393,7 +11795,8 @@
                 "Placaje",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LUXIO",
@@ -11421,7 +11824,8 @@
                 "Chispa",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LUXRAY",
@@ -11451,7 +11855,8 @@
                 "Alarido",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BUDEW",
@@ -11479,7 +11884,8 @@
                 "Poder Oculto",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ROSERADE",
@@ -11507,7 +11913,8 @@
                 "Puya Nociva",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CRANIDOS",
@@ -11535,7 +11942,8 @@
                 "Cabezazo Zen",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RAMPARDOS",
@@ -11563,7 +11971,8 @@
                 "Cabezazo Zen",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHIELDON",
@@ -11591,7 +12000,8 @@
                 "Placaje",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BASTIODON",
@@ -11619,7 +12029,8 @@
                 "Antiaéreo",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BURMY",
@@ -11647,7 +12058,8 @@
                 "Placaje",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WORMADAM",
@@ -11675,7 +12087,8 @@
                 "Placaje",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MOTHIM",
@@ -11703,7 +12116,8 @@
                 "Tajo Aéreo",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COMBEE",
@@ -11729,7 +12143,8 @@
             "es": [
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VESPIQUEN",
@@ -11761,7 +12176,8 @@
                 "Corte Furia",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PACHIRISU",
@@ -11789,7 +12205,8 @@
                 "Chispa",
                 "Voltiocambio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BUIZEL",
@@ -11817,7 +12234,8 @@
                 "Pistola Agua",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLOATZEL",
@@ -11845,7 +12263,8 @@
                 "Pistola Agua",
                 "Cascada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHERUBI",
@@ -11873,7 +12292,8 @@
                 "Placaje",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHERRIM",
@@ -11901,7 +12321,8 @@
                 "Hoja Afilada",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHELLOS",
@@ -11929,7 +12350,8 @@
                 "Bofetón Lodo",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GASTRODON",
@@ -11957,7 +12379,8 @@
                 "Bofetón Lodo",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AMBIPOM",
@@ -11985,7 +12408,8 @@
                 "Arañazo",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRIFLOON",
@@ -12013,7 +12437,8 @@
                 "Infortunio",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRIFBLIM",
@@ -12041,7 +12466,8 @@
                 "Infortunio",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BUNEARY",
@@ -12069,7 +12495,8 @@
                 "Destructor",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LOPUNNY",
@@ -12099,7 +12526,8 @@
                 "Patada Baja",
                 "Doble Patada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MISMAGIUS",
@@ -12127,7 +12555,8 @@
                 "Golpe Bajo",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HONCHKROW",
@@ -12155,7 +12584,8 @@
                 "Picotazo",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GLAMEOW",
@@ -12183,7 +12613,8 @@
                 "Arañazo",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PURUGLY",
@@ -12211,7 +12642,8 @@
                 "Arañazo",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHINGLING",
@@ -12239,7 +12671,8 @@
                 "Cabezazo Zen",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STUNKY",
@@ -12267,7 +12700,8 @@
                 "Arañazo",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SKUNTANK",
@@ -12295,7 +12729,8 @@
                 "Puya Nociva",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BRONZOR",
@@ -12323,7 +12758,8 @@
                 "Placaje",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BRONZONG",
@@ -12351,7 +12787,8 @@
                 "Finta",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BONSLY",
@@ -12379,7 +12816,8 @@
                 "Lanzarrocas",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MIME_JR",
@@ -12407,7 +12845,8 @@
                 "Confusión",
                 "Destructor"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HAPPINY",
@@ -12435,7 +12874,8 @@
                 "Destructor",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHATOT",
@@ -12463,7 +12903,8 @@
                 "Picotazo",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SPIRITOMB",
@@ -12491,7 +12932,8 @@
                 "Finta",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GIBLE",
@@ -12519,7 +12961,8 @@
                 "Derribo",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GABITE",
@@ -12547,7 +12990,8 @@
                 "Derribo",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GARCHOMP",
@@ -12575,7 +13019,8 @@
                 "Cola Dragón",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MUNCHLAX",
@@ -12603,7 +13048,8 @@
                 "Placaje",
                 "Lengüetazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RIOLU",
@@ -12631,7 +13077,8 @@
                 "Contraataque",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LUCARIO",
@@ -12659,7 +13106,8 @@
                 "Contraataque",
                 "Puño Bala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HIPPOPOTAS",
@@ -12687,7 +13135,8 @@
                 "Placaje",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HIPPOWDON",
@@ -12719,7 +13168,8 @@
                 "Colmillo Rayo",
                 "Colmillo Hielo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SKORUPI",
@@ -12747,7 +13197,8 @@
                 "Picotazo Veneno",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRAPION",
@@ -12779,7 +13230,8 @@
                 "Mordisco",
                 "Colmillo Hielo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CROAGUNK",
@@ -12807,7 +13259,8 @@
                 "Picotazo Veneno",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOXICROAK",
@@ -12835,7 +13288,8 @@
                 "Puya Nociva",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CARNIVINE",
@@ -12863,7 +13317,8 @@
                 "Mordisco",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FINNEON",
@@ -12891,7 +13346,8 @@
                 "Destructor",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LUMINEON",
@@ -12919,7 +13375,8 @@
                 "Cascada",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MANTYKE",
@@ -12947,7 +13404,8 @@
                 "Burbuja",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SNOVER",
@@ -12977,7 +13435,8 @@
                 "Canto Helado",
                 "Follaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ABOMASNOW",
@@ -13007,7 +13466,8 @@
                 "Hoja Afilada",
                 "Follaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WEAVILE",
@@ -13037,7 +13497,8 @@
                 "Finta",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAGNEZONE",
@@ -13065,7 +13526,8 @@
                 "Chispa",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LICKILICKY",
@@ -13093,7 +13555,8 @@
                 "Lengüetazo",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RHYPERIOR",
@@ -13121,7 +13584,8 @@
                 "Bofetón Lodo",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TANGROWTH",
@@ -13149,7 +13613,8 @@
                 "Látigo Cepa",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ELECTIVIRE",
@@ -13177,7 +13642,8 @@
                 "Impactrueno",
                 "Patada Baja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAGMORTAR",
@@ -13205,7 +13671,8 @@
                 "Giro Fuego",
                 "Golpe Kárate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOGEKISS",
@@ -13235,7 +13702,8 @@
                 "Poder Oculto",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "YANMEGA",
@@ -13263,7 +13731,8 @@
                 "Picadura",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LEAFEON",
@@ -13291,7 +13760,8 @@
                 "Hoja Afilada",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GLACEON",
@@ -13319,7 +13789,8 @@
                 "Canto Helado",
                 "Vaho Gélido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GLISCOR",
@@ -13347,7 +13818,8 @@
                 "Corte Furia",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAMOSWINE",
@@ -13375,7 +13847,8 @@
                 "Bofetón Lodo",
                 "Nieve Polvo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PORYGON_Z",
@@ -13405,7 +13878,8 @@
                 "Rayo Carga",
                 "Fijar Blanco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GALLADE",
@@ -13435,7 +13909,8 @@
                 "Patada Baja",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PROBOPASS",
@@ -13463,7 +13938,8 @@
                 "Lanzarrocas",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DUSKNOIR",
@@ -13491,7 +13967,8 @@
                 "Infortunio",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FROSLASS",
@@ -13519,7 +13996,8 @@
                 "Nieve Polvo",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ROTOM",
@@ -13547,7 +14025,8 @@
                 "Impresionar",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "UXIE",
@@ -13575,7 +14054,8 @@
                 "Confusión",
                 "Paranormal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MESPRIT",
@@ -13603,7 +14083,8 @@
                 "Confusión",
                 "Paranormal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AZELF",
@@ -13631,7 +14112,8 @@
                 "Confusión",
                 "Paranormal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DIALGA",
@@ -13659,7 +14141,8 @@
                 "Dragoaliento",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PALKIA",
@@ -13687,7 +14170,8 @@
                 "Dragoaliento",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HEATRAN",
@@ -13715,7 +14199,8 @@
                 "Giro Fuego",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "REGIGIGAS",
@@ -13743,7 +14228,8 @@
                 "Cabezazo Zen",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GIRATINA",
@@ -13771,7 +14257,8 @@
                 "Dragoaliento",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CRESSELIA",
@@ -13799,7 +14286,8 @@
                 "Psicocorte",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PHIONE",
@@ -13827,7 +14315,8 @@
                 "Cascada",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MANAPHY",
@@ -13855,7 +14344,8 @@
                 "Cascada",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DARKRAI",
@@ -13883,7 +14373,8 @@
                 "Alarido",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHAYMIN",
@@ -13911,7 +14402,8 @@
                 "Poder Oculto",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARCEUS",
@@ -13939,7 +14431,8 @@
                 "Cola Férrea",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VICTINI",
@@ -13967,7 +14460,8 @@
                 "Confusión",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SNIVY",
@@ -13995,7 +14489,8 @@
                 "Placaje",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SERVINE",
@@ -14023,7 +14518,8 @@
                 "Cola Férrea",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SERPERIOR",
@@ -14051,7 +14547,8 @@
                 "Cola Férrea",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TEPIG",
@@ -14079,7 +14576,8 @@
                 "Placaje",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PIGNITE",
@@ -14107,7 +14605,8 @@
                 "Placaje",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EMBOAR",
@@ -14135,7 +14634,8 @@
                 "Patada Baja",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "OSHAWOTT",
@@ -14163,7 +14663,8 @@
                 "Placaje",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DEWOTT",
@@ -14191,7 +14692,8 @@
                 "Corte Furia",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SAMUROTT",
@@ -14219,7 +14721,8 @@
                 "Corte Furia",
                 "Cascada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PATRAT",
@@ -14247,7 +14750,8 @@
                 "Placaje",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WATCHOG",
@@ -14275,7 +14779,8 @@
                 "Patada Baja",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LILLIPUP",
@@ -14303,7 +14808,8 @@
                 "Placaje",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HERDIER",
@@ -14331,7 +14837,8 @@
                 "Lengüetazo",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STOUTLAND",
@@ -14361,7 +14868,8 @@
                 "Derribo",
                 "Colmillo Hielo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PURRLOIN",
@@ -14389,7 +14897,8 @@
                 "Arañazo",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LIEPARD",
@@ -14417,7 +14926,8 @@
                 "Encanto",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PANSAGE",
@@ -14445,7 +14955,8 @@
                 "Arañazo",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SIMISAGE",
@@ -14473,7 +14984,8 @@
                 "Mordisco",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PANSEAR",
@@ -14501,7 +15013,8 @@
                 "Arañazo",
                 "Giro Fuego"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SIMISEAR",
@@ -14529,7 +15042,8 @@
                 "Mordisco",
                 "Giro Fuego"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PANPOUR",
@@ -14557,7 +15071,8 @@
                 "Arañazo",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SIMIPOUR",
@@ -14585,7 +15100,8 @@
                 "Mordisco",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MUNNA",
@@ -14613,7 +15129,8 @@
                 "Cabezazo Zen",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MUSHARNA",
@@ -14641,7 +15158,8 @@
                 "Cabezazo Zen",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PIDOVE",
@@ -14669,7 +15187,8 @@
                 "Ataque Rápido",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TRANQUILL",
@@ -14697,7 +15216,8 @@
                 "Tajo Aéreo",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "UNFEZANT",
@@ -14725,7 +15245,8 @@
                 "Tajo Aéreo",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BLITZLE",
@@ -14753,7 +15274,8 @@
                 "Ataque Rápido",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZEBSTRIKA",
@@ -14781,7 +15303,8 @@
                 "Patada Baja",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ROGGENROLA",
@@ -14809,7 +15332,8 @@
                 "Placaje",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BOLDORE",
@@ -14837,7 +15361,8 @@
                 "Bofetón Lodo",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GIGALITH",
@@ -14865,7 +15390,8 @@
                 "Bofetón Lodo",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WOOBAT",
@@ -14893,7 +15419,8 @@
                 "Confusión",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SWOOBAT",
@@ -14921,7 +15448,8 @@
                 "Confusión",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRILBUR",
@@ -14949,7 +15477,8 @@
                 "Arañazo",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EXCADRILL",
@@ -14979,7 +15508,8 @@
                 "Bofetón Lodo",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AUDINO",
@@ -15007,7 +15537,8 @@
                 "Destructor",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TIMBURR",
@@ -15035,7 +15566,8 @@
                 "Patada Baja",
                 "Destructor"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GURDURR",
@@ -15063,7 +15595,8 @@
                 "Patada Baja",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CONKELDURR",
@@ -15091,7 +15624,8 @@
                 "Contraataque",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TYMPOLE",
@@ -15119,7 +15653,8 @@
                 "Disparo Lodo",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PALPITOAD",
@@ -15147,7 +15682,8 @@
                 "Disparo Lodo",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SEISMITOAD",
@@ -15175,7 +15711,8 @@
                 "Disparo Lodo",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "THROH",
@@ -15203,7 +15740,8 @@
                 "Patada Baja",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SAWK",
@@ -15231,7 +15769,8 @@
                 "Patada Baja",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SEWADDLE",
@@ -15259,7 +15798,8 @@
                 "Estoicismo",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SWADLOON",
@@ -15287,7 +15827,8 @@
                 "Estoicismo",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LEAVANNY",
@@ -15315,7 +15856,8 @@
                 "Hoja Afilada",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VENIPEDE",
@@ -15343,7 +15885,8 @@
                 "Picadura",
                 "Picotazo Veneno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WHIRLIPEDE",
@@ -15371,7 +15914,8 @@
                 "Picadura",
                 "Picotazo Veneno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SCOLIPEDE",
@@ -15399,7 +15943,8 @@
                 "Picadura",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COTTONEE",
@@ -15427,7 +15972,8 @@
                 "Encanto",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WHIMSICOTT",
@@ -15457,7 +16003,8 @@
                 "Hoja Afilada",
                 "Viento Feérico"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PETILIL",
@@ -15485,7 +16032,8 @@
                 "Encanto",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LILLIGANT",
@@ -15513,7 +16061,8 @@
                 "Encanto",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BASCULIN",
@@ -15541,7 +16090,8 @@
                 "Placaje",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SANDILE",
@@ -15569,7 +16119,8 @@
                 "Mordisco",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KROKOROK",
@@ -15597,7 +16148,8 @@
                 "Mordisco",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KROOKODILE",
@@ -15625,7 +16177,8 @@
                 "Alarido",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DARUMAKA",
@@ -15653,7 +16206,8 @@
                 "Placaje",
                 "Colmillo Ígneo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DARMANITAN",
@@ -15683,7 +16237,8 @@
                 "Colmillo Ígneo",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MARACTUS",
@@ -15711,7 +16266,8 @@
                 "Semilladora",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DWEBBLE",
@@ -15739,7 +16295,8 @@
                 "Corte",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CRUSTLE",
@@ -15767,7 +16324,8 @@
                 "Corte Furia",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SCRAGGY",
@@ -15795,7 +16353,8 @@
                 "Golpe Roca",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SCRAFTY",
@@ -15823,7 +16382,8 @@
                 "Contraataque",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SIGILYPH",
@@ -15851,7 +16411,8 @@
                 "Tajo Aéreo",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "YAMASK",
@@ -15879,7 +16440,8 @@
                 "Impresionar",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COFAGRIGUS",
@@ -15909,7 +16471,8 @@
                 "Cabezazo Zen",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TIRTOUGA",
@@ -15937,7 +16500,8 @@
                 "Pistola Agua",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CARRACOSTA",
@@ -15965,7 +16529,8 @@
                 "Pistola Agua",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARCHEN",
@@ -15993,7 +16558,8 @@
                 "Ataque Rápido",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARCHEOPS",
@@ -16021,7 +16587,8 @@
                 "Ala de Acero",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TRUBBISH",
@@ -16049,7 +16616,8 @@
                 "Destructor",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GARBODOR",
@@ -16077,7 +16645,8 @@
                 "Acoso",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZORUA",
@@ -16105,7 +16674,8 @@
                 "Arañazo",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZOROARK",
@@ -16133,7 +16703,8 @@
                 "Garra Umbría",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MINCCINO",
@@ -16161,7 +16732,8 @@
                 "Destructor",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CINCCINO",
@@ -16189,7 +16761,8 @@
                 "Destructor",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOTHITA",
@@ -16217,7 +16790,8 @@
                 "Destructor",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOTHORITA",
@@ -16245,7 +16819,8 @@
                 "Destructor",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOTHITELLE",
@@ -16273,7 +16848,8 @@
                 "Encanto",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SOLOSIS",
@@ -16301,7 +16877,8 @@
                 "Poder Oculto",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DUOSION",
@@ -16329,7 +16906,8 @@
                 "Poder Oculto",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "REUNICLUS",
@@ -16357,7 +16935,8 @@
                 "Poder Oculto",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DUCKLETT",
@@ -16385,7 +16964,8 @@
                 "Pistola Agua",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SWANNA",
@@ -16413,7 +16993,8 @@
                 "Pistola Agua",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VANILLITE",
@@ -16441,7 +17022,8 @@
                 "Nieve Polvo",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VANILLISH",
@@ -16469,7 +17051,8 @@
                 "Vaho Gélido",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VANILLUXE",
@@ -16497,7 +17080,8 @@
                 "Vaho Gélido",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DEERLING",
@@ -16525,7 +17109,8 @@
                 "Placaje",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SAWSBUCK",
@@ -16553,7 +17138,8 @@
                 "Finta",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EMOLGA",
@@ -16581,7 +17167,8 @@
                 "Impactrueno",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KARRABLAST",
@@ -16609,7 +17196,8 @@
                 "Picotazo",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ESCAVALIER",
@@ -16637,7 +17225,8 @@
                 "Contraataque",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FOONGUS",
@@ -16665,7 +17254,8 @@
                 "Impresionar",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AMOONGUSS",
@@ -16693,7 +17283,8 @@
                 "Impresionar",
                 "Finta"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FRILLISH",
@@ -16721,7 +17312,8 @@
                 "Burbuja",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "JELLICENT",
@@ -16749,7 +17341,8 @@
                 "Burbuja",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ALOMOMOLA",
@@ -16777,7 +17370,8 @@
                 "Cascada",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "JOLTIK",
@@ -16805,7 +17399,8 @@
                 "Rayo Carga",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GALVANTULA",
@@ -16833,7 +17428,8 @@
                 "Voltiocambio",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FERROSEED",
@@ -16861,7 +17457,8 @@
                 "Placaje",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FERROTHORN",
@@ -16889,7 +17486,8 @@
                 "Semilladora",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KLINK",
@@ -16917,7 +17515,8 @@
                 "Voltiocambio",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KLANG",
@@ -16945,7 +17544,8 @@
                 "Impactrueno",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KLINKLANG",
@@ -16973,7 +17573,8 @@
                 "Impactrueno",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TYNAMO",
@@ -17001,7 +17602,8 @@
                 "Placaje",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EELEKTRIK",
@@ -17029,7 +17631,8 @@
                 "Ácido",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EELEKTROSS",
@@ -17057,7 +17660,8 @@
                 "Ácido",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ELGYEM",
@@ -17085,7 +17689,8 @@
                 "Confusión",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BEHEEYEM",
@@ -17113,7 +17718,8 @@
                 "Confusión",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LITWICK",
@@ -17141,7 +17747,8 @@
                 "Impresionar",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LAMPENT",
@@ -17169,7 +17776,8 @@
                 "Impresionar",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHANDELURE",
@@ -17199,7 +17807,8 @@
                 "Giro Fuego",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AXEW",
@@ -17227,7 +17836,8 @@
                 "Arañazo",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FRAXURE",
@@ -17255,7 +17865,8 @@
                 "Cola Dragón",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HAXORUS",
@@ -17283,7 +17894,8 @@
                 "Cola Dragón",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CUBCHOO",
@@ -17311,7 +17923,8 @@
                 "Nieve Polvo",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BEARTIC",
@@ -17339,7 +17952,8 @@
                 "Nieve Polvo",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CRYOGONAL",
@@ -17367,7 +17981,8 @@
                 "Canto Helado",
                 "Vaho Gélido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHELMET",
@@ -17395,7 +18010,8 @@
                 "Ácido",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ACCELGOR",
@@ -17423,7 +18039,8 @@
                 "Ácido",
                 "Acoso"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STUNFISK",
@@ -17451,7 +18068,8 @@
                 "Impactrueno",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MIENFOO",
@@ -17479,7 +18097,8 @@
                 "Patada Baja",
                 "Destructor"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MIENSHAO",
@@ -17507,7 +18126,8 @@
                 "Patada Baja",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRUDDIGON",
@@ -17535,7 +18155,8 @@
                 "Cola Dragón",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOLETT",
@@ -17563,7 +18184,8 @@
                 "Impresionar",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOLURK",
@@ -17591,7 +18213,8 @@
                 "Impresionar",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PAWNIARD",
@@ -17619,7 +18242,8 @@
                 "Arañazo",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BISHARP",
@@ -17647,7 +18271,8 @@
                 "Alarido",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BOUFFALANT",
@@ -17675,7 +18300,8 @@
                 "Cabezazo Zen",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RUFFLET",
@@ -17703,7 +18329,8 @@
                 "Picotazo",
                 "Ataque Ala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BRAVIARY",
@@ -17731,7 +18358,8 @@
                 "Ala de Acero",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VULLABY",
@@ -17759,7 +18387,8 @@
                 "Finta",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MANDIBUZZ",
@@ -17787,7 +18416,8 @@
                 "Alarido",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HEATMOR",
@@ -17815,7 +18445,8 @@
                 "Lengüetazo",
                 "Giro Fuego"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DURANT",
@@ -17843,7 +18474,8 @@
                 "Picadura",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DEINO",
@@ -17871,7 +18503,8 @@
                 "Placaje",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZWEILOUS",
@@ -17899,7 +18532,8 @@
                 "Mordisco",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HYDREIGON",
@@ -17927,7 +18561,8 @@
                 "Mordisco",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LARVESTA",
@@ -17955,7 +18590,8 @@
                 "Ascuas",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VOLCARONA",
@@ -17983,7 +18619,8 @@
                 "Giro Fuego",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COBALION",
@@ -18013,7 +18650,8 @@
                 "Cabezazo Zen",
                 "Doble Patada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TERRAKION",
@@ -18043,7 +18681,8 @@
                 "Cabezazo Zen",
                 "Doble Patada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VIRIZION",
@@ -18073,7 +18712,8 @@
                 "Cabezazo Zen",
                 "Doble Patada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TORNADUS",
@@ -18101,7 +18741,8 @@
                 "Mordisco",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "THUNDURUS",
@@ -18129,7 +18770,8 @@
                 "Impresionar",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RESHIRAM",
@@ -18157,7 +18799,8 @@
                 "Dragoaliento",
                 "Colmillo Ígneo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZEKROM",
@@ -18185,7 +18828,8 @@
                 "Dragoaliento",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LANDORUS",
@@ -18213,7 +18857,8 @@
                 "Disparo Lodo",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KYUREM",
@@ -18241,7 +18886,8 @@
                 "Dragoaliento",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KELDEO",
@@ -18269,7 +18915,8 @@
                 "Puya Nociva",
                 "Patada Baja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MELOETTA",
@@ -18297,7 +18944,8 @@
                 "Ataque Rápido",
                 "Patada Baja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GENESECT",
@@ -18325,7 +18973,8 @@
                 "Garra Metal",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHESPIN",
@@ -18353,7 +19002,8 @@
                 "Derribo",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "QUILLADIN",
@@ -18381,7 +19031,8 @@
                 "Patada Baja",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHESNAUGHT",
@@ -18411,7 +19062,8 @@
                 "Látigo Cepa",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FENNEKIN",
@@ -18439,7 +19091,8 @@
                 "Arañazo",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BRAIXEN",
@@ -18467,7 +19120,8 @@
                 "Arañazo",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DELPHOX",
@@ -18497,7 +19151,8 @@
                 "Giro Fuego",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FROAKIE",
@@ -18525,7 +19180,8 @@
                 "Destructor",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FROGADIER",
@@ -18553,7 +19209,8 @@
                 "Destructor",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GRENINJA",
@@ -18581,7 +19238,8 @@
                 "Finta",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BUNNELBY",
@@ -18609,7 +19267,8 @@
                 "Bofetón Lodo",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DIGGERSBY",
@@ -18637,7 +19296,8 @@
                 "Disparo Lodo",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLETCHLING",
@@ -18665,7 +19325,8 @@
                 "Picotazo",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLETCHINDER",
@@ -18695,7 +19356,8 @@
                 "Ascuas",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TALONFLAME",
@@ -18725,7 +19387,8 @@
                 "Giro Fuego",
                 "Ala de Acero"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SCATTERBUG",
@@ -18753,7 +19416,8 @@
                 "Picadura",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SPEWPA",
@@ -18779,7 +19443,8 @@
             "es": [
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VIVILLON",
@@ -18807,7 +19472,8 @@
                 "Tornado",
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LITLEO",
@@ -18839,7 +19505,8 @@
                 "Ascuas",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PYROAR",
@@ -18871,7 +19538,8 @@
                 "Ascuas",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLABEBE",
@@ -18899,7 +19567,8 @@
                 "Látigo Cepa",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLOETTE",
@@ -18927,7 +19596,8 @@
                 "Látigo Cepa",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLORGES",
@@ -18959,7 +19629,8 @@
                 "Hoja Afilada",
                 "Viento Feérico"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SKIDDO",
@@ -18987,7 +19658,8 @@
                 "Cabezazo Zen",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOGOAT",
@@ -19017,7 +19689,8 @@
                 "Golpe Roca",
                 "Látigo Cepa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PANCHAM",
@@ -19045,7 +19718,8 @@
                 "Patada Baja",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PANGORO",
@@ -19075,7 +19749,8 @@
                 "Alarido",
                 "Puño Bala"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FURFROU",
@@ -19105,7 +19780,8 @@
                 "Mordisco",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ESPURR",
@@ -19133,7 +19809,8 @@
                 "Confusión",
                 "Arañazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MEOWSTIC",
@@ -19161,7 +19838,8 @@
                 "Confusión",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HONEDGE",
@@ -19189,7 +19867,8 @@
                 "Placaje",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DOUBLADE",
@@ -19217,7 +19896,8 @@
                 "Psicocorte",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AEGISLASH",
@@ -19245,7 +19925,8 @@
                 "Psicocorte",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SPRITZEE",
@@ -19273,7 +19954,8 @@
                 "Encanto",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AROMATISSE",
@@ -19301,7 +19983,8 @@
                 "Encanto",
                 "Rayo Carga"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SWIRLIX",
@@ -19327,7 +20010,8 @@
             "es": [
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SLURPUFF",
@@ -19357,7 +20041,8 @@
                 "Encanto",
                 "Viento Feérico"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "INKAY",
@@ -19385,7 +20070,8 @@
                 "Picotazo",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MALAMAR",
@@ -19413,7 +20099,8 @@
                 "Picotazo",
                 "Psicocorte"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BINACLE",
@@ -19441,7 +20128,8 @@
                 "Arañazo",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BARBARACLE",
@@ -19471,7 +20159,8 @@
                 "Bofetón Lodo",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SKRELP",
@@ -19499,7 +20188,8 @@
                 "Pistola Agua",
                 "Ácido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRAGALGE",
@@ -19529,7 +20219,8 @@
                 "Ácido",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CLAUNCHER",
@@ -19557,7 +20248,8 @@
                 "Pistola Agua",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CLAWITZER",
@@ -19585,7 +20277,8 @@
                 "Pistola Agua",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HELIOPTILE",
@@ -19613,7 +20306,8 @@
                 "Ataque Rápido",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HELIOLISK",
@@ -19643,7 +20337,8 @@
                 "Voltiocambio",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TYRUNT",
@@ -19671,7 +20366,8 @@
                 "Cola Dragón",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TYRANTRUM",
@@ -19701,7 +20397,8 @@
                 "Encanto",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AMAURA",
@@ -19729,7 +20426,8 @@
                 "Nieve Polvo",
                 "Vaho Gélido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AURORUS",
@@ -19759,7 +20457,8 @@
                 "Vaho Gélido",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SYLVEON",
@@ -19787,7 +20486,8 @@
                 "Encanto",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HAWLUCHA",
@@ -19815,7 +20515,8 @@
                 "Patada Baja",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DEDENNE",
@@ -19843,7 +20544,8 @@
                 "Placaje",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CARBINK",
@@ -19871,7 +20573,8 @@
                 "Placaje",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOOMY",
@@ -19899,7 +20602,8 @@
                 "Pistola Agua",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SLIGGOO",
@@ -19927,7 +20631,8 @@
                 "Pistola Agua",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOODRA",
@@ -19955,7 +20660,8 @@
                 "Pistola Agua",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KLEFKI",
@@ -19983,7 +20689,8 @@
                 "Impresionar",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PHANTUMP",
@@ -20011,7 +20718,8 @@
                 "Impresionar",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TREVENANT",
@@ -20039,7 +20747,8 @@
                 "Garra Umbría",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PUMPKABOO",
@@ -20067,7 +20776,8 @@
                 "Impresionar",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOURGEIST",
@@ -20095,7 +20805,8 @@
                 "Infortunio",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BERGMITE",
@@ -20123,7 +20834,8 @@
                 "Mordisco",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "AVALUGG",
@@ -20151,7 +20863,8 @@
                 "Mordisco",
                 "Colmillo Hielo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NOIBAT",
@@ -20179,7 +20892,8 @@
                 "Ataque Ala",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NOIVERN",
@@ -20207,7 +20921,8 @@
                 "Tajo Aéreo",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "XERNEAS",
@@ -20235,7 +20950,8 @@
                 "Placaje",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "YVELTAL",
@@ -20265,7 +20981,8 @@
                 "Alarido",
                 "Tornado"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZYGARDE",
@@ -20295,7 +21012,8 @@
                 "Mordisco",
                 "Cabezazo Zen"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DIANCIE",
@@ -20323,7 +21041,8 @@
                 "Placaje",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HOOPA",
@@ -20351,7 +21070,8 @@
                 "Confusión",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VOLCANION",
@@ -20381,7 +21101,8 @@
                 "Pistola Agua",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ROWLET",
@@ -20411,7 +21132,8 @@
                 "Hoja Afilada",
                 "Follaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DARTRIX",
@@ -20441,7 +21163,8 @@
                 "Hoja Afilada",
                 "Follaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DECIDUEYE",
@@ -20471,7 +21194,8 @@
                 "Hoja Afilada",
                 "Follaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LITTEN",
@@ -20499,7 +21223,8 @@
                 "Arañazo",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TORRACAT",
@@ -20527,7 +21252,8 @@
                 "Mordisco",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "INCINEROAR",
@@ -20557,7 +21283,8 @@
                 "Colmillo Ígneo",
                 "Doble Patada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "POPPLIO",
@@ -20585,7 +21312,8 @@
                 "Destructor",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BRIONNE",
@@ -20613,7 +21341,8 @@
                 "Encanto",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PRIMARINA",
@@ -20641,7 +21370,8 @@
                 "Encanto",
                 "Cascada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PIKIPEK",
@@ -20669,7 +21399,8 @@
                 "Picotazo",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TRUMBEAK",
@@ -20697,7 +21428,8 @@
                 "Picotazo",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOUCANNON",
@@ -20727,7 +21459,8 @@
                 "Golpe Roca",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "YUNGOOS",
@@ -20755,7 +21488,8 @@
                 "Placaje",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GUMSHOOS",
@@ -20783,7 +21517,8 @@
                 "Derribo",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GRUBBIN",
@@ -20811,7 +21546,8 @@
                 "Picadura",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHARJABUG",
@@ -20839,7 +21575,8 @@
                 "Picadura",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "VIKAVOLT",
@@ -20869,7 +21606,8 @@
                 "Chispa",
                 "Bofetón Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CRABRAWLER",
@@ -20897,7 +21635,8 @@
                 "Golpe Roca",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CRABOMINABLE",
@@ -20925,7 +21664,8 @@
                 "Golpe Roca",
                 "Burbuja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ORICORIO",
@@ -20953,7 +21693,8 @@
                 "Destructor",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CUTIEFLY",
@@ -20981,7 +21722,8 @@
                 "Viento Feérico",
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RIBOMBEE",
@@ -21009,7 +21751,8 @@
                 "Viento Feérico",
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ROCKRUFF",
@@ -21037,7 +21780,8 @@
                 "Placaje",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LYCANROC",
@@ -21065,7 +21809,8 @@
                 "Golpe Bajo",
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WISHIWASHI",
@@ -21095,7 +21840,8 @@
                 "Cascada",
                 "Cola Férrea"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAREANIE",
@@ -21123,7 +21869,8 @@
                 "Picotazo Veneno",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOXAPEX",
@@ -21151,7 +21898,8 @@
                 "Puya Nociva",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MUDBRAY",
@@ -21179,7 +21927,8 @@
                 "Bofetón Lodo",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MUDSDALE",
@@ -21207,7 +21956,8 @@
                 "Bofetón Lodo",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DEWPIDER",
@@ -21235,7 +21985,8 @@
                 "Acoso",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARAQUANID",
@@ -21263,7 +22014,8 @@
                 "Acoso",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FOMANTIS",
@@ -21293,7 +22045,8 @@
                 "Corte Furia",
                 "Follaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LURANTIS",
@@ -21323,7 +22076,8 @@
                 "Corte Furia",
                 "Follaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MORELULL",
@@ -21349,7 +22103,8 @@
             "es": [
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SHIINOTIC",
@@ -21375,7 +22130,8 @@
             "es": [
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SALANDIT",
@@ -21403,7 +22159,8 @@
                 "Ascuas",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SALAZZLE",
@@ -21431,7 +22188,8 @@
                 "Calcinación",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STUFFUL",
@@ -21459,7 +22217,8 @@
                 "Placaje",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BEWEAR",
@@ -21489,7 +22248,8 @@
                 "Patada Baja",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BOUNSWEET",
@@ -21517,7 +22277,8 @@
                 "Hoja Afilada",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STEENEE",
@@ -21545,7 +22306,8 @@
                 "Hoja Afilada",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TSAREENA",
@@ -21575,7 +22337,8 @@
                 "Encanto",
                 "Hoja Mágica"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COMFEY",
@@ -21603,7 +22366,8 @@
                 "Látigo Cepa",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ORANGURU",
@@ -21633,7 +22397,8 @@
                 "Cabezazo Zen",
                 "Bostezo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PASSIMIAN",
@@ -21663,7 +22428,8 @@
                 "Golpe Roca",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WIMPOD",
@@ -21689,7 +22455,8 @@
             "es": [
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOLISOPOD",
@@ -21721,7 +22488,8 @@
                 "Cascada",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SANDYGAST",
@@ -21749,7 +22517,8 @@
                 "Impresionar",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PALOSSAND",
@@ -21777,7 +22546,8 @@
                 "Impresionar",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PYUKUMUKU",
@@ -21803,7 +22573,8 @@
             "es": [
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TYPE_NULL",
@@ -21831,7 +22602,8 @@
                 "Placaje",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SILVALLY",
@@ -21861,7 +22633,8 @@
                 "Derribo",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MINIOR",
@@ -21889,7 +22662,8 @@
                 "Desenrollar",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KOMALA",
@@ -21917,7 +22691,8 @@
                 "Desenrollar",
                 "Bostezo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TURTONATOR",
@@ -21947,7 +22722,8 @@
                 "Giro Fuego",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOGEDEMARU",
@@ -21975,7 +22751,8 @@
                 "Impactrueno",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MIMIKYU",
@@ -22003,7 +22780,8 @@
                 "Garra Umbría",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BRUXISH",
@@ -22033,7 +22811,8 @@
                 "Confusión",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRAMPA",
@@ -22061,7 +22840,8 @@
                 "Dragoaliento",
                 "Paranormal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DHELMISE",
@@ -22089,7 +22869,8 @@
                 "Impresionar",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "JANGMO_O",
@@ -22117,7 +22898,8 @@
                 "Placaje",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HAKAMO_O",
@@ -22145,7 +22927,8 @@
                 "Placaje",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KOMMO_O",
@@ -22173,7 +22956,8 @@
                 "Puya Nociva",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TAPU_KOKO",
@@ -22201,7 +22985,8 @@
                 "Voltiocambio",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TAPU_LELE",
@@ -22229,7 +23014,8 @@
                 "Confusión",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TAPU_BULU",
@@ -22257,7 +23043,8 @@
                 "Semilladora",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TAPU_FINI",
@@ -22285,7 +23072,8 @@
                 "Pistola Agua",
                 "Poder Oculto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COSMOG",
@@ -22311,7 +23099,8 @@
             "es": [
                 "Salpicadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COSMOEM",
@@ -22337,7 +23126,8 @@
             "es": [
                 "Salpicadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SOLGALEO",
@@ -22365,7 +23155,8 @@
                 "Cabezazo Zen",
                 "Giro Fuego"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "LUNALA",
@@ -22393,7 +23184,8 @@
                 "Confusión",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NIHILEGO",
@@ -22423,7 +23215,8 @@
                 "Destructor",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BUZZWOLE",
@@ -22451,7 +23244,8 @@
                 "Contraataque",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PHEROMOSA",
@@ -22479,7 +23273,8 @@
                 "Picadura",
                 "Patada Baja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "XURKITREE",
@@ -22507,7 +23302,8 @@
                 "Impactrueno",
                 "Chispa"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CELESTEELA",
@@ -22535,7 +23331,8 @@
                 "Tajo Aéreo",
                 "Antiaéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KARTANA",
@@ -22563,7 +23360,8 @@
                 "Tajo Aéreo",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GUZZLORD",
@@ -22591,7 +23389,8 @@
                 "Alarido",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NECROZMA",
@@ -22617,7 +23416,8 @@
             "es": [
                 "Combate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MAGEARNA",
@@ -22643,7 +23443,8 @@
             "es": [
                 "Combate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MARSHADOW",
@@ -22669,7 +23470,8 @@
             "es": [
                 "Combate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "POIPOLE",
@@ -22695,7 +23497,8 @@
             "es": [
                 "Combate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NAGANADEL",
@@ -22721,7 +23524,8 @@
             "es": [
                 "Combate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STAKATAKA",
@@ -22747,7 +23551,8 @@
             "es": [
                 "Combate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BLACEPHALON",
@@ -22773,7 +23578,8 @@
             "es": [
                 "Combate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZERAORA",
@@ -22799,7 +23605,8 @@
             "es": [
                 "Combate"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MELTAN",
@@ -22825,7 +23632,8 @@
             "es": [
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MELMETAL",
@@ -22851,7 +23659,8 @@
             "es": [
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GROOKEY",
@@ -22879,7 +23688,8 @@
                 "Arañazo",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "THWACKEY",
@@ -22907,7 +23717,8 @@
                 "Arañazo",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RILLABOOM",
@@ -22935,7 +23746,8 @@
                 "Arañazo",
                 "Hoja Afilada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SCORBUNNY",
@@ -22963,7 +23775,8 @@
                 "Placaje",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RABOOT",
@@ -22991,7 +23804,8 @@
                 "Placaje",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CINDERACE",
@@ -23019,7 +23833,8 @@
                 "Placaje",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SOBBLE",
@@ -23047,7 +23862,8 @@
                 "Destructor",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRIZZILE",
@@ -23075,7 +23891,8 @@
                 "Destructor",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "INTELEON",
@@ -23103,7 +23920,8 @@
                 "Destructor",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SKWOVET",
@@ -23133,7 +23951,8 @@
                 "Mordisco",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GREEDENT",
@@ -23163,7 +23982,8 @@
                 "Mordisco",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ROOKIDEE",
@@ -23191,7 +24011,8 @@
                 "Picotazo",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CORVISQUIRE",
@@ -23219,7 +24040,8 @@
                 "Picotazo",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CORVIKNIGHT",
@@ -23247,7 +24069,8 @@
                 "Ala de Acero",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BLIPBUG",
@@ -23273,7 +24096,8 @@
             "es": [
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DOTTLER",
@@ -23301,7 +24125,8 @@
                 "Estoicismo",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ORBEETLE",
@@ -23329,7 +24154,8 @@
                 "Estoicismo",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "NICKIT",
@@ -23357,7 +24183,8 @@
                 "Ataque Rápido",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "THIEVUL",
@@ -23385,7 +24212,8 @@
                 "Ataque Rápido",
                 "Alarido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GOSSIFLEUR",
@@ -23413,7 +24241,8 @@
                 "Hoja Afilada",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ELDEGOSS",
@@ -23441,7 +24270,8 @@
                 "Hoja Afilada",
                 "Semilladora"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "WOOLOO",
@@ -23469,7 +24299,8 @@
                 "Placaje",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DUBWOOL",
@@ -23499,7 +24330,8 @@
                 "Derribo",
                 "Doble Patada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CHEWTLE",
@@ -23527,7 +24359,8 @@
                 "Pistola Agua",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DREDNAW",
@@ -23555,7 +24388,8 @@
                 "Cascada",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "YAMPER",
@@ -23583,7 +24417,8 @@
                 "Chispa",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BOLTUND",
@@ -23611,7 +24446,8 @@
                 "Chispa",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ROLYCOLY",
@@ -23639,7 +24475,8 @@
                 "Antiaéreo",
                 "Placaje"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CARKOL",
@@ -23667,7 +24504,8 @@
                 "Antiaéreo",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COALOSSAL",
@@ -23695,7 +24533,8 @@
                 "Antiaéreo",
                 "Calcinación"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "APPLIN",
@@ -23721,7 +24560,8 @@
             "es": [
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FLAPPLE",
@@ -23749,7 +24589,8 @@
                 "Semilladora",
                 "Dragoaliento"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "APPLETUN",
@@ -23777,7 +24618,8 @@
                 "Semilladora",
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SILICOBRA",
@@ -23805,7 +24647,8 @@
                 "Bofetón Lodo",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SANDACONDA",
@@ -23833,7 +24676,8 @@
                 "Bofetón Lodo",
                 "Disparo Lodo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CRAMORANT",
@@ -23861,7 +24705,8 @@
                 "Picotazo",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARROKUDA",
@@ -23891,7 +24736,8 @@
                 "Mordisco",
                 "Picotazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "BARRASKEWDA",
@@ -23921,7 +24767,8 @@
                 "Mordisco",
                 "Picotazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOXEL",
@@ -23947,7 +24794,8 @@
             "es": [
                 "Ácido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "TOXTRICITY",
@@ -23977,7 +24825,8 @@
                 "Chispa",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SIZZLIPEDE",
@@ -24005,7 +24854,8 @@
                 "Picadura",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CENTISKORCH",
@@ -24033,7 +24883,8 @@
                 "Picadura",
                 "Ascuas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CLOBBOPUS",
@@ -24059,7 +24910,8 @@
             "es": [
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GRAPPLOCT",
@@ -24087,7 +24939,8 @@
                 "Golpe Roca",
                 "Cascada"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SINISTEA",
@@ -24115,7 +24968,8 @@
                 "Impresionar",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "POLTEAGEIST",
@@ -24145,7 +24999,8 @@
                 "Golpe Bajo",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HATENNA",
@@ -24173,7 +25028,8 @@
                 "Confusión",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HATTREM",
@@ -24201,7 +25057,8 @@
                 "Confusión",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "HATTERENE",
@@ -24231,7 +25088,8 @@
                 "Encanto",
                 "Psicocorte"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "IMPIDIMP",
@@ -24259,7 +25117,8 @@
                 "Mordisco",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MORGREM",
@@ -24287,7 +25146,8 @@
                 "Mordisco",
                 "Golpe Bajo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GRIMMSNARL",
@@ -24317,7 +25177,8 @@
                 "Golpe Bajo",
                 "Patada Baja"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "OBSTAGOON",
@@ -24345,7 +25206,8 @@
                 "Contraataque",
                 "Lengüetazo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PERRSERKER",
@@ -24373,7 +25235,8 @@
                 "Garra Metal",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CURSOLA",
@@ -24401,7 +25264,8 @@
                 "Impresionar",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SIRFETCHD",
@@ -24429,7 +25293,8 @@
                 "Contraataque",
                 "Corte Furia"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MR_RIME",
@@ -24459,7 +25324,8 @@
                 "Cabezazo Zen",
                 "Canto Helado"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "RUNERIGUS",
@@ -24487,7 +25353,8 @@
                 "Impresionar",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MILCERY",
@@ -24515,7 +25382,8 @@
                 "Placaje",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ALCREMIE",
@@ -24543,7 +25411,8 @@
                 "Placaje",
                 "Encanto"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FALINKS",
@@ -24571,7 +25440,8 @@
                 "Golpe Roca",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "PINCURCHIN",
@@ -24601,7 +25471,8 @@
                 "Pistola Agua",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SNOM",
@@ -24629,7 +25500,8 @@
                 "Nieve Polvo",
                 "Estoicismo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "FROSMOTH",
@@ -24657,7 +25529,8 @@
                 "Nieve Polvo",
                 "Picadura"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "STONJOURNER",
@@ -24683,7 +25556,8 @@
             "es": [
                 "Lanzarrocas"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "EISCUE",
@@ -24709,7 +25583,8 @@
             "es": [
                 "Nieve Polvo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "INDEEDEE",
@@ -24735,7 +25610,8 @@
             "es": [
                 "Paranormal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "MORPEKO",
@@ -24763,7 +25639,8 @@
                 "Impactrueno",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CUFANT",
@@ -24791,7 +25668,8 @@
                 "Placaje",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "COPPERAJAH",
@@ -24819,7 +25697,8 @@
                 "Placaje",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRACOZOLT",
@@ -24847,7 +25726,8 @@
                 "Cola Dragón",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARCTOZOLT",
@@ -24875,7 +25755,8 @@
                 "Nieve Polvo",
                 "Impactrueno"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRACOVISH",
@@ -24903,7 +25784,8 @@
                 "Dragoaliento",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ARCTOVISH",
@@ -24931,7 +25813,8 @@
                 "Nieve Polvo",
                 "Pistola Agua"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DURALUDON",
@@ -24959,7 +25842,8 @@
                 "Cola Dragón",
                 "Garra Metal"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DREEPY",
@@ -24987,7 +25871,8 @@
                 "Impresionar",
                 "Ataque Rápido"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRAKLOAK",
@@ -25015,7 +25900,8 @@
                 "Impresionar",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "DRAGAPULT",
@@ -25043,7 +25929,8 @@
                 "Infortunio",
                 "Cola Dragón"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZACIAN",
@@ -25075,7 +25962,8 @@
                 "Ataque Rápido",
                 "Colmillo Ígneo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZAMAZENTA",
@@ -25107,7 +25995,8 @@
                 "Ataque Rápido",
                 "Colmillo Hielo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ETERNATUS",
@@ -25135,7 +26024,8 @@
                 "Cola Dragón",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KUBFU",
@@ -25163,7 +26053,8 @@
                 "Golpe Roca",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "URSHIFU",
@@ -25191,7 +26082,8 @@
                 "Golpe Roca",
                 "Contraataque"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "ZARUDE",
@@ -25219,7 +26111,8 @@
                 "Látigo Cepa",
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "REGIELEKI",
@@ -25247,7 +26140,8 @@
                 "Impactrueno",
                 "Fijar Blanco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "REGIDRAGO",
@@ -25273,7 +26167,8 @@
             "es": [
                 "Mordisco"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GLASTRIER",
@@ -25301,7 +26196,8 @@
                 "Placaje",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SPECTRIER",
@@ -25329,7 +26225,8 @@
                 "Placaje",
                 "Derribo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "CALYREX",
@@ -25357,7 +26254,8 @@
                 "Destructor",
                 "Confusión"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "KLEAVOR",
@@ -25385,7 +26283,8 @@
                 "Ataque Rápido",
                 "Tajo Aéreo"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "URSALUNA",
@@ -25413,7 +26312,8 @@
                 "Placaje",
                 "Golpe Roca"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "SNEASLER",
@@ -25443,7 +26343,8 @@
                 "Puya Nociva",
                 "Garra Umbría"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "OVERQWIL",
@@ -25471,7 +26372,8 @@
                 "Picotazo Veneno",
                 "Puya Nociva"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GIMMIGHOUL",
@@ -25497,7 +26399,8 @@
             "es": [
                 "Impresionar"
             ]
-        }
+        },
+        "megaEvolutions": []
     },
     {
         "id": "GHOLDENGO",
@@ -25525,6 +26428,7 @@
                 "Impresionar",
                 "Infortunio"
             ]
-        }
+        },
+        "megaEvolutions": []
     }
 ]
