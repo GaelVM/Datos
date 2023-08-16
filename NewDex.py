@@ -78,11 +78,11 @@ for entry in data:
                 }
                 mega_evolutions.append(mega_entry)
 
-    stats = entry.get("stats", {})
+    stats = entry.get("stats")
     stats_en = {
-        "stamina": stats.get("stamina"),
-        "attack": stats.get("attack"),
-        "defense": stats.get("defense")
+        "stamina": stats.get("stamina") if stats else None,
+        "attack": stats.get("attack") if stats else None,
+        "defense": stats.get("defense") if stats else None
     }
     stats_es = stats_en.copy()
 
