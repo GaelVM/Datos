@@ -31,19 +31,19 @@ for row_en, row_es in zip(table_en.find_all('tr')[1:], table_es.find_all('tr')[1
 
     move_name_en = cells_en[1].text.strip()
 
-    # Obtener el tipo de ataque del atributo data-type del elemento span
+    # Obtener el tipo de ataque a partir de la clase del elemento span
     span_en = cells_en[2].find('span')
-    if span_en is not None and 'data-type' in span_en.attrs:
-        move_type_en = span_en['data-type']
+    if span_en is not None and 'class' in span_en.attrs:
+        move_type_en = span_en['class'][1].split('-')[2]
     else:
         move_type_en = "Unknown"
 
     move_name_es = cells_es[1].text.strip()
 
-    # Obtener el tipo de ataque del atributo data-type del elemento span
+    # Obtener el tipo de ataque a partir de la clase del elemento span
     span_es = cells_es[2].find('span')
-    if span_es is not None and 'data-type' in span_es.attrs:
-        move_type_es = span_es['data-type']
+    if span_es is not None and 'class' in span_es.attrs:
+        move_type_es = span_es['class'][1].split('-')[2]
     else:
         move_type_es = "Unknown"
 
