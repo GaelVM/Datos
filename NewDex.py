@@ -100,8 +100,8 @@ for entry in data:
                     "es": form_data["names"]["Spanish"]
                 },
                 "quickMoves": {
-                    "en": {key: value["names"]["English"] for key, value in form_data.get("quickMoves", {}).items()},
-                    "es": {key: value["names"]["Spanish"] for key, value in form_data.get("quickMoves", {}).items()}
+                    "en": [value["names"]["English"] for value in form_data.get("quickMoves", {}).values()],
+                    "es": [value["names"]["Spanish"] for value in form_data.get("quickMoves", {}).values()]
                 },
                 "cinematicMoves": form_data.get("cinematicMoves", {}),
                 "eliteQuickMoves": form_data.get("eliteQuickMoves", []),
