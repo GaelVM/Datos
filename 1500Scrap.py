@@ -1,23 +1,22 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import re  # Importar el módulo re necesario para las expresiones regulares
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 
 # Definir una función para obtener el nombre en "Spanish" de un ataque de la API
 def get_attack_name(attack_id, attack_data):
-    attack_id_normalized = re.sub(r'[-*_]', '', attack_id).lower()
+    attack_names = [value.get("names", {}).get("English", "") for value in attack_data.values()]
+    best_match, score = process.extractOne(attack_id, attack_names)
     
-    for key, value in attack_data.items():
-        english_name = value.get("names", {}).get("English", "")
-        english_name_normalized = re.sub(r'[-*_]', '', english_name).lower()
-        
-        if attack_id_normalized == english_name_normalized:
-            return value.get("names", {}).get("Spanish", "Desconocido")
-        
-        if attack_id_normalized in english_name_normalized or english_name_normalized in attack_id_normalized:
-            return value.get("names", {}).get("Spanish", "Desconocido")
+    if score >= 80:  # Umbral de similitud para considerar una coincidencia
+        for key, value in attack_data.items():
+            if value.get("names", {}).get("English", "") == best_match:
+                return value.get("names", {}).get("Spanish", "Desconocido")
     
     return "Desconocido"
+
+
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
 
