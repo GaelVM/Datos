@@ -29,10 +29,10 @@ for entry in data:
     if entry.get("hasMegaEvolution") == True:
         mega_evolution_data = entry.get("megaEvolutions")
         if mega_evolution_data:
-            for mega_evo in mega_evolution_data:
+            for mega_evo_key, mega_evo in mega_evolution_data.items():
                 mega_entry = {
-                    "id": mega_evo["id"],
-                    "names": mega_evo["names"],
+                    "id": mega_evo.get("id"),
+                    "names": mega_evo.get("names"),
                     "primaryType": {
                         "en": mega_evo["primaryType"]["names"]["English"],
                         "es": mega_evo["primaryType"]["names"]["Spanish"]
