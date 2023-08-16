@@ -40,6 +40,10 @@ for entry in data:
                     "secondaryType": {
                         "en": mega_evo["secondaryType"]["names"]["English"] if mega_evo.get("secondaryType") else None,
                         "es": mega_evo["secondaryType"]["names"]["Spanish"] if mega_evo.get("secondaryType") else None
+                    },
+                    "assets": {
+                        "image": mega_evo["assets"]["image"] if mega_evo.get("assets") else None,
+                        "shinyImage": mega_evo["assets"]["shinyImage"] if mega_evo.get("assets") else None
                     }
                 }
                 mega_evolutions.append(mega_entry)
@@ -68,8 +72,8 @@ for entry in data:
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
         "megaEvolutions": mega_evolutions,
         "assets": {
-            "image": entry["assets"]["image"],
-            "shinyImage": entry["assets"]["shinyImage"]
+            "image": entry["assets"]["image"] if entry.get("assets") else None,
+            "shinyImage": entry["assets"]["shinyImage"] if entry.get("assets") else None
         }
     }
     processed_data.append(processed_entry)
