@@ -37,9 +37,9 @@ for entry in data:
 
     elite_quick_moves_en = []
     elite_quick_moves_es = []
-    elite_quick_moves_data = entry.get("eliteQuickMoves", {})
-    if isinstance(elite_quick_moves_data, dict):
-        for move_key, move_data in elite_quick_moves_data.items():
+    elite_quick_moves_data = entry.get("eliteQuickMoves", [])
+    if isinstance(elite_quick_moves_data, list):
+        for move_data in elite_quick_moves_data:
             move_names = move_data.get("names")
             if move_names:
                 elite_quick_moves_en.append(move_names["English"])
@@ -47,9 +47,9 @@ for entry in data:
 
     elite_cinematic_moves_en = []
     elite_cinematic_moves_es = []
-    elite_cinematic_moves_data = entry.get("eliteCinematicMoves", {})
-    if isinstance(elite_cinematic_moves_data, dict):
-        for move_key, move_data in elite_cinematic_moves_data.items():
+    elite_cinematic_moves_data = entry.get("eliteCinematicMoves", [])
+    if isinstance(elite_cinematic_moves_data, list):
+        for move_data in elite_cinematic_moves_data:
             move_names = move_data.get("names")
             if move_names:
                 elite_cinematic_moves_en.append(move_names["English"])
@@ -109,8 +109,12 @@ for entry in data:
                     "es": form_data.get("cinematicMoves", {}).get("names", {}).get("Spanish", [])
                 },
                 "eliteQuickMoves": {
-                    "en": form_data.get("eliteQuickMoves", {}).get("names", {}).get("English", []),
-                    "es": form_data.get("eliteQuickMoves", {}).get("names", {}).get("Spanish", [])
+                    "en": elite_quick_moves_en,
+                    "es": elite_quick_moves_es
+                },
+                "eliteCinematicMoves": {
+                    "en": elite_cinematic_moves_en,
+                    "es": elite_cinematic_moves_es
                 },
                 "assets": {
                     "image": form_data.get("assets", {}).get("image"),
@@ -139,10 +143,6 @@ for entry in data:
             "en": secondary_type,
             "es": secondary_type_es
         },
-        "names": {
-            "en": entry["names"]["English"],
-            "es": entry["names"]["Spanish"]
-        },
         "quickMoves": {
             "en": quick_moves_en,
             "es": quick_moves_es
@@ -159,8 +159,10 @@ for entry in data:
             "en": elite_cinematic_moves_en,
             "es": elite_cinematic_moves_es
         },
-        "hasMegaEvolution": entry.get("hasMegaEvolution", False),
-        "megaEvolutions": mega_evolutions,
+        "assets": {
+            "image": entry["assets"]["image"] if entry.get("assets") else None,
+            "shinyImage": entry["assets"]["shinyImage"] if entry.get("assets") else None
+        },
         "regionForms": region_forms,
         "stats": stats_en
     }
