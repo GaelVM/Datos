@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-# URL de la página a raspar
+# URL de la página a raspar en inglés y en español
 url_en = "https://pokemon.gameinfo.io/en/moves"
 url_es = "https://pokemon.gameinfo.io/es/moves"
 
