@@ -29,8 +29,8 @@ for row_en, row_es in zip(table_en.find_all('tr')[1:], table_es.find_all('tr')[1
     cells_es = row_es.find_all('td')
 
     move_name_en = cells_en[1].text.strip()
-
-    # Comprobar si existe un elemento <span> dentro de la celda
+    
+    # Obtener el tipo de ataque desde el atributo data-type del span
     span_en = cells_en[2].find('span')
     if span_en is not None and 'data-type' in span_en.attrs:
         move_type_en = span_en['data-type']
@@ -39,7 +39,7 @@ for row_en, row_es in zip(table_en.find_all('tr')[1:], table_es.find_all('tr')[1
 
     move_name_es = cells_es[1].text.strip()
 
-    # Comprobar si existe un elemento <span> dentro de la celda
+    # Obtener el tipo de ataque desde el atributo data-type del span
     span_es = cells_es[2].find('span')
     if span_es is not None and 'data-type' in span_es.attrs:
         move_type_es = span_es['data-type']
