@@ -15,7 +15,7 @@ for entry in data:
 
     quick_moves_en = []
     quick_moves_es = []
-    for move_data in entry.get("quickMoves", {}).values():
+    for move_data in entry.get("quickMoves", []):
         move_names = move_data.get("names")
         if move_names:
             quick_moves_en.append(move_names["English"])
