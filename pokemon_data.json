@@ -1355,7 +1355,10 @@
                         "Bola Sombra"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -1465,7 +1468,10 @@
                         "Hiperrayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -1844,39 +1850,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "PRESENT_FAST": {
-                        "id": "PRESENT_FAST",
-                        "power": 5,
-                        "energy": 20,
-                        "durationMs": 1300,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Present",
-                            "German": "Geschenk",
-                            "French": "Cadeau",
-                            "Italian": "Regalino",
-                            "Japanese": "プレゼント",
-                            "Korean": "프레젠트",
-                            "Spanish": "Presente"
-                        },
-                        "combat": {
-                            "energy": 12,
-                            "power": 3,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -1935,39 +1914,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "PRESENT_FAST": {
-                        "id": "PRESENT_FAST",
-                        "power": 5,
-                        "energy": 20,
-                        "durationMs": 1300,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Present",
-                            "German": "Geschenk",
-                            "French": "Cadeau",
-                            "Italian": "Regalino",
-                            "Japanese": "プレゼント",
-                            "Korean": "프레젠트",
-                            "Spanish": "Presente"
-                        },
-                        "combat": {
-                            "energy": 12,
-                            "power": 3,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -2026,39 +1978,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "PRESENT_FAST": {
-                        "id": "PRESENT_FAST",
-                        "power": 5,
-                        "energy": 20,
-                        "durationMs": 1300,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Present",
-                            "German": "Geschenk",
-                            "French": "Cadeau",
-                            "Italian": "Regalino",
-                            "Japanese": "プレゼント",
-                            "Korean": "프레젠트",
-                            "Spanish": "Presente"
-                        },
-                        "combat": {
-                            "energy": 12,
-                            "power": 3,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -2117,39 +2042,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "PRESENT_FAST": {
-                        "id": "PRESENT_FAST",
-                        "power": 5,
-                        "energy": 20,
-                        "durationMs": 1300,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Present",
-                            "German": "Geschenk",
-                            "French": "Cadeau",
-                            "Italian": "Regalino",
-                            "Japanese": "プレゼント",
-                            "Korean": "프레젠트",
-                            "Spanish": "Presente"
-                        },
-                        "combat": {
-                            "energy": 12,
-                            "power": 3,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -2207,7 +2105,14 @@
                         "Vuelo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf",
@@ -2262,7 +2167,14 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf",
@@ -2317,7 +2229,14 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf",
@@ -2372,7 +2291,14 @@
                         "Carantoña"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf",
@@ -2427,7 +2353,14 @@
                         "Carantoña"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf",
@@ -2483,39 +2416,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "PRESENT_FAST": {
-                        "id": "PRESENT_FAST",
-                        "power": 5,
-                        "energy": 20,
-                        "durationMs": 1300,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Present",
-                            "German": "Geschenk",
-                            "French": "Cadeau",
-                            "Italian": "Regalino",
-                            "Japanese": "プレゼント",
-                            "Korean": "프레젠트",
-                            "Spanish": "Presente"
-                        },
-                        "combat": {
-                            "energy": 12,
-                            "power": 3,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -2572,39 +2478,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "PRESENT_FAST": {
-                        "id": "PRESENT_FAST",
-                        "power": 5,
-                        "energy": 20,
-                        "durationMs": 1300,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Present",
-                            "German": "Geschenk",
-                            "French": "Cadeau",
-                            "Italian": "Regalino",
-                            "Japanese": "プレゼント",
-                            "Korean": "프레젠트",
-                            "Spanish": "Presente"
-                        },
-                        "combat": {
-                            "energy": 12,
-                            "power": 3,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -2661,39 +2540,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "PRESENT_FAST": {
-                        "id": "PRESENT_FAST",
-                        "power": 5,
-                        "energy": 20,
-                        "durationMs": 1300,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Present",
-                            "German": "Geschenk",
-                            "French": "Cadeau",
-                            "Italian": "Regalino",
-                            "Japanese": "プレゼント",
-                            "Korean": "프레젠트",
-                            "Spanish": "Presente"
-                        },
-                        "combat": {
-                            "energy": 12,
-                            "power": 3,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -2750,39 +2602,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "PRESENT_FAST": {
-                        "id": "PRESENT_FAST",
-                        "power": 5,
-                        "energy": 20,
-                        "durationMs": 1300,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Present",
-                            "German": "Geschenk",
-                            "French": "Cadeau",
-                            "Italian": "Regalino",
-                            "Japanese": "プレゼント",
-                            "Korean": "프레젠트",
-                            "Spanish": "Presente"
-                        },
-                        "combat": {
-                            "energy": 12,
-                            "power": 3,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -2839,39 +2664,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "PRESENT_FAST": {
-                        "id": "PRESENT_FAST",
-                        "power": 5,
-                        "energy": 20,
-                        "durationMs": 1300,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Present",
-                            "German": "Geschenk",
-                            "French": "Cadeau",
-                            "Italian": "Regalino",
-                            "Japanese": "プレゼント",
-                            "Korean": "프레젠트",
-                            "Spanish": "Presente"
-                        },
-                        "combat": {
-                            "energy": 12,
-                            "power": 3,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -2927,7 +2725,14 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf",
@@ -2982,7 +2787,14 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Present"
+                    ],
+                    "es": [
+                        "Presente"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf",
@@ -3112,7 +2924,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Thunder"
@@ -3230,7 +3045,10 @@
                         "Tajo Umbrío"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Rock Tomb"
@@ -3353,39 +3171,8 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "SHADOW_CLAW_FAST": {
-                        "id": "SHADOW_CLAW_FAST",
-                        "power": 9,
-                        "energy": 6,
-                        "durationMs": 700,
-                        "type": {
-                            "type": "POKEMON_TYPE_GHOST",
-                            "names": {
-                                "English": "Ghost",
-                                "German": "Geist",
-                                "French": "Spectre",
-                                "Italian": "Spettro",
-                                "Japanese": "ゴースト",
-                                "Korean": "고스트",
-                                "Spanish": "Fantasma"
-                            }
-                        },
-                        "names": {
-                            "English": "Shadow Claw",
-                            "German": "Dunkelklaue",
-                            "French": "Griffe Ombre",
-                            "Italian": "Ombrartigli",
-                            "Japanese": "シャドークロー",
-                            "Korean": "섀도클로",
-                            "Spanish": "Garra Umbría"
-                        },
-                        "combat": {
-                            "energy": 8,
-                            "power": 6,
-                            "turns": 2,
-                            "buffs": null
-                        }
-                    }
+                    "en": [],
+                    "es": []
                 },
                 "eliteCinematicMoves": {
                     "en": [
@@ -4012,7 +3799,10 @@
                         "Meteorobola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -4142,7 +3932,14 @@
                         "Meteorobola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Ember"
+                    ],
+                    "es": [
+                        "Ascuas"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Fire Blast",
@@ -4950,7 +4747,10 @@
                         "Tumba Rocas"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -5060,7 +4860,10 @@
                         "Cabeza de Hierro"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -5174,7 +4977,10 @@
                         "Juego Sucio"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Body Slam"
@@ -5227,7 +5033,10 @@
                         "Excavar"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Body Slam"
@@ -5349,7 +5158,10 @@
                         "Vendetta"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Night Slash"
@@ -5721,7 +5533,10 @@
                         "Lanzallamas"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -5849,7 +5664,14 @@
                         "Lanzallamas"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Bite"
+                    ],
+                    "es": [
+                        "Mordisco"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Bulldoze"
@@ -6894,7 +6716,10 @@
                         "Rayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -7008,7 +6833,10 @@
                         "Pedrada"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Rock Slide"
@@ -7125,39 +6953,8 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "ROLLOUT_FAST": {
-                        "id": "ROLLOUT_FAST",
-                        "power": 14,
-                        "energy": 18,
-                        "durationMs": 1400,
-                        "type": {
-                            "type": "POKEMON_TYPE_ROCK",
-                            "names": {
-                                "English": "Rock",
-                                "German": "Gestein",
-                                "French": "Roche",
-                                "Italian": "Roccia",
-                                "Japanese": "いわ",
-                                "Korean": "바위",
-                                "Spanish": "Roca"
-                            }
-                        },
-                        "names": {
-                            "English": "Rollout",
-                            "German": "Walzer",
-                            "French": "Roulade",
-                            "Italian": "Rotolamento",
-                            "Japanese": "ころがる",
-                            "Korean": "구르기",
-                            "Spanish": "Desenrollar"
-                        },
-                        "combat": {
-                            "energy": 13,
-                            "power": 5,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [],
+                    "es": []
                 },
                 "eliteCinematicMoves": {
                     "en": [],
@@ -7272,7 +7069,10 @@
                         "Rapidez"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Fire Blast"
@@ -7400,7 +7200,14 @@
                         "Fuerza Equina"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Ember"
+                    ],
+                    "es": [
+                        "Ascuas"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -7510,7 +7317,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -7649,7 +7459,10 @@
                         "Bomba Lodo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf"
@@ -7891,7 +7704,14 @@
                         "Hoja Aguda"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Cut"
+                    ],
+                    "es": [
+                        "Corte"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -8271,7 +8091,10 @@
                         "Bomba Lodo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -8393,7 +8216,14 @@
                         "Bomba Ácida"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Lick"
+                    ],
+                    "es": [
+                        "Lengüetazo"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -9196,7 +9026,10 @@
                         "Energibola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Signal Beam"
@@ -9316,7 +9149,14 @@
                         "Energibola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Tackle"
+                    ],
+                    "es": [
+                        "Placaje"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -9492,7 +9332,14 @@
                         "Rayo Solar"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Zen Headbutt"
+                    ],
+                    "es": [
+                        "Cabezazo Zen"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -9668,7 +9515,10 @@
                         "Rueda Fuego"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -10048,7 +9898,10 @@
                         "Giro Vil"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -10881,7 +10734,10 @@
                         "Puño Hielo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -12448,7 +12304,10 @@
                         "Pájaro Osado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Hurricane"
@@ -12566,7 +12425,14 @@
                         "Pájaro Osado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [
+                        "Thunder Shock"
+                    ],
+                    "es": [
+                        "Impactrueno"
+                    ]
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -12682,7 +12548,10 @@
                         "Pájaro Osado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Sky Attack"
@@ -13004,7 +12873,10 @@
                         "Premonición"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Psystrike",
@@ -16205,7 +16077,10 @@
                         "Onda Tóxica"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Surf"
@@ -17020,7 +16895,10 @@
                         "Bola Sombra"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -17337,7 +17215,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -19134,7 +19015,10 @@
                         "Bola Sombra"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -19252,7 +19136,10 @@
                         "Nitrocarga"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -19375,39 +19262,12 @@
                     ]
                 },
                 "eliteQuickMoves": {
-                    "HIDDEN_POWER_FAST": {
-                        "id": "HIDDEN_POWER_FAST",
-                        "power": 15,
-                        "energy": 15,
-                        "durationMs": 1500,
-                        "type": {
-                            "type": "POKEMON_TYPE_NORMAL",
-                            "names": {
-                                "English": "Normal",
-                                "German": "Normal",
-                                "French": "Normal",
-                                "Italian": "Normale",
-                                "Japanese": "ノーマル",
-                                "Korean": "노말",
-                                "Spanish": "Normal"
-                            }
-                        },
-                        "names": {
-                            "English": "Hidden Power",
-                            "German": "Kraftreserve",
-                            "French": "Puissance Cachée",
-                            "Italian": "Introforza",
-                            "Japanese": "めざめるパワー",
-                            "Korean": "잠재파워",
-                            "Spanish": "Poder Oculto"
-                        },
-                        "combat": {
-                            "energy": 8,
-                            "power": 9,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    }
+                    "en": [
+                        "Hidden Power"
+                    ],
+                    "es": [
+                        "Poder Oculto"
+                    ]
                 },
                 "eliteCinematicMoves": {
                     "en": [],
@@ -19733,7 +19593,10 @@
                         "Premonición"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Aeroblast"
@@ -19861,7 +19724,10 @@
                         "Rayo Solar"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Earthquake",
@@ -20804,7 +20670,10 @@
                         "Rapidez"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -20914,7 +20783,10 @@
                         "Lanzamugre"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -26416,7 +26288,10 @@
                         "Meteorobola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -26465,7 +26340,10 @@
                         "Meteorobola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -26514,7 +26392,10 @@
                         "Meteorobola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -28471,7 +28352,10 @@
                         "Trueno"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Mist Ball"
@@ -28614,7 +28498,10 @@
                         "Rayo Solar"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Luster Purge"
@@ -29059,7 +28946,10 @@
                         "Pulso Umbrío"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -29108,7 +28998,10 @@
                         "Avalancha"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -29157,7 +29050,10 @@
                         "Rapidez"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -30799,7 +30695,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -30844,7 +30743,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -30889,7 +30791,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -30995,7 +30900,10 @@
                         "Zumbido"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -31044,7 +30952,10 @@
                         "Zumbido"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -31093,7 +31004,10 @@
                         "Zumbido"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -31627,7 +31541,10 @@
                         "Rayo Solar"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -31678,7 +31595,10 @@
                         "Meteorobola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -31788,7 +31708,10 @@
                         "Golpe Cuerpo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -31837,7 +31760,10 @@
                         "Golpe Cuerpo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -31947,7 +31873,10 @@
                         "Golpe Cuerpo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -31996,7 +31925,10 @@
                         "Golpe Cuerpo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -35580,7 +35512,10 @@
                         "Trueno"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -35629,7 +35564,10 @@
                         "Trueno"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -35678,7 +35616,10 @@
                         "Trueno"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -35727,7 +35668,10 @@
                         "Trueno"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -35776,7 +35720,10 @@
                         "Trueno"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -36320,7 +36267,10 @@
                         "Sombra Vil"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Shadow Force"
@@ -36373,7 +36323,10 @@
                         "Bola Sombra"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Shadow Force"
@@ -36739,7 +36692,10 @@
                         "Fogonazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -36790,7 +36746,10 @@
                         "Fogonazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -36900,7 +36859,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -36949,7 +36911,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -36998,7 +36963,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37047,7 +37015,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37096,7 +37067,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37145,7 +37119,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37194,7 +37171,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37243,7 +37223,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37292,7 +37275,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37341,7 +37327,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37390,7 +37379,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37439,7 +37431,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37488,7 +37483,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37537,7 +37535,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37586,7 +37587,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37635,7 +37639,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -37684,7 +37691,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -41196,7 +41206,10 @@
                         "Agua Lodosa"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -41245,7 +41258,10 @@
                         "Agua Lodosa"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -41531,7 +41547,10 @@
                         "Rayo Hielo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -41647,7 +41666,10 @@
                         "Puño Hielo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -41698,7 +41720,10 @@
                         "Puño Hielo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -41751,7 +41776,10 @@
                         "Avalancha"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -41804,7 +41832,10 @@
                         "Avalancha"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -42272,7 +42303,10 @@
                         "Tumba Rocas"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -43706,7 +43740,10 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -43755,7 +43792,10 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -43804,7 +43844,10 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -43853,7 +43896,10 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -43967,7 +44013,10 @@
                         "Hiperrayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -44018,7 +44067,10 @@
                         "Hiperrayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -44069,7 +44121,10 @@
                         "Hiperrayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -44120,7 +44175,10 @@
                         "Hiperrayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -44536,7 +44594,10 @@
                         "Viento Aciago"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -44650,7 +44711,10 @@
                         "Surf"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -46234,7 +46298,10 @@
                         "Avalancha"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -46894,7 +46961,10 @@
                         "Viento Aciago"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -47754,7 +47824,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -47805,7 +47878,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -47919,7 +47995,10 @@
                         "Puño Trueno"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -47970,7 +48049,10 @@
                         "Rayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -48216,7 +48298,10 @@
                         "Onda Certera"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -48267,7 +48352,10 @@
                         "Fuerza Bruta"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -48383,7 +48471,10 @@
                         "Enfado"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Glaciate"
@@ -48438,7 +48529,10 @@
                         "Onda Certera"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [
                         "Glaciate"
@@ -48560,7 +48654,10 @@
                         "Espada Santa"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -48613,7 +48710,10 @@
                         "Espada Santa"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -48727,7 +48827,10 @@
                         "Hiperrayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -48778,7 +48881,10 @@
                         "Hiperrayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -48888,7 +48994,10 @@
                         "Lanzallamas"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -48937,7 +49046,10 @@
                         "Rayo Hielo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -48986,7 +49098,10 @@
                         "Lanzamugre"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -49035,7 +49150,10 @@
                         "Electrocañón"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50009,7 +50127,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50054,7 +50175,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50099,7 +50223,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50144,7 +50271,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50189,7 +50319,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50234,7 +50367,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50279,7 +50415,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50324,7 +50463,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50369,7 +50511,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50414,7 +50559,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50459,7 +50607,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50504,7 +50655,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50549,7 +50703,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50594,7 +50751,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50639,7 +50799,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50684,7 +50847,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50729,7 +50895,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50774,7 +50943,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50819,7 +50991,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50864,7 +51039,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -50962,7 +51140,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51005,7 +51186,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51048,7 +51232,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51091,7 +51278,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51134,7 +51324,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51177,7 +51370,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51220,7 +51416,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51263,7 +51462,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51306,7 +51508,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51349,7 +51554,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51392,7 +51600,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51435,7 +51646,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51478,7 +51692,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51521,7 +51738,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51564,7 +51784,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51607,7 +51830,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51650,7 +51876,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51693,7 +51922,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51736,7 +51968,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51779,7 +52014,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51893,7 +52131,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51944,7 +52185,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -51995,7 +52239,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52046,7 +52293,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52097,7 +52347,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52148,7 +52401,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52199,7 +52455,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52250,7 +52509,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52301,7 +52563,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52352,7 +52617,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52403,7 +52671,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52454,7 +52725,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52505,7 +52779,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52556,7 +52833,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52607,7 +52887,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52658,7 +52941,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52709,7 +52995,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52760,7 +53049,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52811,7 +53103,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -52862,7 +53157,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53048,7 +53346,10 @@
                         "Sofoco"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53158,7 +53459,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53207,7 +53511,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53256,7 +53563,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53305,7 +53615,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53354,7 +53667,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53464,7 +53780,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53513,7 +53832,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53562,7 +53884,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53611,7 +53936,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53660,7 +53988,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53782,7 +54113,10 @@
                         "Voz Cautivadora"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53837,7 +54171,10 @@
                         "Voz Cautivadora"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53892,7 +54229,10 @@
                         "Voz Cautivadora"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -53947,7 +54287,10 @@
                         "Voz Cautivadora"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54002,7 +54345,10 @@
                         "Voz Cautivadora"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54364,7 +54710,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54415,7 +54764,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54466,7 +54818,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54517,7 +54872,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54568,7 +54926,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54619,7 +54980,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54670,7 +55034,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54721,7 +55088,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54772,7 +55142,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54823,7 +55196,10 @@
                         "Hierba Lazo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -54993,7 +55369,10 @@
                         "Bola Sombra"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57003,7 +57382,10 @@
                         "Juego Sucio"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57052,7 +57434,10 @@
                         "Juego Sucio"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57101,7 +57486,10 @@
                         "Juego Sucio"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57150,7 +57538,10 @@
                         "Juego Sucio"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57268,7 +57659,10 @@
                         "Poltergeist"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57321,7 +57715,10 @@
                         "Poltergeist"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57374,7 +57771,10 @@
                         "Poltergeist"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57427,7 +57827,10 @@
                         "Poltergeist"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57603,7 +58006,10 @@
                         "Ventisca"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -57981,7 +58387,10 @@
                         "Terratemblor"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -58036,7 +58445,10 @@
                         "Terratemblor"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -58091,7 +58503,10 @@
                         "Terratemblor"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -58146,7 +58561,10 @@
                         "Terratemblor"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -58201,7 +58619,10 @@
                         "Terratemblor"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -58396,7 +58817,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -58445,7 +58869,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -59773,7 +60200,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -59822,7 +60252,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -59871,7 +60304,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -59920,7 +60356,10 @@
                         "Vendaval"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -60208,7 +60647,10 @@
                         "Triturar"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -60257,7 +60699,10 @@
                         "Triturar"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -60306,7 +60751,10 @@
                         "Triturar"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -60420,7 +60868,10 @@
                         "Acua Cola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -60471,7 +60922,10 @@
                         "Acua Cola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62159,7 +62613,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62212,7 +62669,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62265,7 +62725,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62318,7 +62781,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62371,7 +62837,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62424,7 +62893,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62477,7 +62949,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62530,7 +63005,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62583,7 +63061,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62636,7 +63117,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62689,7 +63173,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62742,7 +63229,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62795,7 +63285,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62848,7 +63341,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62901,7 +63397,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -62954,7 +63453,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63007,7 +63509,10 @@
                         "Tijera X"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63117,7 +63622,10 @@
                         "Acróbata"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63166,7 +63674,10 @@
                         "Acróbata"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63215,7 +63726,10 @@
                         "Acróbata"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63264,7 +63778,10 @@
                         "Acróbata"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63313,7 +63830,10 @@
                         "Acróbata"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63362,7 +63882,10 @@
                         "Acróbata"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63411,7 +63934,10 @@
                         "Acróbata"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63705,7 +64231,10 @@
                         "Bola Sombra"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -63754,7 +64283,10 @@
                         "Bola Sombra"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -65132,7 +65664,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -65175,7 +65710,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -65218,7 +65756,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -65316,7 +65857,10 @@
                         "Combate"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -68176,7 +68720,10 @@
                         "Puño Incremento"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -68229,7 +68776,10 @@
                         "Puño Incremento"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -68581,7 +69131,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -68630,7 +69183,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -68744,7 +69300,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -68795,7 +69354,10 @@
                         "Psíquico"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -70061,7 +70623,10 @@
                         "Surf"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -70108,7 +70673,10 @@
                         "Surf"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -70214,7 +70782,10 @@
                         "Energibola"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -70261,7 +70832,10 @@
                         "Bola Sombra"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -70375,7 +70949,10 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -70426,7 +71003,10 @@
                         "Voltio Cruel"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -71146,7 +71726,10 @@
                         "A Bocajarro"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -71201,7 +71784,10 @@
                         "A Bocajarro"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -71323,7 +71909,10 @@
                         "A Bocajarro"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -71378,7 +71967,10 @@
                         "A Bocajarro"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -71490,7 +72082,10 @@
                         "Hiperrayo"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -71664,7 +72259,10 @@
                         "Acua Jet"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -71717,7 +72315,10 @@
                         "Vendetta"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
@@ -72127,7 +72728,10 @@
                         "Alud"
                     ]
                 },
-                "eliteQuickMoves": [],
+                "eliteQuickMoves": {
+                    "en": [],
+                    "es": []
+                },
                 "eliteCinematicMoves": {
                     "en": [],
                     "es": []
