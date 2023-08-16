@@ -1,458 +1,306 @@
 [
     {
         "ataque": "Struggle",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Combate",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Combate"
     },
     {
         "ataque": "Fury Cutter",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Corte Furia",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Corte Furia"
     },
     {
         "ataque": "Bug Bite",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Picadura",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Picadura"
     },
     {
         "ataque": "Bite",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Mordisco",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Mordisco"
     },
     {
         "ataque": "Sucker Punch",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Golpe Bajo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Golpe Bajo"
     },
     {
         "ataque": "Dragon Breath",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Dragoaliento",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Dragoaliento"
     },
     {
         "ataque": "Thunder Shock",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Impactrueno",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Impactrueno"
     },
     {
         "ataque": "Spark",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Chispa",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Chispa"
     },
     {
         "ataque": "Low Kick",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Patada Baja",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Patada Baja"
     },
     {
         "ataque": "Karate Chop",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Golpe Kárate",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Golpe Kárate"
     },
     {
         "ataque": "Ember",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Ascuas",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Ascuas"
     },
     {
         "ataque": "Wing Attack",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Ataque Ala",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Ataque Ala"
     },
     {
         "ataque": "Peck",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Picotazo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Picotazo"
     },
     {
         "ataque": "Lick",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Lengüetazo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Lengüetazo"
     },
     {
         "ataque": "Shadow Claw",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Garra Umbría",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Garra Umbría"
     },
     {
         "ataque": "Vine Whip",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Látigo Cepa",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Látigo Cepa"
     },
     {
         "ataque": "Razor Leaf",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Hoja Afilada",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Hoja Afilada"
     },
     {
         "ataque": "Mud Shot",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Disparo Lodo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Disparo Lodo"
     },
     {
         "ataque": "Ice Shard",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Canto Helado",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Canto Helado"
     },
     {
         "ataque": "Frost Breath",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Vaho Gélido",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Vaho Gélido"
     },
     {
         "ataque": "Quick Attack",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Ataque Rápido",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Ataque Rápido"
     },
     {
         "ataque": "Scratch",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Arañazo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Arañazo"
     },
     {
         "ataque": "Tackle",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Placaje",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Placaje"
     },
     {
         "ataque": "Pound",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Destructor",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Destructor"
     },
     {
         "ataque": "Cut",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Corte",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Corte"
     },
     {
         "ataque": "Poison Jab",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Puya Nociva",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Puya Nociva"
     },
     {
         "ataque": "Acid",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Ácido",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Ácido"
     },
     {
         "ataque": "Psycho Cut",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Psicocorte",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Psicocorte"
     },
     {
         "ataque": "Rock Throw",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Lanzarrocas",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Lanzarrocas"
     },
     {
         "ataque": "Metal Claw",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Garra Metal",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Garra Metal"
     },
     {
         "ataque": "Bullet Punch",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Puño Bala",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Puño Bala"
     },
     {
         "ataque": "Water Gun",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Pistola Agua",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Pistola Agua"
     },
     {
         "ataque": "Splash",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Salpicadura",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Salpicadura"
     },
     {
         "ataque": "Mud-Slap",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Bofetón Lodo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Bofetón Lodo"
     },
     {
         "ataque": "Zen Headbutt",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Cabezazo Zen",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Cabezazo Zen"
     },
     {
         "ataque": "Confusion",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Confusión",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Confusión"
     },
     {
         "ataque": "Poison Sting",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Picotazo Veneno",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Picotazo Veneno"
     },
     {
         "ataque": "Bubble",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Burbuja",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Burbuja"
     },
     {
         "ataque": "Feint Attack",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Finta",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Finta"
     },
     {
         "ataque": "Steel Wing",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Ala de Acero",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Ala de Acero"
     },
     {
         "ataque": "Fire Fang",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Colmillo Ígneo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Colmillo Ígneo"
     },
     {
         "ataque": "Rock Smash",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Golpe Roca",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Golpe Roca"
     },
     {
         "ataque": "Transform",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Transformación",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Transformación"
     },
     {
         "ataque": "Counter",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Contraataque",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Contraataque"
     },
     {
         "ataque": "Powder Snow",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Nieve Polvo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Nieve Polvo"
     },
     {
         "ataque": "Charge Beam",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Rayo Carga",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Rayo Carga"
     },
     {
         "ataque": "Volt Switch",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Voltiocambio",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Voltiocambio"
     },
     {
         "ataque": "Dragon Tail",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Cola Dragón",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Cola Dragón"
     },
     {
         "ataque": "Air Slash",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Tajo Aéreo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Tajo Aéreo"
     },
     {
         "ataque": "Infestation",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Acoso",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Acoso"
     },
     {
         "ataque": "Struggle Bug",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Estoicismo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Estoicismo"
     },
     {
         "ataque": "Astonish",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Impresionar",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Impresionar"
     },
     {
         "ataque": "Hex",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Infortunio",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Infortunio"
     },
     {
         "ataque": "Iron Tail",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Cola Férrea",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Cola Férrea"
     },
     {
         "ataque": "Fire Spin",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Giro Fuego",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Giro Fuego"
     },
     {
         "ataque": "Bullet Seed",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Semilladora",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Semilladora"
     },
     {
         "ataque": "Extrasensory",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Paranormal",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Paranormal"
     },
     {
         "ataque": "Snarl",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Alarido",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Alarido"
     },
     {
         "ataque": "Hidden Power",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Poder Oculto",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Poder Oculto"
     },
     {
         "ataque": "Take Down",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Derribo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Derribo"
     },
     {
         "ataque": "Waterfall",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Cascada",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Cascada"
     },
     {
         "ataque": "Yawn",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Bostezo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Bostezo"
     },
     {
         "ataque": "Present",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Presente",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Presente"
     },
     {
         "ataque": "Smack Down",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Antiaéreo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Antiaéreo"
     },
     {
         "ataque": "Crush Claw",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Garra Brutal",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Garra Brutal"
     },
     {
         "ataque": "Leech Life",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Chupavidas",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Chupavidas"
     },
     {
         "ataque": "Charm",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Encanto",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Encanto"
     },
     {
         "ataque": "Lock-On",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Fijar Blanco",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Fijar Blanco"
     },
     {
         "ataque": "Thunder Fang",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Colmillo Rayo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Colmillo Rayo"
     },
     {
         "ataque": "Ice Fang",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Colmillo Hielo",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Colmillo Hielo"
     },
     {
         "ataque": "Gust",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Tornado",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Tornado"
     },
     {
         "ataque": "Incinerate",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Calcinación",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Calcinación"
     },
     {
         "ataque": "Fairy Wind",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Viento Feérico",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Viento Feérico"
     },
     {
         "ataque": "Double Kick",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Doble Patada",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Doble Patada"
     },
     {
         "ataque": "Magical Leaf",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Hoja Mágica",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Hoja Mágica"
     },
     {
         "ataque": "Rollout",
-        "tipo": "Unknown",
-        "ataquetraduccion": "Desenrollar",
-        "tipotraduccion": "Unknown"
+        "ataquetraduccion": "Desenrollar"
     }
 ]
