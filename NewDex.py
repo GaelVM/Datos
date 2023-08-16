@@ -66,7 +66,11 @@ for entry in data:
             "es": quick_moves_es
         },
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
-        "megaEvolutions": mega_evolutions
+        "megaEvolutions": mega_evolutions,
+        "assets": {
+            "image": entry["assets"]["image"],
+            "shinyImage": entry["assets"]["shinyImage"]
+        }
     }
     processed_data.append(processed_entry)
 
