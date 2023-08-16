@@ -15,11 +15,68 @@ for entry in data:
     primary_type_es = entry["primaryType"]["names"]["Spanish"]
     secondary_type_es = entry["secondaryType"]["names"]["Spanish"] if entry.get("secondaryType") else None
 
-    # ... Código existente para quickMoves, cinematicMoves, elite moves, etc. ...
+    quick_moves_en = []
+    quick_moves_es = []
+    quick_moves_data = entry.get("quickMoves", {})
+    if isinstance(quick_moves_data, dict):
+        for move_key, move_data in quick_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                quick_moves_en.append(move_names["English"])
+                quick_moves_es.append(move_names["Spanish"])
+
+    cinematic_moves_en = []
+    cinematic_moves_es = []
+    cinematic_moves_data = entry.get("cinematicMoves", {})
+    if isinstance(cinematic_moves_data, dict):
+        for move_key, move_data in cinematic_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                cinematic_moves_en.append(move_names["English"])
+                cinematic_moves_es.append(move_names["Spanish"])
+
+    elite_quick_moves_en = []
+    elite_quick_moves_es = []
+    elite_quick_moves_data = entry.get("eliteQuickMoves", {})
+    if isinstance(elite_quick_moves_data, dict):
+        for move_key, move_data in elite_quick_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                elite_quick_moves_en.append(move_names["English"])
+                elite_quick_moves_es.append(move_names["Spanish"])
+
+    elite_cinematic_moves_en = []
+    elite_cinematic_moves_es = []
+    elite_cinematic_moves_data = entry.get("eliteCinematicMoves", {})
+    if isinstance(elite_cinematic_moves_data, dict):
+        for move_key, move_data in elite_cinematic_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                elite_cinematic_moves_en.append(move_names["English"])
+                elite_cinematic_moves_es.append(move_names["Spanish"])
 
     mega_evolutions = []
     if entry.get("hasMegaEvolution") == True:
-        # ... Código existente para megaEvolutions ...
+        mega_evolution_data = entry.get("megaEvolutions")
+        if mega_evolution_data:
+            for mega_evo_key, mega_evo in mega_evolution_data.items():
+                mega_entry = {
+                    "id": mega_evo.get("id"),
+                    "names": mega_evo.get("names"),
+                    "primaryType": {
+                        "en": mega_evo["primaryType"]["names"]["English"],
+                        "es": mega_evo["primaryType"]["names"]["Spanish"]
+                    },
+                    "secondaryType": {
+                        "en": mega_evo["secondaryType"]["names"]["English"] if mega_evo.get("secondaryType") else None,
+                        "es": mega_evo["secondaryType"]["names"]["Spanish"] if mega_evo.get("secondaryType") else None
+                    },
+                    "assets": {
+                        "image": mega_evo["assets"]["image"] if mega_evo.get("assets") else None,
+                        "shinyImage": mega_evo["assets"]["shinyImage"] if mega_evo.get("assets") else None
+                    }
+                }
+                mega_evolutions.append(mega_entry)
 
     region_forms = []
     region_forms_data = entry.get("regionForms", [])
@@ -46,11 +103,16 @@ for entry in data:
                     "en": form_data.get("quickMoves", {}).get("names", {}).get("English", []),
                     "es": form_data.get("quickMoves", {}).get("names", {}).get("Spanish", [])
                 },
-                # ... Agregar más campos aquí ...
+                # Agregar más campos aquí según sea necesario
             }
             region_forms.append(form_entry)
 
-    # ... Código existente para stats, assets, etc. ...
+    stats = entry.get("stats")
+    stats_en = {
+        "stamina": stats.get("stamina") if stats else None,
+        "attack": stats.get("attack") if stats else None,
+        "defense": stats.get("defense") if stats else None
+    }
 
     processed_entry = {
         "id": entry["id"],
@@ -87,7 +149,7 @@ for entry in data:
         },
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
         "megaEvolutions": mega_evolutions,
-        "regionForms": region_forms,  # Datos de regionForms modificados
+        "regionForms": region_forms,
         "stats": stats_en,
         "assets": {
             "image": entry["assets"]["image"] if entry.get("assets") else None,
