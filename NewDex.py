@@ -111,9 +111,9 @@ for entry in data:
                     "en": [move_data["names"]["English"] for move_data in form_data.get("eliteQuickMoves", [])],
                     "es": [move_data["names"]["Spanish"] for move_data in form_data.get("eliteQuickMoves", [])]
                 },
-                "eliteCinematicMoves": {
-                    "en": [value["names"]["English"] for value in form_data.get("eliteCinematicMoves", {}).values()],
-                    "es": [value["names"]["Spanish"] for value in form_data.get("eliteCinematicMoves", {}).values()]
+                 "eliteCinematicMoves": {
+                    "en": [move_data["names"]["English"] for move_data in form_data.get("eliteCinematicMoves", [])],
+                    "es": [move_data["names"]["Spanish"] for move_data in form_data.get("eliteCinematicMoves", [])]
                 },
                 "assets": {
                     "image": form_data["assets"]["image"] if form_data.get("assets") else None,
