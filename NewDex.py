@@ -15,35 +15,51 @@ for entry in data:
     primary_type_es = entry["primaryType"]["names"]["Spanish"]
     secondary_type_es = entry["secondaryType"]["names"]["Spanish"] if entry.get("secondaryType") else None
 
-    quick_moves_en = [move_data["names"]["English"] for move_data in entry.get("quickMoves", {}).values()]
-    quick_moves_es = [move_data["names"]["Spanish"] for move_data in entry.get("quickMoves", {}).values()]
+    quick_moves_en = []
+    quick_moves_es = []
+    quick_moves_data = entry.get("quickMoves", {})
+    if isinstance(quick_moves_data, dict):
+        for move_key, move_data in quick_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                quick_moves_en.append(move_names["English"])
+                quick_moves_es.append(move_names["Spanish"])
 
-    cinematic_moves_en = [move_data["names"]["English"] for move_data in entry.get("cinematicMoves", {}).values()]
-    cinematic_moves_es = [move_data["names"]["Spanish"] for move_data in entry.get("cinematicMoves", {}).values()]
+    cinematic_moves_en = []
+    cinematic_moves_es = []
+    cinematic_moves_data = entry.get("cinematicMoves", {})
+    if isinstance(cinematic_moves_data, dict):
+        for move_key, move_data in cinematic_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                cinematic_moves_en.append(move_names["English"])
+                cinematic_moves_es.append(move_names["Spanish"])
 
     elite_quick_moves_en = []
     elite_quick_moves_es = []
-    elite_quick_moves_data = entry.get("eliteQuickMoves", [])
-    for move_data in elite_quick_moves_data:
-        move_names = move_data.get("names")
-        if move_names:
-            elite_quick_moves_en.append(move_names["English"])
-            elite_quick_moves_es.append(move_names["Spanish"])
+    elite_quick_moves_data = entry.get("eliteQuickMoves", {})
+    if isinstance(elite_quick_moves_data, dict):
+        for move_key, move_data in elite_quick_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                elite_quick_moves_en.append(move_names["English"])
+                elite_quick_moves_es.append(move_names["Spanish"])
 
     elite_cinematic_moves_en = []
     elite_cinematic_moves_es = []
-    elite_cinematic_moves_data = entry.get("eliteCinematicMoves", [])
-    for move_data in elite_cinematic_moves_data:
-        move_names = move_data.get("names")
-        if move_names:
-            elite_cinematic_moves_en.append(move_names["English"])
-            elite_cinematic_moves_es.append(move_names["Spanish"])
+    elite_cinematic_moves_data = entry.get("eliteCinematicMoves", {})
+    if isinstance(elite_cinematic_moves_data, dict):
+        for move_key, move_data in elite_cinematic_moves_data.items():
+            move_names = move_data.get("names")
+            if move_names:
+                elite_cinematic_moves_en.append(move_names["English"])
+                elite_cinematic_moves_es.append(move_names["Spanish"])
 
     mega_evolutions = []
     if entry.get("hasMegaEvolution") == True:
         mega_evolution_data = entry.get("megaEvolutions")
         if mega_evolution_data:
-            for mega_evo in mega_evolution_data.values():
+            for mega_evo_key, mega_evo in mega_evolution_data.items():
                 mega_entry = {
                     "id": mega_evo.get("id"),
                     "names": mega_evo.get("names"),
@@ -63,48 +79,17 @@ for entry in data:
                 mega_evolutions.append(mega_entry)
 
     region_forms = []
-    region_forms_data = entry.get("regionForms", {})
-    for form_id, form_data in region_forms_data.items():
-        form_entry = {
-            "id": form_data.get("id"),
-            "formId": form_data.get("formId"),
-            "dexNr": form_data.get("dexNr"),
-            "generation": form_data.get("generation"),
-            "names": {
-                "en": form_data["names"]["English"],
-                "es": form_data["names"]["Spanish"]
-            },
-            "stats": form_data.get("stats"),
-            "primaryType": {
-                "en": form_data["primaryType"]["names"]["English"],
-                "es": form_data["primaryType"]["names"]["Spanish"]
-            },
-            "secondaryType": {
-                "en": form_data["secondaryType"]["names"]["English"] if form_data.get("secondaryType") else None,
-                "es": form_data["secondaryType"]["names"]["Spanish"] if form_data.get("secondaryType") else None
-            },
-            "quickMoves": {
-                "en": form_data.get("quickMoves", {}).get("names", {}).get("English", []),
-                "es": form_data.get("quickMoves", {}).get("names", {}).get("Spanish", [])
-            },
-            "cinematicMoves": {
-                "en": form_data.get("cinematicMoves", {}).get("names", {}).get("English", []),
-                "es": form_data.get("cinematicMoves", {}).get("names", {}).get("Spanish", [])
-            },
-            "eliteQuickMoves": {
-                "en": elite_quick_moves_en,
-                "es": elite_quick_moves_es
-            },
-            "eliteCinematicMoves": {
-                "en": elite_cinematic_moves_en,
-                "es": elite_cinematic_moves_es
-            },
-            "assets": {
-                "image": form_data.get("assets", {}).get("image"),
-                "shinyImage": form_data.get("assets", {}).get("shinyImage")
+    region_forms_data = entry.get("regionForms", [])
+    if isinstance(region_forms_data, list):
+        for form_data in region_forms_data:
+            form_entry = {
+                "form": form_data.get("form"),
+                "costume": form_data.get("costume"),
+                "isFemale": form_data.get("isFemale"),
+                "image": form_data.get("image"),
+                "shinyImage": form_data.get("shinyImage")
             }
-        }
-        region_forms.append(form_entry)
+            region_forms.append(form_entry)
 
     stats = entry.get("stats")
     stats_en = {
@@ -126,6 +111,10 @@ for entry in data:
             "en": secondary_type,
             "es": secondary_type_es
         },
+        "names": {
+            "en": entry["names"]["English"],
+            "es": entry["names"]["Spanish"]
+        },
         "quickMoves": {
             "en": quick_moves_en,
             "es": quick_moves_es
@@ -142,18 +131,20 @@ for entry in data:
             "en": elite_cinematic_moves_en,
             "es": elite_cinematic_moves_es
         },
+        "hasMegaEvolution": entry.get("hasMegaEvolution", False),
+        "megaEvolutions": mega_evolutions,
+        "regionForms": region_forms,  # Agregamos los datos de regionForms si existen
+        "stats": stats_en,  # Solo mostramos las estadísticas sin traducción
         "assets": {
             "image": entry["assets"]["image"] if entry.get("assets") else None,
             "shinyImage": entry["assets"]["shinyImage"] if entry.get("assets") else None
-        },
-        "regionForms": region_forms,
-        "stats": stats_en
+        }
     }
-
     processed_data.append(processed_entry)
 
-# Guardar el JSON resultante en un archivo
-with open("processed_pokedex.json", "w") as json_file:
-    json.dump(processed_data, json_file, indent=4)
+# Guardar los datos procesados en un archivo JSON
+output_filename = "pokemon_data.json"
+with open(output_filename, "w", encoding="utf-8") as outfile:
+    json.dump(processed_data, outfile, indent=4, ensure_ascii=False)
 
-print("Datos procesados y guardados en 'processed_pokedex.json'.")
+print(f"Datos procesados guardados en '{output_filename}'")
