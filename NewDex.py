@@ -84,7 +84,6 @@ for entry in data:
         "attack": stats.get("attack") if stats else None,
         "defense": stats.get("defense") if stats else None
     }
-    stats_es = stats_en.copy()
 
     processed_entry = {
         "id": entry["id"],
@@ -121,10 +120,7 @@ for entry in data:
         },
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
         "megaEvolutions": mega_evolutions,
-        "stats": {
-            "en": stats_en,
-            "es": stats_es
-        },
+        "stats": stats_en,  # Solo mostramos las estadísticas sin traducción
         "assets": {
             "image": entry["assets"]["image"] if entry.get("assets") else None,
             "shinyImage": entry["assets"]["shinyImage"] if entry.get("assets") else None
