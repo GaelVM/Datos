@@ -15,9 +15,11 @@ for entry in data:
 
     quick_moves_en = []
     quick_moves_es = []
-    for move_key, move_data in entry["quickMoves"].items():
-        quick_moves_en.append(move_data["names"]["English"])
-        quick_moves_es.append(move_data["names"]["Spanish"])
+    for move_data in entry["quickMoves"]:
+        move_names = move_data.get("names")
+        if move_names:
+            quick_moves_en.append(move_names["English"])
+            quick_moves_es.append(move_names["Spanish"])
 
     processed_entry = {
         "id": entry["id"],
