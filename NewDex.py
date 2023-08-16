@@ -80,14 +80,42 @@ for entry in data:
 
     region_forms = []
     region_forms_data = entry.get("regionForms", [])
-    if isinstance(region_forms_data, list):
-        for form_data in region_forms_data:
+    if isinstance(region_forms_data, dict):
+        for form_id, form_data in region_forms_data.items():
             form_entry = {
-                "form": form_data.get("form"),
-                "costume": form_data.get("costume"),
-                "isFemale": form_data.get("isFemale"),
-                "image": form_data.get("image"),
-                "shinyImage": form_data.get("shinyImage")
+                "id": form_data.get("id"),
+                "formId": form_data.get("formId"),
+                "dexNr": form_data.get("dexNr"),
+                "generation": form_data.get("generation"),
+                "names": {
+                    "en": form_data["names"]["English"],
+                    "es": form_data["names"]["Spanish"]
+                },
+                "stats": form_data.get("stats"),
+                "primaryType": {
+                    "en": form_data["primaryType"]["names"]["English"],
+                    "es": form_data["primaryType"]["names"]["Spanish"]
+                },
+                "secondaryType": {
+                    "en": form_data["secondaryType"]["names"]["English"] if form_data.get("secondaryType") else None,
+                    "es": form_data["secondaryType"]["names"]["Spanish"] if form_data.get("secondaryType") else None
+                },
+                "quickMoves": {
+                    "en": form_data.get("quickMoves", {}).get("names", {}).get("English", []),
+                    "es": form_data.get("quickMoves", {}).get("names", {}).get("Spanish", [])
+                },
+                "cinematicMoves": {
+                    "en": form_data.get("cinematicMoves", {}).get("names", {}).get("English", []),
+                    "es": form_data.get("cinematicMoves", {}).get("names", {}).get("Spanish", [])
+                },
+                "eliteQuickMoves": {
+                    "en": form_data.get("eliteQuickMoves", {}).get("names", {}).get("English", []),
+                    "es": form_data.get("eliteQuickMoves", {}).get("names", {}).get("Spanish", [])
+                },
+                "assets": {
+                    "image": form_data.get("assets", {}).get("image"),
+                    "shinyImage": form_data.get("assets", {}).get("shinyImage")
+                }
             }
             region_forms.append(form_entry)
 
@@ -133,18 +161,14 @@ for entry in data:
         },
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
         "megaEvolutions": mega_evolutions,
-        "regionForms": region_forms,  # Agregamos los datos de regionForms si existen
-        "stats": stats_en,  # Solo mostramos las estadísticas sin traducción
-        "assets": {
-            "image": entry["assets"]["image"] if entry.get("assets") else None,
-            "shinyImage": entry["assets"]["shinyImage"] if entry.get("assets") else None
-        }
+        "regionForms": region_forms,
+        "stats": stats_en
     }
+
     processed_data.append(processed_entry)
 
-# Guardar los datos procesados en un archivo JSON
-output_filename = "pokemon_data.json"
-with open(output_filename, "w", encoding="utf-8") as outfile:
-    json.dump(processed_data, outfile, indent=4, ensure_ascii=False)
+# Guardar el JSON resultante en un archivo
+with open("processed_pokedex.json", "w") as json_file:
+    json.dump(processed_data, json_file, indent=4)
 
-print(f"Datos procesados guardados en '{output_filename}'")
+print("Datos procesados y guardados en 'processed_pokedex.json'.")
