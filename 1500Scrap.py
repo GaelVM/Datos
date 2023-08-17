@@ -83,3 +83,11 @@ for pokemon in data:
                 pokemon["image"] = entry["assets"]["image"]
                 pokemon["shinyImage"] = entry["assets"]["shinyImage"]
             break
+
+# Guardar en formato JSON
+output_file = "pvp1500_data.json"
+
+with open(output_file, "w") as json_file:
+    json.dump(data, json_file, indent=4)
+
+print(f"Se han raspado y guardado {len(data)} registros en {output_file}")
