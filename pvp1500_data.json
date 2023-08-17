@@ -40,7 +40,7 @@
         "CP": "1496",
         "IV": "4/15/15",
         "primaryType": "Lucha",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm308.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm308.s.icon.png"
     },
@@ -159,7 +159,7 @@
         "Level": "29",
         "CP": "1497",
         "IV": "0/14/15",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm334.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm334.s.icon.png"
@@ -205,7 +205,7 @@
         "CP": "1500",
         "IV": "0/13/14",
         "primaryType": "Agua",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm171.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm171.s.icon.png"
     },
@@ -279,7 +279,7 @@
         "Level": "17",
         "CP": "1498",
         "IV": "0/14/14",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Lucha",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm784.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm784.s.icon.png"
@@ -310,7 +310,7 @@
         "CP": "1497",
         "IV": "1/15/15",
         "primaryType": "Siniestro",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm799.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm799.s.icon.png"
     },
@@ -429,7 +429,7 @@
         "Level": "51",
         "CP": "1174",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm202.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm202.s.icon.png"
@@ -474,7 +474,7 @@
         "Level": "24",
         "CP": "1500",
         "IV": "10/15/13",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm386.fATTACK.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm386.fATTACK.s.icon.png"
@@ -519,7 +519,7 @@
         "Level": "14.5",
         "CP": "1500",
         "IV": "3/15/14",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm149.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm149.s.icon.png"
@@ -549,7 +549,7 @@
         "Level": "26.5",
         "CP": "1498",
         "IV": "0/13/13",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Acero",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm777.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm777.s.icon.png"
@@ -564,7 +564,7 @@
         "Level": "20",
         "CP": "1500",
         "IV": "2/15/13",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm488.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm488.s.icon.png"
@@ -610,7 +610,7 @@
         "CP": "1500",
         "IV": "0/15/15",
         "primaryType": "Siniestro",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm634.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm634.s.icon.png"
     },
@@ -624,7 +624,7 @@
         "Level": "39",
         "CP": "1498",
         "IV": "0/13/15",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Lucha",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm783.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm783.s.icon.png"
@@ -669,7 +669,7 @@
         "Level": "34",
         "CP": "1499",
         "IV": "1/15/15",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm148.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm148.s.icon.png"
@@ -789,7 +789,7 @@
         "Level": "14.5",
         "CP": "1500",
         "IV": "3/15/14",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm149.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm149.s.icon.png"
@@ -834,7 +834,7 @@
         "Level": "51",
         "CP": "1388",
         "IV": "15/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm417.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm417.s.icon.png"
@@ -909,7 +909,7 @@
         "Level": "34",
         "CP": "1499",
         "IV": "1/15/15",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm148.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm148.s.icon.png"
@@ -984,7 +984,7 @@
         "Level": "16.5",
         "CP": "1499",
         "IV": "10/15/13",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm151.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm151.s.icon.png"
@@ -1345,7 +1345,7 @@
         "CP": "1500",
         "IV": "0/15/9",
         "primaryType": "Tierra",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm330.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm330.s.icon.png"
     },
@@ -1405,7 +1405,7 @@
         "CP": "1495",
         "IV": "0/15/15",
         "primaryType": "Bicho",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm596.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm596.s.icon.png"
     },
@@ -1449,7 +1449,7 @@
         "Level": "16",
         "CP": "1500",
         "IV": "3/15/14",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm243.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm243.s.icon.png"
@@ -1809,7 +1809,7 @@
         "Level": "16",
         "CP": "1500",
         "IV": "1/14/14",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm706.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm706.s.icon.png"
@@ -1914,7 +1914,7 @@
         "Level": "17.5",
         "CP": "1500",
         "IV": "0/13/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Acero",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm462.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm462.s.icon.png"
@@ -1929,7 +1929,7 @@
         "Level": "16",
         "CP": "1500",
         "IV": "3/15/14",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm243.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm243.s.icon.png"
@@ -1944,7 +1944,7 @@
         "Level": "16.5",
         "CP": "1499",
         "IV": "10/15/13",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Fuego",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm494.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm494.s.icon.png"
@@ -1959,7 +1959,7 @@
         "Level": "19.5",
         "CP": "1500",
         "IV": "0/15/12",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm405.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm405.s.icon.png"
@@ -2094,7 +2094,7 @@
         "Level": "26.5",
         "CP": "1499",
         "IV": "1/14/14",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Planta",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm101.fHISUIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm101.fHISUIAN.s.icon.png"
@@ -2259,7 +2259,7 @@
         "Level": "23.5",
         "CP": "1498",
         "IV": "0/15/9",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm523.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm523.s.icon.png"
@@ -2349,7 +2349,7 @@
         "Level": "17.5",
         "CP": "1500",
         "IV": "0/13/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Acero",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm462.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm462.s.icon.png"
@@ -2380,7 +2380,7 @@
         "CP": "1500",
         "IV": "0/15/9",
         "primaryType": "Tierra",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm330.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm330.s.icon.png"
     },
@@ -2409,8 +2409,8 @@
         "Level": "26",
         "CP": "1499",
         "IV": "0/15/14",
-        "primaryType": "El\u00e9ctrico",
-        "secondaryType": "Ps\u00edquico",
+        "primaryType": "Eléctrico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm26.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm26.fALOLA.s.icon.png"
     },
@@ -2454,7 +2454,7 @@
         "Level": "20.5",
         "CP": "1495",
         "IV": "0/15/15",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm621.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm621.s.icon.png"
@@ -2499,7 +2499,7 @@
         "Level": "33",
         "CP": "1500",
         "IV": "0/14/12",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Hada",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm702.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm702.s.icon.png"
@@ -2559,7 +2559,7 @@
         "Level": "18.5",
         "CP": "1500",
         "IV": "1/15/14",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm144.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm144.fGALARIAN.s.icon.png"
@@ -2574,7 +2574,7 @@
         "Level": "18",
         "CP": "1496",
         "IV": "0/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Hada",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm282.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm282.s.icon.png"
@@ -2665,7 +2665,7 @@
         "CP": "1498",
         "IV": "0/15/13",
         "primaryType": "Veneno",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm691.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm691.s.icon.png"
     },
@@ -2724,8 +2724,8 @@
         "Level": "24.5",
         "CP": "1496",
         "IV": "1/15/15",
-        "primaryType": "El\u00e9ctrico",
-        "secondaryType": "Ps\u00edquico",
+        "primaryType": "Eléctrico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm26.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm26.fALOLA.s.icon.png"
     },
@@ -2755,7 +2755,7 @@
         "CP": "1493",
         "IV": "0/15/15",
         "primaryType": "Roca",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm696.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm696.s.icon.png"
     },
@@ -2769,7 +2769,7 @@
         "Level": "18",
         "CP": "1496",
         "IV": "0/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Lucha",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm475.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm475.s.icon.png"
@@ -2904,7 +2904,7 @@
         "Level": "22.5",
         "CP": "1497",
         "IV": "0/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Acero",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm82.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm82.s.icon.png"
@@ -3025,7 +3025,7 @@
         "CP": "1499",
         "IV": "0/15/10",
         "primaryType": "Siniestro",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm635.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm635.s.icon.png"
     },
@@ -3039,7 +3039,7 @@
         "Level": "28",
         "CP": "1500",
         "IV": "0/13/13",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm97.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm97.s.icon.png"
@@ -3054,8 +3054,8 @@
         "Level": "14.5",
         "CP": "1498",
         "IV": "1/14/15",
-        "primaryType": "Drag\u00f3n",
-        "secondaryType": "Ps\u00edquico",
+        "primaryType": "Dragón",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm381.fS.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm381.fS.s.icon.png"
     },
@@ -3115,7 +3115,7 @@
         "CP": "1497",
         "IV": "0/13/15",
         "primaryType": "Bicho",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm737.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm737.s.icon.png"
     },
@@ -3279,7 +3279,7 @@
         "Level": "25",
         "CP": "1497",
         "IV": "1/15/15",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm611.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm611.s.icon.png"
@@ -3340,7 +3340,7 @@
         "CP": "1500",
         "IV": "0/15/9",
         "primaryType": "Siniestro",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm687.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm687.s.icon.png"
     },
@@ -3384,7 +3384,7 @@
         "Level": "18",
         "CP": "1499",
         "IV": "1/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm466.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm466.s.icon.png"
@@ -3429,7 +3429,7 @@
         "Level": "18",
         "CP": "1499",
         "IV": "1/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm466.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm466.s.icon.png"
@@ -3444,7 +3444,7 @@
         "Level": "18",
         "CP": "1496",
         "IV": "0/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Lucha",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm475.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm475.s.icon.png"
@@ -3534,7 +3534,7 @@
         "Level": "51",
         "CP": "1498",
         "IV": "8/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Acero",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm81.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm81.s.icon.png"
@@ -3580,7 +3580,7 @@
         "CP": "1498",
         "IV": "0/14/15",
         "primaryType": "Roca",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm75.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm75.fALOLA.s.icon.png"
     },
@@ -3625,7 +3625,7 @@
         "CP": "1498",
         "IV": "1/14/15",
         "primaryType": "Roca",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm76.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm76.fALOLA.s.icon.png"
     },
@@ -3879,7 +3879,7 @@
         "Level": "15.5",
         "CP": "1499",
         "IV": "0/14/13",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm612.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm612.s.icon.png"
@@ -3955,7 +3955,7 @@
         "CP": "1499",
         "IV": "10/15/13",
         "primaryType": "Acero",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm385.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm385.s.icon.png"
     },
@@ -3999,7 +3999,7 @@
         "Level": "18.5",
         "CP": "1500",
         "IV": "1/15/14",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm144.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm144.fGALARIAN.s.icon.png"
@@ -4044,8 +4044,8 @@
         "Level": "14.5",
         "CP": "1498",
         "IV": "1/14/15",
-        "primaryType": "Drag\u00f3n",
-        "secondaryType": "Ps\u00edquico",
+        "primaryType": "Dragón",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm381.fS.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm381.fS.s.icon.png"
     },
@@ -4074,7 +4074,7 @@
         "Level": "22.5",
         "CP": "1497",
         "IV": "0/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Acero",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm82.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm82.s.icon.png"
@@ -4119,7 +4119,7 @@
         "Level": "15",
         "CP": "1500",
         "IV": "4/14/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm249.fS.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm249.fS.s.icon.png"
@@ -4224,7 +4224,7 @@
         "Level": "51",
         "CP": "1174",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm202.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm202.s.icon.png"
@@ -4254,7 +4254,7 @@
         "Level": "28",
         "CP": "1500",
         "IV": "0/13/13",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm97.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm97.s.icon.png"
@@ -4419,7 +4419,7 @@
         "Level": "20",
         "CP": "1499",
         "IV": "0/13/11",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm181.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm181.s.icon.png"
@@ -4449,7 +4449,7 @@
         "Level": "48",
         "CP": "1498",
         "IV": "0/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm404.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm404.s.icon.png"
@@ -4465,7 +4465,7 @@
         "CP": "1497",
         "IV": "1/15/14",
         "primaryType": "Acero",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm437.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm437.s.icon.png"
     },
@@ -4479,7 +4479,7 @@
         "Level": "51",
         "CP": "1498",
         "IV": "8/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Acero",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm81.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm81.s.icon.png"
@@ -4524,7 +4524,7 @@
         "Level": "48",
         "CP": "1498",
         "IV": "0/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm404.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm404.s.icon.png"
@@ -4614,7 +4614,7 @@
         "Level": "20",
         "CP": "1499",
         "IV": "0/13/11",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm181.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm181.s.icon.png"
@@ -4659,7 +4659,7 @@
         "Level": "24.5",
         "CP": "1497",
         "IV": "0/14/11",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm125.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm125.s.icon.png"
@@ -4674,7 +4674,7 @@
         "Level": "41",
         "CP": "1500",
         "IV": "0/13/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm587.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm587.s.icon.png"
@@ -4719,7 +4719,7 @@
         "Level": "27",
         "CP": "1498",
         "IV": "1/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Planta",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm101.fHISUIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm101.fHISUIAN.s.icon.png"
@@ -4794,7 +4794,7 @@
         "Level": "18",
         "CP": "1496",
         "IV": "0/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Hada",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm282.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm282.s.icon.png"
@@ -4839,7 +4839,7 @@
         "Level": "38",
         "CP": "1500",
         "IV": "0/15/9",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm528.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm528.s.icon.png"
@@ -4869,7 +4869,7 @@
         "Level": "23",
         "CP": "1499",
         "IV": "0/13/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Hada",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm78.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm78.fGALARIAN.s.icon.png"
@@ -4899,7 +4899,7 @@
         "Level": "28",
         "CP": "1499",
         "IV": "1/15/14",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm372.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm372.s.icon.png"
@@ -5094,7 +5094,7 @@
         "Level": "27",
         "CP": "1498",
         "IV": "1/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Planta",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm101.fHISUIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm101.fHISUIAN.s.icon.png"
@@ -5110,7 +5110,7 @@
         "CP": "1500",
         "IV": "0/15/12",
         "primaryType": "Normal",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm203.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm203.s.icon.png"
     },
@@ -5185,7 +5185,7 @@
         "CP": "1500",
         "IV": "0/15/12",
         "primaryType": "Normal",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm203.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm203.s.icon.png"
     },
@@ -5320,7 +5320,7 @@
         "CP": "1499",
         "IV": "1/15/14",
         "primaryType": "Planta",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.fALOLA.s.icon.png"
     },
@@ -5349,7 +5349,7 @@
         "Level": "15",
         "CP": "1500",
         "IV": "4/14/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm249.fS.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm249.fS.s.icon.png"
@@ -5484,7 +5484,7 @@
         "Level": "38.5",
         "CP": "1500",
         "IV": "0/15/14",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm312.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm312.s.icon.png"
@@ -5499,7 +5499,7 @@
         "Level": "23",
         "CP": "1499",
         "IV": "0/13/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Hada",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm78.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm78.fGALARIAN.s.icon.png"
@@ -5544,7 +5544,7 @@
         "Level": "13",
         "CP": "1498",
         "IV": "4/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_pm0150_00_pgo_a.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_pm0150_00_pgo_a_shiny.png"
@@ -5589,7 +5589,7 @@
         "Level": "16.5",
         "CP": "1499",
         "IV": "10/15/13",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Planta",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm251.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm251.s.icon.png"
@@ -5620,7 +5620,7 @@
         "CP": "1499",
         "IV": "0/13/14",
         "primaryType": "Normal",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm765.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm765.s.icon.png"
     },
@@ -5634,7 +5634,7 @@
         "Level": "19.5",
         "CP": "1500",
         "IV": "0/15/12",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm405.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm405.s.icon.png"
@@ -5949,7 +5949,7 @@
         "Level": "24",
         "CP": "1500",
         "IV": "0/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm310.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm310.s.icon.png"
@@ -6009,7 +6009,7 @@
         "Level": "22.5",
         "CP": "1499",
         "IV": "2/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm480.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm480.s.icon.png"
@@ -6070,7 +6070,7 @@
         "CP": "1479",
         "IV": "15/15/15",
         "primaryType": "Roca",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm74.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm74.fALOLA.s.icon.png"
     },
@@ -6234,7 +6234,7 @@
         "Level": "24",
         "CP": "1500",
         "IV": "0/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm310.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm310.s.icon.png"
@@ -6355,7 +6355,7 @@
         "CP": "1498",
         "IV": "0/14/12",
         "primaryType": "Bicho",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm738.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm738.s.icon.png"
     },
@@ -6384,7 +6384,7 @@
         "Level": "24",
         "CP": "1498",
         "IV": "2/14/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm125.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm125.s.icon.png"
@@ -6429,7 +6429,7 @@
         "Level": "15.5",
         "CP": "1499",
         "IV": "1/14/14",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm144.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm144.fGALARIAN.s.icon.png"
@@ -6520,7 +6520,7 @@
         "CP": "1499",
         "IV": "1/15/14",
         "primaryType": "Planta",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.fALOLA.s.icon.png"
     },
@@ -6610,7 +6610,7 @@
         "CP": "1401",
         "IV": "15/15/15",
         "primaryType": "Tierra",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm329.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm329.s.icon.png"
     },
@@ -6685,7 +6685,7 @@
         "CP": "1498",
         "IV": "0/14/15",
         "primaryType": "Roca",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm75.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm75.fALOLA.s.icon.png"
     },
@@ -6759,7 +6759,7 @@
         "Level": "18",
         "CP": "1495",
         "IV": "1/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm65.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm65.s.icon.png"
@@ -6865,7 +6865,7 @@
         "CP": "1498",
         "IV": "0/15/13",
         "primaryType": "Agua",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm230.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm230.s.icon.png"
     },
@@ -6879,8 +6879,8 @@
         "Level": "16",
         "CP": "1500",
         "IV": "1/12/14",
-        "primaryType": "Drag\u00f3n",
-        "secondaryType": "Ps\u00edquico",
+        "primaryType": "Dragón",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm380.fS.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm380.fS.s.icon.png"
     },
@@ -6939,7 +6939,7 @@
         "Level": "37.5",
         "CP": "1499",
         "IV": "0/15/14",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm77.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm77.fGALARIAN.s.icon.png"
@@ -6954,7 +6954,7 @@
         "Level": "18",
         "CP": "1495",
         "IV": "1/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm65.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm65.s.icon.png"
@@ -7119,7 +7119,7 @@
         "Level": "28",
         "CP": "1499",
         "IV": "1/15/14",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm372.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm372.s.icon.png"
@@ -7239,7 +7239,7 @@
         "Level": "14",
         "CP": "1498",
         "IV": "0/15/15",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Tierra",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm445.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm445.s.icon.png"
@@ -7255,7 +7255,7 @@
         "CP": "1498",
         "IV": "0/15/13",
         "primaryType": "Agua",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm230.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm230.s.icon.png"
     },
@@ -7285,7 +7285,7 @@
         "CP": "1498",
         "IV": "0/15/12",
         "primaryType": "Roca",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm697.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm697.s.icon.png"
     },
@@ -7359,7 +7359,7 @@
         "Level": "22",
         "CP": "1500",
         "IV": "0/12/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm479.fFAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm479.fFAN.s.icon.png"
@@ -7389,7 +7389,7 @@
         "Level": "37.5",
         "CP": "1498",
         "IV": "0/13/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm603.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm603.s.icon.png"
@@ -7450,7 +7450,7 @@
         "CP": "1477",
         "IV": "15/15/15",
         "primaryType": "Hielo",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm238.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm238.s.icon.png"
     },
@@ -7480,7 +7480,7 @@
         "CP": "1498",
         "IV": "0/14/15",
         "primaryType": "Tierra",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm344.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm344.s.icon.png"
     },
@@ -7509,7 +7509,7 @@
         "Level": "34.5",
         "CP": "1499",
         "IV": "0/15/14",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm311.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm311.s.icon.png"
@@ -7539,7 +7539,7 @@
         "Level": "51",
         "CP": "1403",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm79.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm79.fGALARIAN.s.icon.png"
@@ -7555,7 +7555,7 @@
         "CP": "1401",
         "IV": "15/15/15",
         "primaryType": "Tierra",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm329.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm329.s.icon.png"
     },
@@ -7675,7 +7675,7 @@
         "CP": "1499",
         "IV": "0/14/11",
         "primaryType": "Veneno",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm80.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm80.fGALARIAN.s.icon.png"
     },
@@ -7764,7 +7764,7 @@
         "Level": "19.5",
         "CP": "1500",
         "IV": "0/12/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm135.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm135.s.icon.png"
@@ -7779,8 +7779,8 @@
         "Level": "16",
         "CP": "1500",
         "IV": "1/12/14",
-        "primaryType": "Drag\u00f3n",
-        "secondaryType": "Ps\u00edquico",
+        "primaryType": "Dragón",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm380.fS.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm380.fS.s.icon.png"
     },
@@ -7929,7 +7929,7 @@
         "Level": "14.5",
         "CP": "1500",
         "IV": "1/14/12",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm384.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm384.s.icon.png"
@@ -7959,7 +7959,7 @@
         "Level": "20.5",
         "CP": "1500",
         "IV": "1/15/14",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm604.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm604.s.icon.png"
@@ -8050,7 +8050,7 @@
         "CP": "1498",
         "IV": "0/14/15",
         "primaryType": "Roca",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm75.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm75.fALOLA.s.icon.png"
     },
@@ -8214,7 +8214,7 @@
         "Level": "17.5",
         "CP": "1498",
         "IV": "0/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm196.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm196.s.icon.png"
@@ -8245,7 +8245,7 @@
         "CP": "1498",
         "IV": "1/14/15",
         "primaryType": "Roca",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm76.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm76.fALOLA.s.icon.png"
     },
@@ -8424,7 +8424,7 @@
         "Level": "28",
         "CP": "1498",
         "IV": "1/15/15",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm705.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm705.s.icon.png"
@@ -8530,7 +8530,7 @@
         "CP": "1495",
         "IV": "2/15/15",
         "primaryType": "Acero",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm376.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm376.s.icon.png"
     },
@@ -8574,7 +8574,7 @@
         "Level": "15",
         "CP": "1500",
         "IV": "0/10/14",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm373.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm373.s.icon.png"
@@ -8620,7 +8620,7 @@
         "CP": "1500",
         "IV": "1/15/14",
         "primaryType": "Planta",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.fALOLA.s.icon.png"
     },
@@ -8634,7 +8634,7 @@
         "Level": "31",
         "CP": "1498",
         "IV": "0/15/14",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Tierra",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm444.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm444.s.icon.png"
@@ -8695,7 +8695,7 @@
         "CP": "1500",
         "IV": "1/15/14",
         "primaryType": "Planta",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.fALOLA.s.icon.png"
     },
@@ -8710,7 +8710,7 @@
         "CP": "1500",
         "IV": "0/13/15",
         "primaryType": "Acero",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm375.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm375.s.icon.png"
     },
@@ -8769,7 +8769,7 @@
         "Level": "23.5",
         "CP": "1497",
         "IV": "0/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm576.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm576.s.icon.png"
@@ -8845,7 +8845,7 @@
         "CP": "1495",
         "IV": "2/15/15",
         "primaryType": "Acero",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm376.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm376.s.icon.png"
     },
@@ -8890,7 +8890,7 @@
         "CP": "1479",
         "IV": "15/15/15",
         "primaryType": "Roca",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm74.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm74.fALOLA.s.icon.png"
     },
@@ -8935,7 +8935,7 @@
         "CP": "1498",
         "IV": "1/14/15",
         "primaryType": "Roca",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm76.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm76.fALOLA.s.icon.png"
     },
@@ -9175,7 +9175,7 @@
         "CP": "1280",
         "IV": "15/15/15",
         "primaryType": "Agua",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm170.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm170.s.icon.png"
     },
@@ -9189,7 +9189,7 @@
         "Level": "43",
         "CP": "1497",
         "IV": "0/15/14",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm575.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm575.s.icon.png"
@@ -9234,7 +9234,7 @@
         "Level": "51",
         "CP": "1403",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm79.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm79.fGALARIAN.s.icon.png"
@@ -9279,7 +9279,7 @@
         "Level": "25.5",
         "CP": "1500",
         "IV": "0/14/12",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm358.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm358.s.icon.png"
@@ -9310,7 +9310,7 @@
         "CP": "1500",
         "IV": "0/13/15",
         "primaryType": "Acero",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm375.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm375.s.icon.png"
     },
@@ -9490,7 +9490,7 @@
         "CP": "1344",
         "IV": "15/15/15",
         "primaryType": "Planta",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm102.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm102.s.icon.png"
     },
@@ -9505,7 +9505,7 @@
         "CP": "1497",
         "IV": "0/14/13",
         "primaryType": "Hielo",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_866_31.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_866_31_shiny.png"
     },
@@ -9549,7 +9549,7 @@
         "Level": "51",
         "CP": "1380",
         "IV": "15/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm239.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm239.s.icon.png"
@@ -9579,7 +9579,7 @@
         "Level": "21.5",
         "CP": "1494",
         "IV": "0/15/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Normal",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm695.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm695.s.icon.png"
@@ -9655,7 +9655,7 @@
         "CP": "1499",
         "IV": "0/11/14",
         "primaryType": "Fuego",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm655.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm655.s.icon.png"
     },
@@ -9744,7 +9744,7 @@
         "Level": "51",
         "CP": "1441",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm677.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm677.s.icon.png"
@@ -9789,7 +9789,7 @@
         "Level": "51",
         "CP": "1403",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm79.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm79.fGALARIAN.s.icon.png"
@@ -9849,7 +9849,7 @@
         "Level": "22",
         "CP": "1500",
         "IV": "0/12/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm479.fFAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm479.fFAN.s.icon.png"
@@ -10030,7 +10030,7 @@
         "CP": "1500",
         "IV": "0/13/15",
         "primaryType": "Veneno",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm80.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm80.fGALARIAN.s.icon.png"
     },
@@ -10045,7 +10045,7 @@
         "CP": "1344",
         "IV": "15/15/15",
         "primaryType": "Planta",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm102.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm102.s.icon.png"
     },
@@ -10075,7 +10075,7 @@
         "CP": "1479",
         "IV": "15/15/15",
         "primaryType": "Roca",
-        "secondaryType": "El\u00e9ctrico",
+        "secondaryType": "Eléctrico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm74.fALOLA.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm74.fALOLA.s.icon.png"
     },
@@ -10090,7 +10090,7 @@
         "CP": "1500",
         "IV": "0/13/15",
         "primaryType": "Veneno",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm80.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm80.fGALARIAN.s.icon.png"
     },
@@ -10105,7 +10105,7 @@
         "CP": "1500",
         "IV": "0/13/15",
         "primaryType": "Veneno",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm199.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm199.fGALARIAN.s.icon.png"
     },
@@ -10165,7 +10165,7 @@
         "CP": "1500",
         "IV": "0/13/15",
         "primaryType": "Veneno",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm199.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm199.fGALARIAN.s.icon.png"
     },
@@ -10254,7 +10254,7 @@
         "Level": "27",
         "CP": "1498",
         "IV": "0/14/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm678.fFEMALE.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm678.fFEMALE.s.icon.png"
@@ -10269,7 +10269,7 @@
         "Level": "15",
         "CP": "1500",
         "IV": "0/10/14",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm373.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm373.s.icon.png"
@@ -10359,7 +10359,7 @@
         "Level": "47",
         "CP": "1499",
         "IV": "0/15/14",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm180.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm180.s.icon.png"
@@ -10375,7 +10375,7 @@
         "CP": "1499",
         "IV": "0/15/14",
         "primaryType": "Roca",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm337.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm337.s.icon.png"
     },
@@ -10405,7 +10405,7 @@
         "CP": "1500",
         "IV": "1/15/13",
         "primaryType": "Hielo",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm122.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm122.fGALARIAN.s.icon.png"
     },
@@ -10465,7 +10465,7 @@
         "CP": "1499",
         "IV": "0/15/14",
         "primaryType": "Roca",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm338.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm338.s.icon.png"
     },
@@ -10539,7 +10539,7 @@
         "Level": "27",
         "CP": "1498",
         "IV": "0/14/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm678.fFEMALE.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm678.fFEMALE.s.icon.png"
@@ -10554,7 +10554,7 @@
         "Level": "18",
         "CP": "1498",
         "IV": "1/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm628.fHISUIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm628.fHISUIAN.s.icon.png"
@@ -10599,7 +10599,7 @@
         "Level": "46",
         "CP": "1500",
         "IV": "2/14/15",
-        "primaryType": "El\u00e9ctrico",
+        "primaryType": "Eléctrico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm180.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm180.s.icon.png"
@@ -10720,7 +10720,7 @@
         "CP": "1500",
         "IV": "0/14/13",
         "primaryType": "Veneno",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm199.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm199.fGALARIAN.s.icon.png"
     },
@@ -10824,7 +10824,7 @@
         "Level": "24",
         "CP": "1499",
         "IV": "1/14/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm326.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm326.s.icon.png"
@@ -10870,7 +10870,7 @@
         "CP": "1498",
         "IV": "0/15/11",
         "primaryType": "Agua",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm121.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm121.s.icon.png"
     },
@@ -10914,7 +10914,7 @@
         "Level": "26",
         "CP": "1498",
         "IV": "0/13/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm178.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm178.s.icon.png"
@@ -11215,7 +11215,7 @@
         "CP": "1498",
         "IV": "0/13/15",
         "primaryType": "Hielo",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm122.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm122.fGALARIAN.s.icon.png"
     },
@@ -11244,7 +11244,7 @@
         "Level": "20.5",
         "CP": "1498",
         "IV": "0/14/13",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm606.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm606.s.icon.png"
@@ -11290,7 +11290,7 @@
         "CP": "1500",
         "IV": "0/14/15",
         "primaryType": "Hielo",
-        "secondaryType": "Ps\u00edquico",
+        "secondaryType": "Psíquico",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm124.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm124.s.icon.png"
     },
@@ -11349,7 +11349,7 @@
         "Level": "22",
         "CP": "1500",
         "IV": "1/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm561.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm561.s.icon.png"
@@ -11379,7 +11379,7 @@
         "Level": "26",
         "CP": "1498",
         "IV": "0/13/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Volador",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm178.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm178.s.icon.png"
@@ -11574,7 +11574,7 @@
         "Level": "51",
         "CP": "1190",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm96.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm96.s.icon.png"
@@ -11589,7 +11589,7 @@
         "Level": "51",
         "CP": "1497",
         "IV": "6/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm605.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm605.s.icon.png"
@@ -11619,7 +11619,7 @@
         "Level": "51",
         "CP": "1190",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm96.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm96.s.icon.png"
@@ -11664,7 +11664,7 @@
         "Level": "16",
         "CP": "1500",
         "IV": "10/13/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": "Fantasma",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm720.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm720.s.icon.png"
@@ -11709,7 +11709,7 @@
         "Level": "18.5",
         "CP": "1499",
         "IV": "1/13/12",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm481.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm481.s.icon.png"
@@ -11725,7 +11725,7 @@
         "CP": "1497",
         "IV": "0/15/12",
         "primaryType": "Volador",
-        "secondaryType": "Drag\u00f3n",
+        "secondaryType": "Dragón",
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm715.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm715.s.icon.png"
     },
@@ -11739,7 +11739,7 @@
         "Level": "21",
         "CP": "1497",
         "IV": "0/12/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm518.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm518.s.icon.png"
@@ -11874,7 +11874,7 @@
         "Level": "50.5",
         "CP": "1492",
         "IV": "8/15/15",
-        "primaryType": "Drag\u00f3n",
+        "primaryType": "Dragón",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm610.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm610.s.icon.png"
@@ -11949,7 +11949,7 @@
         "Level": "17",
         "CP": "1500",
         "IV": "5/15/14",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm482.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm482.s.icon.png"
@@ -12069,7 +12069,7 @@
         "Level": "18.5",
         "CP": "1497",
         "IV": "11/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm386.fATTACK.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm386.fATTACK.s.icon.png"
@@ -12099,7 +12099,7 @@
         "Level": "37.5",
         "CP": "1499",
         "IV": "0/15/14",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm77.fGALARIAN.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm77.fGALARIAN.s.icon.png"
@@ -12174,7 +12174,7 @@
         "Level": "27",
         "CP": "1499",
         "IV": "2/15/14",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm64.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm64.s.icon.png"
@@ -12189,7 +12189,7 @@
         "Level": "19",
         "CP": "1498",
         "IV": "2/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm579.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm579.s.icon.png"
@@ -12204,7 +12204,7 @@
         "Level": "28",
         "CP": "1497",
         "IV": "0/15/13",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm578.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm578.s.icon.png"
@@ -12219,7 +12219,7 @@
         "Level": "51",
         "CP": "1500",
         "IV": "8/15/14",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm577.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm577.s.icon.png"
@@ -12234,7 +12234,7 @@
         "Level": "51",
         "CP": "1310",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm517.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm517.s.icon.png"
@@ -12279,7 +12279,7 @@
         "Level": "50.5",
         "CP": "1495",
         "IV": "13/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm325.icon.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm325.s.icon.png"
@@ -12294,7 +12294,7 @@
         "Level": "51",
         "CP": "1355",
         "IV": "15/15/15",
-        "primaryType": "Ps\u00edquico",
+        "primaryType": "Psíquico",
         "secondaryType": null,
         "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_201_16.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_201_16_shiny.png"
