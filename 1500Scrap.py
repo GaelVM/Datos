@@ -2,14 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-# Función para limpiar y comparar nombres de movimientos
-def clean_and_compare(move_name, move_list):
-    move_name_cleaned = move_name.lower().replace("*", "").replace("-", "").strip()
-    for move_data in move_list:
-        if move_name_cleaned == move_data.lower():
-            return move_data
-    return move_name
-
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
 
@@ -90,18 +82,12 @@ for pokemon in data:
                 pokemon["secondaryType"] = entry["secondaryType"]["es"]
                 pokemon["image"] = entry["assets"]["image"]
                 pokemon["shinyImage"] = entry["assets"]["shinyImage"]
-            
-            # Comparar habilidades y movimientos y reemplazar con valores en "es"
-            pokemon["Fast Skill"] = clean_and_compare(pokemon["Fast Skill"], entry["quickMoves"]["en"])
-            pokemon["Charged Skill 1"] = clean_and_compare(pokemon["Charged Skill 1"], entry["cinematicMoves"]["en"])
-            pokemon["Charged Skill 2"] = clean_and_compare(pokemon["Charged Skill 2"], entry["cinematicMoves"]["en"])
-            
             break
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
 
 with open(output_file, "w") as json_file:
-    json.dump(data, json_file, indent=4, ensure_ascii=False)
+    json.dump(data, json_file, indent=4)
 
 print(f"Se han raspado y guardado {len(data)} registros en {output_file}")
