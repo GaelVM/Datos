@@ -28,7 +28,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
     number = cells[0].text
     name = cells[1].text
-    number_dex = cells [2].text
+    number_dex = cells[2].text
     fast_skill = cells[3].text
     charged_skill_1 = cells[4].text
     charged_skill_2 = cells[5].text
@@ -50,6 +50,52 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
     data.append(pokemon_data)
 
+# Cargar el archivo JSON externo de ataques
+external_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokemon_data.json"
+response = requests.get(external_data_url)
+if response.status_code == 200:
+    external_data = json.loads(response.text)
+else:
+    print("Error al acceder al archivo JSON externo:", response.status_code)
+    exit()
+
+# Definir una función para obtener la traducción de un ataque
+def obtener_traduccion(ataque_en):
+    ataque_sin_asterisco = ataque_en.rstrip('*')
+    for pokemon_entry in external_data:
+        for attack_entry in pokemon_entry.get("attacks", []):
+            if attack_entry["en"] == ataque_sin_asterisco:
+                traduccion_es = attack_entry["es"]
+                if ataque_en.endswith('*'):
+                    traduccion_es = f"{traduccion_es} (*)"
+                return traduccion_es
+    return ataque_en
+
+# Reemplazar los nombres de los ataques con las traducciones en español si hay coincidencias
+for pokemon in data:
+    pokemon["Fast Skill"] = obtener_traduccion(pokemon["Fast Skill"])
+    pokemon["Charged Skill 1"] = obtener_traduccion(pokemon["Charged Skill 1"])
+    pokemon["Charged Skill 2"] = obtener_traduccion(pokemon["Charged Skill 2"])
+
+# Agregar información de "image" y "shinyImage" de la estructura JSON de comparación
+for pokemon in data:
+    number_dex = pokemon["NumberDex"]
+    for entry in external_data:
+        if entry["dexNr"] == int(number_dex):
+            if "regionForms" in entry:
+                for region_form in entry["regionForms"]:
+                    if region_form["id"] == entry["id"]:
+                        pokemon["image"] = region_form["assets"]["image"]
+                        pokemon["shinyImage"] = region_form["assets"]["shinyImage"]
+                        break
+                else:
+                    pokemon["image"] = entry["assets"]["image"]
+                    pokemon["shinyImage"] = entry["assets"]["shinyImage"]
+            else:
+                pokemon["image"] = entry["assets"]["image"]
+                pokemon["shinyImage"] = entry["assets"]["shinyImage"]
+            break
+
 # Guardar en formato JSON
 output_file = "pvpMaster_data.json"
 
@@ -57,3 +103,5 @@ with open(output_file, "w") as json_file:
     json.dump(data, json_file, indent=4)
 
 print(f"Se han raspado y guardado {len(data)} registros en {output_file}")
+
+
