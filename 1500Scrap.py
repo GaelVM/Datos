@@ -59,8 +59,28 @@ else:
     print("Error al acceder al archivo JSON externo:", response.status_code)
     exit()
 
-# Agregar los campos "primaryType", "secondaryType", "image" y "shinyImage"
+# Cargar el archivo JSON externo de ataques
+moves_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/moves_data.json"
+response = requests.get(moves_data_url)
+if response.status_code == 200:
+    moves_data = json.loads(response.text)
+else:
+    print("Error al acceder al archivo JSON de ataques:", response.status_code)
+    exit()
+
+# Definir una función para obtener la traducción de un ataque
+def obtener_traduccion(ataque):
+    for move in moves_data:
+        if move["ataque"] == ataque:
+            return move["ataquetraduccion"]
+    return ataque
+
+# Agregar las traducciones de ataques si hay coincidencias
 for pokemon in data:
+    pokemon["Fast Skill"] = obtener_traduccion(pokemon["Fast Skill"])
+    pokemon["Charged Skill 1"] = obtener_traduccion(pokemon["Charged Skill 1"])
+    pokemon["Charged Skill 2"] = obtener_traduccion(pokemon["Charged Skill 2"])
+
     number_dex = pokemon["NumberDex"]
     for entry in external_data:
         if entry["dexNr"] == int(number_dex):
