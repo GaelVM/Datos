@@ -63,9 +63,15 @@ else:
 for pokemon in data:
     number_dex = pokemon["NumberDex"]
     for entry in external_data:
-        if entry["dexNr"] == number_dex:
-            pokemon["primaryType"] = entry["primaryType"]["es"]
-            pokemon["secondaryType"] = entry["secondaryType"]["es"]
+        if entry["dexNr"] == int(number_dex):
+            if "regionForms" in entry:
+                for region_form in entry["regionForms"]:
+                    if region_form["id"] == entry["id"]:
+                        pokemon["primaryType"] = region_form["primaryType"]["es"]
+                        pokemon["secondaryType"] = region_form["secondaryType"]["es"]
+            else:
+                pokemon["primaryType"] = entry["primaryType"]["es"]
+                pokemon["secondaryType"] = entry["secondaryType"]["es"]
             break
 
 # Guardar en formato JSON
