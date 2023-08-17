@@ -65,7 +65,10 @@ def obtener_traduccion(ataque_en):
     for pokemon_entry in external_data:
         for attack_entry in pokemon_entry.get("attacks", []):
             if attack_entry["en"] == ataque_sin_asterisco:
-                return attack_entry["es"]
+                traduccion_es = attack_entry["es"]
+                if ataque_en.endswith('*'):
+                    traduccion_es = f"{traduccion_es} (*)"
+                return traduccion_es
     return ataque_en
 
 # Reemplazar los nombres de los ataques con las traducciones en español si hay coincidencias
@@ -73,6 +76,25 @@ for pokemon in data:
     pokemon["Fast Skill"] = obtener_traduccion(pokemon["Fast Skill"])
     pokemon["Charged Skill 1"] = obtener_traduccion(pokemon["Charged Skill 1"])
     pokemon["Charged Skill 2"] = obtener_traduccion(pokemon["Charged Skill 2"])
+
+# Agregar información de "image" y "shinyImage" de la estructura JSON de comparación
+for pokemon in data:
+    number_dex = pokemon["NumberDex"]
+    for entry in external_data:
+        if entry["dexNr"] == int(number_dex):
+            if "regionForms" in entry:
+                for region_form in entry["regionForms"]:
+                    if region_form["id"] == entry["id"]:
+                        pokemon["image"] = region_form["assets"]["image"]
+                        pokemon["shinyImage"] = region_form["assets"]["shinyImage"]
+                        break
+                else:
+                    pokemon["image"] = entry["assets"]["image"]
+                    pokemon["shinyImage"] = entry["assets"]["shinyImage"]
+            else:
+                pokemon["image"] = entry["assets"]["image"]
+                pokemon["shinyImage"] = entry["assets"]["shinyImage"]
+            break
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
