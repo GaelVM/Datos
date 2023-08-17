@@ -69,6 +69,10 @@ for pokemon in data:
                     if region_form["id"] == entry["id"]:
                         pokemon["primaryType"] = region_form["primaryType"]["es"]
                         pokemon["secondaryType"] = region_form["secondaryType"]["es"]
+                        break
+                else:
+                    pokemon["primaryType"] = entry["primaryType"]["es"]
+                    pokemon["secondaryType"] = entry["secondaryType"]["es"]
             else:
                 pokemon["primaryType"] = entry["primaryType"]["es"]
                 pokemon["secondaryType"] = entry["secondaryType"]["es"]
