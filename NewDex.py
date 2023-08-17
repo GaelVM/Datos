@@ -130,6 +130,14 @@ for entry in data:
         "defense": stats.get("defense") if stats else None
     }
 
+    # Crear la estructura de ataques
+    attacks = {
+        "quickMoves": [{"en": en, "es": es} for en, es in zip(quick_moves_en, quick_moves_es)],
+        "cinematicMoves": [{"en": en, "es": es} for en, es in zip(cinematic_moves_en, cinematic_moves_es)],
+        "eliteQuickMoves": [{"en": en, "es": es} for en, es in zip(elite_quick_moves_en, elite_quick_moves_es)],
+        "eliteCinematicMoves": [{"en": en, "es": es} for en, es in zip(elite_cinematic_moves_en, elite_cinematic_moves_es)]
+    }
+
     processed_entry = {
         "id": entry["id"],
         "formId": entry["formId"],
@@ -147,22 +155,7 @@ for entry in data:
             "en": entry["names"]["English"],
             "es": entry["names"]["Spanish"]
         },
-        "quickMoves": {
-            "en": quick_moves_en,
-            "es": quick_moves_es
-        },
-        "cinematicMoves": {
-            "en": cinematic_moves_en,
-            "es": cinematic_moves_es
-        },
-        "eliteQuickMoves": {
-            "en": elite_quick_moves_en,
-            "es": elite_quick_moves_es
-        },
-        "eliteCinematicMoves": {
-            "en": elite_cinematic_moves_en,
-            "es": elite_cinematic_moves_es
-        },
+        "attacks": attacks,  # Agregar la nueva estructura de ataques
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
         "megaEvolutions": mega_evolutions,
         "regionForms": region_forms,
