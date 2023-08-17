@@ -36,21 +36,6 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     cp = cells[7].text
     iv = cells[8].text
 
-    # Cargar datos del archivo pokemon_data.json desde GitHub
-    pokemon_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokemon_data.json"
-    pokemon_data_response = requests.get(pokemon_data_url)
-    if pokemon_data_response.status_code == 200:
-        pokemon_data = json.loads(pokemon_data_response.content)
-        for entry in pokemon_data:
-            if entry["dexNr"] == number_dex:
-                spanish_names = entry["names"]["es"]
-                break
-        else:
-            spanish_names = {}
-    else:
-        print("Error al acceder al archivo de datos de Pokémon:", pokemon_data_response.status_code)
-        spanish_names = {}
-
     pokemon_data = {
         "#": number,
         "Name": name,
@@ -60,13 +45,29 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
         "Charged Skill 2": charged_skill_2,
         "Level": level,
         "CP": cp,
-        "IV": iv,
-        "names": {
-            "es": spanish_names
-        }
+        "IV": iv
     }
 
     data.append(pokemon_data)
+
+# Cargar datos desde el archivo JSON en línea
+json_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokemon_data.json"
+response = requests.get(json_url)
+pokemon_json_data = {}
+
+if response.status_code == 200:
+    pokemon_json_data = response.json()
+else:
+    print("Error al acceder al archivo JSON en línea:", response.status_code)
+    exit()
+
+# Combinar los datos
+for entry in data:
+    number_dex = entry["NumberDex"]
+    if number_dex in pokemon_json_data:
+        entry["Names"] = pokemon_json_data[number_dex]["names"]["es"]
+        entry["Primary Type"] = pokemon_json_data[number_dex]["primaryType"]["es"]
+        entry["Secondary Type"] = pokemon_json_data[number_dex]["secondaryType"]["es"]
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
