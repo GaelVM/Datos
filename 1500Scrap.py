@@ -90,14 +90,14 @@ for pokemon in data:
             
             for move_data in entry["quickMoves"]["en"]:
                 if fast_skill == move_data:
-                    pokemon["Fast Skill"] = entry["quickMoves"]["es"][move_data]
+                    pokemon["Fast Skill"] = entry["quickMoves"]["es"][entry["quickMoves"]["en"].index(move_data)]
                     break
             
             for move_data in entry["cinematicMoves"]["en"]:
                 if charged_skill_1 == move_data:
-                    pokemon["Charged Skill 1"] = entry["cinematicMoves"]["es"][move_data]
+                    pokemon["Charged Skill 1"] = entry["cinematicMoves"]["es"][entry["cinematicMoves"]["en"].index(move_data)]
                 if charged_skill_2 == move_data:
-                    pokemon["Charged Skill 2"] = entry["cinematicMoves"]["es"][move_data]
+                    pokemon["Charged Skill 2"] = entry["cinematicMoves"]["es"][entry["cinematicMoves"]["en"].index(move_data)]
             
             break
 
