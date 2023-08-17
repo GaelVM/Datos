@@ -50,7 +50,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
     data.append(pokemon_data)
 
-# Cargar el archivo JSON externo
+# Cargar el archivo JSON externo de ataques
 external_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokemon_data.json"
 response = requests.get(external_data_url)
 if response.status_code == 200:
@@ -59,30 +59,27 @@ else:
     print("Error al acceder al archivo JSON externo:", response.status_code)
     exit()
 
-# Agregar los campos "primaryType", "secondaryType", "image" y "shinyImage"
+# Cargar el archivo JSON externo de traducciones de ataques
+attacks_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/attacks_data.json"
+response = requests.get(attacks_data_url)
+if response.status_code == 200:
+    attacks_data = json.loads(response.text)
+else:
+    print("Error al acceder al archivo JSON de traducciones de ataques:", response.status_code)
+    exit()
+
+# Definir una función para obtener la traducción de un ataque
+def obtener_traduccion(ataque):
+    for attack in attacks_data:
+        if attack["en"] == ataque:
+            return attack["es"]
+    return ataque
+
+# Agregar las traducciones de ataques si hay coincidencias
 for pokemon in data:
-    number_dex = pokemon["NumberDex"]
-    for entry in external_data:
-        if entry["dexNr"] == int(number_dex):
-            if "regionForms" in entry:
-                for region_form in entry["regionForms"]:
-                    if region_form["id"] == entry["id"]:
-                        pokemon["primaryType"] = region_form["primaryType"]["es"]
-                        pokemon["secondaryType"] = region_form["secondaryType"]["es"]
-                        pokemon["image"] = region_form["assets"]["image"]
-                        pokemon["shinyImage"] = region_form["assets"]["shinyImage"]
-                        break
-                else:
-                    pokemon["primaryType"] = entry["primaryType"]["es"]
-                    pokemon["secondaryType"] = entry["secondaryType"]["es"]
-                    pokemon["image"] = entry["assets"]["image"]
-                    pokemon["shinyImage"] = entry["assets"]["shinyImage"]
-            else:
-                pokemon["primaryType"] = entry["primaryType"]["es"]
-                pokemon["secondaryType"] = entry["secondaryType"]["es"]
-                pokemon["image"] = entry["assets"]["image"]
-                pokemon["shinyImage"] = entry["assets"]["shinyImage"]
-            break
+    pokemon["Fast Skill"] = obtener_traduccion(pokemon["Fast Skill"])
+    pokemon["Charged Skill 1"] = obtener_traduccion(pokemon["Charged Skill 1"])
+    pokemon["Charged Skill 2"] = obtener_traduccion(pokemon["Charged Skill 2"])
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
