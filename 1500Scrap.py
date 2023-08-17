@@ -82,12 +82,40 @@ for pokemon in data:
                 pokemon["secondaryType"] = entry["secondaryType"]["es"]
                 pokemon["image"] = entry["assets"]["image"]
                 pokemon["shinyImage"] = entry["assets"]["shinyImage"]
+            
+            # Comparar habilidades y movimientos y reemplazar con valores en "es"
+            fast_skill = pokemon["Fast Skill"]
+            charged_skill_1 = pokemon["Charged Skill 1"]
+            charged_skill_2 = pokemon["Charged Skill 2"]
+            
+            for move_data in entry["quickMoves"]["es"]:
+                if fast_skill == move_data["en"]:
+                    pokemon["Fast Skill"] = move_data["es"]
+                    break
+            
+            for move_data in entry["cinematicMoves"]["es"]:
+                if charged_skill_1 == move_data["en"]:
+                    pokemon["Charged Skill 1"] = move_data["es"]
+                if charged_skill_2 == move_data["en"]:
+                    pokemon["Charged Skill 2"] = move_data["es"]
+            
+            for move_data in entry["eliteQuickMoves"]["es"]:
+                if fast_skill == move_data["en"]:
+                    pokemon["Fast Skill"] = move_data["es"]
+                    break
+            
+            for move_data in entry["eliteCinematicMoves"]["es"]:
+                if charged_skill_1 == move_data["en"]:
+                    pokemon["Charged Skill 1"] = move_data["es"]
+                if charged_skill_2 == move_data["en"]:
+                    pokemon["Charged Skill 2"] = move_data["es"]
+            
             break
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
 
 with open(output_file, "w") as json_file:
-    json.dump(data, json_file, indent=4)
+    json.dump(data, json_file, indent=4, ensure_ascii=False)
 
 print(f"Se han raspado y guardado {len(data)} registros en {output_file}")
