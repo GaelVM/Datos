@@ -1,6 +1,6 @@
 [
     {
-        "#": "379",
+        "#": "1",
         "Name": " Registeel",
         "NumberDex": "379",
         "Fast Skill": "Lock On",
@@ -11,7 +11,7 @@
         "IV": "1/10/15"
     },
     {
-        "#": "18",
+        "#": "2",
         "Name": " Pidgeot",
         "NumberDex": "18",
         "Fast Skill": "Wing Attack*",
@@ -22,7 +22,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "638",
+        "#": "3",
         "Name": " Cobalion",
         "NumberDex": "638",
         "Fast Skill": "Double Kick",
@@ -33,7 +33,7 @@
         "IV": "1/15/12"
     },
     {
-        "#": "487",
+        "#": "4",
         "Name": " Giratina (Altered)",
         "NumberDex": "487",
         "Fast Skill": "Shadow Claw",
@@ -44,7 +44,7 @@
         "IV": "1/12/15"
     },
     {
-        "#": "472",
+        "#": "5",
         "Name": " Gliscor (Shadow)",
         "NumberDex": "472",
         "Fast Skill": "Wing Attack",
@@ -55,7 +55,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "709",
+        "#": "6",
         "Name": " Trevenant",
         "NumberDex": "709",
         "Fast Skill": "Shadow Claw",
@@ -66,7 +66,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "260",
+        "#": "7",
         "Name": " Swampert",
         "NumberDex": "260",
         "Fast Skill": "Mud Shot",
@@ -77,7 +77,7 @@
         "IV": "0/14/13"
     },
     {
-        "#": "377",
+        "#": "8",
         "Name": " Regirock",
         "NumberDex": "377",
         "Fast Skill": "Lock On",
@@ -88,7 +88,7 @@
         "IV": "1/14/15"
     },
     {
-        "#": "472",
+        "#": "9",
         "Name": " Gliscor",
         "NumberDex": "472",
         "Fast Skill": "Wing Attack",
@@ -99,7 +99,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "208",
+        "#": "10",
         "Name": " Steelix (Shadow)",
         "NumberDex": "208",
         "Fast Skill": "Dragon Tail",
@@ -110,7 +110,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "488",
+        "#": "11",
         "Name": " Cresselia",
         "NumberDex": "488",
         "Fast Skill": "Psycho Cut",
@@ -121,7 +121,7 @@
         "IV": "1/15/13"
     },
     {
-        "#": "208",
+        "#": "12",
         "Name": " Steelix",
         "NumberDex": "208",
         "Fast Skill": "Dragon Tail",
@@ -132,7 +132,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "799",
+        "#": "13",
         "Name": " Guzzlord",
         "NumberDex": "799",
         "Fast Skill": "Dragon Tail",
@@ -143,7 +143,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "260",
+        "#": "14",
         "Name": " Swampert (Shadow)",
         "NumberDex": "260",
         "Fast Skill": "Mud Shot",
@@ -154,7 +154,7 @@
         "IV": "0/14/13"
     },
     {
-        "#": "862",
+        "#": "15",
         "Name": " Obstagoon",
         "NumberDex": "862",
         "Fast Skill": "Counter",
@@ -165,7 +165,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "640",
+        "#": "16",
         "Name": " Virizion",
         "NumberDex": "640",
         "Fast Skill": "Double Kick",
@@ -176,7 +176,7 @@
         "IV": "1/15/12"
     },
     {
-        "#": "6",
+        "#": "17",
         "Name": " Charizard",
         "NumberDex": "6",
         "Fast Skill": "Wing Attack*",
@@ -187,7 +187,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "794",
+        "#": "18",
         "Name": " Buzzwole",
         "NumberDex": "794",
         "Fast Skill": "Counter",
@@ -198,7 +198,7 @@
         "IV": "1/14/12"
     },
     {
-        "#": "699",
+        "#": "19",
         "Name": " Aurorus",
         "NumberDex": "699",
         "Fast Skill": "Powder Snow",
@@ -209,7 +209,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "560",
+        "#": "20",
         "Name": " Scrafty",
         "NumberDex": "560",
         "Fast Skill": "Counter",
@@ -220,7 +220,7 @@
         "IV": "7/15/15"
     },
     {
-        "#": "618",
+        "#": "21",
         "Name": " Stunfisk (Galarian)",
         "NumberDex": "618",
         "Fast Skill": "Mud Shot",
@@ -231,7 +231,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "788",
+        "#": "22",
         "Name": " Tapu Fini",
         "NumberDex": "788",
         "Fast Skill": "Water Gun",
@@ -242,7 +242,7 @@
         "IV": "1/13/15"
     },
     {
-        "#": "365",
+        "#": "23",
         "Name": " Walrein (Shadow)",
         "NumberDex": "365",
         "Fast Skill": "Powder Snow*",
@@ -253,7 +253,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "6",
+        "#": "24",
         "Name": " Charizard (Shadow)",
         "NumberDex": "6",
         "Fast Skill": "Wing Attack*",
@@ -264,7 +264,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "378",
+        "#": "25",
         "Name": " Regice",
         "NumberDex": "378",
         "Fast Skill": "Lock On",
@@ -275,7 +275,7 @@
         "IV": "1/14/15"
     },
     {
-        "#": "460",
+        "#": "26",
         "Name": " Abomasnow (Shadow)",
         "NumberDex": "460",
         "Fast Skill": "Powder Snow",
@@ -286,7 +286,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "832",
+        "#": "27",
         "Name": " Dubwool",
         "NumberDex": "832",
         "Fast Skill": "Double Kick",
@@ -297,7 +297,7 @@
         "IV": "14/15/15"
     },
     {
-        "#": "144",
+        "#": "28",
         "Name": " Articuno",
         "NumberDex": "144",
         "Fast Skill": "Ice Shard",
@@ -308,7 +308,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "630",
+        "#": "29",
         "Name": " Mandibuzz",
         "NumberDex": "630",
         "Fast Skill": "Snarl",
@@ -319,7 +319,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "663",
+        "#": "30",
         "Name": " Talonflame",
         "NumberDex": "663",
         "Fast Skill": "Incinerate*",
@@ -330,7 +330,7 @@
         "IV": "13/15/15"
     },
     {
-        "#": "149",
+        "#": "31",
         "Name": " Dragonite (Shadow)",
         "NumberDex": "149",
         "Fast Skill": "Dragon Breath",
@@ -341,7 +341,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "279",
+        "#": "32",
         "Name": " Pelipper",
         "NumberDex": "279",
         "Fast Skill": "Wing Attack",
@@ -352,7 +352,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "460",
+        "#": "33",
         "Name": " Abomasnow",
         "NumberDex": "460",
         "Fast Skill": "Powder Snow",
@@ -363,7 +363,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "365",
+        "#": "34",
         "Name": " Walrein",
         "NumberDex": "365",
         "Fast Skill": "Powder Snow*",
@@ -374,7 +374,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "241",
+        "#": "35",
         "Name": " Miltank",
         "NumberDex": "241",
         "Fast Skill": "Tackle",
@@ -385,7 +385,7 @@
         "IV": "3/14/15"
     },
     {
-        "#": "186",
+        "#": "36",
         "Name": " Politoed",
         "NumberDex": "186",
         "Fast Skill": "Mud Shot",
@@ -396,7 +396,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "197",
+        "#": "37",
         "Name": " Umbreon",
         "NumberDex": "197",
         "Fast Skill": "Snarl",
@@ -407,7 +407,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "784",
+        "#": "38",
         "Name": " Kommo-o",
         "NumberDex": "784",
         "Fast Skill": "Dragon Tail",
@@ -418,7 +418,7 @@
         "IV": "0/11/14"
     },
     {
-        "#": "145",
+        "#": "39",
         "Name": " Zapdos (Shadow)",
         "NumberDex": "145",
         "Fast Skill": "Thunder Shock*",
@@ -429,7 +429,7 @@
         "IV": "1/12/13"
     },
     {
-        "#": "386",
+        "#": "40",
         "Name": " Deoxys (Defense)",
         "NumberDex": "386",
         "Fast Skill": "Counter",
@@ -440,7 +440,7 @@
         "IV": "10/13/15"
     },
     {
-        "#": "463",
+        "#": "41",
         "Name": " Lickilicky",
         "NumberDex": "463",
         "Fast Skill": "Lick",
@@ -451,7 +451,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "164",
+        "#": "42",
         "Name": " Noctowl",
         "NumberDex": "164",
         "Fast Skill": "Wing Attack",
@@ -462,7 +462,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "149",
+        "#": "43",
         "Name": " Dragonite",
         "NumberDex": "149",
         "Fast Skill": "Dragon Breath",
@@ -473,7 +473,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "9",
+        "#": "44",
         "Name": " Blastoise",
         "NumberDex": "9",
         "Fast Skill": "Water Gun",
@@ -484,7 +484,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "226",
+        "#": "45",
         "Name": " Mantine",
         "NumberDex": "226",
         "Fast Skill": "Wing Attack",
@@ -495,7 +495,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "186",
+        "#": "46",
         "Name": " Politoed (Shadow)",
         "NumberDex": "186",
         "Fast Skill": "Mud Shot",
@@ -506,7 +506,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "589",
+        "#": "47",
         "Name": " Escavalier",
         "NumberDex": "589",
         "Fast Skill": "Counter",
@@ -517,7 +517,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "154",
+        "#": "48",
         "Name": " Meganium (Shadow)",
         "NumberDex": "154",
         "Fast Skill": "Vine Whip",
@@ -528,7 +528,7 @@
         "IV": "0/14/13"
     },
     {
-        "#": "146",
+        "#": "49",
         "Name": " Moltres (Galarian)",
         "NumberDex": "146",
         "Fast Skill": "Wing Attack",
@@ -539,7 +539,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "487",
+        "#": "50",
         "Name": " Giratina (Origin)",
         "NumberDex": "487",
         "Fast Skill": "Shadow Claw",
@@ -550,7 +550,7 @@
         "IV": "1/13/11"
     },
     {
-        "#": "154",
+        "#": "51",
         "Name": " Meganium",
         "NumberDex": "154",
         "Fast Skill": "Vine Whip",
@@ -561,7 +561,7 @@
         "IV": "0/14/13"
     },
     {
-        "#": "131",
+        "#": "52",
         "Name": " Lapras",
         "NumberDex": "131",
         "Fast Skill": "Ice Shard*",
@@ -572,7 +572,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "227",
+        "#": "53",
         "Name": " Skarmory",
         "NumberDex": "227",
         "Fast Skill": "Air Slash",
@@ -583,7 +583,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "649",
+        "#": "54",
         "Name": " Genesect (Chill)",
         "NumberDex": "649",
         "Fast Skill": "Fury Cutter",
@@ -594,7 +594,7 @@
         "IV": "10/12/12"
     },
     {
-        "#": "563",
+        "#": "55",
         "Name": " Cofagrigus",
         "NumberDex": "563",
         "Fast Skill": "Shadow Claw",
@@ -605,7 +605,7 @@
         "IV": "8/15/15"
     },
     {
-        "#": "110",
+        "#": "56",
         "Name": " Weezing (Galarian)",
         "NumberDex": "110",
         "Fast Skill": "Fairy Wind",
@@ -616,7 +616,7 @@
         "IV": "6/15/15"
     },
     {
-        "#": "68",
+        "#": "57",
         "Name": " Machamp (Shadow)",
         "NumberDex": "68",
         "Fast Skill": "Counter",
@@ -627,7 +627,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "671",
+        "#": "58",
         "Name": " Florges",
         "NumberDex": "671",
         "Fast Skill": "Fairy Wind",
@@ -638,7 +638,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "820",
+        "#": "59",
         "Name": " Greedent",
         "NumberDex": "820",
         "Fast Skill": "Bullet Seed",
@@ -649,7 +649,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "448",
+        "#": "60",
         "Name": " Lucario",
         "NumberDex": "448",
         "Fast Skill": "Counter",
@@ -660,7 +660,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "143",
+        "#": "61",
         "Name": " Snorlax",
         "NumberDex": "143",
         "Fast Skill": "Lick",
@@ -671,7 +671,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "73",
+        "#": "62",
         "Name": " Tentacruel",
         "NumberDex": "73",
         "Fast Skill": "Poison Jab",
@@ -682,7 +682,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "94",
+        "#": "63",
         "Name": " Gengar",
         "NumberDex": "94",
         "Fast Skill": "Shadow Claw",
@@ -693,7 +693,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "452",
+        "#": "64",
         "Name": " Drapion (Shadow)",
         "NumberDex": "452",
         "Fast Skill": "Poison Sting",
@@ -704,7 +704,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "205",
+        "#": "65",
         "Name": " Forretress",
         "NumberDex": "205",
         "Fast Skill": "Bug Bite",
@@ -715,7 +715,7 @@
         "IV": "8/15/15"
     },
     {
-        "#": "130",
+        "#": "66",
         "Name": " Gyarados (Shadow)",
         "NumberDex": "130",
         "Fast Skill": "Dragon Breath",
@@ -726,7 +726,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "131",
+        "#": "67",
         "Name": " Lapras (Shadow)",
         "NumberDex": "131",
         "Fast Skill": "Ice Shard*",
@@ -737,7 +737,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "867",
+        "#": "68",
         "Name": " Runerigus",
         "NumberDex": "867",
         "Fast Skill": "Shadow Claw",
@@ -748,7 +748,7 @@
         "IV": "8/15/15"
     },
     {
-        "#": "3",
+        "#": "69",
         "Name": " Venusaur (Shadow)",
         "NumberDex": "3",
         "Fast Skill": "Vine Whip",
@@ -759,7 +759,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "28",
+        "#": "70",
         "Name": " Sandslash (Alolan)",
         "NumberDex": "28",
         "Fast Skill": "Shadow Claw*",
@@ -770,7 +770,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "3",
+        "#": "71",
         "Name": " Venusaur",
         "NumberDex": "3",
         "Fast Skill": "Vine Whip",
@@ -781,7 +781,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "334",
+        "#": "72",
         "Name": " Altaria",
         "NumberDex": "334",
         "Fast Skill": "Dragon Breath",
@@ -792,7 +792,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "649",
+        "#": "73",
         "Name": " Genesect (Douse)",
         "NumberDex": "649",
         "Fast Skill": "Fury Cutter",
@@ -803,7 +803,7 @@
         "IV": "10/12/12"
     },
     {
-        "#": "903",
+        "#": "74",
         "Name": " Sneasler",
         "NumberDex": "903",
         "Fast Skill": "Shadow Claw",
@@ -814,7 +814,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "31",
+        "#": "75",
         "Name": " Nidoqueen (Shadow)",
         "NumberDex": "31",
         "Fast Skill": "Poison Jab",
@@ -825,7 +825,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "598",
+        "#": "76",
         "Name": " Ferrothorn",
         "NumberDex": "598",
         "Fast Skill": "Bullet Seed",
@@ -836,7 +836,7 @@
         "IV": "5/15/14"
     },
     {
-        "#": "214",
+        "#": "77",
         "Name": " Heracross",
         "NumberDex": "214",
         "Fast Skill": "Counter",
@@ -847,7 +847,7 @@
         "IV": "0/14/13"
     },
     {
-        "#": "863",
+        "#": "78",
         "Name": " Perrserker",
         "NumberDex": "863",
         "Fast Skill": "Shadow Claw",
@@ -858,7 +858,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "28",
+        "#": "79",
         "Name": " Sandslash (Alolan) (Shadow)",
         "NumberDex": "28",
         "Fast Skill": "Shadow Claw*",
@@ -869,7 +869,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "497",
+        "#": "80",
         "Name": " Serperior",
         "NumberDex": "497",
         "Fast Skill": "Vine Whip",
@@ -880,7 +880,7 @@
         "IV": "8/14/15"
     },
     {
-        "#": "143",
+        "#": "81",
         "Name": " Snorlax (Shadow)",
         "NumberDex": "143",
         "Fast Skill": "Lick",
@@ -891,7 +891,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "649",
+        "#": "82",
         "Name": " Genesect (Shock)",
         "NumberDex": "649",
         "Fast Skill": "Fury Cutter",
@@ -902,7 +902,7 @@
         "IV": "10/12/12"
     },
     {
-        "#": "144",
+        "#": "83",
         "Name": " Articuno (Shadow)",
         "NumberDex": "144",
         "Fast Skill": "Ice Shard",
@@ -913,7 +913,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "130",
+        "#": "84",
         "Name": " Gyarados",
         "NumberDex": "130",
         "Fast Skill": "Dragon Breath",
@@ -924,7 +924,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "454",
+        "#": "85",
         "Name": " Toxicroak",
         "NumberDex": "454",
         "Fast Skill": "Counter",
@@ -935,7 +935,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "145",
+        "#": "86",
         "Name": " Zapdos (Galarian)",
         "NumberDex": "145",
         "Fast Skill": "Counter",
@@ -946,7 +946,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "691",
+        "#": "87",
         "Name": " Dragalge",
         "NumberDex": "691",
         "Fast Skill": "Dragon Tail",
@@ -957,7 +957,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "38",
+        "#": "88",
         "Name": " Ninetales (Shadow)",
         "NumberDex": "38",
         "Fast Skill": "Ember*",
@@ -968,7 +968,7 @@
         "IV": "7/15/15"
     },
     {
-        "#": "330",
+        "#": "89",
         "Name": " Flygon (Shadow)",
         "NumberDex": "330",
         "Fast Skill": "Dragon Tail",
@@ -979,7 +979,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "435",
+        "#": "90",
         "Name": " Skuntank",
         "NumberDex": "435",
         "Fast Skill": "Poison Jab",
@@ -990,7 +990,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "221",
+        "#": "91",
         "Name": " Piloswine",
         "NumberDex": "221",
         "Fast Skill": "Powder Snow",
@@ -1001,7 +1001,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "68",
+        "#": "92",
         "Name": " Machamp",
         "NumberDex": "68",
         "Fast Skill": "Counter",
@@ -1012,7 +1012,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "9",
+        "#": "93",
         "Name": " Blastoise (Shadow)",
         "NumberDex": "9",
         "Fast Skill": "Water Gun",
@@ -1023,7 +1023,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "649",
+        "#": "94",
         "Name": " Genesect (Burn)",
         "NumberDex": "649",
         "Fast Skill": "Fury Cutter",
@@ -1034,7 +1034,7 @@
         "IV": "10/12/12"
     },
     {
-        "#": "38",
+        "#": "95",
         "Name": " Ninetales",
         "NumberDex": "38",
         "Fast Skill": "Fire Spin",
@@ -1045,7 +1045,7 @@
         "IV": "7/15/15"
     },
     {
-        "#": "57",
+        "#": "96",
         "Name": " Primeape",
         "NumberDex": "57",
         "Fast Skill": "Counter",
@@ -1056,7 +1056,7 @@
         "IV": "5/15/15"
     },
     {
-        "#": "870",
+        "#": "97",
         "Name": " Falinks",
         "NumberDex": "870",
         "Fast Skill": "Counter",
@@ -1067,7 +1067,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "227",
+        "#": "98",
         "Name": " Skarmory (Shadow)",
         "NumberDex": "227",
         "Fast Skill": "Air Slash",
@@ -1078,7 +1078,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "107",
+        "#": "99",
         "Name": " Hitmonchan",
         "NumberDex": "107",
         "Fast Skill": "Counter",
@@ -1089,7 +1089,7 @@
         "IV": "3/15/15"
     },
     {
-        "#": "62",
+        "#": "100",
         "Name": " Poliwrath (Shadow)",
         "NumberDex": "62",
         "Fast Skill": "Mud Shot",
@@ -1100,7 +1100,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "297",
+        "#": "101",
         "Name": " Hariyama",
         "NumberDex": "297",
         "Fast Skill": "Counter",
@@ -1111,7 +1111,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "150",
+        "#": "102",
         "Name": " Mewtwo (Armored)",
         "NumberDex": "150",
         "Fast Skill": "Confusion",
@@ -1122,7 +1122,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "31",
+        "#": "103",
         "Name": " Nidoqueen",
         "NumberDex": "31",
         "Fast Skill": "Poison Jab",
@@ -1133,7 +1133,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "221",
+        "#": "104",
         "Name": " Piloswine (Shadow)",
         "NumberDex": "221",
         "Fast Skill": "Powder Snow",
@@ -1144,7 +1144,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "249",
+        "#": "105",
         "Name": " Lugia",
         "NumberDex": "249",
         "Fast Skill": "Dragon Tail",
@@ -1155,7 +1155,7 @@
         "IV": "1/13/13"
     },
     {
-        "#": "904",
+        "#": "106",
         "Name": " Overqwil",
         "NumberDex": "904",
         "Fast Skill": "Poison Jab",
@@ -1166,7 +1166,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "430",
+        "#": "107",
         "Name": " Honchkrow",
         "NumberDex": "430",
         "Fast Skill": "Snarl",
@@ -1177,7 +1177,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "435",
+        "#": "108",
         "Name": " Skuntank (Shadow)",
         "NumberDex": "435",
         "Fast Skill": "Poison Jab",
@@ -1188,7 +1188,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "145",
+        "#": "109",
         "Name": " Zapdos",
         "NumberDex": "145",
         "Fast Skill": "Thunder Shock*",
@@ -1199,7 +1199,7 @@
         "IV": "1/12/13"
     },
     {
-        "#": "596",
+        "#": "110",
         "Name": " Galvantula",
         "NumberDex": "596",
         "Fast Skill": "Volt Switch",
@@ -1210,7 +1210,7 @@
         "IV": "13/15/15"
     },
     {
-        "#": "243",
+        "#": "111",
         "Name": " Raikou",
         "NumberDex": "243",
         "Fast Skill": "Volt Switch",
@@ -1221,7 +1221,7 @@
         "IV": "1/15/12"
     },
     {
-        "#": "865",
+        "#": "112",
         "Name": " Sirfetch'd",
         "NumberDex": "865",
         "Fast Skill": "Counter",
@@ -1232,7 +1232,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "760",
+        "#": "113",
         "Name": " Bewear",
         "NumberDex": "760",
         "Fast Skill": "Shadow Claw",
@@ -1243,7 +1243,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "754",
+        "#": "114",
         "Name": " Lurantis",
         "NumberDex": "754",
         "Fast Skill": "Fury Cutter",
@@ -1254,7 +1254,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "530",
+        "#": "115",
         "Name": " Excadrill",
         "NumberDex": "530",
         "Fast Skill": "Mud Shot",
@@ -1265,7 +1265,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "335",
+        "#": "116",
         "Name": " Zangoose",
         "NumberDex": "335",
         "Fast Skill": "Shadow Claw",
@@ -1276,7 +1276,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "257",
+        "#": "117",
         "Name": " Blaziken",
         "NumberDex": "257",
         "Fast Skill": "Counter",
@@ -1287,7 +1287,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "346",
+        "#": "118",
         "Name": " Cradily",
         "NumberDex": "346",
         "Fast Skill": "Bullet Seed",
@@ -1298,7 +1298,7 @@
         "IV": "14/15/15"
     },
     {
-        "#": "237",
+        "#": "119",
         "Name": " Hitmontop",
         "NumberDex": "237",
         "Fast Skill": "Counter",
@@ -1309,7 +1309,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "340",
+        "#": "120",
         "Name": " Whiscash",
         "NumberDex": "340",
         "Fast Skill": "Mud Shot",
@@ -1320,7 +1320,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "275",
+        "#": "121",
         "Name": " Shiftry (Shadow)",
         "NumberDex": "275",
         "Fast Skill": "Snarl",
@@ -1331,7 +1331,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "405",
+        "#": "122",
         "Name": " Luxray (Shadow)",
         "NumberDex": "405",
         "Fast Skill": "Spark",
@@ -1342,7 +1342,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "107",
+        "#": "123",
         "Name": " Hitmonchan (Shadow)",
         "NumberDex": "107",
         "Fast Skill": "Counter",
@@ -1353,7 +1353,7 @@
         "IV": "3/15/15"
     },
     {
-        "#": "127",
+        "#": "124",
         "Name": " Pinsir (Shadow)",
         "NumberDex": "127",
         "Fast Skill": "Fury Cutter",
@@ -1364,7 +1364,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "618",
+        "#": "125",
         "Name": " Stunfisk",
         "NumberDex": "618",
         "Fast Skill": "Mud Shot",
@@ -1375,7 +1375,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "494",
+        "#": "126",
         "Name": " Victini",
         "NumberDex": "494",
         "Fast Skill": "Quick Attack",
@@ -1386,7 +1386,7 @@
         "IV": "10/13/15"
     },
     {
-        "#": "430",
+        "#": "127",
         "Name": " Honchkrow (Shadow)",
         "NumberDex": "430",
         "Fast Skill": "Snarl",
@@ -1397,7 +1397,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "171",
+        "#": "128",
         "Name": " Lanturn",
         "NumberDex": "171",
         "Fast Skill": "Spark",
@@ -1408,7 +1408,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "558",
+        "#": "129",
         "Name": " Crustle",
         "NumberDex": "558",
         "Fast Skill": "Fury Cutter",
@@ -1419,7 +1419,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "426",
+        "#": "130",
         "Name": " Drifblim",
         "NumberDex": "426",
         "Fast Skill": "Hex",
@@ -1430,7 +1430,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "452",
+        "#": "131",
         "Name": " Drapion",
         "NumberDex": "452",
         "Fast Skill": "Poison Sting",
@@ -1441,7 +1441,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "89",
+        "#": "132",
         "Name": " Muk",
         "NumberDex": "89",
         "Fast Skill": "Poison Jab",
@@ -1452,7 +1452,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "545",
+        "#": "133",
         "Name": " Scolipede",
         "NumberDex": "545",
         "Fast Skill": "Poison Jab",
@@ -1463,7 +1463,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "62",
+        "#": "134",
         "Name": " Poliwrath",
         "NumberDex": "62",
         "Fast Skill": "Mud Shot",
@@ -1474,7 +1474,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "243",
+        "#": "135",
         "Name": " Raikou (Shadow)",
         "NumberDex": "243",
         "Fast Skill": "Volt Switch",
@@ -1485,7 +1485,7 @@
         "IV": "1/15/12"
     },
     {
-        "#": "346",
+        "#": "136",
         "Name": " Cradily (Shadow)",
         "NumberDex": "346",
         "Fast Skill": "Bullet Seed",
@@ -1496,7 +1496,7 @@
         "IV": "14/15/15"
     },
     {
-        "#": "713",
+        "#": "137",
         "Name": " Avalugg",
         "NumberDex": "713",
         "Fast Skill": "Ice Fang",
@@ -1507,7 +1507,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "350",
+        "#": "138",
         "Name": " Milotic",
         "NumberDex": "350",
         "Fast Skill": "Dragon Tail",
@@ -1518,7 +1518,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "369",
+        "#": "139",
         "Name": " Relicanth",
         "NumberDex": "369",
         "Fast Skill": "Water Gun",
@@ -1529,7 +1529,7 @@
         "IV": "0/11/15"
     },
     {
-        "#": "797",
+        "#": "140",
         "Name": " Celesteela",
         "NumberDex": "797",
         "Fast Skill": "Air Slash",
@@ -1540,7 +1540,7 @@
         "IV": "2/14/15"
     },
     {
-        "#": "330",
+        "#": "141",
         "Name": " Flygon",
         "NumberDex": "330",
         "Fast Skill": "Dragon Tail",
@@ -1551,7 +1551,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "297",
+        "#": "142",
         "Name": " Hariyama (Shadow)",
         "NumberDex": "297",
         "Fast Skill": "Counter",
@@ -1562,7 +1562,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "711",
+        "#": "143",
         "Name": " Gourgeist (Super)",
         "NumberDex": "711",
         "Fast Skill": "Hex",
@@ -1573,7 +1573,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "462",
+        "#": "144",
         "Name": " Magnezone (Shadow)",
         "NumberDex": "462",
         "Fast Skill": "Spark",
@@ -1584,7 +1584,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "146",
+        "#": "145",
         "Name": " Moltres (Shadow)",
         "NumberDex": "146",
         "Fast Skill": "Wing Attack",
@@ -1595,7 +1595,7 @@
         "IV": "1/10/15"
     },
     {
-        "#": "89",
+        "#": "146",
         "Name": " Muk (Alolan)",
         "NumberDex": "89",
         "Fast Skill": "Poison Jab",
@@ -1606,7 +1606,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "205",
+        "#": "147",
         "Name": " Forretress (Shadow)",
         "NumberDex": "205",
         "Fast Skill": "Bug Bite",
@@ -1617,7 +1617,7 @@
         "IV": "8/15/15"
     },
     {
-        "#": "711",
+        "#": "148",
         "Name": " Gourgeist (Large)",
         "NumberDex": "711",
         "Fast Skill": "Hex",
@@ -1628,7 +1628,7 @@
         "IV": "1/14/15"
     },
     {
-        "#": "89",
+        "#": "149",
         "Name": " Muk (Shadow)",
         "NumberDex": "89",
         "Fast Skill": "Poison Jab",
@@ -1639,7 +1639,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "38",
+        "#": "150",
         "Name": " Ninetales (Alolan)",
         "NumberDex": "38",
         "Fast Skill": "Charm",
@@ -1661,7 +1661,7 @@
         "IV": "10/13/15"
     },
     {
-        "#": "275",
+        "#": "152",
         "Name": " Shiftry",
         "NumberDex": "275",
         "Fast Skill": "Snarl",
@@ -1672,7 +1672,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "652",
+        "#": "153",
         "Name": " Chesnaught",
         "NumberDex": "652",
         "Fast Skill": "Vine Whip",
@@ -1683,7 +1683,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "249",
+        "#": "154",
         "Name": " Lugia (Shadow)",
         "NumberDex": "249",
         "Fast Skill": "Dragon Tail",
@@ -1694,7 +1694,7 @@
         "IV": "1/13/13"
     },
     {
-        "#": "232",
+        "#": "155",
         "Name": " Donphan",
         "NumberDex": "232",
         "Fast Skill": "Counter",
@@ -1705,7 +1705,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "185",
+        "#": "156",
         "Name": " Sudowoodo",
         "NumberDex": "185",
         "Fast Skill": "Counter",
@@ -1716,7 +1716,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "644",
+        "#": "157",
         "Name": " Zekrom",
         "NumberDex": "644",
         "Fast Skill": "Dragon Breath",
@@ -1727,7 +1727,7 @@
         "IV": "1/13/12"
     },
     {
-        "#": "36",
+        "#": "158",
         "Name": " Clefable",
         "NumberDex": "36",
         "Fast Skill": "Charm",
@@ -1738,7 +1738,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "395",
+        "#": "159",
         "Name": " Empoleon",
         "NumberDex": "395",
         "Fast Skill": "Waterfall",
@@ -1749,7 +1749,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "250",
+        "#": "160",
         "Name": " Ho-Oh",
         "NumberDex": "250",
         "Fast Skill": "Incinerate",
@@ -1760,7 +1760,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "157",
+        "#": "161",
         "Name": " Typhlosion (Shadow)",
         "NumberDex": "157",
         "Fast Skill": "Shadow Claw",
@@ -1771,7 +1771,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "711",
+        "#": "162",
         "Name": " Gourgeist (Average)",
         "NumberDex": "711",
         "Fast Skill": "Hex",
@@ -1782,7 +1782,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "407",
+        "#": "163",
         "Name": " Roserade",
         "NumberDex": "407",
         "Fast Skill": "Poison Jab",
@@ -1793,7 +1793,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "639",
+        "#": "164",
         "Name": " Terrakion",
         "NumberDex": "639",
         "Fast Skill": "Double Kick",
@@ -1804,7 +1804,7 @@
         "IV": "1/15/13"
     },
     {
-        "#": "687",
+        "#": "165",
         "Name": " Malamar",
         "NumberDex": "687",
         "Fast Skill": "Psycho Cut",
@@ -1815,7 +1815,7 @@
         "IV": "2/14/13"
     },
     {
-        "#": "127",
+        "#": "166",
         "Name": " Pinsir",
         "NumberDex": "127",
         "Fast Skill": "Fury Cutter",
@@ -1826,7 +1826,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "157",
+        "#": "167",
         "Name": " Typhlosion",
         "NumberDex": "157",
         "Fast Skill": "Shadow Claw",
@@ -1837,7 +1837,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "119",
+        "#": "168",
         "Name": " Seaking",
         "NumberDex": "119",
         "Fast Skill": "Poison Jab*",
@@ -1848,7 +1848,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "211",
+        "#": "169",
         "Name": " Qwilfish (Hisuian)",
         "NumberDex": "211",
         "Fast Skill": "Poison Jab",
@@ -1859,7 +1859,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "700",
+        "#": "170",
         "Name": " Sylveon",
         "NumberDex": "700",
         "Fast Skill": "Charm",
@@ -1870,7 +1870,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "621",
+        "#": "171",
         "Name": " Druddigon",
         "NumberDex": "621",
         "Fast Skill": "Dragon Tail",
@@ -1881,7 +1881,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "711",
+        "#": "172",
         "Name": " Gourgeist (Small)",
         "NumberDex": "711",
         "Fast Skill": "Hex",
@@ -1892,7 +1892,7 @@
         "IV": "9/15/15"
     },
     {
-        "#": "594",
+        "#": "173",
         "Name": " Alomomola",
         "NumberDex": "594",
         "Fast Skill": "Waterfall",
@@ -1903,7 +1903,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "675",
+        "#": "174",
         "Name": " Pangoro",
         "NumberDex": "675",
         "Fast Skill": "Snarl",
@@ -1914,7 +1914,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "465",
+        "#": "175",
         "Name": " Tangrowth (Shadow)",
         "NumberDex": "465",
         "Fast Skill": "Vine Whip",
@@ -1925,7 +1925,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "466",
+        "#": "176",
         "Name": " Electivire (Shadow)",
         "NumberDex": "466",
         "Fast Skill": "Thunder Shock",
@@ -1936,7 +1936,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "649",
+        "#": "177",
         "Name": " Genesect",
         "NumberDex": "649",
         "Fast Skill": "Fury Cutter",
@@ -1947,7 +1947,7 @@
         "IV": "10/12/12"
     },
     {
-        "#": "809",
+        "#": "178",
         "Name": " Melmetal",
         "NumberDex": "809",
         "Fast Skill": "Thunder Shock",
@@ -1958,7 +1958,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "182",
+        "#": "179",
         "Name": " Bellossom",
         "NumberDex": "182",
         "Fast Skill": "Bullet Seed",
@@ -1969,7 +1969,7 @@
         "IV": "7/15/15"
     },
     {
-        "#": "87",
+        "#": "180",
         "Name": " Dewgong",
         "NumberDex": "87",
         "Fast Skill": "Ice Shard*",
@@ -1980,7 +1980,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "593",
+        "#": "181",
         "Name": " Jellicent",
         "NumberDex": "593",
         "Fast Skill": "Hex",
@@ -1991,7 +1991,7 @@
         "IV": "4/15/13"
     },
     {
-        "#": "473",
+        "#": "182",
         "Name": " Mamoswine",
         "NumberDex": "473",
         "Fast Skill": "Powder Snow",
@@ -2002,7 +2002,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "465",
+        "#": "183",
         "Name": " Tangrowth",
         "NumberDex": "465",
         "Fast Skill": "Vine Whip",
@@ -2013,7 +2013,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "82",
+        "#": "184",
         "Name": " Magneton (Shadow)",
         "NumberDex": "82",
         "Fast Skill": "Thunder Shock",
@@ -2024,7 +2024,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "182",
+        "#": "185",
         "Name": " Bellossom (Shadow)",
         "NumberDex": "182",
         "Fast Skill": "Bullet Seed",
@@ -2035,7 +2035,7 @@
         "IV": "7/15/15"
     },
     {
-        "#": "475",
+        "#": "186",
         "Name": " Gallade",
         "NumberDex": "475",
         "Fast Skill": "Confusion",
@@ -2046,7 +2046,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "42",
+        "#": "187",
         "Name": " Golbat (Shadow)",
         "NumberDex": "42",
         "Fast Skill": "Wing Attack",
@@ -2057,7 +2057,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "134",
+        "#": "188",
         "Name": " Vaporeon",
         "NumberDex": "134",
         "Fast Skill": "Water Gun",
@@ -2068,7 +2068,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "478",
+        "#": "189",
         "Name": " Froslass",
         "NumberDex": "478",
         "Fast Skill": "Powder Snow",
@@ -2079,7 +2079,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "503",
+        "#": "190",
         "Name": " Samurott",
         "NumberDex": "503",
         "Fast Skill": "Fury Cutter",
@@ -2090,7 +2090,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "685",
+        "#": "191",
         "Name": " Slurpuff",
         "NumberDex": "685",
         "Fast Skill": "Fairy Wind",
@@ -2101,7 +2101,7 @@
         "IV": "13/15/15"
     },
     {
-        "#": "398",
+        "#": "192",
         "Name": " Staraptor (Shadow)",
         "NumberDex": "398",
         "Fast Skill": "Wing Attack",
@@ -2112,7 +2112,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "683",
+        "#": "193",
         "Name": " Aromatisse",
         "NumberDex": "683",
         "Fast Skill": "Charm",
@@ -2123,7 +2123,7 @@
         "IV": "3/15/13"
     },
     {
-        "#": "185",
+        "#": "194",
         "Name": " Sudowoodo (Shadow)",
         "NumberDex": "185",
         "Fast Skill": "Counter",
@@ -2134,7 +2134,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "523",
+        "#": "195",
         "Name": " Zebstrika",
         "NumberDex": "523",
         "Fast Skill": "Spark",
@@ -2145,7 +2145,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "645",
+        "#": "196",
         "Name": " Landorus (Incarnate)",
         "NumberDex": "645",
         "Fast Skill": "Mud Shot",
@@ -2156,7 +2156,7 @@
         "IV": "1/11/14"
     },
     {
-        "#": "473",
+        "#": "197",
         "Name": " Mamoswine (Shadow)",
         "NumberDex": "473",
         "Fast Skill": "Powder Snow",
@@ -2167,7 +2167,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "765",
+        "#": "198",
         "Name": " Oranguru",
         "NumberDex": "765",
         "Fast Skill": "Confusion",
@@ -2178,7 +2178,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "28",
+        "#": "199",
         "Name": " Sandslash (Shadow)",
         "NumberDex": "28",
         "Fast Skill": "Mud Shot",
@@ -2189,7 +2189,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "254",
+        "#": "200",
         "Name": " Sceptile",
         "NumberDex": "254",
         "Fast Skill": "Bullet Seed",
@@ -2200,7 +2200,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "42",
+        "#": "201",
         "Name": " Golbat",
         "NumberDex": "42",
         "Fast Skill": "Wing Attack",
@@ -2211,7 +2211,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "106",
+        "#": "202",
         "Name": " Hitmonlee",
         "NumberDex": "106",
         "Fast Skill": "Double Kick",
@@ -2222,7 +2222,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "233",
+        "#": "203",
         "Name": " Porygon2",
         "NumberDex": "233",
         "Fast Skill": "Lock On",
@@ -2233,7 +2233,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "466",
+        "#": "204",
         "Name": " Electivire",
         "NumberDex": "466",
         "Fast Skill": "Thunder Shock",
@@ -2244,7 +2244,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "768",
+        "#": "205",
         "Name": " Golisopod",
         "NumberDex": "768",
         "Fast Skill": "Shadow Claw",
@@ -2255,7 +2255,7 @@
         "IV": "1/14/15"
     },
     {
-        "#": "467",
+        "#": "206",
         "Name": " Magmortar (Shadow)",
         "NumberDex": "467",
         "Fast Skill": "Karate Chop",
@@ -2266,7 +2266,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "210",
+        "#": "207",
         "Name": " Granbull (Shadow)",
         "NumberDex": "210",
         "Fast Skill": "Charm",
@@ -2277,7 +2277,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "635",
+        "#": "208",
         "Name": " Hydreigon",
         "NumberDex": "635",
         "Fast Skill": "Dragon Breath",
@@ -2288,7 +2288,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "230",
+        "#": "209",
         "Name": " Kingdra",
         "NumberDex": "230",
         "Fast Skill": "Dragon Breath",
@@ -2299,7 +2299,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "555",
+        "#": "210",
         "Name": " Darmanitan (Standard)",
         "NumberDex": "555",
         "Fast Skill": "Incinerate",
@@ -2310,7 +2310,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "475",
+        "#": "211",
         "Name": " Gallade (Shadow)",
         "NumberDex": "475",
         "Fast Skill": "Confusion",
@@ -2321,7 +2321,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "106",
+        "#": "212",
         "Name": " Hitmonlee (Shadow)",
         "NumberDex": "106",
         "Fast Skill": "Double Kick",
@@ -2332,7 +2332,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "91",
+        "#": "213",
         "Name": " Cloyster",
         "NumberDex": "91",
         "Fast Skill": "Ice Shard",
@@ -2343,7 +2343,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "26",
+        "#": "214",
         "Name": " Raichu (Alolan)",
         "NumberDex": "26",
         "Fast Skill": "Volt Switch",
@@ -2354,7 +2354,7 @@
         "IV": "5/15/15"
     },
     {
-        "#": "212",
+        "#": "215",
         "Name": " Scizor (Shadow)",
         "NumberDex": "212",
         "Fast Skill": "Bullet Punch",
@@ -2365,7 +2365,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "55",
+        "#": "216",
         "Name": " Golduck",
         "NumberDex": "55",
         "Fast Skill": "Water Gun",
@@ -2376,7 +2376,7 @@
         "IV": "0/13/13"
     },
     {
-        "#": "195",
+        "#": "217",
         "Name": " Quagsire",
         "NumberDex": "195",
         "Fast Skill": "Mud Shot",
@@ -2387,7 +2387,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "26",
+        "#": "218",
         "Name": " Raichu",
         "NumberDex": "26",
         "Fast Skill": "Volt Switch",
@@ -2398,7 +2398,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "480",
+        "#": "219",
         "Name": " Uxie",
         "NumberDex": "480",
         "Fast Skill": "Confusion",
@@ -2409,7 +2409,7 @@
         "IV": "1/12/15"
     },
     {
-        "#": "76",
+        "#": "220",
         "Name": " Golem (Alolan)",
         "NumberDex": "76",
         "Fast Skill": "Volt Switch",
@@ -2420,7 +2420,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "450",
+        "#": "221",
         "Name": " Hippowdon",
         "NumberDex": "450",
         "Fast Skill": "Ice Fang",
@@ -2431,7 +2431,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "888",
+        "#": "222",
         "Name": " Zacian (Hero)",
         "NumberDex": "888",
         "Fast Skill": "Quick Attack",
@@ -2442,7 +2442,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "250",
+        "#": "223",
         "Name": " Ho-Oh (Shadow)",
         "NumberDex": "250",
         "Fast Skill": "Incinerate",
@@ -2453,7 +2453,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "385",
+        "#": "224",
         "Name": " Jirachi",
         "NumberDex": "385",
         "Fast Skill": "Confusion",
@@ -2464,7 +2464,7 @@
         "IV": "10/13/15"
     },
     {
-        "#": "423",
+        "#": "225",
         "Name": " Gastrodon",
         "NumberDex": "423",
         "Fast Skill": "Mud Slap",
@@ -2475,7 +2475,7 @@
         "IV": "4/15/15"
     },
     {
-        "#": "181",
+        "#": "226",
         "Name": " Ampharos",
         "NumberDex": "181",
         "Fast Skill": "Volt Switch",
@@ -2486,7 +2486,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "321",
+        "#": "227",
         "Name": " Wailord",
         "NumberDex": "321",
         "Fast Skill": "Water Gun",
@@ -2497,7 +2497,7 @@
         "IV": "7/15/15"
     },
     {
-        "#": "354",
+        "#": "228",
         "Name": " Banette",
         "NumberDex": "354",
         "Fast Skill": "Shadow Claw",
@@ -2508,7 +2508,7 @@
         "IV": "3/15/15"
     },
     {
-        "#": "534",
+        "#": "229",
         "Name": " Conkeldurr",
         "NumberDex": "534",
         "Fast Skill": "Counter",
@@ -2519,7 +2519,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "215",
+        "#": "230",
         "Name": " Sneasel (Hisuian)",
         "NumberDex": "215",
         "Fast Skill": "Poison Jab",
@@ -2530,7 +2530,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "689",
+        "#": "231",
         "Name": " Barbaracle",
         "NumberDex": "689",
         "Fast Skill": "Fury Cutter",
@@ -2541,7 +2541,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "78",
+        "#": "232",
         "Name": " Rapidash",
         "NumberDex": "78",
         "Fast Skill": "Incinerate",
@@ -2552,7 +2552,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "537",
+        "#": "233",
         "Name": " Seismitoad",
         "NumberDex": "537",
         "Fast Skill": "Mud Shot",
@@ -2563,7 +2563,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "398",
+        "#": "234",
         "Name": " Staraptor",
         "NumberDex": "398",
         "Fast Skill": "Wing Attack",
@@ -2574,7 +2574,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "437",
+        "#": "235",
         "Name": " Bronzong",
         "NumberDex": "437",
         "Fast Skill": "Confusion",
@@ -2585,7 +2585,7 @@
         "IV": "11/14/15"
     },
     {
-        "#": "793",
+        "#": "236",
         "Name": " Nihilego",
         "NumberDex": "793",
         "Fast Skill": "Poison Jab",
@@ -2596,7 +2596,7 @@
         "IV": "1/13/15"
     },
     {
-        "#": "101",
+        "#": "237",
         "Name": " Electrode (Hisuian)",
         "NumberDex": "101",
         "Fast Skill": "Thunder Shock",
@@ -2607,7 +2607,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "462",
+        "#": "238",
         "Name": " Magnezone",
         "NumberDex": "462",
         "Fast Skill": "Spark",
@@ -2618,7 +2618,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "169",
+        "#": "239",
         "Name": " Crobat",
         "NumberDex": "169",
         "Fast Skill": "Air Slash",
@@ -2629,7 +2629,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "706",
+        "#": "240",
         "Name": " Goodra",
         "NumberDex": "706",
         "Fast Skill": "Dragon Breath",
@@ -2640,7 +2640,7 @@
         "IV": "0/12/12"
     },
     {
-        "#": "28",
+        "#": "241",
         "Name": " Sandslash",
         "NumberDex": "28",
         "Fast Skill": "Mud Shot",
@@ -2651,7 +2651,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "321",
+        "#": "242",
         "Name": " Wailord (Shadow)",
         "NumberDex": "321",
         "Fast Skill": "Water Gun",
@@ -2662,7 +2662,7 @@
         "IV": "7/15/15"
     },
     {
-        "#": "55",
+        "#": "243",
         "Name": " Golduck (Shadow)",
         "NumberDex": "55",
         "Fast Skill": "Water Gun",
@@ -2673,7 +2673,7 @@
         "IV": "0/13/13"
     },
     {
-        "#": "381",
+        "#": "244",
         "Name": " Latios (Shadow)",
         "NumberDex": "381",
         "Fast Skill": "Dragon Breath",
@@ -2684,7 +2684,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "893",
+        "#": "245",
         "Name": " Zarude",
         "NumberDex": "893",
         "Fast Skill": "Vine Whip",
@@ -2695,7 +2695,7 @@
         "IV": "10/14/11"
     },
     {
-        "#": "626",
+        "#": "246",
         "Name": " Bouffalant",
         "NumberDex": "626",
         "Fast Skill": "Mud Shot",
@@ -2706,7 +2706,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "169",
+        "#": "247",
         "Name": " Crobat (Shadow)",
         "NumberDex": "169",
         "Fast Skill": "Air Slash",
@@ -2717,7 +2717,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "217",
+        "#": "248",
         "Name": " Ursaring (Shadow)",
         "NumberDex": "217",
         "Fast Skill": "Shadow Claw",
@@ -2728,7 +2728,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "758",
+        "#": "249",
         "Name": " Salazzle",
         "NumberDex": "758",
         "Fast Skill": "Incinerate",
@@ -2739,7 +2739,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "777",
+        "#": "250",
         "Name": " Togedemaru",
         "NumberDex": "777",
         "Fast Skill": "Thunder Shock",
@@ -2750,7 +2750,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "730",
+        "#": "251",
         "Name": " Primarina",
         "NumberDex": "730",
         "Fast Skill": "Charm",
@@ -2761,7 +2761,7 @@
         "IV": "2/15/13"
     },
     {
-        "#": "717",
+        "#": "252",
         "Name": " Yveltal",
         "NumberDex": "717",
         "Fast Skill": "Snarl",
@@ -2772,7 +2772,7 @@
         "IV": "1/14/15"
     },
     {
-        "#": "342",
+        "#": "253",
         "Name": " Crawdaunt",
         "NumberDex": "342",
         "Fast Skill": "Snarl",
@@ -2783,7 +2783,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "542",
+        "#": "254",
         "Name": " Leavanny",
         "NumberDex": "542",
         "Fast Skill": "Bug Bite",
@@ -2794,7 +2794,7 @@
         "IV": "0/12/14"
     },
     {
-        "#": "212",
+        "#": "255",
         "Name": " Scizor",
         "NumberDex": "212",
         "Fast Skill": "Bullet Punch",
@@ -2805,7 +2805,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "181",
+        "#": "256",
         "Name": " Ampharos (Shadow)",
         "NumberDex": "181",
         "Fast Skill": "Volt Switch",
@@ -2816,7 +2816,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "632",
+        "#": "257",
         "Name": " Durant",
         "NumberDex": "632",
         "Fast Skill": "Bug Bite",
@@ -2827,7 +2827,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "611",
+        "#": "258",
         "Name": " Fraxure",
         "NumberDex": "611",
         "Fast Skill": "Dragon Tail",
@@ -2838,7 +2838,7 @@
         "IV": "10/15/15"
     },
     {
-        "#": "450",
+        "#": "259",
         "Name": " Hippowdon (Shadow)",
         "NumberDex": "450",
         "Fast Skill": "Ice Fang",
@@ -2849,7 +2849,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "146",
+        "#": "260",
         "Name": " Moltres",
         "NumberDex": "146",
         "Fast Skill": "Fire Spin",
@@ -2860,7 +2860,7 @@
         "IV": "1/10/15"
     },
     {
-        "#": "668",
+        "#": "261",
         "Name": " Pyroar",
         "NumberDex": "668",
         "Fast Skill": "Incinerate",
@@ -2871,7 +2871,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "354",
+        "#": "262",
         "Name": " Banette (Shadow)",
         "NumberDex": "354",
         "Fast Skill": "Shadow Claw",
@@ -2882,7 +2882,7 @@
         "IV": "3/15/15"
     },
     {
-        "#": "643",
+        "#": "263",
         "Name": " Reshiram",
         "NumberDex": "643",
         "Fast Skill": "Dragon Breath",
@@ -2893,7 +2893,7 @@
         "IV": "1/13/12"
     },
     {
-        "#": "357",
+        "#": "264",
         "Name": " Tropius",
         "NumberDex": "357",
         "Fast Skill": "Air Slash",
@@ -2904,7 +2904,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "210",
+        "#": "265",
         "Name": " Granbull",
         "NumberDex": "210",
         "Fast Skill": "Charm",
@@ -2915,7 +2915,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "646",
+        "#": "266",
         "Name": " Kyurem",
         "NumberDex": "646",
         "Fast Skill": "Dragon Breath",
@@ -2926,7 +2926,7 @@
         "IV": "1/13/15"
     },
     {
-        "#": "125",
+        "#": "267",
         "Name": " Electabuzz (Shadow)",
         "NumberDex": "125",
         "Fast Skill": "Thunder Shock",
@@ -2937,7 +2937,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "282",
+        "#": "268",
         "Name": " Gardevoir (Shadow)",
         "NumberDex": "282",
         "Fast Skill": "Charm",
@@ -2948,7 +2948,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "645",
+        "#": "269",
         "Name": " Landorus (Therian)",
         "NumberDex": "645",
         "Fast Skill": "Mud Shot",
@@ -2959,7 +2959,7 @@
         "IV": "1/13/15"
     },
     {
-        "#": "381",
+        "#": "270",
         "Name": " Latios",
         "NumberDex": "381",
         "Fast Skill": "Dragon Breath",
@@ -2970,7 +2970,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "470",
+        "#": "271",
         "Name": " Leafeon",
         "NumberDex": "470",
         "Fast Skill": "Bullet Seed*",
@@ -2981,7 +2981,7 @@
         "IV": "0/14/13"
     },
     {
-        "#": "195",
+        "#": "272",
         "Name": " Quagsire (Shadow)",
         "NumberDex": "195",
         "Fast Skill": "Mud Shot",
@@ -2992,7 +2992,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "82",
+        "#": "273",
         "Name": " Magneton",
         "NumberDex": "82",
         "Fast Skill": "Thunder Shock",
@@ -3003,7 +3003,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "889",
+        "#": "274",
         "Name": " Zamazenta (Hero)",
         "NumberDex": "889",
         "Fast Skill": "Snarl",
@@ -3014,7 +3014,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "80",
+        "#": "275",
         "Name": " Slowbro (Galarian)",
         "NumberDex": "80",
         "Fast Skill": "Poison Jab",
@@ -3025,7 +3025,7 @@
         "IV": "1/15/11"
     },
     {
-        "#": "59",
+        "#": "276",
         "Name": " Arcanine (Shadow)",
         "NumberDex": "59",
         "Fast Skill": "Snarl",
@@ -3036,7 +3036,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "71",
+        "#": "277",
         "Name": " Victreebel (Shadow)",
         "NumberDex": "71",
         "Fast Skill": "Razor Leaf",
@@ -3047,7 +3047,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "461",
+        "#": "278",
         "Name": " Weavile (Shadow)",
         "NumberDex": "461",
         "Fast Skill": "Snarl",
@@ -3058,7 +3058,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "306",
+        "#": "279",
         "Name": " Aggron",
         "NumberDex": "306",
         "Fast Skill": "Smack Down",
@@ -3069,7 +3069,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "727",
+        "#": "280",
         "Name": " Incineroar",
         "NumberDex": "727",
         "Fast Skill": "Snarl",
@@ -3080,7 +3080,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "392",
+        "#": "281",
         "Name": " Infernape",
         "NumberDex": "392",
         "Fast Skill": "Fire Spin",
@@ -3091,7 +3091,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "745",
+        "#": "282",
         "Name": " Lycanroc (Midnight)",
         "NumberDex": "745",
         "Fast Skill": "Counter",
@@ -3102,7 +3102,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "217",
+        "#": "283",
         "Name": " Ursaring",
         "NumberDex": "217",
         "Fast Skill": "Shadow Claw",
@@ -3113,7 +3113,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "160",
+        "#": "284",
         "Name": " Feraligatr",
         "NumberDex": "160",
         "Fast Skill": "Ice Fang",
@@ -3124,7 +3124,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "553",
+        "#": "285",
         "Name": " Krookodile",
         "NumberDex": "553",
         "Fast Skill": "Snarl",
@@ -3135,7 +3135,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "791",
+        "#": "286",
         "Name": " Solgaleo",
         "NumberDex": "791",
         "Fast Skill": "Fire Spin",
@@ -3146,7 +3146,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "91",
+        "#": "287",
         "Name": " Cloyster (Shadow)",
         "NumberDex": "91",
         "Fast Skill": "Ice Shard",
@@ -3157,7 +3157,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "362",
+        "#": "288",
         "Name": " Glalie",
         "NumberDex": "362",
         "Fast Skill": "Ice Shard",
@@ -3168,7 +3168,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "67",
+        "#": "289",
         "Name": " Machoke (Shadow)",
         "NumberDex": "67",
         "Fast Skill": "Karate Chop",
@@ -3179,7 +3179,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "484",
+        "#": "290",
         "Name": " Palkia",
         "NumberDex": "484",
         "Fast Skill": "Dragon Tail",
@@ -3190,7 +3190,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "476",
+        "#": "291",
         "Name": " Probopass",
         "NumberDex": "476",
         "Fast Skill": "Spark",
@@ -3201,7 +3201,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "71",
+        "#": "292",
         "Name": " Victreebel",
         "NumberDex": "71",
         "Fast Skill": "Razor Leaf",
@@ -3212,7 +3212,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "405",
+        "#": "293",
         "Name": " Luxray",
         "NumberDex": "405",
         "Fast Skill": "Snarl",
@@ -3223,7 +3223,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "78",
+        "#": "294",
         "Name": " Rapidash (Galarian)",
         "NumberDex": "78",
         "Fast Skill": "Fairy Wind",
@@ -3234,7 +3234,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "150",
+        "#": "295",
         "Name": " Mewtwo (Shadow)",
         "NumberDex": "150",
         "Fast Skill": "Psycho Cut",
@@ -3245,7 +3245,7 @@
         "IV": "1/15/13"
     },
     {
-        "#": "233",
+        "#": "296",
         "Name": " Porygon2 (Shadow)",
         "NumberDex": "233",
         "Fast Skill": "Lock On",
@@ -3256,7 +3256,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "476",
+        "#": "297",
         "Name": " Probopass (Shadow)",
         "NumberDex": "476",
         "Fast Skill": "Spark",
@@ -3267,7 +3267,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "508",
+        "#": "298",
         "Name": " Stoutland",
         "NumberDex": "508",
         "Fast Skill": "Lick",
@@ -3278,7 +3278,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "647",
+        "#": "299",
         "Name": " Keldeo (Ordinary)",
         "NumberDex": "647",
         "Fast Skill": "Poison Jab",
@@ -3289,7 +3289,7 @@
         "IV": "11/15/15"
     },
     {
-        "#": "461",
+        "#": "300",
         "Name": " Weavile",
         "NumberDex": "461",
         "Fast Skill": "Snarl",
@@ -3300,7 +3300,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "483",
+        "#": "301",
         "Name": " Dialga",
         "NumberDex": "483",
         "Fast Skill": "Dragon Breath",
@@ -3311,7 +3311,7 @@
         "IV": "1/13/12"
     },
     {
-        "#": "139",
+        "#": "302",
         "Name": " Omastar (Shadow)",
         "NumberDex": "139",
         "Fast Skill": "Mud Shot",
@@ -3322,7 +3322,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "123",
+        "#": "303",
         "Name": " Scyther (Shadow)",
         "NumberDex": "123",
         "Fast Skill": "Fury Cutter",
@@ -3333,7 +3333,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "245",
+        "#": "304",
         "Name": " Suicune",
         "NumberDex": "245",
         "Fast Skill": "Snarl",
@@ -3344,7 +3344,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "625",
+        "#": "305",
         "Name": " Bisharp",
         "NumberDex": "625",
         "Fast Skill": "Snarl",
@@ -3355,7 +3355,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "97",
+        "#": "306",
         "Name": " Hypno",
         "NumberDex": "97",
         "Fast Skill": "Confusion",
@@ -3366,7 +3366,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "272",
+        "#": "307",
         "Name": " Ludicolo",
         "NumberDex": "272",
         "Fast Skill": "Bubble",
@@ -3377,7 +3377,7 @@
         "IV": "4/14/15"
     },
     {
-        "#": "642",
+        "#": "308",
         "Name": " Thundurus (Incarnate)",
         "NumberDex": "642",
         "Fast Skill": "Thunder Shock",
@@ -3388,7 +3388,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "615",
+        "#": "309",
         "Name": " Cryogonal",
         "NumberDex": "615",
         "Fast Skill": "Ice Shard",
@@ -3399,7 +3399,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "512",
+        "#": "310",
         "Name": " Simisage",
         "NumberDex": "512",
         "Fast Skill": "Vine Whip",
@@ -3410,7 +3410,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "45",
+        "#": "311",
         "Name": " Vileplume (Shadow)",
         "NumberDex": "45",
         "Fast Skill": "Razor Leaf",
@@ -3421,7 +3421,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "614",
+        "#": "312",
         "Name": " Beartic",
         "NumberDex": "614",
         "Fast Skill": "Powder Snow",
@@ -3432,7 +3432,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "658",
+        "#": "313",
         "Name": " Greninja",
         "NumberDex": "658",
         "Fast Skill": "Bubble",
@@ -3443,7 +3443,7 @@
         "IV": "0/13/14"
     },
     {
-        "#": "601",
+        "#": "314",
         "Name": " Klinklang",
         "NumberDex": "601",
         "Fast Skill": "Thunder Shock",
@@ -3454,7 +3454,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "67",
+        "#": "315",
         "Name": " Machoke",
         "NumberDex": "67",
         "Fast Skill": "Karate Chop",
@@ -3465,7 +3465,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "229",
+        "#": "316",
         "Name": " Houndoom (Shadow)",
         "NumberDex": "229",
         "Fast Skill": "Snarl",
@@ -3476,7 +3476,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "310",
+        "#": "317",
         "Name": " Manectric (Shadow)",
         "NumberDex": "310",
         "Fast Skill": "Snarl",
@@ -3487,7 +3487,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "34",
+        "#": "318",
         "Name": " Nidoking (Shadow)",
         "NumberDex": "34",
         "Fast Skill": "Double Kick",
@@ -3498,7 +3498,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "533",
+        "#": "319",
         "Name": " Gurdurr",
         "NumberDex": "533",
         "Fast Skill": "Poison Jab",
@@ -3509,7 +3509,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "306",
+        "#": "320",
         "Name": " Aggron (Shadow)",
         "NumberDex": "306",
         "Fast Skill": "Smack Down",
@@ -3520,7 +3520,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "477",
+        "#": "321",
         "Name": " Dusknoir",
         "NumberDex": "477",
         "Fast Skill": "Hex",
@@ -3531,7 +3531,7 @@
         "IV": "0/12/14"
     },
     {
-        "#": "455",
+        "#": "322",
         "Name": " Carnivine",
         "NumberDex": "455",
         "Fast Skill": "Vine Whip",
@@ -3542,7 +3542,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "477",
+        "#": "323",
         "Name": " Dusknoir (Shadow)",
         "NumberDex": "477",
         "Fast Skill": "Hex",
@@ -3553,7 +3553,7 @@
         "IV": "0/12/14"
     },
     {
-        "#": "471",
+        "#": "324",
         "Name": " Glaceon",
         "NumberDex": "471",
         "Fast Skill": "Ice Shard",
@@ -3564,7 +3564,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "76",
+        "#": "325",
         "Name": " Golem",
         "NumberDex": "76",
         "Fast Skill": "Mud Shot",
@@ -3575,7 +3575,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "230",
+        "#": "326",
         "Name": " Kingdra (Shadow)",
         "NumberDex": "230",
         "Fast Skill": "Dragon Breath",
@@ -3586,7 +3586,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "382",
+        "#": "327",
         "Name": " Kyogre",
         "NumberDex": "382",
         "Fast Skill": "Waterfall",
@@ -3597,7 +3597,7 @@
         "IV": "1/14/13"
     },
     {
-        "#": "467",
+        "#": "328",
         "Name": " Magmortar",
         "NumberDex": "467",
         "Fast Skill": "Karate Chop",
@@ -3608,7 +3608,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "45",
+        "#": "329",
         "Name": " Vileplume",
         "NumberDex": "45",
         "Fast Skill": "Razor Leaf",
@@ -3619,7 +3619,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "565",
+        "#": "330",
         "Name": " Carracosta",
         "NumberDex": "565",
         "Fast Skill": "Water Gun",
@@ -3630,7 +3630,7 @@
         "IV": "1/14/15"
     },
     {
-        "#": "612",
+        "#": "331",
         "Name": " Haxorus",
         "NumberDex": "612",
         "Fast Skill": "Counter",
@@ -3641,7 +3641,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "367",
+        "#": "332",
         "Name": " Huntail",
         "NumberDex": "367",
         "Fast Skill": "Water Gun",
@@ -3652,7 +3652,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "139",
+        "#": "333",
         "Name": " Omastar",
         "NumberDex": "139",
         "Fast Skill": "Mud Shot",
@@ -3663,7 +3663,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "114",
+        "#": "334",
         "Name": " Tangela",
         "NumberDex": "114",
         "Fast Skill": "Vine Whip",
@@ -3674,7 +3674,7 @@
         "IV": "10/15/15"
     },
     {
-        "#": "567",
+        "#": "335",
         "Name": " Archeops",
         "NumberDex": "567",
         "Fast Skill": "Wing Attack",
@@ -3685,7 +3685,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "229",
+        "#": "336",
         "Name": " Houndoom",
         "NumberDex": "229",
         "Fast Skill": "Snarl",
@@ -3696,7 +3696,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "288",
+        "#": "337",
         "Name": " Vigoroth",
         "NumberDex": "288",
         "Fast Skill": "Counter",
@@ -3707,7 +3707,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "40",
+        "#": "338",
         "Name": " Wigglytuff",
         "NumberDex": "40",
         "Fast Skill": "Charm",
@@ -3718,7 +3718,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "469",
+        "#": "339",
         "Name": " Yanmega",
         "NumberDex": "469",
         "Fast Skill": "Wing Attack",
@@ -3729,7 +3729,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "591",
+        "#": "340",
         "Name": " Amoonguss",
         "NumberDex": "591",
         "Fast Skill": "Feint Attack",
@@ -3740,7 +3740,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "244",
+        "#": "341",
         "Name": " Entei",
         "NumberDex": "244",
         "Fast Skill": "Fire Spin",
@@ -3751,7 +3751,7 @@
         "IV": "3/15/14"
     },
     {
-        "#": "310",
+        "#": "342",
         "Name": " Manectric",
         "NumberDex": "310",
         "Fast Skill": "Snarl",
@@ -3762,7 +3762,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "648",
+        "#": "343",
         "Name": " Meloetta (Aria)",
         "NumberDex": "648",
         "Fast Skill": "Quick Attack",
@@ -3773,7 +3773,7 @@
         "IV": "10/14/15"
     },
     {
-        "#": "866",
+        "#": "344",
         "Name": " Mr. Rime",
         "NumberDex": "866",
         "Fast Skill": "Ice Shard",
@@ -3784,7 +3784,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "245",
+        "#": "345",
         "Name": " Suicune (Shadow)",
         "NumberDex": "245",
         "Fast Skill": "Snarl",
@@ -3795,7 +3795,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "716",
+        "#": "346",
         "Name": " Xerneas",
         "NumberDex": "716",
         "Fast Skill": "Tackle",
@@ -3806,7 +3806,7 @@
         "IV": "1/14/15"
     },
     {
-        "#": "785",
+        "#": "347",
         "Name": " Tapu Koko",
         "NumberDex": "785",
         "Fast Skill": "Volt Switch",
@@ -3817,7 +3817,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "547",
+        "#": "348",
         "Name": " Whimsicott",
         "NumberDex": "547",
         "Fast Skill": "Charm",
@@ -3828,7 +3828,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "697",
+        "#": "349",
         "Name": " Tyrantrum",
         "NumberDex": "697",
         "Fast Skill": "Dragon Tail",
@@ -3839,7 +3839,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "244",
+        "#": "350",
         "Name": " Entei (Shadow)",
         "NumberDex": "244",
         "Fast Skill": "Fire Spin",
@@ -3850,7 +3850,7 @@
         "IV": "3/15/14"
     },
     {
-        "#": "211",
+        "#": "351",
         "Name": " Qwilfish",
         "NumberDex": "211",
         "Fast Skill": "Poison Sting",
@@ -3861,7 +3861,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "634",
+        "#": "352",
         "Name": " Zweilous",
         "NumberDex": "634",
         "Fast Skill": "Dragon Breath",
@@ -3872,7 +3872,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "348",
+        "#": "353",
         "Name": " Armaldo (Shadow)",
         "NumberDex": "348",
         "Fast Skill": "Fury Cutter",
@@ -3883,7 +3883,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "101",
+        "#": "354",
         "Name": " Electrode (Shadow)",
         "NumberDex": "101",
         "Fast Skill": "Volt Switch",
@@ -3894,7 +3894,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "160",
+        "#": "355",
         "Name": " Feraligatr (Shadow)",
         "NumberDex": "160",
         "Fast Skill": "Ice Fang",
@@ -3905,7 +3905,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "103",
+        "#": "356",
         "Name": " Exeggutor (Alolan) (Shadow)",
         "NumberDex": "103",
         "Fast Skill": "Dragon Tail",
@@ -3916,7 +3916,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "126",
+        "#": "357",
         "Name": " Magmar",
         "NumberDex": "126",
         "Fast Skill": "Karate Chop",
@@ -3927,7 +3927,7 @@
         "IV": "2/14/15"
     },
     {
-        "#": "114",
+        "#": "358",
         "Name": " Tangela (Shadow)",
         "NumberDex": "114",
         "Fast Skill": "Vine Whip",
@@ -3938,7 +3938,7 @@
         "IV": "10/15/15"
     },
     {
-        "#": "798",
+        "#": "359",
         "Name": " Kartana",
         "NumberDex": "798",
         "Fast Skill": "Razor Leaf",
@@ -3949,7 +3949,7 @@
         "IV": "1/13/14"
     },
     {
-        "#": "126",
+        "#": "360",
         "Name": " Magmar (Shadow)",
         "NumberDex": "126",
         "Fast Skill": "Ember",
@@ -3960,7 +3960,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "787",
+        "#": "361",
         "Name": " Tapu Bulu",
         "NumberDex": "787",
         "Fast Skill": "Bullet Seed",
@@ -3971,7 +3971,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "389",
+        "#": "362",
         "Name": " Torterra (Shadow)",
         "NumberDex": "389",
         "Fast Skill": "Razor Leaf",
@@ -3982,7 +3982,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "144",
+        "#": "363",
         "Name": " Articuno (Galarian)",
         "NumberDex": "144",
         "Fast Skill": "Psycho Cut",
@@ -3993,7 +3993,7 @@
         "IV": "1/13/12"
     },
     {
-        "#": "284",
+        "#": "364",
         "Name": " Masquerain",
         "NumberDex": "284",
         "Fast Skill": "Air Slash",
@@ -4004,7 +4004,7 @@
         "IV": "7/15/15"
     },
     {
-        "#": "251",
+        "#": "365",
         "Name": " Celebi",
         "NumberDex": "251",
         "Fast Skill": "Confusion",
@@ -4015,7 +4015,7 @@
         "IV": "10/13/15"
     },
     {
-        "#": "500",
+        "#": "366",
         "Name": " Emboar",
         "NumberDex": "500",
         "Fast Skill": "Ember",
@@ -4026,7 +4026,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "150",
+        "#": "367",
         "Name": " Mewtwo",
         "NumberDex": "150",
         "Fast Skill": "Psycho Cut",
@@ -4037,7 +4037,7 @@
         "IV": "1/15/13"
     },
     {
-        "#": "479",
+        "#": "368",
         "Name": " Rotom (Wash)",
         "NumberDex": "479",
         "Fast Skill": "Thunder Shock",
@@ -4048,7 +4048,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "323",
+        "#": "369",
         "Name": " Camerupt",
         "NumberDex": "323",
         "Fast Skill": "Incinerate",
@@ -4059,7 +4059,7 @@
         "IV": "14/15/15"
     },
     {
-        "#": "65",
+        "#": "370",
         "Name": " Alakazam (Shadow)",
         "NumberDex": "65",
         "Fast Skill": "Counter*",
@@ -4070,7 +4070,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "738",
+        "#": "371",
         "Name": " Vikavolt",
         "NumberDex": "738",
         "Fast Skill": "Spark",
@@ -4081,7 +4081,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "103",
+        "#": "372",
         "Name": " Exeggutor (Alolan)",
         "NumberDex": "103",
         "Fast Skill": "Dragon Tail",
@@ -4092,7 +4092,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "383",
+        "#": "373",
         "Name": " Groudon",
         "NumberDex": "383",
         "Fast Skill": "Mud Shot",
@@ -4103,7 +4103,7 @@
         "IV": "1/14/13"
     },
     {
-        "#": "123",
+        "#": "374",
         "Name": " Scyther",
         "NumberDex": "123",
         "Fast Skill": "Fury Cutter",
@@ -4114,7 +4114,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "282",
+        "#": "375",
         "Name": " Gardevoir",
         "NumberDex": "282",
         "Fast Skill": "Charm",
@@ -4125,7 +4125,7 @@
         "IV": "0/12/15"
     },
     {
-        "#": "389",
+        "#": "376",
         "Name": " Torterra",
         "NumberDex": "389",
         "Fast Skill": "Razor Leaf",
@@ -4136,7 +4136,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "416",
+        "#": "377",
         "Name": " Vespiquen",
         "NumberDex": "416",
         "Fast Skill": "Fury Cutter",
@@ -4147,7 +4147,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "591",
+        "#": "378",
         "Name": " Amoonguss (Shadow)",
         "NumberDex": "591",
         "Fast Skill": "Feint Attack",
@@ -4158,7 +4158,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "376",
+        "#": "379",
         "Name": " Metagross",
         "NumberDex": "376",
         "Fast Skill": "Bullet Punch",
@@ -4169,7 +4169,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "34",
+        "#": "380",
         "Name": " Nidoking",
         "NumberDex": "34",
         "Fast Skill": "Double Kick",
@@ -4180,7 +4180,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "203",
+        "#": "381",
         "Name": " Girafarig (Shadow)",
         "NumberDex": "203",
         "Fast Skill": "Confusion",
@@ -4191,7 +4191,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "384",
+        "#": "382",
         "Name": " Rayquaza",
         "NumberDex": "384",
         "Fast Skill": "Dragon Tail",
@@ -4202,7 +4202,7 @@
         "IV": "1/14/15"
     },
     {
-        "#": "623",
+        "#": "383",
         "Name": " Golurk (Shadow)",
         "NumberDex": "623",
         "Fast Skill": "Mud Slap",
@@ -4213,7 +4213,7 @@
         "IV": "0/13/14"
     },
     {
-        "#": "576",
+        "#": "384",
         "Name": " Gothitelle",
         "NumberDex": "576",
         "Fast Skill": "Confusion",
@@ -4224,7 +4224,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "516",
+        "#": "385",
         "Name": " Simipour",
         "NumberDex": "516",
         "Fast Skill": "Water Gun",
@@ -4235,7 +4235,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "324",
+        "#": "386",
         "Name": " Torkoal",
         "NumberDex": "324",
         "Fast Skill": "Fire Spin",
@@ -4246,7 +4246,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "207",
+        "#": "387",
         "Name": " Gligar (Shadow)",
         "NumberDex": "207",
         "Fast Skill": "Wing Attack",
@@ -4257,7 +4257,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "141",
+        "#": "388",
         "Name": " Kabutops",
         "NumberDex": "141",
         "Fast Skill": "Mud Shot",
@@ -4268,7 +4268,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "65",
+        "#": "389",
         "Name": " Alakazam",
         "NumberDex": "65",
         "Fast Skill": "Counter*",
@@ -4279,7 +4279,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "101",
+        "#": "390",
         "Name": " Electrode",
         "NumberDex": "101",
         "Fast Skill": "Volt Switch",
@@ -4290,7 +4290,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "623",
+        "#": "391",
         "Name": " Golurk",
         "NumberDex": "623",
         "Fast Skill": "Mud Slap",
@@ -4301,7 +4301,7 @@
         "IV": "0/13/14"
     },
     {
-        "#": "15",
+        "#": "392",
         "Name": " Beedrill (Shadow)",
         "NumberDex": "15",
         "Fast Skill": "Poison Jab",
@@ -4312,7 +4312,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "445",
+        "#": "393",
         "Name": " Garchomp",
         "NumberDex": "445",
         "Fast Skill": "Dragon Tail",
@@ -4323,7 +4323,7 @@
         "IV": "0/14/13"
     },
     {
-        "#": "97",
+        "#": "394",
         "Name": " Hypno (Shadow)",
         "NumberDex": "97",
         "Fast Skill": "Confusion",
@@ -4334,7 +4334,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "468",
+        "#": "395",
         "Name": " Togekiss",
         "NumberDex": "468",
         "Fast Skill": "Air Slash",
@@ -4345,7 +4345,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "125",
+        "#": "396",
         "Name": " Electabuzz",
         "NumberDex": "125",
         "Fast Skill": "Thunder Shock",
@@ -4356,7 +4356,7 @@
         "IV": "2/14/15"
     },
     {
-        "#": "631",
+        "#": "397",
         "Name": " Heatmor",
         "NumberDex": "631",
         "Fast Skill": "Fire Spin",
@@ -4367,7 +4367,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "348",
+        "#": "398",
         "Name": " Armaldo",
         "NumberDex": "348",
         "Fast Skill": "Fury Cutter",
@@ -4378,7 +4378,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "380",
+        "#": "399",
         "Name": " Latias",
         "NumberDex": "380",
         "Fast Skill": "Dragon Breath",
@@ -4389,7 +4389,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "526",
+        "#": "400",
         "Name": " Gigalith",
         "NumberDex": "526",
         "Fast Skill": "Smack Down",
@@ -4400,7 +4400,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "485",
+        "#": "401",
         "Name": " Heatran",
         "NumberDex": "485",
         "Fast Skill": "Fire Spin",
@@ -4411,7 +4411,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "336",
+        "#": "402",
         "Name": " Seviper",
         "NumberDex": "336",
         "Fast Skill": "Poison Jab",
@@ -4422,7 +4422,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "59",
+        "#": "403",
         "Name": " Arcanine",
         "NumberDex": "59",
         "Fast Skill": "Snarl",
@@ -4433,7 +4433,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "752",
+        "#": "404",
         "Name": " Araquanid",
         "NumberDex": "752",
         "Fast Skill": "Bug Bite",
@@ -4444,7 +4444,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "203",
+        "#": "405",
         "Name": " Girafarig",
         "NumberDex": "203",
         "Fast Skill": "Confusion",
@@ -4455,7 +4455,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "376",
+        "#": "406",
         "Name": " Metagross (Shadow)",
         "NumberDex": "376",
         "Fast Skill": "Bullet Punch",
@@ -4466,7 +4466,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "764",
+        "#": "407",
         "Name": " Comfey",
         "NumberDex": "764",
         "Fast Skill": "Vine Whip",
@@ -4477,7 +4477,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "724",
+        "#": "408",
         "Name": " Decidueye",
         "NumberDex": "724",
         "Fast Skill": "Razor Leaf",
@@ -4488,7 +4488,7 @@
         "IV": "0/14/13"
     },
     {
-        "#": "323",
+        "#": "409",
         "Name": " Camerupt (Shadow)",
         "NumberDex": "323",
         "Fast Skill": "Incinerate",
@@ -4499,7 +4499,7 @@
         "IV": "14/15/15"
     },
     {
-        "#": "207",
+        "#": "410",
         "Name": " Gligar",
         "NumberDex": "207",
         "Fast Skill": "Wing Attack",
@@ -4510,7 +4510,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "142",
+        "#": "411",
         "Name": " Aerodactyl",
         "NumberDex": "142",
         "Fast Skill": "Rock Throw",
@@ -4521,7 +4521,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "421",
+        "#": "412",
         "Name": " Cherrim (Sunshine)",
         "NumberDex": "421",
         "Fast Skill": "Bullet Seed",
@@ -4532,7 +4532,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "428",
+        "#": "413",
         "Name": " Lopunny",
         "NumberDex": "428",
         "Fast Skill": "Double Kick",
@@ -4543,7 +4543,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "286",
+        "#": "414",
         "Name": " Breloom",
         "NumberDex": "286",
         "Fast Skill": "Counter",
@@ -4554,7 +4554,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "59",
+        "#": "415",
         "Name": " Arcanine (Hisuian)",
         "NumberDex": "59",
         "Fast Skill": "Snarl",
@@ -4565,7 +4565,7 @@
         "IV": "0/10/15"
     },
     {
-        "#": "115",
+        "#": "416",
         "Name": " Kangaskhan",
         "NumberDex": "115",
         "Fast Skill": "Mud Slap",
@@ -4576,7 +4576,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "571",
+        "#": "417",
         "Name": " Zoroark",
         "NumberDex": "571",
         "Fast Skill": "Shadow Claw",
@@ -4587,7 +4587,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "110",
+        "#": "418",
         "Name": " Weezing",
         "NumberDex": "110",
         "Fast Skill": "Infestation",
@@ -4598,7 +4598,7 @@
         "IV": "6/15/15"
     },
     {
-        "#": "142",
+        "#": "419",
         "Name": " Aerodactyl (Shadow)",
         "NumberDex": "142",
         "Fast Skill": "Rock Throw",
@@ -4609,7 +4609,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "199",
+        "#": "420",
         "Name": " Slowking",
         "NumberDex": "199",
         "Fast Skill": "Confusion",
@@ -4620,7 +4620,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "85",
+        "#": "421",
         "Name": " Dodrio",
         "NumberDex": "85",
         "Fast Skill": "Feint Attack",
@@ -4631,7 +4631,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "136",
+        "#": "422",
         "Name": " Flareon",
         "NumberDex": "136",
         "Fast Skill": "Fire Spin",
@@ -4642,7 +4642,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "442",
+        "#": "423",
         "Name": " Spiritomb",
         "NumberDex": "442",
         "Fast Skill": "Sucker Punch",
@@ -4653,7 +4653,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "474",
+        "#": "424",
         "Name": " Porygon-Z (Shadow)",
         "NumberDex": "474",
         "Fast Skill": "Lock On",
@@ -4664,7 +4664,7 @@
         "IV": "0/13/14"
     },
     {
-        "#": "80",
+        "#": "425",
         "Name": " Slowbro",
         "NumberDex": "80",
         "Fast Skill": "Confusion",
@@ -4675,7 +4675,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "429",
+        "#": "426",
         "Name": " Mismagius (Shadow)",
         "NumberDex": "429",
         "Fast Skill": "Hex",
@@ -4686,7 +4686,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "604",
+        "#": "427",
         "Name": " Eelektross",
         "NumberDex": "604",
         "Fast Skill": "Spark",
@@ -4697,7 +4697,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "128",
+        "#": "428",
         "Name": " Tauros",
         "NumberDex": "128",
         "Fast Skill": "Tackle",
@@ -4708,7 +4708,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "248",
+        "#": "429",
         "Name": " Tyranitar (Shadow)",
         "NumberDex": "248",
         "Fast Skill": "Smack Down*",
@@ -4719,7 +4719,7 @@
         "IV": "0/13/11"
     },
     {
-        "#": "695",
+        "#": "430",
         "Name": " Heliolisk",
         "NumberDex": "695",
         "Fast Skill": "Volt Switch",
@@ -4730,7 +4730,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "135",
+        "#": "431",
         "Name": " Jolteon",
         "NumberDex": "135",
         "Fast Skill": "Volt Switch",
@@ -4741,7 +4741,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "446",
+        "#": "432",
         "Name": " Munchlax",
         "NumberDex": "446",
         "Fast Skill": "Tackle",
@@ -4752,7 +4752,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "15",
+        "#": "433",
         "Name": " Beedrill",
         "NumberDex": "15",
         "Fast Skill": "Poison Jab",
@@ -4763,7 +4763,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "655",
+        "#": "434",
         "Name": " Delphox",
         "NumberDex": "655",
         "Fast Skill": "Fire Spin",
@@ -4774,7 +4774,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "514",
+        "#": "435",
         "Name": " Simisear",
         "NumberDex": "514",
         "Fast Skill": "Fire Spin",
@@ -4785,7 +4785,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "196",
+        "#": "436",
         "Name": " Espeon",
         "NumberDex": "196",
         "Fast Skill": "Confusion",
@@ -4796,7 +4796,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "539",
+        "#": "437",
         "Name": " Sawk",
         "NumberDex": "539",
         "Fast Skill": "Poison Jab",
@@ -4807,7 +4807,7 @@
         "IV": "0/15/11"
     },
     {
-        "#": "242",
+        "#": "438",
         "Name": " Blissey",
         "NumberDex": "242",
         "Fast Skill": "Zen Headbutt",
@@ -4818,7 +4818,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "676",
+        "#": "439",
         "Name": " Furfrou",
         "NumberDex": "676",
         "Fast Skill": "Sucker Punch",
@@ -4829,7 +4829,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "317",
+        "#": "440",
         "Name": " Swalot",
         "NumberDex": "317",
         "Fast Skill": "Infestation",
@@ -4840,7 +4840,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "901",
+        "#": "441",
         "Name": " Ursaluna",
         "NumberDex": "901",
         "Fast Skill": "Tackle",
@@ -4851,7 +4851,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "569",
+        "#": "442",
         "Name": " Garbodor",
         "NumberDex": "569",
         "Fast Skill": "Infestation",
@@ -4862,7 +4862,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "99",
+        "#": "443",
         "Name": " Kingler",
         "NumberDex": "99",
         "Fast Skill": "Mud Shot*",
@@ -4873,7 +4873,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "429",
+        "#": "444",
         "Name": " Mismagius",
         "NumberDex": "429",
         "Fast Skill": "Hex",
@@ -4884,7 +4884,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "215",
+        "#": "445",
         "Name": " Sneasel",
         "NumberDex": "215",
         "Fast Skill": "Ice Shard",
@@ -4895,7 +4895,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "464",
+        "#": "446",
         "Name": " Rhyperior",
         "NumberDex": "464",
         "Fast Skill": "Mud Slap",
@@ -4906,7 +4906,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "733",
+        "#": "447",
         "Name": " Toucannon",
         "NumberDex": "733",
         "Fast Skill": "Bullet Seed",
@@ -4917,7 +4917,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "748",
+        "#": "448",
         "Name": " Toxapex",
         "NumberDex": "748",
         "Fast Skill": "Poison Jab",
@@ -4928,7 +4928,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "234",
+        "#": "449",
         "Name": " Stantler (Shadow)",
         "NumberDex": "234",
         "Fast Skill": "Tackle",
@@ -4939,7 +4939,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "702",
+        "#": "450",
         "Name": " Dedenne",
         "NumberDex": "702",
         "Fast Skill": "Thunder Shock",
@@ -4950,7 +4950,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "319",
+        "#": "451",
         "Name": " Sharpedo (Shadow)",
         "NumberDex": "319",
         "Fast Skill": "Waterfall",
@@ -4961,7 +4961,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "786",
+        "#": "452",
         "Name": " Tapu Lele",
         "NumberDex": "786",
         "Fast Skill": "Confusion",
@@ -4972,7 +4972,7 @@
         "IV": "1/15/13"
     },
     {
-        "#": "609",
+        "#": "453",
         "Name": " Chandelure",
         "NumberDex": "609",
         "Fast Skill": "Fire Spin",
@@ -4983,7 +4983,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "620",
+        "#": "454",
         "Name": " Mienshao",
         "NumberDex": "620",
         "Fast Skill": "Poison Jab",
@@ -4994,7 +4994,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "112",
+        "#": "455",
         "Name": " Rhydon",
         "NumberDex": "112",
         "Fast Skill": "Mud Slap",
@@ -5005,7 +5005,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "110",
+        "#": "456",
         "Name": " Weezing (Shadow)",
         "NumberDex": "110",
         "Fast Skill": "Infestation",
@@ -5016,7 +5016,7 @@
         "IV": "6/15/15"
     },
     {
-        "#": "75",
+        "#": "457",
         "Name": " Graveler (Alolan)",
         "NumberDex": "75",
         "Fast Skill": "Volt Switch",
@@ -5027,7 +5027,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "380",
+        "#": "458",
         "Name": " Latias (Shadow)",
         "NumberDex": "380",
         "Fast Skill": "Dragon Breath",
@@ -5038,7 +5038,7 @@
         "IV": "1/15/14"
     },
     {
-        "#": "248",
+        "#": "459",
         "Name": " Tyranitar",
         "NumberDex": "248",
         "Fast Skill": "Smack Down*",
@@ -5049,7 +5049,7 @@
         "IV": "0/13/11"
     },
     {
-        "#": "741",
+        "#": "460",
         "Name": " Oricorio (Pom-Pom)",
         "NumberDex": "741",
         "Fast Skill": "Air Slash",
@@ -5060,7 +5060,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "103",
+        "#": "461",
         "Name": " Exeggutor (Shadow)",
         "NumberDex": "103",
         "Fast Skill": "Bullet Seed",
@@ -5071,7 +5071,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "80",
+        "#": "462",
         "Name": " Slowbro (Shadow)",
         "NumberDex": "80",
         "Fast Skill": "Confusion",
@@ -5082,7 +5082,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "550",
+        "#": "463",
         "Name": " Basculin",
         "NumberDex": "550",
         "Fast Skill": "Water Gun",
@@ -5093,7 +5093,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "474",
+        "#": "464",
         "Name": " Porygon-Z",
         "NumberDex": "474",
         "Fast Skill": "Lock On",
@@ -5104,7 +5104,7 @@
         "IV": "0/13/14"
     },
     {
-        "#": "199",
+        "#": "465",
         "Name": " Slowking (Galarian)",
         "NumberDex": "199",
         "Fast Skill": "Hex",
@@ -5115,7 +5115,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "741",
+        "#": "466",
         "Name": " Oricorio (Baile)",
         "NumberDex": "741",
         "Fast Skill": "Air Slash",
@@ -5126,7 +5126,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "199",
+        "#": "467",
         "Name": " Slowking (Shadow)",
         "NumberDex": "199",
         "Fast Skill": "Confusion",
@@ -5137,7 +5137,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "215",
+        "#": "468",
         "Name": " Sneasel (Shadow)",
         "NumberDex": "215",
         "Fast Skill": "Ice Shard",
@@ -5148,7 +5148,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "586",
+        "#": "469",
         "Name": " Sawsbuck",
         "NumberDex": "586",
         "Fast Skill": "Feint Attack",
@@ -5159,7 +5159,7 @@
         "IV": "0/15/11"
     },
     {
-        "#": "521",
+        "#": "470",
         "Name": " Unfezant",
         "NumberDex": "521",
         "Fast Skill": "Air Slash",
@@ -5170,7 +5170,7 @@
         "IV": "2/15/13"
     },
     {
-        "#": "901",
+        "#": "471",
         "Name": " Ursaluna (Shadow)",
         "NumberDex": "901",
         "Fast Skill": "Tackle",
@@ -5181,7 +5181,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "628",
+        "#": "472",
         "Name": " Braviary",
         "NumberDex": "628",
         "Fast Skill": "Air Slash",
@@ -5192,7 +5192,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "796",
+        "#": "473",
         "Name": " Xurkitree",
         "NumberDex": "796",
         "Fast Skill": "Thunder Shock",
@@ -5203,7 +5203,7 @@
         "IV": "1/15/9"
     },
     {
-        "#": "234",
+        "#": "474",
         "Name": " Stantler",
         "NumberDex": "234",
         "Fast Skill": "Tackle",
@@ -5214,7 +5214,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "358",
+        "#": "475",
         "Name": " Chimecho",
         "NumberDex": "358",
         "Fast Skill": "Extrasensory",
@@ -5225,7 +5225,7 @@
         "IV": "9/14/15"
     },
     {
-        "#": "372",
+        "#": "476",
         "Name": " Shelgon",
         "NumberDex": "372",
         "Fast Skill": "Dragon Breath",
@@ -5236,7 +5236,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "103",
+        "#": "477",
         "Name": " Exeggutor",
         "NumberDex": "103",
         "Fast Skill": "Bullet Seed",
@@ -5247,7 +5247,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "305",
+        "#": "478",
         "Name": " Lairon (Shadow)",
         "NumberDex": "305",
         "Fast Skill": "Metal Claw",
@@ -5258,7 +5258,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "359",
+        "#": "479",
         "Name": " Absol (Shadow)",
         "NumberDex": "359",
         "Fast Skill": "Snarl",
@@ -5269,7 +5269,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "411",
+        "#": "480",
         "Name": " Bastiodon",
         "NumberDex": "411",
         "Fast Skill": "Smack Down",
@@ -5280,7 +5280,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "76",
+        "#": "481",
         "Name": " Golem (Shadow)",
         "NumberDex": "76",
         "Fast Skill": "Rock Throw",
@@ -5291,7 +5291,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "641",
+        "#": "482",
         "Name": " Tornadus (Therian)",
         "NumberDex": "641",
         "Fast Skill": "Gust",
@@ -5302,7 +5302,7 @@
         "IV": "1/12/15"
     },
     {
-        "#": "189",
+        "#": "483",
         "Name": " Jumpluff",
         "NumberDex": "189",
         "Fast Skill": "Fairy Wind",
@@ -5313,7 +5313,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "707",
+        "#": "484",
         "Name": " Klefki",
         "NumberDex": "707",
         "Fast Skill": "Tackle",
@@ -5324,7 +5324,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "319",
+        "#": "485",
         "Name": " Sharpedo",
         "NumberDex": "319",
         "Fast Skill": "Waterfall",
@@ -5335,7 +5335,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "49",
+        "#": "486",
         "Name": " Venomoth (Shadow)",
         "NumberDex": "49",
         "Fast Skill": "Infestation",
@@ -5346,7 +5346,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "388",
+        "#": "487",
         "Name": " Grotle (Shadow)",
         "NumberDex": "388",
         "Fast Skill": "Razor Leaf",
@@ -5357,7 +5357,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "326",
+        "#": "488",
         "Name": " Grumpig",
         "NumberDex": "326",
         "Fast Skill": "Extrasensory",
@@ -5368,7 +5368,7 @@
         "IV": "1/14/15"
     },
     {
-        "#": "189",
+        "#": "489",
         "Name": " Jumpluff (Shadow)",
         "NumberDex": "189",
         "Fast Skill": "Fairy Wind",
@@ -5379,7 +5379,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "259",
+        "#": "490",
         "Name": " Marshtomp (Shadow)",
         "NumberDex": "259",
         "Fast Skill": "Mud Shot",
@@ -5390,7 +5390,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "192",
+        "#": "491",
         "Name": " Sunflora",
         "NumberDex": "192",
         "Fast Skill": "Bullet Seed",
@@ -5401,7 +5401,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "305",
+        "#": "492",
         "Name": " Lairon",
         "NumberDex": "305",
         "Fast Skill": "Metal Claw",
@@ -5412,7 +5412,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "337",
+        "#": "493",
         "Name": " Lunatone",
         "NumberDex": "337",
         "Fast Skill": "Confusion",
@@ -5423,7 +5423,7 @@
         "IV": "3/15/15"
     },
     {
-        "#": "338",
+        "#": "494",
         "Name": " Solrock",
         "NumberDex": "338",
         "Fast Skill": "Confusion",
@@ -5434,7 +5434,7 @@
         "IV": "3/15/15"
     },
     {
-        "#": "479",
+        "#": "495",
         "Name": " Rotom (Mow)",
         "NumberDex": "479",
         "Fast Skill": "Thunder Shock",
@@ -5445,7 +5445,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "693",
+        "#": "496",
         "Name": " Clawitzer",
         "NumberDex": "693",
         "Fast Skill": "Water Gun",
@@ -5456,7 +5456,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "49",
+        "#": "497",
         "Name": " Venomoth",
         "NumberDex": "49",
         "Fast Skill": "Infestation",
@@ -5467,7 +5467,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "373",
+        "#": "498",
         "Name": " Salamence (Shadow)",
         "NumberDex": "373",
         "Fast Skill": "Dragon Tail",
@@ -5478,7 +5478,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "741",
+        "#": "499",
         "Name": " Oricorio (Sensu)",
         "NumberDex": "741",
         "Fast Skill": "Air Slash",
@@ -5489,7 +5489,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "295",
+        "#": "500",
         "Name": " Exploud",
         "NumberDex": "295",
         "Fast Skill": "Bite",
@@ -5500,7 +5500,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "388",
+        "#": "501",
         "Name": " Grotle",
         "NumberDex": "388",
         "Fast Skill": "Razor Leaf",
@@ -5511,7 +5511,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "792",
+        "#": "502",
         "Name": " Lunala",
         "NumberDex": "792",
         "Fast Skill": "Confusion",
@@ -5522,7 +5522,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "745",
+        "#": "503",
         "Name": " Lycanroc (Midday)",
         "NumberDex": "745",
         "Fast Skill": "Sucker Punch",
@@ -5533,7 +5533,7 @@
         "IV": "0/14/14"
     },
     {
-        "#": "105",
+        "#": "504",
         "Name": " Marowak (Alolan) (Shadow)",
         "NumberDex": "105",
         "Fast Skill": "Hex",
@@ -5544,7 +5544,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "259",
+        "#": "505",
         "Name": " Marshtomp",
         "NumberDex": "259",
         "Fast Skill": "Mud Shot",
@@ -5555,7 +5555,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "555",
+        "#": "506",
         "Name": " Darmanitan (Galarian)",
         "NumberDex": "555",
         "Fast Skill": "Ice Fang",
@@ -5566,7 +5566,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "556",
+        "#": "507",
         "Name": " Maractus",
         "NumberDex": "556",
         "Fast Skill": "Bullet Seed",
@@ -5577,7 +5577,7 @@
         "IV": "6/15/15"
     },
     {
-        "#": "224",
+        "#": "508",
         "Name": " Octillery",
         "NumberDex": "224",
         "Fast Skill": "Lock On",
@@ -5588,7 +5588,7 @@
         "IV": "3/15/15"
     },
     {
-        "#": "121",
+        "#": "509",
         "Name": " Starmie",
         "NumberDex": "121",
         "Fast Skill": "Quick Attack",
@@ -5599,7 +5599,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "573",
+        "#": "510",
         "Name": " Cinccino",
         "NumberDex": "573",
         "Fast Skill": "Charm",
@@ -5610,7 +5610,7 @@
         "IV": "9/15/15"
     },
     {
-        "#": "491",
+        "#": "511",
         "Name": " Darkrai",
         "NumberDex": "491",
         "Fast Skill": "Snarl",
@@ -5621,7 +5621,7 @@
         "IV": "10/13/13"
     },
     {
-        "#": "105",
+        "#": "512",
         "Name": " Marowak (Shadow)",
         "NumberDex": "105",
         "Fast Skill": "Mud Slap",
@@ -5632,7 +5632,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "715",
+        "#": "513",
         "Name": " Noivern",
         "NumberDex": "715",
         "Fast Skill": "Air Slash",
@@ -5643,7 +5643,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "581",
+        "#": "514",
         "Name": " Swanna",
         "NumberDex": "581",
         "Fast Skill": "Water Gun",
@@ -5654,7 +5654,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "332",
+        "#": "515",
         "Name": " Cacturne",
         "NumberDex": "332",
         "Fast Skill": "Sucker Punch",
@@ -5665,7 +5665,7 @@
         "IV": "3/15/15"
     },
     {
-        "#": "105",
+        "#": "516",
         "Name": " Marowak",
         "NumberDex": "105",
         "Fast Skill": "Mud Slap",
@@ -5676,7 +5676,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "359",
+        "#": "517",
         "Name": " Absol",
         "NumberDex": "359",
         "Fast Skill": "Snarl",
@@ -5687,7 +5687,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "105",
+        "#": "518",
         "Name": " Marowak (Alolan)",
         "NumberDex": "105",
         "Fast Skill": "Hex",
@@ -5698,7 +5698,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "75",
+        "#": "519",
         "Name": " Graveler",
         "NumberDex": "75",
         "Fast Skill": "Mud Shot",
@@ -5709,7 +5709,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "432",
+        "#": "520",
         "Name": " Purugly",
         "NumberDex": "432",
         "Fast Skill": "Shadow Claw",
@@ -5720,7 +5720,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "373",
+        "#": "521",
         "Name": " Salamence",
         "NumberDex": "373",
         "Fast Skill": "Dragon Tail",
@@ -5731,7 +5731,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "364",
+        "#": "522",
         "Name": " Sealeo (Shadow)",
         "NumberDex": "364",
         "Fast Skill": "Powder Snow",
@@ -5742,7 +5742,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "400",
+        "#": "523",
         "Name": " Bibarel (Shadow)",
         "NumberDex": "400",
         "Fast Skill": "Water Gun",
@@ -5753,7 +5753,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "525",
+        "#": "524",
         "Name": " Boldore",
         "NumberDex": "525",
         "Fast Skill": "Smack Down",
@@ -5764,7 +5764,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "295",
+        "#": "525",
         "Name": " Exploud (Shadow)",
         "NumberDex": "295",
         "Fast Skill": "Bite",
@@ -5775,7 +5775,7 @@
         "IV": "2/15/14"
     },
     {
-        "#": "678",
+        "#": "526",
         "Name": " Meowstic (Female)",
         "NumberDex": "678",
         "Fast Skill": "Confusion",
@@ -5786,7 +5786,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "372",
+        "#": "527",
         "Name": " Shelgon (Shadow)",
         "NumberDex": "372",
         "Fast Skill": "Dragon Breath",
@@ -5797,7 +5797,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "606",
+        "#": "528",
         "Name": " Beheeyem",
         "NumberDex": "606",
         "Fast Skill": "Confusion",
@@ -5808,7 +5808,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "549",
+        "#": "529",
         "Name": " Lilligant",
         "NumberDex": "549",
         "Fast Skill": "Charm",
@@ -5819,7 +5819,7 @@
         "IV": "0/13/14"
     },
     {
-        "#": "678",
+        "#": "530",
         "Name": " Meowstic (Male)",
         "NumberDex": "678",
         "Fast Skill": "Confusion",
@@ -5830,7 +5830,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "124",
+        "#": "531",
         "Name": " Jynx",
         "NumberDex": "124",
         "Fast Skill": "Confusion",
@@ -5841,7 +5841,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "344",
+        "#": "532",
         "Name": " Claydol",
         "NumberDex": "344",
         "Fast Skill": "Confusion",
@@ -5852,7 +5852,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "705",
+        "#": "533",
         "Name": " Sliggoo",
         "NumberDex": "705",
         "Fast Skill": "Water Gun",
@@ -5863,7 +5863,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "642",
+        "#": "534",
         "Name": " Thundurus (Therian)",
         "NumberDex": "642",
         "Fast Skill": "Volt Switch",
@@ -5874,7 +5874,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "219",
+        "#": "535",
         "Name": " Magcargo",
         "NumberDex": "219",
         "Fast Skill": "Incinerate",
@@ -5885,7 +5885,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "122",
+        "#": "536",
         "Name": " Mr. Mime",
         "NumberDex": "122",
         "Fast Skill": "Confusion",
@@ -5896,7 +5896,7 @@
         "IV": "11/15/15"
     },
     {
-        "#": "184",
+        "#": "537",
         "Name": " Azumarill",
         "NumberDex": "184",
         "Fast Skill": "Bubble",
@@ -5907,7 +5907,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "75",
+        "#": "538",
         "Name": " Graveler (Shadow)",
         "NumberDex": "75",
         "Fast Skill": "Rock Throw",
@@ -5918,7 +5918,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "364",
+        "#": "539",
         "Name": " Sealeo",
         "NumberDex": "364",
         "Fast Skill": "Powder Snow",
@@ -5929,7 +5929,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "518",
+        "#": "540",
         "Name": " Musharna",
         "NumberDex": "518",
         "Fast Skill": "Charge Beam",
@@ -5940,7 +5940,7 @@
         "IV": "0/15/15"
     },
     {
-        "#": "561",
+        "#": "541",
         "Name": " Sigilyph",
         "NumberDex": "561",
         "Fast Skill": "Air Slash",
@@ -5951,7 +5951,7 @@
         "IV": "0/13/15"
     },
     {
-        "#": "400",
+        "#": "542",
         "Name": " Bibarel",
         "NumberDex": "400",
         "Fast Skill": "Water Gun",
@@ -5962,7 +5962,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "741",
+        "#": "543",
         "Name": " Oricorio (Pa'u)",
         "NumberDex": "741",
         "Fast Skill": "Air Slash",
@@ -5973,7 +5973,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "20",
+        "#": "544",
         "Name": " Raticate (Alolan)",
         "NumberDex": "20",
         "Fast Skill": "Quick Attack",
@@ -5984,7 +5984,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "206",
+        "#": "545",
         "Name": " Dunsparce",
         "NumberDex": "206",
         "Fast Skill": "Rollout",
@@ -5995,7 +5995,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "538",
+        "#": "546",
         "Name": " Throh",
         "NumberDex": "538",
         "Fast Skill": "Low Kick",
@@ -6006,7 +6006,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "409",
+        "#": "547",
         "Name": " Rampardos",
         "NumberDex": "409",
         "Fast Skill": "Smack Down",
@@ -6017,7 +6017,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "499",
+        "#": "548",
         "Name": " Pignite",
         "NumberDex": "499",
         "Fast Skill": "Ember",
@@ -6028,7 +6028,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "419",
+        "#": "549",
         "Name": " Floatzel",
         "NumberDex": "419",
         "Fast Skill": "Waterfall",
@@ -6039,7 +6039,7 @@
         "IV": "0/14/15"
     },
     {
-        "#": "20",
+        "#": "550",
         "Name": " Raticate (Alolan) (Shadow)",
         "NumberDex": "20",
         "Fast Skill": "Quick Attack",
@@ -6050,7 +6050,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "332",
+        "#": "551",
         "Name": " Cacturne (Shadow)",
         "NumberDex": "332",
         "Fast Skill": "Sucker Punch",
@@ -6061,7 +6061,7 @@
         "IV": "3/15/15"
     },
     {
-        "#": "740",
+        "#": "552",
         "Name": " Crabominable",
         "NumberDex": "740",
         "Fast Skill": "Bubble",
@@ -6072,7 +6072,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "481",
+        "#": "553",
         "Name": " Mesprit",
         "NumberDex": "481",
         "Fast Skill": "Confusion",
@@ -6083,7 +6083,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "262",
+        "#": "554",
         "Name": " Mightyena",
         "NumberDex": "262",
         "Fast Skill": "Ice Fang",
@@ -6094,7 +6094,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "581",
+        "#": "555",
         "Name": " Swanna (Shadow)",
         "NumberDex": "581",
         "Fast Skill": "Water Gun",
@@ -6105,7 +6105,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "424",
+        "#": "556",
         "Name": " Ambipom (Shadow)",
         "NumberDex": "424",
         "Fast Skill": "Scratch",
@@ -6116,7 +6116,7 @@
         "IV": "0/15/14"
     },
     {
-        "#": "178",
+        "#": "557",
         "Name": " Xatu (Shadow)",
         "NumberDex": "178",
         "Fast Skill": "Air Slash",
@@ -6127,7 +6127,7 @@
         "IV": "14/15/15"
     },
     {
-        "#": "457",
+        "#": "558",
         "Name": " Lumineon",
         "NumberDex": "457",
         "Fast Skill": "Water Gun",
@@ -6138,7 +6138,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "368",
+        "#": "559",
         "Name": " Gorebyss",
         "NumberDex": "368",
         "Fast Skill": "Water Gun",
@@ -6149,7 +6149,7 @@
         "IV": "0/15/12"
     },
     {
-        "#": "47",
+        "#": "560",
         "Name": " Parasect",
         "NumberDex": "47",
         "Fast Skill": "Fury Cutter",
@@ -6160,7 +6160,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "262",
+        "#": "561",
         "Name": " Mightyena (Shadow)",
         "NumberDex": "262",
         "Fast Skill": "Ice Fang",
@@ -6171,7 +6171,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "122",
+        "#": "562",
         "Name": " Mr. Mime (Galarian)",
         "NumberDex": "122",
         "Fast Skill": "Confusion",
@@ -6182,7 +6182,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "178",
+        "#": "563",
         "Name": " Xatu",
         "NumberDex": "178",
         "Fast Skill": "Air Slash",
@@ -6193,7 +6193,7 @@
         "IV": "14/15/15"
     },
     {
-        "#": "628",
+        "#": "564",
         "Name": " Braviary (Hisuian)",
         "NumberDex": "628",
         "Fast Skill": "Air Slash",
@@ -6204,7 +6204,7 @@
         "IV": "0/14/13"
     },
     {
-        "#": "22",
+        "#": "565",
         "Name": " Fearow",
         "NumberDex": "22",
         "Fast Skill": "Peck",
@@ -6215,7 +6215,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "729",
+        "#": "566",
         "Name": " Brionne",
         "NumberDex": "729",
         "Fast Skill": "Water Gun",
@@ -6226,7 +6226,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "735",
+        "#": "567",
         "Name": " Gumshoos",
         "NumberDex": "735",
         "Fast Skill": "Bite",
@@ -6237,7 +6237,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "413",
+        "#": "568",
         "Name": " Wormadam (Plant)",
         "NumberDex": "413",
         "Fast Skill": "Bug Bite",
@@ -6248,7 +6248,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "424",
+        "#": "569",
         "Name": " Ambipom",
         "NumberDex": "424",
         "Fast Skill": "Scratch",
@@ -6259,7 +6259,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "24",
+        "#": "570",
         "Name": " Arbok",
         "NumberDex": "24",
         "Fast Skill": "Dragon Tail",
@@ -6270,7 +6270,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "413",
+        "#": "571",
         "Name": " Wormadam (Sandy)",
         "NumberDex": "413",
         "Fast Skill": "Bug Bite",
@@ -6281,7 +6281,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "584",
+        "#": "572",
         "Name": " Vanilluxe",
         "NumberDex": "584",
         "Fast Skill": "Frost Breath",
@@ -6292,7 +6292,7 @@
         "IV": "0/15/11"
     },
     {
-        "#": "617",
+        "#": "573",
         "Name": " Accelgor",
         "NumberDex": "617",
         "Fast Skill": "Infestation",
@@ -6303,7 +6303,7 @@
         "IV": "0/15/13"
     },
     {
-        "#": "720",
+        "#": "574",
         "Name": " Hoopa",
         "NumberDex": "720",
         "Fast Skill": "Confusion",
@@ -6314,7 +6314,7 @@
         "IV": "10/15/15"
     },
     {
-        "#": "200",
+        "#": "575",
         "Name": " Misdreavus (Shadow)",
         "NumberDex": "200",
         "Fast Skill": "Hex",
@@ -6325,7 +6325,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "24",
+        "#": "576",
         "Name": " Arbok (Shadow)",
         "NumberDex": "24",
         "Fast Skill": "Dragon Tail",
@@ -6336,7 +6336,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "641",
+        "#": "577",
         "Name": " Tornadus (Incarnate)",
         "NumberDex": "641",
         "Fast Skill": "Air Slash",
@@ -6347,7 +6347,7 @@
         "IV": "1/15/15"
     },
     {
-        "#": "162",
+        "#": "578",
         "Name": " Furret",
         "NumberDex": "162",
         "Fast Skill": "Quick Attack",
@@ -6358,7 +6358,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "600",
+        "#": "579",
         "Name": " Klang",
         "NumberDex": "600",
         "Fast Skill": "Thunder Shock",
@@ -6369,7 +6369,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "723",
+        "#": "580",
         "Name": " Dartrix",
         "NumberDex": "723",
         "Fast Skill": "Peck",
@@ -6380,7 +6380,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "117",
+        "#": "581",
         "Name": " Seadra (Shadow)",
         "NumberDex": "117",
         "Fast Skill": "Dragon Breath",
@@ -6391,7 +6391,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "200",
+        "#": "582",
         "Name": " Misdreavus",
         "NumberDex": "200",
         "Fast Skill": "Hex",
@@ -6402,7 +6402,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "117",
+        "#": "583",
         "Name": " Seadra",
         "NumberDex": "117",
         "Fast Skill": "Dragon Breath",
@@ -6413,7 +6413,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "421",
+        "#": "584",
         "Name": " Cherrim (Overcast)",
         "NumberDex": "421",
         "Fast Skill": "Bullet Seed",
@@ -6424,7 +6424,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "444",
+        "#": "585",
         "Name": " Gabite",
         "NumberDex": "444",
         "Fast Skill": "Mud Shot",
@@ -6435,7 +6435,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "386",
+        "#": "586",
         "Name": " Deoxys (Speed)",
         "NumberDex": "386",
         "Fast Skill": "Charge Beam",
@@ -6446,7 +6446,7 @@
         "IV": "10/15/15"
     },
     {
-        "#": "176",
+        "#": "587",
         "Name": " Togetic",
         "NumberDex": "176",
         "Fast Skill": "Hidden Power (Flying)",
@@ -6457,7 +6457,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "720",
+        "#": "588",
         "Name": " Hoopa (Unbound)",
         "NumberDex": "720",
         "Fast Skill": "Confusion",
@@ -6468,7 +6468,7 @@
         "IV": "13/15/14"
     },
     {
-        "#": "579",
+        "#": "589",
         "Name": " Reuniclus",
         "NumberDex": "579",
         "Fast Skill": "Hidden Power (Psychic)",
@@ -6479,7 +6479,7 @@
         "IV": "0/13/14"
     },
     {
-        "#": "482",
+        "#": "590",
         "Name": " Azelf",
         "NumberDex": "482",
         "Fast Skill": "Confusion",
@@ -6490,7 +6490,7 @@
         "IV": "3/15/14"
     },
     {
-        "#": "314",
+        "#": "591",
         "Name": " Illumise",
         "NumberDex": "314",
         "Fast Skill": "Tackle",
@@ -6501,7 +6501,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "375",
+        "#": "592",
         "Name": " Metang",
         "NumberDex": "375",
         "Fast Skill": "Metal Claw",
@@ -6512,7 +6512,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "756",
+        "#": "593",
         "Name": " Shiinotic",
         "NumberDex": "756",
         "Fast Skill": "Astonish",
@@ -6523,7 +6523,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "492",
+        "#": "594",
         "Name": " Shaymin (Sky)",
         "NumberDex": "492",
         "Fast Skill": "Hidden Power (Grass)",
@@ -6534,7 +6534,7 @@
         "IV": "0/13/13"
     },
     {
-        "#": "375",
+        "#": "595",
         "Name": " Metang (Shadow)",
         "NumberDex": "375",
         "Fast Skill": "Metal Claw",
@@ -6545,7 +6545,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "313",
+        "#": "596",
         "Name": " Volbeat",
         "NumberDex": "313",
         "Fast Skill": "Tackle",
@@ -6556,7 +6556,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "486",
+        "#": "597",
         "Name": " Regigigas",
         "NumberDex": "486",
         "Fast Skill": "Hidden Power (Rock)",
@@ -6567,7 +6567,7 @@
         "IV": "2/15/15"
     },
     {
-        "#": "492",
+        "#": "598",
         "Name": " Shaymin (Land)",
         "NumberDex": "492",
         "Fast Skill": "Zen Headbutt",
@@ -6578,7 +6578,7 @@
         "IV": "0/15/10"
     },
     {
-        "#": "113",
+        "#": "599",
         "Name": " Chansey",
         "NumberDex": "113",
         "Fast Skill": "Zen Headbutt",
@@ -6589,7 +6589,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "531",
+        "#": "600",
         "Name": " Audino",
         "NumberDex": "531",
         "Fast Skill": "Zen Headbutt",
@@ -6600,7 +6600,7 @@
         "IV": "15/15/15"
     },
     {
-        "#": "289",
+        "#": "601",
         "Name": " Slaking",
         "NumberDex": "289",
         "Fast Skill": "Yawn",
