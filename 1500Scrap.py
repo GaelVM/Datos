@@ -65,12 +65,12 @@ for pokemon in data:
     charged_skill_1 = pokemon["Charged Skill 1"]
     charged_skill_2 = pokemon["Charged Skill 2"]
 
-    for move in moves_data["ataque"]:
-        if move["id"] == fast_skill:
+    for move in moves_data:
+        if move["ataque"] == fast_skill:
             pokemon["Fast Skill"] = move["ataquetraduccion"]
-        if move["id"] == charged_skill_1:
+        if move["ataque"] == charged_skill_1:
             pokemon["Charged Skill 1"] = move["ataquetraduccion"]
-        if move["id"] == charged_skill_2:
+        if move["ataque"] == charged_skill_2:
             pokemon["Charged Skill 2"] = move["ataquetraduccion"]
 
 # Guardar en formato JSON
