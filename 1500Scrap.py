@@ -70,9 +70,8 @@ else:
 
 # Definir una función para obtener la traducción de un ataque
 def obtener_traduccion(ataque):
-    ataque_normalizado = ataque.lower().replace("-", "").replace(" ", "").replace("*", "")
     for move in moves_data:
-        if move["ataque"] == ataque_normalizado:
+        if move["ataque"] == ataque:
             return move["ataquetraduccion"]
     return ataque
 
