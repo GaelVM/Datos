@@ -59,23 +59,15 @@ else:
     print("Error al acceder al archivo JSON externo:", response.status_code)
     exit()
 
-# Cargar el archivo JSON externo de traducciones de ataques
-attacks_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/attacks_data.json"
-response = requests.get(attacks_data_url)
-if response.status_code == 200:
-    attacks_data = json.loads(response.text)
-else:
-    print("Error al acceder al archivo JSON de traducciones de ataques:", response.status_code)
-    exit()
-
 # Definir una función para obtener la traducción de un ataque
-def obtener_traduccion(ataque):
-    for attack in attacks_data:
-        if attack["en"] == ataque:
-            return attack["es"]
-    return ataque
+def obtener_traduccion(ataque_en):
+    for pokemon_entry in external_data:
+        for attack_entry in pokemon_entry.get("attacks", []):
+            if attack_entry["en"] == ataque_en:
+                return attack_entry["es"]
+    return ataque_en
 
-# Agregar las traducciones de ataques si hay coincidencias
+# Reemplazar los nombres de los ataques con las traducciones en español si hay coincidencias
 for pokemon in data:
     pokemon["Fast Skill"] = obtener_traduccion(pokemon["Fast Skill"])
     pokemon["Charged Skill 1"] = obtener_traduccion(pokemon["Charged Skill 1"])
