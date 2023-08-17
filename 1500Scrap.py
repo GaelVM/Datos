@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 # URL del sitio web a raspar
-url = "https://moonani.com/PokeList/pvp2500.php"
+url = "https://moonani.com/PokeList/pvp1500.php"
 
 # Realizar la solicitud HTTP
 response = requests.get(url)
@@ -51,7 +51,7 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
     data.append(pokemon_data)
 
 # Guardar en formato JSON
-output_file = "pvp2500_data.json"
+output_file = "pvp1500_data.json"
 
 with open(output_file, "w") as json_file:
     json.dump(data, json_file, indent=4)
