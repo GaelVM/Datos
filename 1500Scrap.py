@@ -64,52 +64,47 @@ for pokemon in data:
     number_dex = pokemon["NumberDex"]
     for entry in external_data:
         if entry["dexNr"] == int(number_dex):
-            if "regionForms" in entry:
-                for region_form in entry["regionForms"]:
-                    if region_form["id"] == entry["id"]:
-                        pokemon["primaryType"] = region_form["primaryType"]["es"]
-                        pokemon["secondaryType"] = region_form["secondaryType"]["es"]
-                        pokemon["image"] = region_form["assets"]["image"]
-                        pokemon["shinyImage"] = region_form["assets"]["shinyImage"]
-                        break
-                else:
-                    pokemon["primaryType"] = entry["primaryType"]["es"]
-                    pokemon["secondaryType"] = entry["secondaryType"]["es"]
-                    pokemon["image"] = entry["assets"]["image"]
-                    pokemon["shinyImage"] = entry["assets"]["shinyImage"]
+            primary_type = entry.get("primaryType", {}).get("es")
+            secondary_type = entry.get("secondaryType", {}).get("es")
+            pokemon["primaryType"] = primary_type
+            pokemon["secondaryType"] = secondary_type
+
+            for form in entry.get("regionForms", []):
+                if form["id"] == entry["id"]:
+                    pokemon["image"] = form["assets"]["image"]
+                    pokemon["shinyImage"] = form["assets"]["shinyImage"]
+                    break
             else:
-                pokemon["primaryType"] = entry["primaryType"]["es"]
-                pokemon["secondaryType"] = entry["secondaryType"]["es"]
                 pokemon["image"] = entry["assets"]["image"]
                 pokemon["shinyImage"] = entry["assets"]["shinyImage"]
-            
+
             # Comparar habilidades y movimientos y reemplazar con valores en "es"
             fast_skill = pokemon["Fast Skill"]
             charged_skill_1 = pokemon["Charged Skill 1"]
             charged_skill_2 = pokemon["Charged Skill 2"]
-            
+
             for move_data in entry["quickMoves"]["es"]:
-                if fast_skill in move_data.values():
-                    pokemon["Fast Skill"] = move_data["es"]
+                if fast_skill in move_data:
+                    pokemon["Fast Skill"] = move_data[fast_skill]
                     break
-            
+
             for move_data in entry["cinematicMoves"]["es"]:
-                if charged_skill_1 in move_data.values():
-                    pokemon["Charged Skill 1"] = move_data["es"]
-                if charged_skill_2 in move_data.values():
-                    pokemon["Charged Skill 2"] = move_data["es"]
-            
+                if charged_skill_1 in move_data:
+                    pokemon["Charged Skill 1"] = move_data[charged_skill_1]
+                if charged_skill_2 in move_data:
+                    pokemon["Charged Skill 2"] = move_data[charged_skill_2]
+
             for move_data in entry["eliteQuickMoves"]["es"]:
-                if fast_skill in move_data.values():
-                    pokemon["Fast Skill"] = move_data["es"]
+                if fast_skill in move_data:
+                    pokemon["Fast Skill"] = move_data[fast_skill]
                     break
-            
+
             for move_data in entry["eliteCinematicMoves"]["es"]:
-                if charged_skill_1 in move_data.values():
-                    pokemon["Charged Skill 1"] = move_data["es"]
-                if charged_skill_2 in move_data.values():
-                    pokemon["Charged Skill 2"] = move_data["es"]
-            
+                if charged_skill_1 in move_data:
+                    pokemon["Charged Skill 1"] = move_data[charged_skill_1]
+                if charged_skill_2 in move_data:
+                    pokemon["Charged Skill 2"] = move_data[charged_skill_2]
+
             break
 
 # Guardar en formato JSON
