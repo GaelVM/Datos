@@ -82,6 +82,25 @@ for entry in data:
     region_forms_data = entry.get("regionForms", [])
     if isinstance(region_forms_data, dict):
         for form_id, form_data in region_forms_data.items():
+            quick_moves_form_en = [value["names"]["English"] for value in form_data.get("quickMoves", {}).values()]
+            quick_moves_form_es = [value["names"]["Spanish"] for value in form_data.get("quickMoves", {}).values()]
+            cinematic_moves_form_en = [value["names"]["English"] for value in form_data.get("cinematicMoves", {}).values()]
+            cinematic_moves_form_es = [value["names"]["Spanish"] for value in form_data.get("cinematicMoves", {}).values()]
+            elite_quick_moves_form_en = elite_quick_moves_en
+            elite_quick_moves_form_es = elite_quick_moves_es
+            elite_cinematic_moves_form_en = elite_cinematic_moves_en
+            elite_cinematic_moves_form_es = elite_cinematic_moves_es
+
+            attacks_form = [
+                {"en": en, "es": es} for en, es in zip(quick_moves_form_en, quick_moves_form_es)
+            ] + [
+                {"en": en, "es": es} for en, es in zip(cinematic_moves_form_en, cinematic_moves_form_es)
+            ] + [
+                {"en": en, "es": es} for en, es in zip(elite_quick_moves_form_en, elite_quick_moves_form_es)
+            ] + [
+                {"en": en, "es": es} for en, es in zip(elite_cinematic_moves_form_en, elite_cinematic_moves_form_es)
+            ]
+
             form_entry = {
                 "id": form_data.get("id"),
                 "formId": form_data.get("formId"),
@@ -99,22 +118,7 @@ for entry in data:
                     "en": form_data["names"]["English"],
                     "es": form_data["names"]["Spanish"]
                 },
-                "quickMoves": {
-                    "en": [value["names"]["English"] for value in form_data.get("quickMoves", {}).values()],
-                    "es": [value["names"]["Spanish"] for value in form_data.get("quickMoves", {}).values()]
-                },
-                 "cinematicMoves": {
-                    "en": [value["names"]["English"] for value in form_data.get("cinematicMoves", {}).values()],
-                    "es": [value["names"]["Spanish"] for value in form_data.get("cinematicMoves", {}).values()]
-                },
-                "eliteQuickMoves": {
-                 "en": elite_quick_moves_en,
-                 "es": elite_quick_moves_es
-                },
-                "eliteCinematicMoves": {
-                 "en": elite_cinematic_moves_en,
-                 "es": elite_cinematic_moves_es
-                },
+                "attacks": attacks_form,  # Agregar la nueva estructura de ataques
                 "assets": {
                     "image": form_data["assets"]["image"] if form_data.get("assets") else None,
                     "shinyImage": form_data["assets"]["shinyImage"] if form_data.get("assets") else None
@@ -130,13 +134,15 @@ for entry in data:
         "defense": stats.get("defense") if stats else None
     }
 
-    # Crear la estructura de ataques
-    attacks = {
-        "quickMoves": [{"en": en, "es": es} for en, es in zip(quick_moves_en, quick_moves_es)],
-        "cinematicMoves": [{"en": en, "es": es} for en, es in zip(cinematic_moves_en, cinematic_moves_es)],
-        "eliteQuickMoves": [{"en": en, "es": es} for en, es in zip(elite_quick_moves_en, elite_quick_moves_es)],
-        "eliteCinematicMoves": [{"en": en, "es": es} for en, es in zip(elite_cinematic_moves_en, elite_cinematic_moves_es)]
-    }
+    attacks = [
+        {"en": en, "es": es} for en, es in zip(quick_moves_en, quick_moves_es)
+    ] + [
+        {"en": en, "es": es} for en, es in zip(cinematic_moves_en, cinematic_moves_es)
+    ] + [
+        {"en": en, "es": es} for en, es in zip(elite_quick_moves_en, elite_quick_moves_es)
+    ] + [
+        {"en": en, "es": es} for en, es in zip(elite_cinematic_moves_en, elite_cinematic_moves_es)
+    ]
 
     processed_entry = {
         "id": entry["id"],
@@ -158,7 +164,7 @@ for entry in data:
         "attacks": attacks,  # Agregar la nueva estructura de ataques
         "hasMegaEvolution": entry.get("hasMegaEvolution", False),
         "megaEvolutions": mega_evolutions,
-        "regionForms": region_forms,
+        "regionForms": region_forms,  # Agregar las formas regionales
         "stats": stats_en,
         "assets": {
             "image": entry["assets"]["image"] if entry.get("assets") else None,
