@@ -71,7 +71,7 @@ else:
 # Definir una función para obtener la traducción de un ataque
 def obtener_traduccion(ataque):
     for move in moves_data:
-        if move["ataque"] == ataque:
+        if move["ataque"] == ataque.replace("-", "").replace(" ", "").replace("*", ""):
             return move["ataquetraduccion"]
     return ataque
 
