@@ -61,9 +61,10 @@ else:
 
 # Definir una función para obtener la traducción de un ataque
 def obtener_traduccion(ataque_en):
+    ataque_sin_asterisco = ataque_en.rstrip('*')
     for pokemon_entry in external_data:
         for attack_entry in pokemon_entry.get("attacks", []):
-            if attack_entry["en"] == ataque_en:
+            if attack_entry["en"] == ataque_sin_asterisco:
                 return attack_entry["es"]
     return ataque_en
 
