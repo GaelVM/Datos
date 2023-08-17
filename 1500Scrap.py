@@ -2,6 +2,14 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+# Función para limpiar y comparar nombres de movimientos
+def clean_and_compare(move_name, move_list):
+    move_name_cleaned = move_name.lower().replace("*", "").replace("-", "").strip()
+    for move_data in move_list:
+        if move_name_cleaned == move_data.lower():
+            return move_data
+    return move_name
+
 # URL del sitio web a raspar
 url = "https://moonani.com/PokeList/pvp1500.php"
 
@@ -84,20 +92,9 @@ for pokemon in data:
                 pokemon["shinyImage"] = entry["assets"]["shinyImage"]
             
             # Comparar habilidades y movimientos y reemplazar con valores en "es"
-            fast_skill = pokemon["Fast Skill"]
-            charged_skill_1 = pokemon["Charged Skill 1"]
-            charged_skill_2 = pokemon["Charged Skill 2"]
-            
-            for move_data in entry["quickMoves"]["en"]:
-                if fast_skill == move_data:
-                    pokemon["Fast Skill"] = entry["quickMoves"]["es"][entry["quickMoves"]["en"].index(move_data)]
-                    break
-            
-            for move_data in entry["cinematicMoves"]["en"]:
-                if charged_skill_1 == move_data:
-                    pokemon["Charged Skill 1"] = entry["cinematicMoves"]["es"][entry["cinematicMoves"]["en"].index(move_data)]
-                if charged_skill_2 == move_data:
-                    pokemon["Charged Skill 2"] = entry["cinematicMoves"]["es"][entry["cinematicMoves"]["en"].index(move_data)]
+            pokemon["Fast Skill"] = clean_and_compare(pokemon["Fast Skill"], entry["quickMoves"]["en"])
+            pokemon["Charged Skill 1"] = clean_and_compare(pokemon["Charged Skill 1"], entry["cinematicMoves"]["en"])
+            pokemon["Charged Skill 2"] = clean_and_compare(pokemon["Charged Skill 2"], entry["cinematicMoves"]["en"])
             
             break
 
