@@ -84,25 +84,25 @@ for pokemon in data:
             charged_skill_2 = pokemon["Charged Skill 2"]
 
             for move_data in entry["quickMoves"]["es"]:
-                if fast_skill in move_data:
+                if fast_skill in move_data.values():
                     pokemon["Fast Skill"] = move_data[fast_skill]
                     break
 
             for move_data in entry["cinematicMoves"]["es"]:
-                if charged_skill_1 in move_data:
+                if charged_skill_1 in move_data.values():
                     pokemon["Charged Skill 1"] = move_data[charged_skill_1]
-                if charged_skill_2 in move_data:
+                if charged_skill_2 in move_data.values():
                     pokemon["Charged Skill 2"] = move_data[charged_skill_2]
 
             for move_data in entry["eliteQuickMoves"]["es"]:
-                if fast_skill in move_data:
+                if fast_skill in move_data.values():
                     pokemon["Fast Skill"] = move_data[fast_skill]
                     break
 
             for move_data in entry["eliteCinematicMoves"]["es"]:
-                if charged_skill_1 in move_data:
+                if charged_skill_1 in move_data.values():
                     pokemon["Charged Skill 1"] = move_data[charged_skill_1]
-                if charged_skill_2 in move_data:
+                if charged_skill_2 in move_data.values():
                     pokemon["Charged Skill 2"] = move_data[charged_skill_2]
 
             break
