@@ -8,7 +8,9 @@
         "Charged Skill 2": "Zap Cannon*",
         "Level": "23.5",
         "CP": "1499",
-        "IV": "2/13/14"
+        "IV": "2/13/14",
+        "primaryType": "Acero",
+        "secondaryType": null
     },
     {
         "#": "2",
@@ -32,7 +34,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "50.5",
         "CP": "1496",
-        "IV": "4/15/15"
+        "IV": "4/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "4",
@@ -43,7 +47,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "19",
         "CP": "1498",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Agua",
+        "secondaryType": "Tierra"
     },
     {
         "#": "5",
@@ -54,7 +60,9 @@
         "Charged Skill 2": "Power-Up Punch",
         "Level": "25.5",
         "CP": "1500",
-        "IV": "0/8/15"
+        "IV": "0/8/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Lucha"
     },
     {
         "#": "6",
@@ -65,7 +73,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "19",
         "CP": "1498",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Agua",
+        "secondaryType": "Tierra"
     },
     {
         "#": "7",
@@ -76,7 +86,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "50",
         "CP": "1497",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Roca",
+        "secondaryType": "Acero"
     },
     {
         "#": "8",
@@ -87,7 +99,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "22",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Fantasma",
+        "secondaryType": "Planta"
     },
     {
         "#": "9",
@@ -98,7 +112,9 @@
         "Charged Skill 2": "Hurricane",
         "Level": "27",
         "CP": "1499",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Agua",
+        "secondaryType": "Volador"
     },
     {
         "#": "10",
@@ -109,7 +125,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "28.5",
         "CP": "1499",
-        "IV": "1/14/15"
+        "IV": "1/14/15",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "11",
@@ -120,7 +138,9 @@
         "Charged Skill 2": "Moonblast*",
         "Level": "29",
         "CP": "1497",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Volador"
     },
     {
         "#": "12",
@@ -131,7 +151,9 @@
         "Charged Skill 2": "Night Slash",
         "Level": "21",
         "CP": "1498",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Tierra",
+        "secondaryType": "Volador"
     },
     {
         "#": "13",
@@ -142,7 +164,9 @@
         "Charged Skill 2": "Power Whip",
         "Level": "50.5",
         "CP": "1500",
-        "IV": "7/15/15"
+        "IV": "7/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "14",
@@ -153,7 +177,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "28",
         "CP": "1500",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Agua",
+        "secondaryType": "El\u00e9ctrico"
     },
     {
         "#": "15",
@@ -164,7 +190,9 @@
         "Charged Skill 2": "Brave Bird",
         "Level": "27",
         "CP": "1498",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "16",
@@ -175,7 +203,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "18.5",
         "CP": "1500",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "17",
@@ -186,7 +216,9 @@
         "Charged Skill 2": "Night Slash",
         "Level": "21",
         "CP": "1498",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Tierra",
+        "secondaryType": "Volador"
     },
     {
         "#": "18",
@@ -197,7 +229,9 @@
         "Charged Skill 2": "Payback",
         "Level": "26",
         "CP": "1497",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "19",
@@ -208,7 +242,9 @@
         "Charged Skill 2": "Dragon Claw",
         "Level": "17",
         "CP": "1498",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Lucha"
     },
     {
         "#": "20",
@@ -219,7 +255,9 @@
         "Charged Skill 2": "Return",
         "Level": "48",
         "CP": "1498",
-        "IV": "3/14/15"
+        "IV": "3/14/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Fantasma"
     },
     {
         "#": "21",
@@ -230,7 +268,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "19.5",
         "CP": "1497",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "22",
@@ -241,7 +281,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "27.5",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Agua",
+        "secondaryType": "Volador"
     },
     {
         "#": "23",
@@ -252,7 +294,9 @@
         "Charged Skill 2": "Blizzard",
         "Level": "28",
         "CP": "1500",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Agua",
+        "secondaryType": "Tierra"
     },
     {
         "#": "24",
@@ -263,7 +307,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "27.5",
         "CP": "1498",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Volador"
     },
     {
         "#": "25",
@@ -274,7 +320,9 @@
         "Charged Skill 2": "Bulldoze",
         "Level": "29",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "26",
@@ -285,7 +333,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "50.5",
         "CP": "1499",
-        "IV": "0/15/11"
+        "IV": "0/15/11",
+        "primaryType": "Normal",
+        "secondaryType": "Tierra"
     },
     {
         "#": "27",
@@ -309,7 +359,9 @@
         "Charged Skill 2": "Focus Blast",
         "Level": "18",
         "CP": "1498",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "29",
@@ -320,7 +372,9 @@
         "Charged Skill 2": "Mirror Coat",
         "Level": "51",
         "CP": "1174",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "30",
@@ -331,7 +385,9 @@
         "Charged Skill 2": "Last Resort*",
         "Level": "27.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": null
     },
     {
         "#": "31",
@@ -342,7 +398,9 @@
         "Charged Skill 2": "Meteor Beam",
         "Level": "20.5",
         "CP": "1500",
-        "IV": "0/12/13"
+        "IV": "0/12/13",
+        "primaryType": "Roca",
+        "secondaryType": "Hielo"
     },
     {
         "#": "32",
@@ -366,7 +424,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "18.5",
         "CP": "1500",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "34",
@@ -377,7 +437,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "24",
         "CP": "1494",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Hielo"
     },
     {
         "#": "35",
@@ -388,7 +450,9 @@
         "Charged Skill 2": "Superpower",
         "Level": "14.5",
         "CP": "1500",
-        "IV": "3/15/14"
+        "IV": "3/15/14",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Volador"
     },
     {
         "#": "36",
@@ -399,7 +463,9 @@
         "Charged Skill 2": "Sludge Wave",
         "Level": "40.5",
         "CP": "1499",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Agua"
     },
     {
         "#": "37",
@@ -410,7 +476,9 @@
         "Charged Skill 2": "Wild Charge",
         "Level": "26.5",
         "CP": "1498",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Acero"
     },
     {
         "#": "38",
@@ -421,7 +489,9 @@
         "Charged Skill 2": "Moonblast",
         "Level": "20",
         "CP": "1500",
-        "IV": "2/15/13"
+        "IV": "2/15/13",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "39",
@@ -432,7 +502,9 @@
         "Charged Skill 2": "Superpower",
         "Level": "23.5",
         "CP": "1493",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "40",
@@ -443,7 +515,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "21",
         "CP": "1499",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Hielo",
+        "secondaryType": "Agua"
     },
     {
         "#": "41",
@@ -454,7 +528,9 @@
         "Charged Skill 2": "Dark Pulse",
         "Level": "32.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "42",
@@ -465,7 +541,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "39",
         "CP": "1498",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Lucha"
     },
     {
         "#": "43",
@@ -476,7 +554,9 @@
         "Charged Skill 2": "Sky Attack",
         "Level": "27.5",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Acero",
+        "secondaryType": "Volador"
     },
     {
         "#": "44",
@@ -487,7 +567,9 @@
         "Charged Skill 2": "Play Rough",
         "Level": "45.5",
         "CP": "1499",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Hada"
     },
     {
         "#": "45",
@@ -498,7 +580,9 @@
         "Charged Skill 2": "Aqua Tail",
         "Level": "34",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "46",
@@ -509,7 +593,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "24",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Acero",
+        "secondaryType": "Tierra"
     },
     {
         "#": "47",
@@ -520,7 +606,9 @@
         "Charged Skill 2": "Cross Chop",
         "Level": "21.5",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Normal"
     },
     {
         "#": "48",
@@ -531,7 +619,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "25.5",
         "CP": "1500",
-        "IV": "0/11/14"
+        "IV": "0/11/14",
+        "primaryType": "Tierra",
+        "secondaryType": "Fantasma"
     },
     {
         "#": "49",
@@ -542,7 +632,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "28",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Hielo",
+        "secondaryType": "Fantasma"
     },
     {
         "#": "50",
@@ -553,7 +645,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "29",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Volador"
     },
     {
         "#": "51",
@@ -565,7 +659,7 @@
         "Level": "41.5",
         "CP": "1496",
         "IV": "0/14/15",
-        "primaryType": "Fuego",
+        "primaryType": "Agua",
         "secondaryType": null
     },
     {
@@ -577,7 +671,9 @@
         "Charged Skill 2": "Superpower",
         "Level": "17.5",
         "CP": "1500",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "53",
@@ -588,7 +684,9 @@
         "Charged Skill 2": "Superpower",
         "Level": "14.5",
         "CP": "1500",
-        "IV": "3/15/14"
+        "IV": "3/15/14",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Volador"
     },
     {
         "#": "54",
@@ -599,7 +697,9 @@
         "Charged Skill 2": "Lunge",
         "Level": "16",
         "CP": "1500",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Lucha"
     },
     {
         "#": "55",
@@ -610,7 +710,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "20.5",
         "CP": "1494",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": "Acero"
     },
     {
         "#": "56",
@@ -621,7 +723,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "51",
         "CP": "1388",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "57",
@@ -632,7 +736,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "30",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Volador"
     },
     {
         "#": "58",
@@ -643,7 +749,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "21",
         "CP": "1499",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Hielo",
+        "secondaryType": "Agua"
     },
     {
         "#": "59",
@@ -667,7 +775,9 @@
         "Charged Skill 2": "Dark Pulse",
         "Level": "25.5",
         "CP": "1500",
-        "IV": "0/11/14"
+        "IV": "0/11/14",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "61",
@@ -678,7 +788,9 @@
         "Charged Skill 2": "Body Slam",
         "Level": "34",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "62",
@@ -689,7 +801,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "24",
         "CP": "1494",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Hielo"
     },
     {
         "#": "63",
@@ -700,7 +814,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "29",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Volador"
     },
     {
         "#": "64",
@@ -724,7 +840,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "24",
         "CP": "1499",
-        "IV": "0/10/15"
+        "IV": "0/10/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "66",
@@ -735,7 +853,9 @@
         "Charged Skill 2": "Surf",
         "Level": "16.5",
         "CP": "1499",
-        "IV": "10/15/13"
+        "IV": "10/15/13",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "67",
@@ -746,7 +866,9 @@
         "Charged Skill 2": "Bulldoze",
         "Level": "32",
         "CP": "1500",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "68",
@@ -757,7 +879,9 @@
         "Charged Skill 2": "Night Slash",
         "Level": "18.5",
         "CP": "1500",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "69",
@@ -768,7 +892,9 @@
         "Charged Skill 2": "Dragon Claw",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Fuego",
+        "secondaryType": "Volador"
     },
     {
         "#": "70",
@@ -779,7 +905,9 @@
         "Charged Skill 2": "Dig",
         "Level": "33",
         "CP": "1500",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Tierra",
+        "secondaryType": "Volador"
     },
     {
         "#": "71",
@@ -790,7 +918,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "29",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Agua",
+        "secondaryType": "Tierra"
     },
     {
         "#": "72",
@@ -801,7 +931,9 @@
         "Charged Skill 2": "Bubble Beam",
         "Level": "35",
         "CP": "1500",
-        "IV": "0/10/15"
+        "IV": "0/10/15",
+        "primaryType": "Agua",
+        "secondaryType": "Bicho"
     },
     {
         "#": "73",
@@ -812,7 +944,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "24",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Acero",
+        "secondaryType": "Tierra"
     },
     {
         "#": "74",
@@ -823,7 +957,9 @@
         "Charged Skill 2": "Return",
         "Level": "31.5",
         "CP": "1499",
-        "IV": "3/14/14"
+        "IV": "3/14/14",
+        "primaryType": "Tierra",
+        "secondaryType": "Volador"
     },
     {
         "#": "75",
@@ -834,7 +970,9 @@
         "Charged Skill 2": "Night Slash",
         "Level": "23.5",
         "CP": "1500",
-        "IV": "0/15/10"
+        "IV": "0/15/10",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "76",
@@ -845,7 +983,9 @@
         "Charged Skill 2": "Water Pulse",
         "Level": "29.5",
         "CP": "1498",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Agua",
+        "secondaryType": "Hielo"
     },
     {
         "#": "77",
@@ -882,7 +1022,9 @@
         "Charged Skill 2": "Moonblast",
         "Level": "20",
         "CP": "1499",
-        "IV": "1/9/14"
+        "IV": "1/9/14",
+        "primaryType": "Agua",
+        "secondaryType": "Hada"
     },
     {
         "#": "80",
@@ -893,7 +1035,9 @@
         "Charged Skill 2": "Drill Run*",
         "Level": "32.5",
         "CP": "1499",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Bicho",
+        "secondaryType": "Veneno"
     },
     {
         "#": "81",
@@ -904,7 +1048,9 @@
         "Charged Skill 2": "Dragon Claw",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Fuego",
+        "secondaryType": "Volador"
     },
     {
         "#": "82",
@@ -915,7 +1061,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "43",
         "CP": "1499",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Planta",
+        "secondaryType": "Volador"
     },
     {
         "#": "83",
@@ -926,7 +1074,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "23.5",
         "CP": "1495",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Acero",
+        "secondaryType": null
     },
     {
         "#": "84",
@@ -937,7 +1087,9 @@
         "Charged Skill 2": "Earthquake*",
         "Level": "23.5",
         "CP": "1500",
-        "IV": "0/15/11"
+        "IV": "0/15/11",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "85",
@@ -961,7 +1113,9 @@
         "Charged Skill 2": "Power Gem",
         "Level": "49.5",
         "CP": "1499",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Fantasma"
     },
     {
         "#": "87",
@@ -985,7 +1139,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "43",
         "CP": "1499",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Planta",
+        "secondaryType": "Volador"
     },
     {
         "#": "89",
@@ -996,7 +1152,9 @@
         "Charged Skill 2": "Superpower",
         "Level": "17.5",
         "CP": "1500",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "90",
@@ -1007,7 +1165,9 @@
         "Charged Skill 2": "Earth Power*",
         "Level": "21.5",
         "CP": "1500",
-        "IV": "0/15/9"
+        "IV": "0/15/9",
+        "primaryType": "Tierra",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "91",
@@ -1018,7 +1178,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "17.5",
         "CP": "1500",
-        "IV": "0/15/9"
+        "IV": "0/15/9",
+        "primaryType": "Lucha",
+        "secondaryType": "Veneno"
     },
     {
         "#": "92",
@@ -1029,7 +1191,9 @@
         "Charged Skill 2": "Close Combat",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "93",
@@ -1040,7 +1204,9 @@
         "Charged Skill 2": "Blizzard",
         "Level": "18",
         "CP": "1498",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "94",
@@ -1051,7 +1217,9 @@
         "Charged Skill 2": "Lunge",
         "Level": "25.5",
         "CP": "1495",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "El\u00e9ctrico"
     },
     {
         "#": "95",
@@ -1101,7 +1269,9 @@
         "Charged Skill 2": "Sky Attack",
         "Level": "27.5",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Acero",
+        "secondaryType": "Volador"
     },
     {
         "#": "99",
@@ -1112,7 +1282,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "22.5",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Lucha"
     },
     {
         "#": "100",
@@ -1136,7 +1308,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "24",
         "CP": "1499",
-        "IV": "0/10/15"
+        "IV": "0/10/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "102",
@@ -1147,7 +1321,9 @@
         "Charged Skill 2": "Megahorn",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Bicho",
+        "secondaryType": "Acero"
     },
     {
         "#": "103",
@@ -1158,7 +1334,9 @@
         "Charged Skill 2": "Megahorn",
         "Level": "24",
         "CP": "1499",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "104",
@@ -1169,7 +1347,9 @@
         "Charged Skill 2": "Thunder Punch",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/11/15"
+        "IV": "0/11/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "105",
@@ -1180,7 +1360,9 @@
         "Charged Skill 2": "Dynamic Punch",
         "Level": "28",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "106",
@@ -1192,7 +1374,7 @@
         "Level": "41.5",
         "CP": "1496",
         "IV": "0/14/15",
-        "primaryType": "Fuego",
+        "primaryType": "Agua",
         "secondaryType": null
     },
     {
@@ -1204,7 +1386,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "19",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Lucha"
     },
     {
         "#": "108",
@@ -1254,7 +1438,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "25.5",
         "CP": "1500",
-        "IV": "0/10/15"
+        "IV": "0/10/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "112",
@@ -1265,7 +1451,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "17",
         "CP": "1499",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Acero"
     },
     {
         "#": "113",
@@ -1276,7 +1464,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "26.5",
         "CP": "1499",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "114",
@@ -1287,7 +1477,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "19",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Veneno"
     },
     {
         "#": "115",
@@ -1298,7 +1490,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "23.5",
         "CP": "1500",
-        "IV": "0/15/10"
+        "IV": "0/15/10",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "116",
@@ -1309,7 +1503,9 @@
         "Charged Skill 2": "Dynamic Punch",
         "Level": "28",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "117",
@@ -1333,7 +1529,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Planta",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "119",
@@ -1344,7 +1542,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "21",
         "CP": "1498",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "120",
@@ -1368,7 +1568,9 @@
         "Charged Skill 2": "Muddy Water",
         "Level": "16",
         "CP": "1500",
-        "IV": "1/14/14"
+        "IV": "1/14/14",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "122",
@@ -1379,7 +1581,9 @@
         "Charged Skill 2": "Night Slash",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Lucha",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "123",
@@ -1390,7 +1594,9 @@
         "Charged Skill 2": "Thunder",
         "Level": "25",
         "CP": "1500",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Planta",
+        "secondaryType": "Acero"
     },
     {
         "#": "124",
@@ -1401,7 +1607,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "21",
         "CP": "1498",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "125",
@@ -1412,7 +1620,9 @@
         "Charged Skill 2": "Thunder Punch",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/11/15"
+        "IV": "0/11/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "126",
@@ -1423,7 +1633,9 @@
         "Charged Skill 2": "Megahorn",
         "Level": "20",
         "CP": "1500",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "127",
@@ -1434,7 +1646,9 @@
         "Charged Skill 2": "Stone Edge*",
         "Level": "19.5",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Fuego",
+        "secondaryType": "Lucha"
     },
     {
         "#": "128",
@@ -1445,7 +1659,9 @@
         "Charged Skill 2": "Mirror Shot",
         "Level": "17.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Acero"
     },
     {
         "#": "129",
@@ -1469,7 +1685,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "16.5",
         "CP": "1499",
-        "IV": "10/15/13"
+        "IV": "10/15/13",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Fuego"
     },
     {
         "#": "131",
@@ -1480,7 +1698,9 @@
         "Charged Skill 2": "Psychic Fangs*",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "132",
@@ -1491,7 +1711,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "23",
         "CP": "1498",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "133",
@@ -1502,7 +1724,9 @@
         "Charged Skill 2": "Mud Bomb",
         "Level": "35",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": "Tierra"
     },
     {
         "#": "134",
@@ -1513,7 +1737,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "29",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Agua",
+        "secondaryType": "Tierra"
     },
     {
         "#": "135",
@@ -1524,7 +1750,9 @@
         "Charged Skill 2": "Stomp",
         "Level": "18",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Normal",
+        "secondaryType": "Lucha"
     },
     {
         "#": "136",
@@ -1535,7 +1763,9 @@
         "Charged Skill 2": "Mirror Shot",
         "Level": "25.5",
         "CP": "1500",
-        "IV": "0/9/15"
+        "IV": "0/9/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Acero"
     },
     {
         "#": "137",
@@ -1546,7 +1776,9 @@
         "Charged Skill 2": "Poison Fang",
         "Level": "23",
         "CP": "1499",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Veneno",
+        "secondaryType": "Tierra"
     },
     {
         "#": "138",
@@ -1596,7 +1828,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "40",
         "CP": "1500",
-        "IV": "0/14/12"
+        "IV": "0/14/12",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "142",
@@ -1607,7 +1841,9 @@
         "Charged Skill 2": "Heavy Slam",
         "Level": "20",
         "CP": "1500",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "143",
@@ -1618,7 +1854,9 @@
         "Charged Skill 2": "Skull Bash",
         "Level": "22",
         "CP": "1498",
-        "IV": "0/10/14"
+        "IV": "0/10/14",
+        "primaryType": "Agua",
+        "secondaryType": "Hielo"
     },
     {
         "#": "144",
@@ -1629,7 +1867,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "27",
         "CP": "1500",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "145",
@@ -1640,7 +1880,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "23",
         "CP": "1500",
-        "IV": "2/15/14"
+        "IV": "2/15/14",
+        "primaryType": "Veneno",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "146",
@@ -1651,7 +1893,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "28",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Acero"
     },
     {
         "#": "147",
@@ -1662,7 +1906,9 @@
         "Charged Skill 2": "Aurora Beam",
         "Level": "38",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Hielo",
+        "secondaryType": "Agua"
     },
     {
         "#": "148",
@@ -1673,7 +1919,9 @@
         "Charged Skill 2": "Play Rough",
         "Level": "30",
         "CP": "1499",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Normal",
+        "secondaryType": "Hada"
     },
     {
         "#": "149",
@@ -1684,7 +1932,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "51",
         "CP": "1500",
-        "IV": "10/15/14"
+        "IV": "10/15/14",
+        "primaryType": "Roca",
+        "secondaryType": "Hielo"
     },
     {
         "#": "150",
@@ -1695,7 +1945,9 @@
         "Charged Skill 2": "Mud Bomb",
         "Level": "35",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": "Tierra"
     },
     {
         "#": "151",
@@ -1706,7 +1958,9 @@
         "Charged Skill 2": "Flame Charge",
         "Level": "23.5",
         "CP": "1498",
-        "IV": "0/15/9"
+        "IV": "0/15/9",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "152",
@@ -1717,7 +1971,9 @@
         "Charged Skill 2": "Drill Peck",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Agua",
+        "secondaryType": "Acero"
     },
     {
         "#": "153",
@@ -1728,7 +1984,9 @@
         "Charged Skill 2": "Poison Fang",
         "Level": "23",
         "CP": "1499",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Veneno",
+        "secondaryType": "Tierra"
     },
     {
         "#": "154",
@@ -1739,7 +1997,9 @@
         "Charged Skill 2": "Sky Attack",
         "Level": "29.5",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "155",
@@ -1750,7 +2010,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "22",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "156",
@@ -1761,7 +2023,9 @@
         "Charged Skill 2": "Skull Bash",
         "Level": "22",
         "CP": "1498",
-        "IV": "0/10/14"
+        "IV": "0/10/14",
+        "primaryType": "Agua",
+        "secondaryType": "Hielo"
     },
     {
         "#": "157",
@@ -1772,7 +2036,9 @@
         "Charged Skill 2": "Mirror Shot",
         "Level": "17.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Acero"
     },
     {
         "#": "158",
@@ -1783,7 +2049,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Planta",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "159",
@@ -1794,7 +2062,9 @@
         "Charged Skill 2": "Earth Power*",
         "Level": "21.5",
         "CP": "1500",
-        "IV": "0/15/9"
+        "IV": "0/15/9",
+        "primaryType": "Tierra",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "160",
@@ -1805,7 +2075,9 @@
         "Charged Skill 2": "Earthquake*",
         "Level": "23.5",
         "CP": "1500",
-        "IV": "0/15/11"
+        "IV": "0/15/11",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "161",
@@ -1855,7 +2127,9 @@
         "Charged Skill 2": "Night Slash",
         "Level": "20.5",
         "CP": "1495",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "165",
@@ -1866,7 +2140,9 @@
         "Charged Skill 2": "High Horsepower",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/15/10"
+        "IV": "0/15/10",
+        "primaryType": "Hielo",
+        "secondaryType": "Tierra"
     },
     {
         "#": "166",
@@ -1877,7 +2153,9 @@
         "Charged Skill 2": "Aurora Beam",
         "Level": "38",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Hielo",
+        "secondaryType": "Agua"
     },
     {
         "#": "167",
@@ -1888,7 +2166,9 @@
         "Charged Skill 2": "Play Rough",
         "Level": "33",
         "CP": "1500",
-        "IV": "0/14/12"
+        "IV": "0/14/12",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Hada"
     },
     {
         "#": "168",
@@ -1912,7 +2192,9 @@
         "Charged Skill 2": "Dazzling Gleam",
         "Level": "25",
         "CP": "1497",
-        "IV": "1/14/14"
+        "IV": "1/14/14",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "170",
@@ -1923,7 +2205,9 @@
         "Charged Skill 2": "Grass Knot",
         "Level": "26",
         "CP": "1494",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Planta"
     },
     {
         "#": "171",
@@ -1947,7 +2231,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "18",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Hada"
     },
     {
         "#": "173",
@@ -1958,7 +2244,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "24.5",
         "CP": "1497",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "174",
@@ -1969,7 +2257,9 @@
         "Charged Skill 2": "Ice Punch",
         "Level": "22",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": "Lucha"
     },
     {
         "#": "175",
@@ -1980,7 +2270,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "50.5",
         "CP": "1497",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "176",
@@ -1991,7 +2283,9 @@
         "Charged Skill 2": "Return",
         "Level": "25",
         "CP": "1499",
-        "IV": "2/12/14"
+        "IV": "2/12/14",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "177",
@@ -2002,7 +2296,9 @@
         "Charged Skill 2": "Rock Blast",
         "Level": "18",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Lucha"
     },
     {
         "#": "178",
@@ -2013,7 +2309,9 @@
         "Charged Skill 2": "Gunk Shot",
         "Level": "24",
         "CP": "1498",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Veneno",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "179",
@@ -2024,7 +2322,9 @@
         "Charged Skill 2": "Heavy Slam",
         "Level": "20",
         "CP": "1500",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "180",
@@ -2035,7 +2335,9 @@
         "Charged Skill 2": "Drill Run*",
         "Level": "32.5",
         "CP": "1499",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Bicho",
+        "secondaryType": "Veneno"
     },
     {
         "#": "181",
@@ -2072,7 +2374,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "24",
         "CP": "1495",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "184",
@@ -2083,7 +2387,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "40",
         "CP": "1493",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "185",
@@ -2094,7 +2400,9 @@
         "Charged Skill 2": "Leaf Blade",
         "Level": "18",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Lucha"
     },
     {
         "#": "186",
@@ -2105,7 +2413,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "15.5",
         "CP": "1499",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Acero",
+        "secondaryType": null
     },
     {
         "#": "187",
@@ -2116,7 +2426,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "19",
         "CP": "1499",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Bicho",
+        "secondaryType": null
     },
     {
         "#": "188",
@@ -2127,7 +2439,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "24",
         "CP": "1495",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "189",
@@ -2138,7 +2452,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "24",
         "CP": "1500",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Fantasma",
+        "secondaryType": "Volador"
     },
     {
         "#": "190",
@@ -2162,7 +2478,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "22.5",
         "CP": "1496",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Roca"
     },
     {
         "#": "192",
@@ -2173,7 +2491,9 @@
         "Charged Skill 2": "Flame Charge",
         "Level": "26",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Fuego",
+        "secondaryType": "Volador"
     },
     {
         "#": "193",
@@ -2184,7 +2504,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "23",
         "CP": "1498",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "194",
@@ -2195,7 +2517,9 @@
         "Charged Skill 2": "Discharge",
         "Level": "22.5",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Acero"
     },
     {
         "#": "195",
@@ -2206,7 +2530,9 @@
         "Charged Skill 2": "Acid Spray",
         "Level": "23",
         "CP": "1497",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "196",
@@ -2217,7 +2543,9 @@
         "Charged Skill 2": "High Horsepower",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/15/10"
+        "IV": "0/15/10",
+        "primaryType": "Hielo",
+        "secondaryType": "Tierra"
     },
     {
         "#": "197",
@@ -2228,7 +2556,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "16.5",
         "CP": "1499",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": "Volador"
     },
     {
         "#": "198",
@@ -2239,7 +2569,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "27",
         "CP": "1500",
-        "IV": "0/15/11"
+        "IV": "0/15/11",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "199",
@@ -2250,7 +2582,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "23",
         "CP": "1500",
-        "IV": "2/15/14"
+        "IV": "2/15/14",
+        "primaryType": "Veneno",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "200",
@@ -2261,7 +2595,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "16.5",
         "CP": "1499",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": "Volador"
     },
     {
         "#": "201",
@@ -2285,7 +2621,9 @@
         "Charged Skill 2": "Flash Cannon",
         "Level": "15.5",
         "CP": "1499",
-        "IV": "0/15/10"
+        "IV": "0/15/10",
+        "primaryType": "Siniestro",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "203",
@@ -2296,7 +2634,9 @@
         "Charged Skill 2": "Thunder Punch",
         "Level": "28",
         "CP": "1500",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "204",
@@ -2320,7 +2660,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "20.5",
         "CP": "1500",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "206",
@@ -2331,7 +2673,9 @@
         "Charged Skill 2": "Moonblast",
         "Level": "23.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "207",
@@ -2342,7 +2686,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "37.5",
         "CP": "1499",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "208",
@@ -2353,7 +2699,9 @@
         "Charged Skill 2": "Discharge",
         "Level": "38.5",
         "CP": "1497",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Bicho",
+        "secondaryType": "El\u00e9ctrico"
     },
     {
         "#": "209",
@@ -2377,7 +2725,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "19",
         "CP": "1499",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Bicho",
+        "secondaryType": null
     },
     {
         "#": "211",
@@ -2401,7 +2751,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "26",
         "CP": "1500",
-        "IV": "1/14/14"
+        "IV": "1/14/14",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "213",
@@ -2412,7 +2764,9 @@
         "Charged Skill 2": "Meteor Beam",
         "Level": "27",
         "CP": "1500",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "214",
@@ -2436,7 +2790,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/12/14"
+        "IV": "0/12/14",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "216",
@@ -2460,7 +2816,9 @@
         "Charged Skill 2": "Cross Chop",
         "Level": "21.5",
         "CP": "1500",
-        "IV": "0/10/13"
+        "IV": "0/10/13",
+        "primaryType": "Roca",
+        "secondaryType": "Agua"
     },
     {
         "#": "218",
@@ -2472,7 +2830,7 @@
         "Level": "41.5",
         "CP": "1496",
         "IV": "0/14/15",
-        "primaryType": "Fuego",
+        "primaryType": "Agua",
         "secondaryType": null
     },
     {
@@ -2484,7 +2842,9 @@
         "Charged Skill 2": "Night Slash",
         "Level": "25",
         "CP": "1497",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "220",
@@ -2508,7 +2868,9 @@
         "Charged Skill 2": "Shadow Punch*",
         "Level": "19.5",
         "CP": "1498",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Fantasma",
+        "secondaryType": "Veneno"
     },
     {
         "#": "222",
@@ -2519,7 +2881,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "51",
         "CP": "1477",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Planta"
     },
     {
         "#": "223",
@@ -2530,7 +2894,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/15/9"
+        "IV": "0/15/9",
+        "primaryType": "Siniestro",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "224",
@@ -2541,7 +2907,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "28",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Acero"
     },
     {
         "#": "225",
@@ -2552,7 +2920,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "24.5",
         "CP": "1499",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "226",
@@ -2563,7 +2933,9 @@
         "Charged Skill 2": "Wild Charge",
         "Level": "18",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "227",
@@ -2587,7 +2959,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "19",
         "CP": "1500",
-        "IV": "0/14/8"
+        "IV": "0/14/8",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "229",
@@ -2598,7 +2972,9 @@
         "Charged Skill 2": "Wild Charge",
         "Level": "18",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "230",
@@ -2609,7 +2985,9 @@
         "Charged Skill 2": "Leaf Blade",
         "Level": "18",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Lucha"
     },
     {
         "#": "231",
@@ -2646,7 +3024,9 @@
         "Charged Skill 2": "Mirror Shot",
         "Level": "25.5",
         "CP": "1500",
-        "IV": "0/9/15"
+        "IV": "0/9/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Acero"
     },
     {
         "#": "234",
@@ -2670,7 +3050,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "31.5",
         "CP": "1500",
-        "IV": "0/15/11"
+        "IV": "0/15/11",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "236",
@@ -2681,7 +3063,9 @@
         "Charged Skill 2": "Discharge",
         "Level": "51",
         "CP": "1498",
-        "IV": "8/15/15"
+        "IV": "8/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Acero"
     },
     {
         "#": "237",
@@ -2705,7 +3089,9 @@
         "Charged Skill 2": "Moonblast",
         "Level": "39.5",
         "CP": "1500",
-        "IV": "0/12/14"
+        "IV": "0/12/14",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "239",
@@ -2729,7 +3115,9 @@
         "Charged Skill 2": "Sky Attack",
         "Level": "20.5",
         "CP": "1495",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Volador"
     },
     {
         "#": "241",
@@ -2740,7 +3128,9 @@
         "Charged Skill 2": "Iron Head",
         "Level": "18",
         "CP": "1499",
-        "IV": "2/15/14"
+        "IV": "2/15/14",
+        "primaryType": "Acero",
+        "secondaryType": "Volador"
     },
     {
         "#": "242",
@@ -2764,7 +3154,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "38.5",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "244",
@@ -2775,7 +3167,9 @@
         "Charged Skill 2": "Psyshock*",
         "Level": "18.5",
         "CP": "1500",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "245",
@@ -2786,7 +3180,9 @@
         "Charged Skill 2": "Poltergeist",
         "Level": "45",
         "CP": "1499",
-        "IV": "0/11/15"
+        "IV": "0/11/15",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "246",
@@ -2797,7 +3193,9 @@
         "Charged Skill 2": "Last Resort*",
         "Level": "19",
         "CP": "1497",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "247",
@@ -2808,7 +3206,9 @@
         "Charged Skill 2": "Ice Punch",
         "Level": "22",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": "Lucha"
     },
     {
         "#": "248",
@@ -2819,7 +3219,9 @@
         "Charged Skill 2": "Draining Kiss",
         "Level": "51",
         "CP": "1432",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "249",
@@ -2830,7 +3232,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "18.5",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "250",
@@ -2841,7 +3245,9 @@
         "Charged Skill 2": "Moonblast",
         "Level": "28.5",
         "CP": "1499",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Planta",
+        "secondaryType": "Hada"
     },
     {
         "#": "251",
@@ -2852,7 +3258,9 @@
         "Charged Skill 2": "Icy Wind*",
         "Level": "26.5",
         "CP": "1499",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "252",
@@ -2863,7 +3271,9 @@
         "Charged Skill 2": "Grass Knot",
         "Level": "26",
         "CP": "1494",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Planta"
     },
     {
         "#": "253",
@@ -2874,7 +3284,9 @@
         "Charged Skill 2": "Megahorn",
         "Level": "35",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Veneno"
     },
     {
         "#": "254",
@@ -2885,7 +3297,9 @@
         "Charged Skill 2": "Wrap",
         "Level": "50.5",
         "CP": "1496",
-        "IV": "3/15/15"
+        "IV": "3/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "255",
@@ -2896,7 +3310,9 @@
         "Charged Skill 2": "Hyper Beam",
         "Level": "51",
         "CP": "1435",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "256",
@@ -2907,7 +3323,9 @@
         "Charged Skill 2": "Poltergeist",
         "Level": "45",
         "CP": "1499",
-        "IV": "0/11/15"
+        "IV": "0/11/15",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "257",
@@ -2931,7 +3349,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "28.5",
         "CP": "1499",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Fantasma",
+        "secondaryType": "Veneno"
     },
     {
         "#": "259",
@@ -2942,7 +3362,9 @@
         "Charged Skill 2": "Night Slash",
         "Level": "15.5",
         "CP": "1499",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "260",
@@ -2953,7 +3375,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "18.5",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "261",
@@ -2964,7 +3388,9 @@
         "Charged Skill 2": "Moonblast",
         "Level": "22",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "262",
@@ -2975,7 +3401,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "51",
         "CP": "1489",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "263",
@@ -2986,7 +3414,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "38.5",
         "CP": "1498",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "264",
@@ -2997,7 +3427,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "16.5",
         "CP": "1499",
-        "IV": "10/15/13"
+        "IV": "10/15/13",
+        "primaryType": "Acero",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "265",
@@ -3008,7 +3440,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "23.5",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "266",
@@ -3019,7 +3453,9 @@
         "Charged Skill 2": "Rock Tomb",
         "Level": "51",
         "CP": "1396",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "267",
@@ -3043,7 +3479,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "50.5",
         "CP": "1497",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "269",
@@ -3080,7 +3518,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "48",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "272",
@@ -3091,7 +3531,9 @@
         "Charged Skill 2": "Magnet Bomb",
         "Level": "22.5",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Acero"
     },
     {
         "#": "273",
@@ -3115,7 +3557,9 @@
         "Charged Skill 2": "Heavy Slam",
         "Level": "50.5",
         "CP": "1498",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "275",
@@ -3165,7 +3609,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "22",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "279",
@@ -3176,7 +3622,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "31.5",
         "CP": "1500",
-        "IV": "0/15/11"
+        "IV": "0/15/11",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "280",
@@ -3187,7 +3635,9 @@
         "Charged Skill 2": "Heavy Slam",
         "Level": "50.5",
         "CP": "1498",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "281",
@@ -3211,7 +3661,9 @@
         "Charged Skill 2": "Frustration",
         "Level": "51",
         "CP": "1174",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "283",
@@ -3222,7 +3674,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "21.5",
         "CP": "1496",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "284",
@@ -3233,7 +3687,9 @@
         "Charged Skill 2": "Fire Punch",
         "Level": "28",
         "CP": "1500",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "285",
@@ -3244,7 +3700,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "51",
         "CP": "1499",
-        "IV": "3/15/14"
+        "IV": "3/15/14",
+        "primaryType": "Fuego",
+        "secondaryType": "Normal"
     },
     {
         "#": "286",
@@ -3255,7 +3713,9 @@
         "Charged Skill 2": "High Horsepower",
         "Level": "17",
         "CP": "1500",
-        "IV": "0/15/7"
+        "IV": "0/15/7",
+        "primaryType": "Hielo",
+        "secondaryType": "Tierra"
     },
     {
         "#": "287",
@@ -3279,7 +3739,9 @@
         "Charged Skill 2": "Body Slam",
         "Level": "49.5",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": "Roca"
     },
     {
         "#": "289",
@@ -3290,7 +3752,9 @@
         "Charged Skill 2": "Last Resort*",
         "Level": "18",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "290",
@@ -3301,7 +3765,9 @@
         "Charged Skill 2": "Sky Attack",
         "Level": "20.5",
         "CP": "1495",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Volador"
     },
     {
         "#": "291",
@@ -3325,7 +3791,9 @@
         "Charged Skill 2": "Thunderbolt*",
         "Level": "18",
         "CP": "1498",
-        "IV": "0/10/15"
+        "IV": "0/10/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "293",
@@ -3336,7 +3804,9 @@
         "Charged Skill 2": "Iron Head",
         "Level": "18.5",
         "CP": "1497",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Acero"
     },
     {
         "#": "294",
@@ -3347,7 +3817,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "51",
         "CP": "1455",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Volador"
     },
     {
         "#": "295",
@@ -3358,7 +3830,9 @@
         "Charged Skill 2": "Focus Blast",
         "Level": "20",
         "CP": "1499",
-        "IV": "0/13/11"
+        "IV": "0/13/11",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "296",
@@ -3369,7 +3843,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "23.5",
         "CP": "1500",
-        "IV": "0/10/14"
+        "IV": "0/10/14",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "297",
@@ -3380,7 +3856,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "48",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "298",
@@ -3391,7 +3869,9 @@
         "Charged Skill 2": "Payback",
         "Level": "25.5",
         "CP": "1497",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Acero",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "299",
@@ -3402,7 +3882,9 @@
         "Charged Skill 2": "Discharge",
         "Level": "51",
         "CP": "1498",
-        "IV": "8/15/15"
+        "IV": "8/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Acero"
     },
     {
         "#": "300",
@@ -3413,7 +3895,9 @@
         "Charged Skill 2": "Play Rough",
         "Level": "40",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Acero",
+        "secondaryType": "Hada"
     },
     {
         "#": "301",
@@ -3424,7 +3908,9 @@
         "Charged Skill 2": "Mud Bomb",
         "Level": "51",
         "CP": "1500",
-        "IV": "4/15/15"
+        "IV": "4/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "302",
@@ -3435,7 +3921,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "48",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "303",
@@ -3446,7 +3934,9 @@
         "Charged Skill 2": "Play Rough",
         "Level": "40",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Acero",
+        "secondaryType": "Hada"
     },
     {
         "#": "304",
@@ -3457,7 +3947,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "21.5",
         "CP": "1496",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "305",
@@ -3481,7 +3973,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "17.5",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Agua",
+        "secondaryType": "Hada"
     },
     {
         "#": "307",
@@ -3492,7 +3986,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/11/13"
+        "IV": "0/11/13",
+        "primaryType": "Planta",
+        "secondaryType": "Tierra"
     },
     {
         "#": "308",
@@ -3503,7 +3999,9 @@
         "Charged Skill 2": "Focus Blast",
         "Level": "20",
         "CP": "1499",
-        "IV": "0/13/11"
+        "IV": "0/13/11",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "309",
@@ -3514,7 +4012,9 @@
         "Charged Skill 2": "Dragon Pulse",
         "Level": "22.5",
         "CP": "1500",
-        "IV": "2/15/13"
+        "IV": "2/15/13",
+        "primaryType": "Veneno",
+        "secondaryType": "Fuego"
     },
     {
         "#": "310",
@@ -3527,7 +4027,7 @@
         "CP": "1499",
         "IV": "0/13/15",
         "primaryType": "Bicho",
-        "secondaryType": "Acero"
+        "secondaryType": "Planta"
     },
     {
         "#": "311",
@@ -3538,7 +4038,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "24.5",
         "CP": "1497",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "312",
@@ -3549,7 +4051,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "41",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Volador"
     },
     {
         "#": "313",
@@ -3560,7 +4064,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "38.5",
         "CP": "1498",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "314",
@@ -3572,7 +4078,7 @@
         "Level": "41.5",
         "CP": "1496",
         "IV": "0/14/15",
-        "primaryType": "Fuego",
+        "primaryType": "Agua",
         "secondaryType": null
     },
     {
@@ -3597,7 +4103,9 @@
         "Charged Skill 2": "Scald",
         "Level": "23.5",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Veneno"
     },
     {
         "#": "317",
@@ -3621,7 +4129,9 @@
         "Charged Skill 2": "Mud Bomb",
         "Level": "51",
         "CP": "1500",
-        "IV": "4/15/15"
+        "IV": "4/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "319",
@@ -3632,7 +4142,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "20",
         "CP": "1499",
-        "IV": "0/11/13"
+        "IV": "0/11/13",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "320",
@@ -3643,7 +4155,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "18",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Hada"
     },
     {
         "#": "321",
@@ -3654,7 +4168,9 @@
         "Charged Skill 2": "Overheat",
         "Level": "38.5",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Fuego",
+        "secondaryType": "Roca"
     },
     {
         "#": "322",
@@ -3665,7 +4181,9 @@
         "Charged Skill 2": "High Horsepower",
         "Level": "17",
         "CP": "1500",
-        "IV": "0/15/7"
+        "IV": "0/15/7",
+        "primaryType": "Hielo",
+        "secondaryType": "Tierra"
     },
     {
         "#": "323",
@@ -3676,7 +4194,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "38",
         "CP": "1500",
-        "IV": "0/15/9"
+        "IV": "0/15/9",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Volador"
     },
     {
         "#": "324",
@@ -3687,7 +4207,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "27.5",
         "CP": "1498",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "325",
@@ -3724,7 +4246,9 @@
         "Charged Skill 2": "Twister",
         "Level": "28",
         "CP": "1499",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "328",
@@ -3748,7 +4272,9 @@
         "Charged Skill 2": "Body Slam",
         "Level": "21.5",
         "CP": "1498",
-        "IV": "1/14/15"
+        "IV": "1/14/15",
+        "primaryType": "Agua",
+        "secondaryType": "Roca"
     },
     {
         "#": "330",
@@ -3759,7 +4285,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "23.5",
         "CP": "1500",
-        "IV": "0/10/14"
+        "IV": "0/10/14",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "331",
@@ -3770,7 +4298,9 @@
         "Charged Skill 2": "Night Slash",
         "Level": "15",
         "CP": "1500",
-        "IV": "2/15/12"
+        "IV": "2/15/12",
+        "primaryType": "Planta",
+        "secondaryType": "Acero"
     },
     {
         "#": "332",
@@ -3781,7 +4311,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "51",
         "CP": "1486",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "333",
@@ -3792,7 +4324,9 @@
         "Charged Skill 2": "Hyper Fang",
         "Level": "33.5",
         "CP": "1500",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Normal",
+        "secondaryType": "Agua"
     },
     {
         "#": "334",
@@ -3803,7 +4337,9 @@
         "Charged Skill 2": "Seed Bomb",
         "Level": "37.5",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Planta",
+        "secondaryType": "Volador"
     },
     {
         "#": "335",
@@ -3814,7 +4350,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "26",
         "CP": "1496",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "336",
@@ -3825,7 +4363,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "22",
         "CP": "1499",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Bicho",
+        "secondaryType": "Planta"
     },
     {
         "#": "337",
@@ -3836,7 +4376,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "51",
         "CP": "1486",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "338",
@@ -3847,7 +4389,9 @@
         "Charged Skill 2": "Power Whip",
         "Level": "26.5",
         "CP": "1500",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "339",
@@ -3884,7 +4428,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "28",
         "CP": "1500",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Normal",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "342",
@@ -3908,7 +4454,9 @@
         "Charged Skill 2": "Acid Spray",
         "Level": "23",
         "CP": "1497",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "344",
@@ -3919,7 +4467,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "16.5",
         "CP": "1500",
-        "IV": "3/15/15"
+        "IV": "3/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "345",
@@ -3930,7 +4480,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "21",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Acero"
     },
     {
         "#": "346",
@@ -3941,7 +4493,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "28",
         "CP": "1500",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Normal",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "347",
@@ -3952,7 +4506,9 @@
         "Charged Skill 2": "Blizzard",
         "Level": "19",
         "CP": "1500",
-        "IV": "0/15/11"
+        "IV": "0/15/11",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "348",
@@ -3963,7 +4519,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "20.5",
         "CP": "1497",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Planta",
+        "secondaryType": "Fantasma"
     },
     {
         "#": "349",
@@ -3987,7 +4545,9 @@
         "Charged Skill 2": "Moonblast",
         "Level": "39.5",
         "CP": "1500",
-        "IV": "0/12/14"
+        "IV": "0/12/14",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "351",
@@ -3998,7 +4558,9 @@
         "Charged Skill 2": "Focus Blast",
         "Level": "28",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "352",
@@ -4009,7 +4571,9 @@
         "Charged Skill 2": "Leaf Storm",
         "Level": "19",
         "CP": "1499",
-        "IV": "0/11/14"
+        "IV": "0/11/14",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "353",
@@ -4020,7 +4584,9 @@
         "Charged Skill 2": "Power Gem",
         "Level": "29",
         "CP": "1498",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "354",
@@ -4031,7 +4597,9 @@
         "Charged Skill 2": "Thunder",
         "Level": "19",
         "CP": "1499",
-        "IV": "0/14/12"
+        "IV": "0/14/12",
+        "primaryType": "Acero",
+        "secondaryType": "Roca"
     },
     {
         "#": "355",
@@ -4055,7 +4623,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "51",
         "CP": "1498",
-        "IV": "12/14/15"
+        "IV": "12/14/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "357",
@@ -4079,7 +4649,9 @@
         "Charged Skill 2": "Blizzard",
         "Level": "25",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "359",
@@ -4090,7 +4662,9 @@
         "Charged Skill 2": "Play Rough",
         "Level": "29.5",
         "CP": "1497",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Acero",
+        "secondaryType": "Hada"
     },
     {
         "#": "360",
@@ -4114,7 +4688,9 @@
         "Charged Skill 2": "Hyper Fang",
         "Level": "33.5",
         "CP": "1500",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Normal",
+        "secondaryType": "Agua"
     },
     {
         "#": "362",
@@ -4125,7 +4701,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "20.5",
         "CP": "1500",
-        "IV": "0/9/15"
+        "IV": "0/9/15",
+        "primaryType": "Roca",
+        "secondaryType": "Agua"
     },
     {
         "#": "363",
@@ -4136,7 +4714,9 @@
         "Charged Skill 2": "Iron Head",
         "Level": "18.5",
         "CP": "1497",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Acero"
     },
     {
         "#": "364",
@@ -4147,7 +4727,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "22",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Tierra"
     },
     {
         "#": "365",
@@ -4158,7 +4740,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "23",
         "CP": "1500",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Bicho",
+        "secondaryType": "Veneno"
     },
     {
         "#": "366",
@@ -4169,7 +4753,9 @@
         "Charged Skill 2": "Grass Knot",
         "Level": "38.5",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "367",
@@ -4193,7 +4779,9 @@
         "Charged Skill 2": "Surf",
         "Level": "18.5",
         "CP": "1500",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "369",
@@ -4204,7 +4792,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "50",
         "CP": "1499",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Fuego",
+        "secondaryType": "Volador"
     },
     {
         "#": "370",
@@ -4228,7 +4818,9 @@
         "Charged Skill 2": "Return",
         "Level": "51",
         "CP": "1462",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "372",
@@ -4239,7 +4831,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "51",
         "CP": "1498",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Siniestro",
+        "secondaryType": "Acero"
     },
     {
         "#": "373",
@@ -4250,7 +4844,9 @@
         "Charged Skill 2": "Leaf Storm",
         "Level": "16.5",
         "CP": "1499",
-        "IV": "10/15/13"
+        "IV": "10/15/13",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Planta"
     },
     {
         "#": "374",
@@ -4261,7 +4857,9 @@
         "Charged Skill 2": "Crabhammer",
         "Level": "22.5",
         "CP": "1499",
-        "IV": "2/15/14"
+        "IV": "2/15/14",
+        "primaryType": "Agua",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "375",
@@ -4272,7 +4870,9 @@
         "Charged Skill 2": "Future Sight",
         "Level": "23.5",
         "CP": "1499",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Normal",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "376",
@@ -4283,7 +4883,9 @@
         "Charged Skill 2": "Psychic Fangs*",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "377",
@@ -4294,7 +4896,9 @@
         "Charged Skill 2": "Petal Blizzard",
         "Level": "22",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "378",
@@ -4318,7 +4922,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "36",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "380",
@@ -4329,7 +4935,9 @@
         "Charged Skill 2": "Solar Beam",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "381",
@@ -4340,7 +4948,9 @@
         "Charged Skill 2": "Blizzard",
         "Level": "25",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "382",
@@ -4351,7 +4961,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "20",
         "CP": "1499",
-        "IV": "0/11/13"
+        "IV": "0/11/13",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "383",
@@ -4362,7 +4974,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "51",
         "CP": "1462",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "384",
@@ -4373,7 +4987,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1405",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "385",
@@ -4410,7 +5026,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "51",
         "CP": "1404",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "388",
@@ -4434,7 +5052,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "22.5",
         "CP": "1498",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Bicho",
+        "secondaryType": "Roca"
     },
     {
         "#": "390",
@@ -4445,7 +5065,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "20.5",
         "CP": "1500",
-        "IV": "0/9/15"
+        "IV": "0/9/15",
+        "primaryType": "Roca",
+        "secondaryType": "Agua"
     },
     {
         "#": "391",
@@ -4456,7 +5078,9 @@
         "Charged Skill 2": "Poison Fang",
         "Level": "27",
         "CP": "1499",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "392",
@@ -4467,7 +5091,9 @@
         "Charged Skill 2": "Sludge Wave",
         "Level": "50.5",
         "CP": "1494",
-        "IV": "7/15/15"
+        "IV": "7/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Tierra"
     },
     {
         "#": "393",
@@ -4478,7 +5104,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "24",
         "CP": "1497",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "394",
@@ -4489,7 +5117,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "18",
         "CP": "1499",
-        "IV": "0/8/15"
+        "IV": "0/8/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Agua"
     },
     {
         "#": "395",
@@ -4500,7 +5130,9 @@
         "Charged Skill 2": "Thunderbolt*",
         "Level": "18",
         "CP": "1498",
-        "IV": "0/10/15"
+        "IV": "0/10/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "396",
@@ -4511,7 +5143,9 @@
         "Charged Skill 2": "Dragon Claw",
         "Level": "31",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Volador"
     },
     {
         "#": "397",
@@ -4522,7 +5156,9 @@
         "Charged Skill 2": "Psychic Fangs",
         "Level": "24",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "398",
@@ -4533,7 +5169,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/11/13"
+        "IV": "0/11/13",
+        "primaryType": "Planta",
+        "secondaryType": "Tierra"
     },
     {
         "#": "399",
@@ -4544,7 +5182,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "51",
         "CP": "1369",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Fantasma",
+        "secondaryType": "Volador"
     },
     {
         "#": "400",
@@ -4555,7 +5195,9 @@
         "Charged Skill 2": "Leaf Storm",
         "Level": "24.5",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Planta"
     },
     {
         "#": "401",
@@ -4566,7 +5208,9 @@
         "Charged Skill 2": "Thunder",
         "Level": "22.5",
         "CP": "1499",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "402",
@@ -4577,7 +5221,9 @@
         "Charged Skill 2": "Ice Punch",
         "Level": "37.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "403",
@@ -4588,7 +5234,9 @@
         "Charged Skill 2": "Close Combat",
         "Level": "20",
         "CP": "1500",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "404",
@@ -4625,7 +5273,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "51",
         "CP": "1495",
-        "IV": "9/15/15"
+        "IV": "9/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Planta"
     },
     {
         "#": "407",
@@ -4636,7 +5286,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "50",
         "CP": "1499",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "408",
@@ -4647,7 +5299,9 @@
         "Charged Skill 2": "Earth Power",
         "Level": "18.5",
         "CP": "1499",
-        "IV": "0/14/10"
+        "IV": "0/14/10",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "409",
@@ -4658,7 +5312,9 @@
         "Charged Skill 2": "Grass Knot",
         "Level": "51",
         "CP": "1477",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Planta"
     },
     {
         "#": "410",
@@ -4682,7 +5338,9 @@
         "Charged Skill 2": "Shadow Sneak",
         "Level": "27.5",
         "CP": "1495",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Fantasma",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "412",
@@ -4693,7 +5351,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "51",
         "CP": "1404",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "413",
@@ -4704,7 +5364,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "50.5",
         "CP": "1497",
-        "IV": "9/15/15"
+        "IV": "9/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Lucha"
     },
     {
         "#": "414",
@@ -4715,7 +5377,9 @@
         "Charged Skill 2": "Solar Beam",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "415",
@@ -4726,7 +5390,9 @@
         "Charged Skill 2": "Dragon Claw",
         "Level": "16.5",
         "CP": "1498",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Volador"
     },
     {
         "#": "416",
@@ -4737,7 +5403,9 @@
         "Charged Skill 2": "Psychic Fangs",
         "Level": "24",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "417",
@@ -4748,7 +5416,9 @@
         "Charged Skill 2": "Zap Cannon",
         "Level": "21",
         "CP": "1500",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "418",
@@ -4759,7 +5429,9 @@
         "Charged Skill 2": "Seed Bomb",
         "Level": "51",
         "CP": "1358",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "419",
@@ -4770,7 +5442,9 @@
         "Charged Skill 2": "Thunder",
         "Level": "19",
         "CP": "1499",
-        "IV": "0/14/12"
+        "IV": "0/14/12",
+        "primaryType": "Acero",
+        "secondaryType": "Roca"
     },
     {
         "#": "420",
@@ -4781,7 +5455,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "18.5",
         "CP": "1499",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Tierra",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "421",
@@ -4792,7 +5468,9 @@
         "Charged Skill 2": "Blizzard",
         "Level": "34.5",
         "CP": "1499",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "422",
@@ -4803,7 +5481,9 @@
         "Charged Skill 2": "Earth Power",
         "Level": "22",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Tierra"
     },
     {
         "#": "423",
@@ -4814,7 +5494,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "29.5",
         "CP": "1498",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "424",
@@ -4825,7 +5507,9 @@
         "Charged Skill 2": "Discharge",
         "Level": "18",
         "CP": "1498",
-        "IV": "0/14/12"
+        "IV": "0/14/12",
+        "primaryType": "Bicho",
+        "secondaryType": "El\u00e9ctrico"
     },
     {
         "#": "425",
@@ -4836,7 +5520,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "19.5",
         "CP": "1494",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Acero"
     },
     {
         "#": "426",
@@ -4847,7 +5533,9 @@
         "Charged Skill 2": "Return",
         "Level": "24",
         "CP": "1498",
-        "IV": "2/14/15"
+        "IV": "2/14/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "427",
@@ -4858,7 +5546,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "21.5",
         "CP": "1499",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Siniestro",
+        "secondaryType": "Fuego"
     },
     {
         "#": "428",
@@ -4869,7 +5559,9 @@
         "Charged Skill 2": "Earth Power",
         "Level": "22",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Tierra"
     },
     {
         "#": "429",
@@ -4893,7 +5585,9 @@
         "Charged Skill 2": "Megahorn",
         "Level": "20.5",
         "CP": "1500",
-        "IV": "0/13/11"
+        "IV": "0/13/11",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "431",
@@ -4904,7 +5598,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "40",
         "CP": "1499",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "432",
@@ -4915,7 +5611,9 @@
         "Charged Skill 2": "Ice Punch",
         "Level": "37.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "433",
@@ -4926,7 +5624,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "38",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "434",
@@ -4937,7 +5637,9 @@
         "Charged Skill 2": "Close Combat",
         "Level": "20",
         "CP": "1500",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "435",
@@ -4961,7 +5663,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "24",
         "CP": "1498",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "437",
@@ -4985,7 +5689,9 @@
         "Charged Skill 2": "Earth Power",
         "Level": "19.5",
         "CP": "1499",
-        "IV": "2/15/14"
+        "IV": "2/15/14",
+        "primaryType": "Tierra",
+        "secondaryType": "Fantasma"
     },
     {
         "#": "439",
@@ -4996,7 +5702,9 @@
         "Charged Skill 2": "Body Slam",
         "Level": "28",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Acero",
+        "secondaryType": "Roca"
     },
     {
         "#": "440",
@@ -5007,7 +5715,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "19",
         "CP": "1497",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "441",
@@ -5018,7 +5728,9 @@
         "Charged Skill 2": "Bug Buzz",
         "Level": "51",
         "CP": "1401",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "442",
@@ -5029,7 +5741,9 @@
         "Charged Skill 2": "Thunder",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "443",
@@ -5040,7 +5754,9 @@
         "Charged Skill 2": "Hyper Beam",
         "Level": "35.5",
         "CP": "1500",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "444",
@@ -5051,7 +5767,9 @@
         "Charged Skill 2": "Earth Power",
         "Level": "18.5",
         "CP": "1499",
-        "IV": "0/14/10"
+        "IV": "0/14/10",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "445",
@@ -5062,7 +5780,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "27.5",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "446",
@@ -5086,7 +5806,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "21",
         "CP": "1499",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "448",
@@ -5097,7 +5819,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "40.5",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "449",
@@ -5108,7 +5832,9 @@
         "Charged Skill 2": "Flame Charge",
         "Level": "39.5",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Fuego",
+        "secondaryType": "Lucha"
     },
     {
         "#": "450",
@@ -5132,7 +5858,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "18",
         "CP": "1495",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "452",
@@ -5156,7 +5884,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "18.5",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Hielo"
     },
     {
         "#": "454",
@@ -5167,7 +5897,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "49.5",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "455",
@@ -5178,7 +5910,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "22.5",
         "CP": "1500",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Agua",
+        "secondaryType": "Hielo"
     },
     {
         "#": "456",
@@ -5190,8 +5924,8 @@
         "Level": "18",
         "CP": "1498",
         "IV": "0/15/11",
-        "primaryType": "Fuego",
-        "secondaryType": "Ps\u00edquico"
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "457",
@@ -5202,7 +5936,9 @@
         "Charged Skill 2": "Flame Charge",
         "Level": "19",
         "CP": "1500",
-        "IV": "0/15/9"
+        "IV": "0/15/9",
+        "primaryType": "Fuego",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "458",
@@ -5213,7 +5949,9 @@
         "Charged Skill 2": "Octazooka",
         "Level": "21.5",
         "CP": "1498",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Agua",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "459",
@@ -5237,7 +5975,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "51",
         "CP": "1499",
-        "IV": "6/15/15"
+        "IV": "6/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "461",
@@ -5248,7 +5988,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "18.5",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Hielo"
     },
     {
         "#": "462",
@@ -5259,7 +6001,9 @@
         "Charged Skill 2": "Return",
         "Level": "23.5",
         "CP": "1500",
-        "IV": "2/15/12"
+        "IV": "2/15/12",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "463",
@@ -5283,7 +6027,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "18",
         "CP": "1495",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "465",
@@ -5294,7 +6040,9 @@
         "Charged Skill 2": "Draining Kiss",
         "Level": "27",
         "CP": "1500",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "466",
@@ -5305,7 +6053,9 @@
         "Charged Skill 2": "Aurora Beam",
         "Level": "20.5",
         "CP": "1500",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "467",
@@ -5316,7 +6066,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "27",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "468",
@@ -5327,7 +6079,9 @@
         "Charged Skill 2": "Zap Cannon",
         "Level": "21.5",
         "CP": "1499",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Acero",
+        "secondaryType": null
     },
     {
         "#": "469",
@@ -5338,7 +6092,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "25.5",
         "CP": "1498",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "470",
@@ -5349,7 +6105,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "51",
         "CP": "1453",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "471",
@@ -5373,7 +6131,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "51",
         "CP": "1428",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Volador"
     },
     {
         "#": "473",
@@ -5384,7 +6144,9 @@
         "Charged Skill 2": "Poison Fang",
         "Level": "51",
         "CP": "1498",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "474",
@@ -5408,7 +6170,9 @@
         "Charged Skill 2": "Dragon Pulse",
         "Level": "28",
         "CP": "1499",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "476",
@@ -5419,7 +6183,9 @@
         "Charged Skill 2": "Cross Poison",
         "Level": "20",
         "CP": "1500",
-        "IV": "0/9/15"
+        "IV": "0/9/15",
+        "primaryType": "Roca",
+        "secondaryType": "Bicho"
     },
     {
         "#": "477",
@@ -5443,7 +6209,9 @@
         "Charged Skill 2": "Blast Burn*",
         "Level": "21",
         "CP": "1499",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Fuego",
+        "secondaryType": "Lucha"
     },
     {
         "#": "479",
@@ -5454,7 +6222,9 @@
         "Charged Skill 2": "Poison Fang",
         "Level": "25.5",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "480",
@@ -5465,7 +6235,9 @@
         "Charged Skill 2": "Bubble Beam",
         "Level": "51",
         "CP": "1493",
-        "IV": "8/15/15"
+        "IV": "8/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Roca"
     },
     {
         "#": "481",
@@ -5476,7 +6248,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "21.5",
         "CP": "1498",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Veneno",
+        "secondaryType": "Volador"
     },
     {
         "#": "482",
@@ -5487,7 +6261,9 @@
         "Charged Skill 2": "Dark Pulse",
         "Level": "24",
         "CP": "1498",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "483",
@@ -5498,7 +6274,9 @@
         "Charged Skill 2": "Outrage",
         "Level": "14",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Tierra"
     },
     {
         "#": "484",
@@ -5509,7 +6287,9 @@
         "Charged Skill 2": "Octazooka",
         "Level": "21.5",
         "CP": "1498",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Agua",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "485",
@@ -5520,7 +6300,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "39.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": null
     },
     {
         "#": "486",
@@ -5531,7 +6313,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "18",
         "CP": "1498",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Roca",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "487",
@@ -5555,7 +6339,9 @@
         "Charged Skill 2": "Surf",
         "Level": "21",
         "CP": "1500",
-        "IV": "3/15/12"
+        "IV": "3/15/12",
+        "primaryType": "Agua",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "489",
@@ -5566,7 +6352,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1405",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "490",
@@ -5577,7 +6365,9 @@
         "Charged Skill 2": "Seed Bomb",
         "Level": "51",
         "CP": "1358",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "491",
@@ -5590,7 +6380,7 @@
         "CP": "1500",
         "IV": "0/12/15",
         "primaryType": "El\u00e9ctrico",
-        "secondaryType": "Agua"
+        "secondaryType": "Volador"
     },
     {
         "#": "492",
@@ -5614,7 +6404,9 @@
         "Charged Skill 2": "Discharge",
         "Level": "37.5",
         "CP": "1498",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "494",
@@ -5625,7 +6417,9 @@
         "Charged Skill 2": "Dynamic Punch",
         "Level": "19.5",
         "CP": "1499",
-        "IV": "2/15/14"
+        "IV": "2/15/14",
+        "primaryType": "Tierra",
+        "secondaryType": "Fantasma"
     },
     {
         "#": "495",
@@ -5636,7 +6430,9 @@
         "Charged Skill 2": "Body Slam",
         "Level": "28",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Acero",
+        "secondaryType": "Roca"
     },
     {
         "#": "496",
@@ -5647,7 +6443,9 @@
         "Charged Skill 2": "Cross Poison",
         "Level": "32",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Planta"
     },
     {
         "#": "497",
@@ -5658,7 +6456,9 @@
         "Charged Skill 2": "Psyshock",
         "Level": "51",
         "CP": "1477",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Hielo",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "498",
@@ -5669,7 +6469,9 @@
         "Charged Skill 2": "Return",
         "Level": "39",
         "CP": "1496",
-        "IV": "2/13/15"
+        "IV": "2/13/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "499",
@@ -5680,7 +6482,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "29.5",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "500",
@@ -5704,7 +6508,9 @@
         "Charged Skill 2": "Grass Knot",
         "Level": "34.5",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "502",
@@ -5715,7 +6521,9 @@
         "Charged Skill 2": "Earth Power",
         "Level": "20",
         "CP": "1496",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Volador"
     },
     {
         "#": "503",
@@ -5739,7 +6547,9 @@
         "Charged Skill 2": "Bug Buzz",
         "Level": "51",
         "CP": "1401",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "505",
@@ -5750,7 +6560,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "40.5",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "506",
@@ -5761,7 +6573,9 @@
         "Charged Skill 2": "Grass Knot*",
         "Level": "21",
         "CP": "1497",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Lucha"
     },
     {
         "#": "507",
@@ -5772,7 +6586,9 @@
         "Charged Skill 2": "Thunder Punch",
         "Level": "23.5",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "508",
@@ -5783,7 +6599,9 @@
         "Charged Skill 2": "Zap Cannon",
         "Level": "21",
         "CP": "1500",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "509",
@@ -5807,7 +6625,9 @@
         "Charged Skill 2": "Disarming Voice",
         "Level": "49",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "511",
@@ -5818,7 +6638,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "51",
         "CP": "1499",
-        "IV": "6/15/15"
+        "IV": "6/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "512",
@@ -5842,7 +6664,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "25.5",
         "CP": "1498",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "514",
@@ -5853,7 +6677,9 @@
         "Charged Skill 2": "Psyshock",
         "Level": "33",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "515",
@@ -5864,7 +6690,9 @@
         "Charged Skill 2": "Rock Blast",
         "Level": "51",
         "CP": "1401",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Roca"
     },
     {
         "#": "516",
@@ -5888,7 +6716,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "21.5",
         "CP": "1499",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Siniestro",
+        "secondaryType": "Fuego"
     },
     {
         "#": "518",
@@ -5899,7 +6729,9 @@
         "Charged Skill 2": "Last Resort*",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "519",
@@ -5923,7 +6755,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "22.5",
         "CP": "1500",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Agua",
+        "secondaryType": "Hielo"
     },
     {
         "#": "521",
@@ -5934,7 +6768,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "21.5",
         "CP": "1498",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Veneno",
+        "secondaryType": "Volador"
     },
     {
         "#": "522",
@@ -5945,7 +6781,9 @@
         "Charged Skill 2": "Low Sweep",
         "Level": "43.5",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Fuego",
+        "secondaryType": "Lucha"
     },
     {
         "#": "523",
@@ -5956,7 +6794,9 @@
         "Charged Skill 2": "Thunder",
         "Level": "29.5",
         "CP": "1499",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "524",
@@ -5967,7 +6807,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "37",
         "CP": "1499",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "525",
@@ -5978,7 +6820,9 @@
         "Charged Skill 2": "Thunder",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "526",
@@ -5989,7 +6833,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "51",
         "CP": "1500",
-        "IV": "14/15/14"
+        "IV": "14/15/14",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "527",
@@ -6000,7 +6846,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "51",
         "CP": "1352",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": null
     },
     {
         "#": "528",
@@ -6011,7 +6859,9 @@
         "Charged Skill 2": "Vise Grip",
         "Level": "32.5",
         "CP": "1499",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Acero",
+        "secondaryType": null
     },
     {
         "#": "529",
@@ -6022,7 +6872,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "14.5",
         "CP": "1500",
-        "IV": "1/14/12"
+        "IV": "1/14/12",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Volador"
     },
     {
         "#": "530",
@@ -6033,7 +6885,9 @@
         "Charged Skill 2": "Stomp",
         "Level": "51",
         "CP": "1496",
-        "IV": "10/15/15"
+        "IV": "10/15/15",
+        "primaryType": "Normal",
+        "secondaryType": "Lucha"
     },
     {
         "#": "531",
@@ -6044,7 +6898,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "20.5",
         "CP": "1500",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "532",
@@ -6055,7 +6911,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "21",
         "CP": "1497",
-        "IV": "0/14/10"
+        "IV": "0/14/10",
+        "primaryType": "Roca",
+        "secondaryType": "Agua"
     },
     {
         "#": "533",
@@ -6066,7 +6924,9 @@
         "Charged Skill 2": "Hyper Beam",
         "Level": "37.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "534",
@@ -6077,7 +6937,9 @@
         "Charged Skill 2": "Iron Head",
         "Level": "51",
         "CP": "1496",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Acero",
+        "secondaryType": "Roca"
     },
     {
         "#": "535",
@@ -6088,7 +6950,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "17",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Fantasma",
+        "secondaryType": "Fuego"
     },
     {
         "#": "536",
@@ -6099,7 +6963,9 @@
         "Charged Skill 2": "Dark Pulse",
         "Level": "24",
         "CP": "1498",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "537",
@@ -6123,7 +6989,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "40",
         "CP": "1499",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "539",
@@ -6134,7 +7002,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "51",
         "CP": "1500",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "540",
@@ -6145,7 +7015,9 @@
         "Charged Skill 2": "Signal Beam",
         "Level": "43",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "541",
@@ -6169,7 +7041,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "19",
         "CP": "1498",
-        "IV": "0/14/9"
+        "IV": "0/14/9",
+        "primaryType": "Fuego",
+        "secondaryType": "Lucha"
     },
     {
         "#": "543",
@@ -6180,7 +7054,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "24",
         "CP": "1497",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "544",
@@ -6191,7 +7067,9 @@
         "Charged Skill 2": "Icy Wind",
         "Level": "18",
         "CP": "1500",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "545",
@@ -6202,7 +7080,9 @@
         "Charged Skill 2": "Iron Head",
         "Level": "51",
         "CP": "1496",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Acero",
+        "secondaryType": "Roca"
     },
     {
         "#": "546",
@@ -6213,7 +7093,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "45.5",
         "CP": "1499",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Roca",
+        "secondaryType": "Agua"
     },
     {
         "#": "547",
@@ -6224,7 +7106,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "21",
         "CP": "1499",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "548",
@@ -6235,7 +7119,9 @@
         "Charged Skill 2": "Shadow Ball*",
         "Level": "17.5",
         "CP": "1498",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "549",
@@ -6246,7 +7132,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "18.5",
         "CP": "1500",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "550",
@@ -6270,7 +7158,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "43.5",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Siniestro",
+        "secondaryType": "Volador"
     },
     {
         "#": "552",
@@ -6281,7 +7171,9 @@
         "Charged Skill 2": "Meteor Beam*",
         "Level": "17.5",
         "CP": "1499",
-        "IV": "0/11/15"
+        "IV": "0/11/15",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "553",
@@ -6292,7 +7184,9 @@
         "Charged Skill 2": "X-Scissor",
         "Level": "20",
         "CP": "1498",
-        "IV": "0/9/15"
+        "IV": "0/9/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "554",
@@ -6303,7 +7197,9 @@
         "Charged Skill 2": "Rock Tomb",
         "Level": "29.5",
         "CP": "1492",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Fuego",
+        "secondaryType": "Lucha"
     },
     {
         "#": "555",
@@ -6327,7 +7223,9 @@
         "Charged Skill 2": "Stomp",
         "Level": "26.5",
         "CP": "1499",
-        "IV": "0/11/15"
+        "IV": "0/11/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "557",
@@ -6351,7 +7249,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "51",
         "CP": "1360",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Fantasma"
     },
     {
         "#": "559",
@@ -6362,7 +7262,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "14.5",
         "CP": "1499",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "560",
@@ -6373,7 +7275,9 @@
         "Charged Skill 2": "Lunge",
         "Level": "25",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "561",
@@ -6384,7 +7288,9 @@
         "Charged Skill 2": "Return",
         "Level": "51",
         "CP": "1498",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "562",
@@ -6395,7 +7301,9 @@
         "Charged Skill 2": "Dragon Pulse",
         "Level": "28",
         "CP": "1498",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "563",
@@ -6406,7 +7314,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1400",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Veneno"
     },
     {
         "#": "564",
@@ -6417,7 +7327,9 @@
         "Charged Skill 2": "Poison Fang",
         "Level": "30",
         "CP": "1498",
-        "IV": "0/12/14"
+        "IV": "0/12/14",
+        "primaryType": "Siniestro",
+        "secondaryType": null
     },
     {
         "#": "565",
@@ -6441,7 +7353,9 @@
         "Charged Skill 2": "Cross Poison",
         "Level": "20",
         "CP": "1500",
-        "IV": "0/9/15"
+        "IV": "0/9/15",
+        "primaryType": "Roca",
+        "secondaryType": "Bicho"
     },
     {
         "#": "567",
@@ -6452,7 +7366,9 @@
         "Charged Skill 2": "Overheat",
         "Level": "26",
         "CP": "1499",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Fuego",
+        "secondaryType": "Tierra"
     },
     {
         "#": "568",
@@ -6476,7 +7392,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "14.5",
         "CP": "1495",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Acero",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "570",
@@ -6500,7 +7418,9 @@
         "Charged Skill 2": "Return",
         "Level": "39",
         "CP": "1496",
-        "IV": "2/13/15"
+        "IV": "2/13/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "572",
@@ -6511,7 +7431,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "15",
         "CP": "1500",
-        "IV": "0/10/14"
+        "IV": "0/10/14",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Volador"
     },
     {
         "#": "573",
@@ -6522,7 +7444,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "20",
         "CP": "1498",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "574",
@@ -6533,7 +7457,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "21.5",
         "CP": "1496",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": null
     },
     {
         "#": "575",
@@ -6557,7 +7483,9 @@
         "Charged Skill 2": "Twister",
         "Level": "31",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Tierra"
     },
     {
         "#": "577",
@@ -6568,7 +7496,9 @@
         "Charged Skill 2": "Stomp*",
         "Level": "22",
         "CP": "1497",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "578",
@@ -6579,7 +7509,9 @@
         "Charged Skill 2": "Stomp",
         "Level": "26.5",
         "CP": "1499",
-        "IV": "0/11/15"
+        "IV": "0/11/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "579",
@@ -6590,7 +7522,9 @@
         "Charged Skill 2": "Poison Fang",
         "Level": "30",
         "CP": "1498",
-        "IV": "0/12/14"
+        "IV": "0/12/14",
+        "primaryType": "Siniestro",
+        "secondaryType": null
     },
     {
         "#": "580",
@@ -6614,7 +7548,9 @@
         "Charged Skill 2": "Gyro Ball",
         "Level": "38",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Acero",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "582",
@@ -6625,7 +7561,9 @@
         "Charged Skill 2": "Surf",
         "Level": "15",
         "CP": "1500",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Tierra",
+        "secondaryType": "Roca"
     },
     {
         "#": "583",
@@ -6636,7 +7574,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "51",
         "CP": "1500",
-        "IV": "13/15/15"
+        "IV": "13/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "584",
@@ -6647,7 +7587,9 @@
         "Charged Skill 2": "Earth Power",
         "Level": "26",
         "CP": "1499",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Fuego",
+        "secondaryType": "Tierra"
     },
     {
         "#": "585",
@@ -6658,7 +7600,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "23.5",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "586",
@@ -6669,7 +7613,9 @@
         "Charged Skill 2": "Surf",
         "Level": "17.5",
         "CP": "1499",
-        "IV": "2/15/14"
+        "IV": "2/15/14",
+        "primaryType": "Tierra",
+        "secondaryType": "Roca"
     },
     {
         "#": "587",
@@ -6680,7 +7626,9 @@
         "Charged Skill 2": "Hyper Beam",
         "Level": "19",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "588",
@@ -6691,7 +7639,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "27",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "589",
@@ -6702,7 +7652,9 @@
         "Charged Skill 2": "Seed Bomb",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "590",
@@ -6713,7 +7665,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "14.5",
         "CP": "1495",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Acero",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "591",
@@ -6737,7 +7691,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "50",
         "CP": "1499",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "593",
@@ -6761,7 +7717,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "51",
         "CP": "1326",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Hielo"
     },
     {
         "#": "595",
@@ -6772,7 +7730,9 @@
         "Charged Skill 2": "Leaf Storm",
         "Level": "26.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "596",
@@ -6796,7 +7756,9 @@
         "Charged Skill 2": "Bug Buzz",
         "Level": "27.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Veneno"
     },
     {
         "#": "598",
@@ -6809,7 +7771,7 @@
         "CP": "1500",
         "IV": "0/15/15",
         "primaryType": "Bicho",
-        "secondaryType": "Acero"
+        "secondaryType": "Planta"
     },
     {
         "#": "599",
@@ -6820,7 +7782,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "51",
         "CP": "1360",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Fantasma"
     },
     {
         "#": "600",
@@ -6844,7 +7808,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1317",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "602",
@@ -6868,7 +7834,9 @@
         "Charged Skill 2": "Icy Wind",
         "Level": "51",
         "CP": "1111",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "604",
@@ -6879,7 +7847,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "51",
         "CP": "1369",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Planta"
     },
     {
         "#": "605",
@@ -6890,7 +7860,9 @@
         "Charged Skill 2": "Hyper Beam",
         "Level": "19",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "606",
@@ -6903,7 +7875,7 @@
         "CP": "1500",
         "IV": "0/15/15",
         "primaryType": "Bicho",
-        "secondaryType": "Acero"
+        "secondaryType": "Planta"
     },
     {
         "#": "607",
@@ -6940,7 +7912,9 @@
         "Charged Skill 2": "Poison Fang",
         "Level": "25.5",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "610",
@@ -6951,7 +7925,9 @@
         "Charged Skill 2": "Foul Play",
         "Level": "43.5",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Siniestro",
+        "secondaryType": "Volador"
     },
     {
         "#": "611",
@@ -6962,7 +7938,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "14.5",
         "CP": "1499",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "612",
@@ -6973,7 +7951,9 @@
         "Charged Skill 2": "Bubble Beam",
         "Level": "51",
         "CP": "1280",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "El\u00e9ctrico"
     },
     {
         "#": "613",
@@ -6984,7 +7964,9 @@
         "Charged Skill 2": "Future Sight",
         "Level": "43",
         "CP": "1497",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "614",
@@ -6995,7 +7977,9 @@
         "Charged Skill 2": "Rock Tomb",
         "Level": "50.5",
         "CP": "1500",
-        "IV": "11/15/15"
+        "IV": "11/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "615",
@@ -7006,7 +7990,9 @@
         "Charged Skill 2": "Bug Buzz",
         "Level": "29",
         "CP": "1499",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "616",
@@ -7030,7 +8016,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "51",
         "CP": "1500",
-        "IV": "13/15/15"
+        "IV": "13/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "618",
@@ -7041,7 +8029,9 @@
         "Charged Skill 2": "Bulldoze",
         "Level": "28",
         "CP": "1494",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "619",
@@ -7052,7 +8042,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "25.5",
         "CP": "1500",
-        "IV": "0/14/12"
+        "IV": "0/14/12",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "620",
@@ -7063,7 +8055,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "39.5",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "621",
@@ -7074,7 +8068,9 @@
         "Charged Skill 2": "Gyro Ball",
         "Level": "38",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Acero",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "622",
@@ -7085,7 +8081,9 @@
         "Charged Skill 2": "Shadow Sneak",
         "Level": "29.5",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "623",
@@ -7096,7 +8094,9 @@
         "Charged Skill 2": "Dark Pulse",
         "Level": "21.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "624",
@@ -7107,7 +8107,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "51",
         "CP": "1260",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Tierra"
     },
     {
         "#": "625",
@@ -7118,7 +8120,9 @@
         "Charged Skill 2": "Play Rough",
         "Level": "31.5",
         "CP": "1497",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Siniestro",
+        "secondaryType": null
     },
     {
         "#": "626",
@@ -7129,7 +8133,9 @@
         "Charged Skill 2": "Focus Blast",
         "Level": "20",
         "CP": "1495",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "627",
@@ -7140,7 +8146,9 @@
         "Charged Skill 2": "Rock Blast",
         "Level": "21",
         "CP": "1499",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "628",
@@ -7151,7 +8159,9 @@
         "Charged Skill 2": "Earth Power",
         "Level": "20",
         "CP": "1496",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Volador"
     },
     {
         "#": "629",
@@ -7162,7 +8172,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "45.5",
         "CP": "1499",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Roca",
+        "secondaryType": "Agua"
     },
     {
         "#": "630",
@@ -7173,7 +8185,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "24",
         "CP": "1497",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Fuego",
+        "secondaryType": null
     },
     {
         "#": "631",
@@ -7184,7 +8198,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "38.5",
         "CP": "1500",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Hada",
+        "secondaryType": "Volador"
     },
     {
         "#": "632",
@@ -7195,7 +8211,9 @@
         "Charged Skill 2": "High Horsepower*",
         "Level": "14.5",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Normal"
     },
     {
         "#": "633",
@@ -7206,7 +8224,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "51",
         "CP": "1344",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "634",
@@ -7217,7 +8237,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "20",
         "CP": "1497",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Hielo",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "635",
@@ -7228,7 +8250,9 @@
         "Charged Skill 2": "Grass Knot",
         "Level": "20.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "636",
@@ -7252,7 +8276,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "51",
         "CP": "1380",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "638",
@@ -7263,7 +8289,9 @@
         "Charged Skill 2": "Seed Bomb",
         "Level": "51",
         "CP": "1254",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "639",
@@ -7274,7 +8302,9 @@
         "Charged Skill 2": "Grass Knot",
         "Level": "21.5",
         "CP": "1494",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": "Normal"
     },
     {
         "#": "640",
@@ -7285,7 +8315,9 @@
         "Charged Skill 2": "Bug Buzz",
         "Level": "27.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Veneno"
     },
     {
         "#": "641",
@@ -7296,7 +8328,9 @@
         "Charged Skill 2": "Twister",
         "Level": "51",
         "CP": "1366",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "642",
@@ -7307,7 +8341,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1216",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Agua"
     },
     {
         "#": "643",
@@ -7318,7 +8354,9 @@
         "Charged Skill 2": "Low Sweep",
         "Level": "51",
         "CP": "1491",
-        "IV": "10/15/15"
+        "IV": "10/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "644",
@@ -7329,7 +8367,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "18.5",
         "CP": "1499",
-        "IV": "0/11/14"
+        "IV": "0/11/14",
+        "primaryType": "Fuego",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "645",
@@ -7340,7 +8380,9 @@
         "Charged Skill 2": "Horn Attack",
         "Level": "41",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Roca"
     },
     {
         "#": "646",
@@ -7351,7 +8393,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "51",
         "CP": "1326",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Hielo"
     },
     {
         "#": "647",
@@ -7362,7 +8406,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "17",
         "CP": "1499",
-        "IV": "0/14/11"
+        "IV": "0/14/11",
+        "primaryType": "Hada",
+        "secondaryType": "Volador"
     },
     {
         "#": "648",
@@ -7386,7 +8432,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "25",
         "CP": "1500",
-        "IV": "2/15/14"
+        "IV": "2/15/14",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "650",
@@ -7397,7 +8445,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "51",
         "CP": "1441",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "651",
@@ -7408,7 +8458,9 @@
         "Charged Skill 2": "Rock Tomb",
         "Level": "50.5",
         "CP": "1500",
-        "IV": "11/15/15"
+        "IV": "11/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "652",
@@ -7419,7 +8471,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "48",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "653",
@@ -7456,7 +8510,9 @@
         "Charged Skill 2": "Flame Burst",
         "Level": "37",
         "CP": "1497",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Fantasma",
+        "secondaryType": "Fuego"
     },
     {
         "#": "656",
@@ -7482,7 +8538,7 @@
         "CP": "1500",
         "IV": "0/12/15",
         "primaryType": "El\u00e9ctrico",
-        "secondaryType": "Agua"
+        "secondaryType": "Volador"
     },
     {
         "#": "658",
@@ -7493,7 +8549,9 @@
         "Charged Skill 2": "Shadow Sneak",
         "Level": "29.5",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "659",
@@ -7504,7 +8562,9 @@
         "Charged Skill 2": "Aqua Jet",
         "Level": "30.5",
         "CP": "1500",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "660",
@@ -7515,7 +8575,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "21.5",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "661",
@@ -7526,7 +8588,9 @@
         "Charged Skill 2": "Swift",
         "Level": "51",
         "CP": "1440",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "662",
@@ -7550,7 +8614,9 @@
         "Charged Skill 2": "Stone Edge",
         "Level": "51",
         "CP": "1260",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Tierra"
     },
     {
         "#": "664",
@@ -7574,7 +8640,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "51",
         "CP": "1412",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Fuego"
     },
     {
         "#": "666",
@@ -7585,7 +8653,9 @@
         "Charged Skill 2": "Aqua Jet",
         "Level": "51",
         "CP": "1494",
-        "IV": "8/15/14"
+        "IV": "8/15/14",
+        "primaryType": "Roca",
+        "secondaryType": "Agua"
     },
     {
         "#": "667",
@@ -7609,7 +8679,9 @@
         "Charged Skill 2": "Rock Blast",
         "Level": "51",
         "CP": "1378",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "669",
@@ -7633,7 +8705,9 @@
         "Charged Skill 2": "Ancient Power",
         "Level": "51",
         "CP": "1344",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "671",
@@ -7644,7 +8718,9 @@
         "Charged Skill 2": "Hyper Beam",
         "Level": "20.5",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "672",
@@ -7694,7 +8770,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1275",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "676",
@@ -7705,7 +8783,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1275",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "677",
@@ -7716,7 +8796,9 @@
         "Charged Skill 2": "Disarming Voice",
         "Level": "51",
         "CP": "1498",
-        "IV": "13/15/15"
+        "IV": "13/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "678",
@@ -7753,7 +8835,9 @@
         "Charged Skill 2": "Play Rough",
         "Level": "31.5",
         "CP": "1497",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Siniestro",
+        "secondaryType": null
     },
     {
         "#": "681",
@@ -7765,7 +8849,7 @@
         "Level": "24.5",
         "CP": "1500",
         "IV": "0/13/13",
-        "primaryType": "Fantasma",
+        "primaryType": "Fuego",
         "secondaryType": "Volador"
     },
     {
@@ -7777,7 +8861,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1317",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "683",
@@ -7788,7 +8874,9 @@
         "Charged Skill 2": "High Horsepower*",
         "Level": "14.5",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Normal"
     },
     {
         "#": "684",
@@ -7812,7 +8900,9 @@
         "Charged Skill 2": "Hydro Pump",
         "Level": "15",
         "CP": "1500",
-        "IV": "0/10/14"
+        "IV": "0/10/14",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": "Volador"
     },
     {
         "#": "686",
@@ -7823,7 +8913,9 @@
         "Charged Skill 2": "Hyper Beam",
         "Level": "22",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "687",
@@ -7835,7 +8927,7 @@
         "Level": "24.5",
         "CP": "1500",
         "IV": "0/13/13",
-        "primaryType": "Fantasma",
+        "primaryType": "Fuego",
         "secondaryType": "Volador"
     },
     {
@@ -7848,8 +8940,8 @@
         "Level": "18",
         "CP": "1498",
         "IV": "0/15/11",
-        "primaryType": "Fuego",
-        "secondaryType": "Ps\u00edquico"
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "689",
@@ -7860,7 +8952,9 @@
         "Charged Skill 2": "Low Sweep",
         "Level": "23.5",
         "CP": "1499",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "690",
@@ -7871,7 +8965,9 @@
         "Charged Skill 2": "Disarming Voice",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/15/10"
+        "IV": "0/15/10",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "691",
@@ -7882,7 +8978,9 @@
         "Charged Skill 2": "Power Gem",
         "Level": "47",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "692",
@@ -7893,7 +8991,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "24.5",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Roca",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "693",
@@ -7904,7 +9004,9 @@
         "Charged Skill 2": "Dark Pulse",
         "Level": "21.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Fantasma",
+        "secondaryType": null
     },
     {
         "#": "694",
@@ -7941,7 +9043,9 @@
         "Charged Skill 2": "Rock Slide",
         "Level": "51",
         "CP": "1380",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "697",
@@ -7952,7 +9056,9 @@
         "Charged Skill 2": "Petal Blizzard",
         "Level": "31",
         "CP": "1497",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Planta",
+        "secondaryType": "Veneno"
     },
     {
         "#": "698",
@@ -7963,7 +9069,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "24.5",
         "CP": "1499",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Roca",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "699",
@@ -7974,7 +9082,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "51",
         "CP": "1390",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "700",
@@ -7985,7 +9095,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "51",
         "CP": "1332",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "701",
@@ -7996,7 +9108,9 @@
         "Charged Skill 2": "Last Resort*",
         "Level": "51",
         "CP": "1225",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "702",
@@ -8007,7 +9121,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "51",
         "CP": "1412",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": "Fuego"
     },
     {
         "#": "703",
@@ -8044,7 +9160,9 @@
         "Charged Skill 2": "Dazzling Gleam",
         "Level": "35.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": null
     },
     {
         "#": "706",
@@ -8068,7 +9186,9 @@
         "Charged Skill 2": "Return",
         "Level": "46",
         "CP": "1500",
-        "IV": "2/14/15"
+        "IV": "2/14/15",
+        "primaryType": "El\u00e9ctrico",
+        "secondaryType": null
     },
     {
         "#": "708",
@@ -8079,7 +9199,9 @@
         "Charged Skill 2": "Petal Blizzard",
         "Level": "25",
         "CP": "1497",
-        "IV": "0/13/14"
+        "IV": "0/13/14",
+        "primaryType": "Planta",
+        "secondaryType": null
     },
     {
         "#": "709",
@@ -8090,7 +9212,9 @@
         "Charged Skill 2": "Gunk Shot",
         "Level": "24.5",
         "CP": "1498",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "710",
@@ -8101,7 +9225,9 @@
         "Charged Skill 2": "Flamethrower",
         "Level": "17",
         "CP": "1500",
-        "IV": "1/14/8"
+        "IV": "1/14/8",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "711",
@@ -8112,7 +9238,9 @@
         "Charged Skill 2": "Signal Beam*",
         "Level": "37.5",
         "CP": "1500",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "712",
@@ -8123,7 +9251,9 @@
         "Charged Skill 2": "Drill Peck",
         "Level": "24",
         "CP": "1500",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "713",
@@ -8134,7 +9264,9 @@
         "Charged Skill 2": "Energy Ball",
         "Level": "51",
         "CP": "1210",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Volador"
     },
     {
         "#": "714",
@@ -8145,7 +9277,9 @@
         "Charged Skill 2": "Earthquake",
         "Level": "50.5",
         "CP": "1499",
-        "IV": "3/15/15"
+        "IV": "3/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "715",
@@ -8169,7 +9303,9 @@
         "Charged Skill 2": "Disarming Voice",
         "Level": "51",
         "CP": "1498",
-        "IV": "13/15/15"
+        "IV": "13/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "717",
@@ -8180,7 +9316,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "27",
         "CP": "1496",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Volador"
     },
     {
         "#": "718",
@@ -8191,7 +9329,9 @@
         "Charged Skill 2": "Sand Tomb",
         "Level": "51",
         "CP": "1458",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "719",
@@ -8202,7 +9342,9 @@
         "Charged Skill 2": "Sludge Wave",
         "Level": "30.5",
         "CP": "1500",
-        "IV": "0/11/14"
+        "IV": "0/11/14",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "720",
@@ -8213,7 +9355,9 @@
         "Charged Skill 2": "Disarming Voice",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/15/10"
+        "IV": "0/15/10",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "721",
@@ -8224,7 +9368,9 @@
         "Charged Skill 2": "Rock Tomb",
         "Level": "50.5",
         "CP": "1500",
-        "IV": "8/15/15"
+        "IV": "8/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "722",
@@ -8235,7 +9381,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "24",
         "CP": "1499",
-        "IV": "1/14/15"
+        "IV": "1/14/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "723",
@@ -8246,7 +9394,9 @@
         "Charged Skill 2": "Aqua Tail",
         "Level": "51",
         "CP": "1155",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Bicho"
     },
     {
         "#": "724",
@@ -8257,7 +9407,9 @@
         "Charged Skill 2": "Aqua Jet",
         "Level": "51",
         "CP": "1291",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "725",
@@ -8268,7 +9420,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "22",
         "CP": "1498",
-        "IV": "0/15/11"
+        "IV": "0/15/11",
+        "primaryType": "Agua",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "726",
@@ -8279,7 +9433,9 @@
         "Charged Skill 2": "Megahorn",
         "Level": "22",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": null
     },
     {
         "#": "727",
@@ -8290,7 +9446,9 @@
         "Charged Skill 2": "Sludge Wave",
         "Level": "30.5",
         "CP": "1500",
-        "IV": "0/11/14"
+        "IV": "0/11/14",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "728",
@@ -8301,7 +9459,9 @@
         "Charged Skill 2": "Future Sight",
         "Level": "26",
         "CP": "1498",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Volador"
     },
     {
         "#": "729",
@@ -8312,7 +9472,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "51",
         "CP": "1416",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "730",
@@ -8323,7 +9485,9 @@
         "Charged Skill 2": "Rock Blast",
         "Level": "48.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "731",
@@ -8334,7 +9498,9 @@
         "Charged Skill 2": "Thunderbolt",
         "Level": "35.5",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": null
     },
     {
         "#": "732",
@@ -8345,7 +9511,9 @@
         "Charged Skill 2": "Hyper Fang",
         "Level": "33",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "733",
@@ -8356,7 +9524,9 @@
         "Charged Skill 2": "Power-Up Punch",
         "Level": "51",
         "CP": "1493",
-        "IV": "8/15/15"
+        "IV": "8/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "734",
@@ -8380,7 +9550,9 @@
         "Charged Skill 2": "Megahorn",
         "Level": "22",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Siniestro",
+        "secondaryType": null
     },
     {
         "#": "736",
@@ -8392,7 +9564,7 @@
         "Level": "24.5",
         "CP": "1500",
         "IV": "0/13/13",
-        "primaryType": "Fantasma",
+        "primaryType": "Fuego",
         "secondaryType": "Volador"
     },
     {
@@ -8404,7 +9576,9 @@
         "Charged Skill 2": "Aqua Tail",
         "Level": "51",
         "CP": "1155",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": "Bicho"
     },
     {
         "#": "738",
@@ -8415,7 +9589,9 @@
         "Charged Skill 2": "Hyper Beam",
         "Level": "21.5",
         "CP": "1499",
-        "IV": "0/15/3"
+        "IV": "0/15/3",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "739",
@@ -8426,7 +9602,9 @@
         "Charged Skill 2": "Drill Run",
         "Level": "28.5",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "740",
@@ -8437,7 +9615,9 @@
         "Charged Skill 2": "Rock Blast",
         "Level": "51",
         "CP": "1136",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "741",
@@ -8448,7 +9628,9 @@
         "Charged Skill 2": "Aqua Jet",
         "Level": "23",
         "CP": "1500",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "742",
@@ -8459,7 +9641,9 @@
         "Charged Skill 2": "Signal Beam",
         "Level": "51",
         "CP": "1309",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Veneno"
     },
     {
         "#": "743",
@@ -8470,7 +9654,9 @@
         "Charged Skill 2": "Aerial Ace",
         "Level": "32.5",
         "CP": "1499",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "744",
@@ -8481,7 +9667,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "35.5",
         "CP": "1497",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Roca",
+        "secondaryType": "Tierra"
     },
     {
         "#": "745",
@@ -8492,7 +9680,9 @@
         "Charged Skill 2": "Rock Blast",
         "Level": "51",
         "CP": "1136",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Roca",
+        "secondaryType": null
     },
     {
         "#": "746",
@@ -8503,7 +9693,9 @@
         "Charged Skill 2": "Zap Cannon",
         "Level": "17",
         "CP": "1500",
-        "IV": "1/15/13"
+        "IV": "1/15/13",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "747",
@@ -8541,7 +9733,7 @@
         "Level": "24.5",
         "CP": "1500",
         "IV": "0/13/13",
-        "primaryType": "Fantasma",
+        "primaryType": "Fuego",
         "secondaryType": "Volador"
     },
     {
@@ -8553,7 +9745,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "20.5",
         "CP": "1498",
-        "IV": "0/14/13"
+        "IV": "0/14/13",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "751",
@@ -8564,7 +9758,9 @@
         "Charged Skill 2": "Brick Break",
         "Level": "51",
         "CP": "1416",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "752",
@@ -8575,7 +9771,9 @@
         "Charged Skill 2": "Return",
         "Level": "51",
         "CP": "1491",
-        "IV": "10/15/15"
+        "IV": "10/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "753",
@@ -8586,7 +9784,9 @@
         "Charged Skill 2": "Ice Punch*",
         "Level": "22",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Hielo",
+        "secondaryType": "Ps\u00edquico"
     },
     {
         "#": "754",
@@ -8597,7 +9797,9 @@
         "Charged Skill 2": "Hyper Fang",
         "Level": "33",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "755",
@@ -8608,7 +9810,9 @@
         "Charged Skill 2": "Zap Cannon",
         "Level": "17",
         "CP": "1500",
-        "IV": "1/15/13"
+        "IV": "1/15/13",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "756",
@@ -8619,7 +9823,9 @@
         "Charged Skill 2": "Moonblast",
         "Level": "32",
         "CP": "1498",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Planta",
+        "secondaryType": "Hada"
     },
     {
         "#": "757",
@@ -8630,7 +9836,9 @@
         "Charged Skill 2": "Signal Beam",
         "Level": "22",
         "CP": "1500",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Volador"
     },
     {
         "#": "758",
@@ -8641,7 +9849,9 @@
         "Charged Skill 2": "Horn Attack",
         "Level": "51",
         "CP": "1318",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "759",
@@ -8652,7 +9862,9 @@
         "Charged Skill 2": "Future Sight",
         "Level": "26",
         "CP": "1498",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": "Volador"
     },
     {
         "#": "760",
@@ -8663,7 +9875,9 @@
         "Charged Skill 2": "Sand Tomb",
         "Level": "51",
         "CP": "1458",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "761",
@@ -8674,7 +9888,9 @@
         "Charged Skill 2": "Bulldoze",
         "Level": "51",
         "CP": "1166",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "762",
@@ -8685,7 +9901,9 @@
         "Charged Skill 2": "Blizzard*",
         "Level": "27",
         "CP": "1498",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "763",
@@ -8696,7 +9914,9 @@
         "Charged Skill 2": "Icy Wind",
         "Level": "51",
         "CP": "1229",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "764",
@@ -8707,7 +9927,9 @@
         "Charged Skill 2": "Sand Tomb",
         "Level": "51",
         "CP": "1268",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": null
     },
     {
         "#": "765",
@@ -8718,7 +9940,9 @@
         "Charged Skill 2": "Payback",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Planta",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "766",
@@ -8729,7 +9953,9 @@
         "Charged Skill 2": "Hyper Fang",
         "Level": "26",
         "CP": "1500",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "767",
@@ -8740,7 +9966,9 @@
         "Charged Skill 2": "Return",
         "Level": "23",
         "CP": "1495",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "768",
@@ -8751,7 +9979,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "20.5",
         "CP": "1499",
-        "IV": "0/13/13"
+        "IV": "0/13/13",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "769",
@@ -8762,7 +9992,9 @@
         "Charged Skill 2": "Night Shade",
         "Level": "33.5",
         "CP": "1498",
-        "IV": "0/15/14"
+        "IV": "0/15/14",
+        "primaryType": "Normal",
+        "secondaryType": "Volador"
     },
     {
         "#": "770",
@@ -8773,7 +10005,9 @@
         "Charged Skill 2": "Play Rough",
         "Level": "43",
         "CP": "1499",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "771",
@@ -8784,7 +10018,9 @@
         "Charged Skill 2": "Aqua Jet",
         "Level": "51",
         "CP": "1294",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "772",
@@ -8795,7 +10031,9 @@
         "Charged Skill 2": "Return",
         "Level": "51",
         "CP": "1190",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "773",
@@ -8806,7 +10044,9 @@
         "Charged Skill 2": "Dark Pulse",
         "Level": "51",
         "CP": "1497",
-        "IV": "6/15/15"
+        "IV": "6/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "774",
@@ -8817,7 +10057,9 @@
         "Charged Skill 2": "Crunch",
         "Level": "35.5",
         "CP": "1497",
-        "IV": "0/14/14"
+        "IV": "0/14/14",
+        "primaryType": "Roca",
+        "secondaryType": "Tierra"
     },
     {
         "#": "775",
@@ -8828,7 +10070,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "51",
         "CP": "1190",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "776",
@@ -8839,7 +10083,9 @@
         "Charged Skill 2": "Aqua Jet",
         "Level": "51",
         "CP": "1244",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "777",
@@ -8850,7 +10096,9 @@
         "Charged Skill 2": "Return",
         "Level": "51",
         "CP": "1166",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Tierra",
+        "secondaryType": null
     },
     {
         "#": "778",
@@ -8863,7 +10111,7 @@
         "CP": "1500",
         "IV": "10/13/15",
         "primaryType": "Ps\u00edquico",
-        "secondaryType": "Siniestro"
+        "secondaryType": "Fantasma"
     },
     {
         "#": "779",
@@ -8874,7 +10122,9 @@
         "Charged Skill 2": "Air Cutter",
         "Level": "34",
         "CP": "1495",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "780",
@@ -8885,7 +10135,9 @@
         "Charged Skill 2": "Crabhammer",
         "Level": "19.5",
         "CP": "1500",
-        "IV": "0/11/15"
+        "IV": "0/11/15",
+        "primaryType": "Lucha",
+        "secondaryType": "Hielo"
     },
     {
         "#": "781",
@@ -8896,7 +10148,9 @@
         "Charged Skill 2": "Blizzard",
         "Level": "18.5",
         "CP": "1499",
-        "IV": "1/13/12"
+        "IV": "1/13/12",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "782",
@@ -8907,7 +10161,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "20.5",
         "CP": "1497",
-        "IV": "0/15/12"
+        "IV": "0/15/12",
+        "primaryType": "Volador",
+        "secondaryType": "Drag\u00f3n"
     },
     {
         "#": "783",
@@ -8918,7 +10174,9 @@
         "Charged Skill 2": "Dazzling Gleam",
         "Level": "21",
         "CP": "1497",
-        "IV": "0/12/15"
+        "IV": "0/12/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "784",
@@ -8929,7 +10187,9 @@
         "Charged Skill 2": "Aqua Jet",
         "Level": "51",
         "CP": "1294",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "785",
@@ -8940,7 +10200,9 @@
         "Charged Skill 2": "Signal Beam",
         "Level": "20",
         "CP": "1500",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Hielo",
+        "secondaryType": null
     },
     {
         "#": "786",
@@ -8964,7 +10226,9 @@
         "Charged Skill 2": "Dark Pulse",
         "Level": "24.5",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Planta",
+        "secondaryType": "Siniestro"
     },
     {
         "#": "788",
@@ -8975,7 +10239,9 @@
         "Charged Skill 2": "Draining Kiss",
         "Level": "51",
         "CP": "1349",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "789",
@@ -8986,7 +10252,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1389",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "790",
@@ -8997,7 +10265,9 @@
         "Charged Skill 2": "Focus Blast",
         "Level": "22",
         "CP": "1498",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "791",
@@ -9008,7 +10278,9 @@
         "Charged Skill 2": "Ice Beam",
         "Level": "27",
         "CP": "1496",
-        "IV": "1/15/15"
+        "IV": "1/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Volador"
     },
     {
         "#": "792",
@@ -9019,7 +10291,9 @@
         "Charged Skill 2": "Aqua Tail",
         "Level": "50.5",
         "CP": "1492",
-        "IV": "8/15/15"
+        "IV": "8/15/15",
+        "primaryType": "Drag\u00f3n",
+        "secondaryType": null
     },
     {
         "#": "793",
@@ -9030,7 +10304,9 @@
         "Charged Skill 2": "Water Pulse",
         "Level": "22.5",
         "CP": "1497",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "794",
@@ -9041,7 +10317,9 @@
         "Charged Skill 2": "Sludge Bomb",
         "Level": "51",
         "CP": "1389",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Veneno",
+        "secondaryType": null
     },
     {
         "#": "795",
@@ -9052,7 +10330,9 @@
         "Charged Skill 2": "Blizzard*",
         "Level": "27",
         "CP": "1498",
-        "IV": "1/15/14"
+        "IV": "1/15/14",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "796",
@@ -9063,7 +10343,9 @@
         "Charged Skill 2": "Bubble Beam",
         "Level": "43",
         "CP": "1496",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "797",
@@ -9074,7 +10356,9 @@
         "Charged Skill 2": "Fire Blast",
         "Level": "17",
         "CP": "1500",
-        "IV": "5/15/14"
+        "IV": "5/15/14",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "798",
@@ -9085,7 +10369,9 @@
         "Charged Skill 2": "Flash Cannon",
         "Level": "51",
         "CP": "1221",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Acero",
+        "secondaryType": null
     },
     {
         "#": "799",
@@ -9096,7 +10382,9 @@
         "Charged Skill 2": "Acid Spray",
         "Level": "23",
         "CP": "1496",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Bicho",
+        "secondaryType": null
     },
     {
         "#": "800",
@@ -9107,7 +10395,9 @@
         "Charged Skill 2": "Cross Poison",
         "Level": "45",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Bicho"
     },
     {
         "#": "801",
@@ -9118,7 +10408,9 @@
         "Charged Skill 2": "Flash Cannon",
         "Level": "51",
         "CP": "1076",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Planta",
+        "secondaryType": "Acero"
     },
     {
         "#": "802",
@@ -9129,7 +10421,9 @@
         "Charged Skill 2": "Psychic",
         "Level": "33",
         "CP": "1499",
-        "IV": "0/13/15"
+        "IV": "0/13/15",
+        "primaryType": "Bicho",
+        "secondaryType": "Volador"
     },
     {
         "#": "803",
@@ -9153,7 +10447,9 @@
         "Charged Skill 2": "Return",
         "Level": "51",
         "CP": "1268",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Bicho",
+        "secondaryType": null
     },
     {
         "#": "805",
@@ -9177,7 +10473,9 @@
         "Charged Skill 2": "Hyper Beam",
         "Level": "41",
         "CP": "1499",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Normal",
+        "secondaryType": null
     },
     {
         "#": "807",
@@ -9201,7 +10499,9 @@
         "Charged Skill 2": "Cross Poison",
         "Level": "45",
         "CP": "1500",
-        "IV": "0/15/15"
+        "IV": "0/15/15",
+        "primaryType": "Roca",
+        "secondaryType": "Bicho"
     },
     {
         "#": "809",
@@ -9212,7 +10512,9 @@
         "Charged Skill 2": "Bubble Beam",
         "Level": "51",
         "CP": "1190",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": "Veneno"
     },
     {
         "#": "810",
@@ -9223,7 +10525,9 @@
         "Charged Skill 2": "Rock Tomb",
         "Level": "50.5",
         "CP": "1496",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "811",
@@ -9234,7 +10538,9 @@
         "Charged Skill 2": "Vise Grip",
         "Level": "51",
         "CP": "1408",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Agua",
+        "secondaryType": null
     },
     {
         "#": "812",
@@ -9245,7 +10551,9 @@
         "Charged Skill 2": "Return",
         "Level": "27",
         "CP": "1499",
-        "IV": "2/15/14"
+        "IV": "2/15/14",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "813",
@@ -9256,7 +10564,9 @@
         "Charged Skill 2": "Shadow Ball",
         "Level": "19",
         "CP": "1498",
-        "IV": "2/15/15"
+        "IV": "2/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "814",
@@ -9267,7 +10577,9 @@
         "Charged Skill 2": "Thunder",
         "Level": "28",
         "CP": "1497",
-        "IV": "0/15/13"
+        "IV": "0/15/13",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "815",
@@ -9278,7 +10590,9 @@
         "Charged Skill 2": "Thunder",
         "Level": "51",
         "CP": "1500",
-        "IV": "8/15/14"
+        "IV": "8/15/14",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "816",
@@ -9289,7 +10603,9 @@
         "Charged Skill 2": "Dazzling Gleam",
         "Level": "51",
         "CP": "1310",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "817",
@@ -9300,7 +10616,9 @@
         "Charged Skill 2": "Focus Blast",
         "Level": "50",
         "CP": "1498",
-        "IV": "7/15/15"
+        "IV": "7/15/15",
+        "primaryType": "Lucha",
+        "secondaryType": null
     },
     {
         "#": "818",
@@ -9311,7 +10629,9 @@
         "Charged Skill 2": "Disarming Voice",
         "Level": "51",
         "CP": "1322",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Hada",
+        "secondaryType": null
     },
     {
         "#": "819",
@@ -9322,7 +10642,9 @@
         "Charged Skill 2": "Mirror Coat",
         "Level": "50.5",
         "CP": "1495",
-        "IV": "13/15/15"
+        "IV": "13/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "820",
@@ -9333,7 +10655,9 @@
         "Charged Skill 2": "",
         "Level": "51",
         "CP": "1355",
-        "IV": "15/15/15"
+        "IV": "15/15/15",
+        "primaryType": "Ps\u00edquico",
+        "secondaryType": null
     },
     {
         "#": "821",
@@ -9346,7 +10670,7 @@
         "CP": "1500",
         "IV": "0/10/13",
         "primaryType": "Planta",
-        "secondaryType": "Volador"
+        "secondaryType": null
     },
     {
         "#": "822",
@@ -9357,6 +10681,8 @@
         "Charged Skill 2": "Earthquake",
         "Level": "12.5",
         "CP": "1500",
-        "IV": "0/14/15"
+        "IV": "0/14/15",
+        "primaryType": "Normal",
+        "secondaryType": null
     }
 ]
