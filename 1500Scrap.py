@@ -50,29 +50,28 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
     data.append(pokemon_data)
 
-# Cargar datos desde el archivo JSON en línea
-json_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokemon_data.json"
-response = requests.get(json_url)
-pokemon_json_data = {}
-
+# Cargar el archivo JSON externo
+external_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokemon_data.json"
+response = requests.get(external_data_url)
 if response.status_code == 200:
-    pokemon_json_data = response.json()
+    external_data = json.loads(response.text)
 else:
-    print("Error al acceder al archivo JSON en línea:", response.status_code)
+    print("Error al acceder al archivo JSON externo:", response.status_code)
     exit()
 
-# Combinar los datos
-for entry in data:
-    number_dex = entry["NumberDex"]
-    if number_dex in pokemon_json_data:
-        entry["Names"] = pokemon_json_data[number_dex]["names"]["es"]
-        entry["Primary Type"] = pokemon_json_data[number_dex]["primaryType"]["es"]
-        entry["Secondary Type"] = pokemon_json_data[number_dex]["secondaryType"]["es"]
+# Agregar los campos "primaryType" y "secondaryType" si hay una coincidencia en el campo "NumberDex"
+for pokemon in data:
+    number_dex = pokemon["NumberDex"]
+    for entry in external_data:
+        if entry["dexNr"] == number_dex:
+            pokemon["primaryType"] = entry["primaryType"]["es"]
+            pokemon["secondaryType"] = entry["secondaryType"]["es"]
+            break
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
 
 with open(output_file, "w") as json_file:
-    json.dump(data, json_file, indent=4, ensure_ascii=False)
+    json.dump(data, json_file, indent=4)
 
 print(f"Se han raspado y guardado {len(data)} registros en {output_file}")
