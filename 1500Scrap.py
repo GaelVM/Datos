@@ -59,7 +59,7 @@ else:
     print("Error al acceder al archivo JSON externo:", response.status_code)
     exit()
 
-# Agregar los campos "primaryType" y "secondaryType" si hay una coincidencia en el campo "NumberDex"
+# Agregar los campos "primaryType", "secondaryType", "image" y "shinyImage"
 for pokemon in data:
     number_dex = pokemon["NumberDex"]
     for entry in external_data:
@@ -69,13 +69,19 @@ for pokemon in data:
                     if region_form["id"] == entry["id"]:
                         pokemon["primaryType"] = region_form["primaryType"]["es"]
                         pokemon["secondaryType"] = region_form["secondaryType"]["es"]
+                        pokemon["image"] = region_form["assets"]["image"]
+                        pokemon["shinyImage"] = region_form["assets"]["shinyImage"]
                         break
                 else:
                     pokemon["primaryType"] = entry["primaryType"]["es"]
                     pokemon["secondaryType"] = entry["secondaryType"]["es"]
+                    pokemon["image"] = entry["assets"]["image"]
+                    pokemon["shinyImage"] = entry["assets"]["shinyImage"]
             else:
                 pokemon["primaryType"] = entry["primaryType"]["es"]
                 pokemon["secondaryType"] = entry["secondaryType"]["es"]
+                pokemon["image"] = entry["assets"]["image"]
+                pokemon["shinyImage"] = entry["assets"]["shinyImage"]
             break
 
 # Guardar en formato JSON
