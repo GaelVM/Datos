@@ -50,39 +50,28 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
     data.append(pokemon_data)
 
-# Cargar el archivo JSON externo
-external_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokemon_data.json"
-response = requests.get(external_data_url)
+# Cargar el archivo JSON externo "moves_data.json"
+moves_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/moves_data.json"
+response = requests.get(moves_data_url)
 if response.status_code == 200:
-    external_data = json.loads(response.text)
+    moves_data = json.loads(response.text)
 else:
-    print("Error al acceder al archivo JSON externo:", response.status_code)
+    print("Error al acceder al archivo JSON de movimientos:", response.status_code)
     exit()
 
-# Agregar los campos "primaryType", "secondaryType", "image" y "shinyImage"
+# Agregar la traducción de los nombres de los movimientos de ataque
 for pokemon in data:
-    number_dex = pokemon["NumberDex"]
-    for entry in external_data:
-        if entry["dexNr"] == int(number_dex):
-            if "regionForms" in entry:
-                for region_form in entry["regionForms"]:
-                    if region_form["id"] == entry["id"]:
-                        pokemon["primaryType"] = region_form["primaryType"]["es"]
-                        pokemon["secondaryType"] = region_form["secondaryType"]["es"]
-                        pokemon["image"] = region_form["assets"]["image"]
-                        pokemon["shinyImage"] = region_form["assets"]["shinyImage"]
-                        break
-                else:
-                    pokemon["primaryType"] = entry["primaryType"]["es"]
-                    pokemon["secondaryType"] = entry["secondaryType"]["es"]
-                    pokemon["image"] = entry["assets"]["image"]
-                    pokemon["shinyImage"] = entry["assets"]["shinyImage"]
-            else:
-                pokemon["primaryType"] = entry["primaryType"]["es"]
-                pokemon["secondaryType"] = entry["secondaryType"]["es"]
-                pokemon["image"] = entry["assets"]["image"]
-                pokemon["shinyImage"] = entry["assets"]["shinyImage"]
-            break
+    fast_skill = pokemon["Fast Skill"]
+    charged_skill_1 = pokemon["Charged Skill 1"]
+    charged_skill_2 = pokemon["Charged Skill 2"]
+
+    for move in moves_data["ataque"]:
+        if move["id"] == fast_skill:
+            pokemon["Fast Skill"] = move["ataquetraduccion"]
+        if move["id"] == charged_skill_1:
+            pokemon["Charged Skill 1"] = move["ataquetraduccion"]
+        if move["id"] == charged_skill_2:
+            pokemon["Charged Skill 2"] = move["ataquetraduccion"]
 
 # Guardar en formato JSON
 output_file = "pvp1500_data.json"
