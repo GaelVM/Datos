@@ -28,13 +28,28 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 
     number = cells[0].text
     name = cells[1].text
-    number_dex = cells [2].text
+    number_dex = cells[2].text
     fast_skill = cells[3].text
     charged_skill_1 = cells[4].text
     charged_skill_2 = cells[5].text
     level = cells[6].text
     cp = cells[7].text
     iv = cells[8].text
+
+    # Cargar datos del archivo pokemon_data.json desde GitHub
+    pokemon_data_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokemon_data.json"
+    pokemon_data_response = requests.get(pokemon_data_url)
+    if pokemon_data_response.status_code == 200:
+        pokemon_data = json.loads(pokemon_data_response.content)
+        for entry in pokemon_data:
+            if entry["dexNr"] == number_dex:
+                spanish_names = entry["names"]["es"]
+                break
+        else:
+            spanish_names = {}
+    else:
+        print("Error al acceder al archivo de datos de Pokémon:", pokemon_data_response.status_code)
+        spanish_names = {}
 
     pokemon_data = {
         "#": number,
@@ -45,7 +60,10 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
         "Charged Skill 2": charged_skill_2,
         "Level": level,
         "CP": cp,
-        "IV": iv
+        "IV": iv,
+        "names": {
+            "es": spanish_names
+        }
     }
 
     data.append(pokemon_data)
@@ -54,6 +72,6 @@ for row in table.find_all("tr")[1:]:  # Ignorar la primera fila de encabezados
 output_file = "pvp1500_data.json"
 
 with open(output_file, "w") as json_file:
-    json.dump(data, json_file, indent=4)
+    json.dump(data, json_file, indent=4, ensure_ascii=False)
 
 print(f"Se han raspado y guardado {len(data)} registros en {output_file}")
