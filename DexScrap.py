@@ -30,22 +30,23 @@ if response.status_code == 200:
         # Dividir el texto en líneas
         lines = info_text.split("\n")
         
-        # Extraer los datos que deseas
-        nodex = lines[0].strip()
-        nombre = lines[1].strip()
-        max_pc = lines[2].split(":")[1].strip()
-        max_pc50 = lines[3].split(":")[1].strip()
-        
-        # Crear un diccionario con los datos del pokemon
-        pokemon = {
-            "nodex": nodex,
-            "nombre": nombre,
-            "maxpc": max_pc,
-            "maxpc50": max_pc50,
-        }
-        
-        # Agregar el diccionario a la lista
-        pokemon_data.append(pokemon)
+        # Comprobar si hay suficientes líneas antes de acceder a los elementos
+        if len(lines) >= 4:
+            nodex = lines[0].strip()
+            nombre = lines[1].strip()
+            max_pc = lines[2].split(":")[1].strip()
+            max_pc50 = lines[3].split(":")[1].strip()
+            
+            # Crear un diccionario con los datos del pokemon
+            pokemon = {
+                "nodex": nodex,
+                "nombre": nombre,
+                "maxpc": max_pc,
+                "maxpc50": max_pc50,
+            }
+            
+            # Agregar el diccionario a la lista
+            pokemon_data.append(pokemon)
     
     # Convertir la lista de datos de pokemons a JSON
     json_data = json.dumps(pokemon_data, indent=4, ensure_ascii=False)
