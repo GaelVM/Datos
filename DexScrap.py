@@ -43,7 +43,7 @@ if response.status_code == 200:
             "nodex": nodex,
             "nombre": name,
             "maxpc": max_pc,
-            "maxpc50": max_pc_50,
+            "maxpc50": max_pc_50[:-1],  # Eliminar el último dígito
         }
         
         # Agregar el diccionario a la lista
