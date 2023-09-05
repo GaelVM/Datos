@@ -24,9 +24,12 @@ if response.status_code == 200:
         # Obtener el texto dentro del elemento <span>
         span_text = badge.get_text().strip()
         
+        # Dividir el texto en líneas
+        lines = span_text.split("\n")
+        
         # Extraer el número de nodo y el nombre utilizando expresiones regulares
         import re
-        match = re.match(r'#(\d+) (.+)', span_text)
+        match = re.match(r'#(\d+) (.+)', lines[2].strip())
         if match:
             nodex = match.group(1)
             name = match.group(2)
