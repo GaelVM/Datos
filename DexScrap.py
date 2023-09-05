@@ -24,16 +24,21 @@ if response.status_code == 200:
         # Obtener el texto dentro del elemento <span>
         span_text = badge.get_text().strip()
         
-        # Dividir el texto en líneas
-        lines = span_text.split("\n")
+        # Extraer el número de nodo y el nombre utilizando expresiones regulares
+        import re
+        match = re.match(r'#(\d+) (.+)', span_text)
+        if match:
+            nodex = match.group(1)
+            name = match.group(2)
+        else:
+            nodex = "No encontrado"
+            name = "No encontrado"
         
-        # Extraer los datos que deseas
-        nodex_and_name = lines[2].strip()
-        max_pc = lines[3].strip()
-        max_pc_50 = lines[4].strip()
-        
-        # Separar el número de nodo y el nombre
-        nodex, name = nodex_and_name.split(" ", 1)
+        # Extraer MAX PC y MAX PC 50 utilizando expresiones regulares
+        max_pc_match = re.search(r'MAX PC: (\d+)', span_text)
+        max_pc_50_match = re.search(r'MAX PC 50: (\d+)', span_text)
+        max_pc = max_pc_match.group(1) if max_pc_match else "No encontrado"
+        max_pc_50 = max_pc_50_match.group(1) if max_pc_50_match else "No encontrado"
         
         # Crear un diccionario con los datos del pokemon
         pokemon = {
