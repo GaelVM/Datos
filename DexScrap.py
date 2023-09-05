@@ -24,28 +24,24 @@ if response.status_code == 200:
     
     # Iterar a través de los divs con clase "col"
     for col in col_divs:
-        # Comprobar si se encontró el nombre del pokemon
-        nombre_element = col.find("h2")
-        nombre = nombre_element.text.strip() if nombre_element else "Nombre no encontrado"
+        # Obtener el texto dentro del div
+        info_text = col.get_text()
         
-        # Comprobar si se encontró el tipo del pokemon
-        tipo_element = col.find("p", {"class": "type"})
-        tipo = tipo_element.text.strip() if tipo_element else "Tipo no encontrado"
+        # Dividir el texto en líneas
+        lines = info_text.split("\n")
         
-        # Comprobar si se encontró la altura del pokemon
-        altura_element = col.find("p", {"class": "height"})
-        altura = altura_element.text.strip() if altura_element else "Altura no encontrada"
-        
-        # Comprobar si se encontró el peso del pokemon
-        peso_element = col.find("p", {"class": "weight"})
-        peso = peso_element.text.strip() if peso_element else "Peso no encontrado"
+        # Extraer los datos que deseas
+        nodex = lines[0].strip()
+        nombre = lines[1].strip()
+        max_pc = lines[2].split(":")[1].strip()
+        max_pc50 = lines[3].split(":")[1].strip()
         
         # Crear un diccionario con los datos del pokemon
         pokemon = {
+            "nodex": nodex,
             "nombre": nombre,
-            "tipo": tipo,
-            "altura": altura,
-            "peso": peso
+            "maxpc": max_pc,
+            "maxpc50": max_pc50,
         }
         
         # Agregar el diccionario a la lista
