@@ -24,29 +24,30 @@ if response.status_code == 200:
     
     # Iterar a través de los divs con clase "col"
     for col in col_divs:
-        # Obtener el texto dentro del div
-        info_text = col.get_text()
+        # Obtener el texto dentro del span
+        span_text = col.span.get_text()
         
         # Dividir el texto en líneas
-        lines = info_text.split("\n")
+        lines = span_text.split("\n")
         
-        # Comprobar si hay suficientes líneas antes de acceder a los elementos
-        if len(lines) >= 4:
-            nodex = lines[0].strip()
-            nombre = lines[1].strip()
-            max_pc = lines[2].split(":")[1].strip()
-            max_pc50 = lines[3].split(":")[1].strip()
-            
-            # Crear un diccionario con los datos del pokemon
-            pokemon = {
-                "nodex": nodex,
-                "nombre": nombre,
-                "maxpc": max_pc,
-                "maxpc50": max_pc50,
-            }
-            
-            # Agregar el diccionario a la lista
-            pokemon_data.append(pokemon)
+        # Extraer los datos que deseas
+        nodex_and_name = lines[2].strip()
+        max_pc = lines[3].strip()
+        max_pc_50 = lines[4].strip()
+        
+        # Separar el número de nodo y el nombre
+        nodex, name = nodex_and_name.split(" ", 1)
+        
+        # Crear un diccionario con los datos del pokemon
+        pokemon = {
+            "nodex": nodex,
+            "nombre": name,
+            "maxpc": max_pc,
+            "maxpc50": max_pc_50,
+        }
+        
+        # Agregar el diccionario a la lista
+        pokemon_data.append(pokemon)
     
     # Convertir la lista de datos de pokemons a JSON
     json_data = json.dumps(pokemon_data, indent=4, ensure_ascii=False)
