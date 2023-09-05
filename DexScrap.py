@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re
 
 # URL del sitio web a raspar
 url = "https://gostats.app/pokedex"
@@ -24,24 +25,18 @@ if response.status_code == 200:
         # Obtener el texto dentro del elemento <span>
         span_text = badge.get_text().strip()
         
-        # Dividir el texto en líneas
-        lines = span_text.split("\n")
-        
-        # Extraer el número de nodo y el nombre utilizando expresiones regulares
-        import re
-        match = re.match(r'#(\d+) (.+)', lines[2].strip())
+        # Utilizar expresiones regulares para extraer los datos
+        match = re.search(r'#(\d+) (.+?)MAX PC: (\d+)MAX PC 50: (\d+)', span_text)
         if match:
             nodex = match.group(1)
             name = match.group(2)
+            max_pc = match.group(3)
+            max_pc_50 = match.group(4)
         else:
             nodex = "No encontrado"
             name = "No encontrado"
-        
-        # Extraer MAX PC y MAX PC 50 utilizando expresiones regulares
-        max_pc_match = re.search(r'MAX PC: (\d+)', span_text)
-        max_pc_50_match = re.search(r'MAX PC 50: (\d+)', span_text)
-        max_pc = max_pc_match.group(1) if max_pc_match else "No encontrado"
-        max_pc_50 = max_pc_50_match.group(1) if max_pc_50_match else "No encontrado"
+            max_pc = "No encontrado"
+            max_pc_50 = "No encontrado"
         
         # Crear un diccionario con los datos del pokemon
         pokemon = {
