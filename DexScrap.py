@@ -13,19 +13,16 @@ if response.status_code == 200:
     # Parsear el contenido HTML de la página
     soup = BeautifulSoup(response.content, 'html.parser')
     
-    # Encontrar el div con id "pokemons"
-    pokemons_div = soup.find("div", {"id": "pokemons"})
-    
-    # Encontrar todos los divs con la clase "col"
-    col_divs = pokemons_div.find_all("div", {"class": "col"})
+    # Encontrar todos los elementos <span> con la clase "badge"
+    badge_elements = soup.find_all("span", {"class": "badge"})
     
     # Inicializar una lista para almacenar los datos de los pokemons
     pokemon_data = []
     
-    # Iterar a través de los divs con clase "col"
-    for col in col_divs:
-        # Obtener el texto dentro del span
-        span_text = col.span.get_text()
+    # Iterar a través de los elementos <span>
+    for badge in badge_elements:
+        # Obtener el texto dentro del elemento <span>
+        span_text = badge.get_text().strip()
         
         # Dividir el texto en líneas
         lines = span_text.split("\n")
