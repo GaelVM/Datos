@@ -3,133 +3,133 @@
         "nodex": "001",
         "nombre": "Bulbasaur",
         "maxpc": "1115",
-        "maxpc50": "126011"
+        "maxpc50": "1260"
     },
     {
         "nodex": "001",
         "nombre": "Bulbasaur (Shadow)",
         "maxpc": "1115",
-        "maxpc50": "126011"
+        "maxpc50": "1260"
     },
     {
         "nodex": "002",
         "nombre": "Ivysaur",
         "maxpc": "1699",
-        "maxpc50": "192115"
+        "maxpc50": "1921"
     },
     {
         "nodex": "002",
         "nombre": "Ivysaur (Shadow)",
         "maxpc": "1699",
-        "maxpc50": "192115"
+        "maxpc50": "1921"
     },
     {
         "nodex": "003",
         "nombre": "Venusaur",
         "maxpc": "2720",
-        "maxpc50": "307519"
+        "maxpc50": "3075"
     },
     {
         "nodex": "003",
         "nombre": "Venusaur (Mega)",
         "maxpc": "3698",
-        "maxpc50": "418124"
+        "maxpc50": "4181"
     },
     {
         "nodex": "003",
         "nombre": "Venusaur (Shadow)",
         "maxpc": "2720",
-        "maxpc50": "307519"
+        "maxpc50": "3075"
     },
     {
         "nodex": "004",
         "nombre": "Charmander",
         "maxpc": "980",
-        "maxpc50": "110811"
+        "maxpc50": "1108"
     },
     {
         "nodex": "004",
         "nombre": "Charmander (Shadow)",
         "maxpc": "980",
-        "maxpc50": "110811"
+        "maxpc50": "1108"
     },
     {
         "nodex": "005",
         "nombre": "Charmeleon",
         "maxpc": "1653",
-        "maxpc50": "186815"
+        "maxpc50": "1868"
     },
     {
         "nodex": "005",
         "nombre": "Charmeleon (Shadow)",
         "maxpc": "1653",
-        "maxpc50": "186815"
+        "maxpc50": "1868"
     },
     {
         "nodex": "006",
         "nombre": "Charizard",
         "maxpc": "2889",
-        "maxpc50": "326622"
+        "maxpc50": "3266"
     },
     {
         "nodex": "006",
         "nombre": "Charizard (Mega X)",
         "maxpc": "3850",
-        "maxpc50": "435327"
+        "maxpc50": "4353"
     },
     {
         "nodex": "006",
         "nombre": "Charizard (Mega Y)",
         "maxpc": "4455",
-        "maxpc50": "503731"
+        "maxpc50": "5037"
     },
     {
         "nodex": "006",
         "nombre": "Charizard (Shadow)",
         "maxpc": "2889",
-        "maxpc50": "326622"
+        "maxpc50": "3266"
     },
     {
         "nodex": "007",
         "nombre": "Squirtle",
         "maxpc": "946",
-        "maxpc50": "10699"
+        "maxpc50": "1069"
     },
     {
         "nodex": "007",
         "nombre": "Squirtle (Shadow)",
         "maxpc": "946",
-        "maxpc50": "10699"
+        "maxpc50": "1069"
     },
     {
         "nodex": "008",
         "nombre": "Wartortle",
         "maxpc": "1488",
-        "maxpc50": "168212"
+        "maxpc50": "1682"
     },
     {
         "nodex": "008",
         "nombre": "Wartortle (Shadow)",
         "maxpc": "1488",
-        "maxpc50": "168212"
+        "maxpc50": "1682"
     },
     {
         "nodex": "009",
         "nombre": "Blastoise",
         "maxpc": "2466",
-        "maxpc50": "278817"
+        "maxpc50": "2788"
     },
     {
         "nodex": "009",
         "nombre": "Blastoise (Mega)",
         "maxpc": "3941",
-        "maxpc50": "445526"
+        "maxpc50": "4455"
     },
     {
         "nodex": "009",
         "nombre": "Blastoise (Shadow)",
         "maxpc": "2466",
-        "maxpc50": "278817"
+        "maxpc50": "2788"
     },
     {
         "nodex": "010",
@@ -147,7 +147,7 @@
         "nodex": "012",
         "nombre": "Butterfree",
         "maxpc": "1827",
-        "maxpc50": "206516"
+        "maxpc50": "2065"
     },
     {
         "nodex": "013",
@@ -177,19 +177,19 @@
         "nodex": "015",
         "nombre": "Beedrill",
         "maxpc": "1846",
-        "maxpc50": "208716"
+        "maxpc50": "2087"
     },
     {
         "nodex": "015",
         "nombre": "Beedrill (Mega)",
         "maxpc": "3383",
-        "maxpc50": "382430"
+        "maxpc50": "3824"
     },
     {
         "nodex": "015",
         "nombre": "Beedrill (Shadow)",
         "maxpc": "1846",
-        "maxpc50": "208716"
+        "maxpc50": "2087"
     },
     {
         "nodex": "016",
@@ -201,169 +201,169 @@
         "nodex": "017",
         "nombre": "Pidgeotto",
         "maxpc": "1194",
-        "maxpc50": "135011"
+        "maxpc50": "1350"
     },
     {
         "nodex": "018",
         "nombre": "Pidgeot",
         "maxpc": "2129",
-        "maxpc50": "240716"
+        "maxpc50": "2407"
     },
     {
         "nodex": "018",
         "nombre": "Pidgeot (Mega)",
         "maxpc": "3680",
-        "maxpc50": "416028"
+        "maxpc50": "4160"
     },
     {
         "nodex": "019",
         "nombre": "Rattata",
         "maxpc": "734",
-        "maxpc50": "83010"
+        "maxpc50": "8301"
     },
     {
         "nodex": "019",
         "nombre": "Rattata (Alolan)",
         "maxpc": "734",
-        "maxpc50": "83010"
+        "maxpc50": "8301"
     },
     {
         "nodex": "019",
         "nombre": "Rattata (Shadow)",
         "maxpc": "734",
-        "maxpc50": "83010"
+        "maxpc50": "8301"
     },
     {
         "nodex": "019",
         "nombre": "Rattata (Alolan)",
         "maxpc": "734",
-        "maxpc50": "83010"
+        "maxpc50": "8301"
     },
     {
         "nodex": "020",
         "nombre": "Raticate",
         "maxpc": "1730",
-        "maxpc50": "195616"
+        "maxpc50": "1956"
     },
     {
         "nodex": "020",
         "nombre": "Raticate (Alolan)",
         "maxpc": "1705",
-        "maxpc50": "192713"
+        "maxpc50": "1927"
     },
     {
         "nodex": "020",
         "nombre": "Raticate (Shadow)",
         "maxpc": "1730",
-        "maxpc50": "195616"
+        "maxpc50": "1956"
     },
     {
         "nodex": "020",
         "nombre": "Raticate (Alolan)",
         "maxpc": "1705",
-        "maxpc50": "192713"
+        "maxpc50": "1927"
     },
     {
         "nodex": "021",
         "nombre": "Spearow",
         "maxpc": "798",
-        "maxpc50": "90211"
+        "maxpc50": "9021"
     },
     {
         "nodex": "022",
         "nombre": "Fearow",
         "maxpc": "1997",
-        "maxpc50": "225718"
+        "maxpc50": "2257"
     },
     {
         "nodex": "023",
         "nombre": "Ekans",
         "maxpc": "927",
-        "maxpc50": "104811"
+        "maxpc50": "1048"
     },
     {
         "nodex": "023",
         "nombre": "Ekans (Shadow)",
         "maxpc": "927",
-        "maxpc50": "104811"
+        "maxpc50": "1048"
     },
     {
         "nodex": "024",
         "nombre": "Arbok",
         "maxpc": "1921",
-        "maxpc50": "217116"
+        "maxpc50": "2171"
     },
     {
         "nodex": "024",
         "nombre": "Arbok (Shadow)",
         "maxpc": "1921",
-        "maxpc50": "217116"
+        "maxpc50": "2171"
     },
     {
         "nodex": "025",
         "nombre": "Pikachu",
         "maxpc": "938",
-        "maxpc50": "106011"
+        "maxpc50": "1060"
     },
     {
         "nodex": "026",
         "nombre": "Raichu",
         "maxpc": "2182",
-        "maxpc50": "246719"
+        "maxpc50": "2467"
     },
     {
         "nodex": "026",
         "nombre": "Raichu (Alolan)",
         "maxpc": "2286",
-        "maxpc50": "258520"
+        "maxpc50": "2585"
     },
     {
         "nodex": "027",
         "nombre": "Sandshrew",
         "maxpc": "1261",
-        "maxpc50": "142612"
+        "maxpc50": "1426"
     },
     {
         "nodex": "027",
         "nombre": "Sandshrew (Alolan)",
         "maxpc": "1293",
-        "maxpc50": "146212"
+        "maxpc50": "1462"
     },
     {
         "nodex": "027",
         "nombre": "Sandshrew (Shadow)",
         "maxpc": "1261",
-        "maxpc50": "142612"
+        "maxpc50": "1426"
     },
     {
         "nodex": "027",
         "nombre": "Sandshrew (Alolan)",
         "maxpc": "1293",
-        "maxpc50": "146212"
+        "maxpc50": "1462"
     },
     {
         "nodex": "028",
         "nombre": "Sandslash",
         "maxpc": "2374",
-        "maxpc50": "268418"
+        "maxpc50": "2684"
     },
     {
         "nodex": "028",
         "nombre": "Sandslash (Alolan)",
         "maxpc": "2432",
-        "maxpc50": "275017"
+        "maxpc50": "2750"
     },
     {
         "nodex": "028",
         "nombre": "Sandslash (Shadow)",
         "maxpc": "2374",
-        "maxpc50": "268418"
+        "maxpc50": "2684"
     },
     {
         "nodex": "028",
         "nombre": "Sandslash (Alolan)",
         "maxpc": "2432",
-        "maxpc50": "275017"
+        "maxpc50": "2750"
     },
     {
         "nodex": "029",
@@ -381,73 +381,73 @@
         "nodex": "030",
         "nombre": "Nidorina",
         "maxpc": "1309",
-        "maxpc50": "148011"
+        "maxpc50": "1480"
     },
     {
         "nodex": "030",
         "nombre": "Nidorina (Shadow)",
         "maxpc": "1309",
-        "maxpc50": "148011"
+        "maxpc50": "1480"
     },
     {
         "nodex": "031",
         "nombre": "Nidoqueen",
         "maxpc": "2488",
-        "maxpc50": "281218"
+        "maxpc50": "2812"
     },
     {
         "nodex": "031",
         "nombre": "Nidoqueen (Shadow)",
         "maxpc": "2488",
-        "maxpc50": "281218"
+        "maxpc50": "2812"
     },
     {
         "nodex": "032",
         "nombre": "Nidoran Male",
         "maxpc": "860",
-        "maxpc50": "97310"
+        "maxpc50": "9731"
     },
     {
         "nodex": "032",
         "nombre": "Nidoran Male (Shadow)",
         "maxpc": "860",
-        "maxpc50": "97310"
+        "maxpc50": "9731"
     },
     {
         "nodex": "033",
         "nombre": "Nidorino",
         "maxpc": "1393",
-        "maxpc50": "157513"
+        "maxpc50": "1575"
     },
     {
         "nodex": "033",
         "nombre": "Nidorino (Shadow)",
         "maxpc": "1393",
-        "maxpc50": "157513"
+        "maxpc50": "1575"
     },
     {
         "nodex": "034",
         "nombre": "Nidoking",
         "maxpc": "2567",
-        "maxpc50": "290220"
+        "maxpc50": "2902"
     },
     {
         "nodex": "034",
         "nombre": "Nidoking (Shadow)",
         "maxpc": "2567",
-        "maxpc50": "290220"
+        "maxpc50": "2902"
     },
     {
         "nodex": "035",
         "nombre": "Clefairy",
         "maxpc": "1155",
-        "maxpc50": "130610"
+        "maxpc50": "1306"
     },
     {
         "nodex": "036",
         "nombre": "Clefable",
         "maxpc": "2437",
-        "maxpc50": "275517"
+        "maxpc50": "2755"
     },
     {
         "nodex": "037",
@@ -477,25 +477,25 @@
         "nodex": "038",
         "nombre": "Ninetales",
         "maxpc": "2279",
-        "maxpc50": "257716"
+        "maxpc50": "2577"
     },
     {
         "nodex": "038",
         "nombre": "Ninetales (Alolan)",
         "maxpc": "2309",
-        "maxpc50": "261017"
+        "maxpc50": "2610"
     },
     {
         "nodex": "038",
         "nombre": "Ninetales (Shadow)",
         "maxpc": "2279",
-        "maxpc50": "257716"
+        "maxpc50": "2577"
     },
     {
         "nodex": "038",
         "nombre": "Ninetales (Alolan)",
         "maxpc": "2309",
-        "maxpc50": "261017"
+        "maxpc50": "2610"
     },
     {
         "nodex": "039",
@@ -507,7 +507,7 @@
         "nodex": "040",
         "nombre": "Wigglytuff",
         "maxpc": "1926",
-        "maxpc50": "217815"
+        "maxpc50": "2178"
     },
     {
         "nodex": "041",
@@ -525,133 +525,133 @@
         "nodex": "042",
         "nombre": "Golbat",
         "maxpc": "1976",
-        "maxpc50": "223416"
+        "maxpc50": "2234"
     },
     {
         "nodex": "042",
         "nombre": "Golbat (Shadow)",
         "maxpc": "1976",
-        "maxpc50": "223416"
+        "maxpc50": "2234"
     },
     {
         "nodex": "043",
         "nombre": "Oddish",
         "maxpc": "1228",
-        "maxpc50": "138913"
+        "maxpc50": "1389"
     },
     {
         "nodex": "043",
         "nombre": "Oddish (Shadow)",
         "maxpc": "1228",
-        "maxpc50": "138913"
+        "maxpc50": "1389"
     },
     {
         "nodex": "044",
         "nombre": "Gloom",
         "maxpc": "1681",
-        "maxpc50": "190015"
+        "maxpc50": "1900"
     },
     {
         "nodex": "044",
         "nombre": "Gloom (Shadow)",
         "maxpc": "1681",
-        "maxpc50": "190015"
+        "maxpc50": "1900"
     },
     {
         "nodex": "045",
         "nombre": "Vileplume",
         "maxpc": "2559",
-        "maxpc50": "289320"
+        "maxpc50": "2893"
     },
     {
         "nodex": "045",
         "nombre": "Vileplume (Shadow)",
         "maxpc": "2559",
-        "maxpc50": "289320"
+        "maxpc50": "2893"
     },
     {
         "nodex": "046",
         "nombre": "Paras",
         "maxpc": "1018",
-        "maxpc50": "115012"
+        "maxpc50": "1150"
     },
     {
         "nodex": "047",
         "nombre": "Parasect",
         "maxpc": "1859",
-        "maxpc50": "210216"
+        "maxpc50": "2102"
     },
     {
         "nodex": "048",
         "nombre": "Venonat",
         "maxpc": "1004",
-        "maxpc50": "113510"
+        "maxpc50": "1135"
     },
     {
         "nodex": "048",
         "nombre": "Venonat (Shadow)",
         "maxpc": "1004",
-        "maxpc50": "113510"
+        "maxpc50": "1135"
     },
     {
         "nodex": "049",
         "nombre": "Venomoth",
         "maxpc": "2082",
-        "maxpc50": "235417"
+        "maxpc50": "2354"
     },
     {
         "nodex": "049",
         "nombre": "Venomoth (Shadow)",
         "maxpc": "2082",
-        "maxpc50": "235417"
+        "maxpc50": "2354"
     },
     {
         "nodex": "050",
         "nombre": "Diglett",
         "maxpc": "676",
-        "maxpc50": "76410"
+        "maxpc50": "7641"
     },
     {
         "nodex": "050",
         "nombre": "Diglett (Alolan)",
         "maxpc": "681",
-        "maxpc50": "77010"
+        "maxpc50": "7701"
     },
     {
         "nodex": "050",
         "nombre": "Diglett (Shadow)",
         "maxpc": "676",
-        "maxpc50": "76410"
+        "maxpc50": "7641"
     },
     {
         "nodex": "050",
         "nombre": "Diglett (Alolan)",
         "maxpc": "681",
-        "maxpc50": "77010"
+        "maxpc50": "7701"
     },
     {
         "nodex": "051",
         "nombre": "Dugtrio",
         "maxpc": "1567",
-        "maxpc50": "177216"
+        "maxpc50": "1772"
     },
     {
         "nodex": "051",
         "nombre": "Dugtrio (Alolan)",
         "maxpc": "1897",
-        "maxpc50": "214520"
+        "maxpc50": "2145"
     },
     {
         "nodex": "051",
         "nombre": "Dugtrio (Shadow)",
         "maxpc": "1567",
-        "maxpc50": "177216"
+        "maxpc50": "1772"
     },
     {
         "nodex": "051",
         "nombre": "Dugtrio (Alolan)",
         "maxpc": "1897",
-        "maxpc50": "214520"
+        "maxpc50": "2145"
     },
     {
         "nodex": "052",
@@ -669,7 +669,7 @@
         "nodex": "052",
         "nombre": "Meowth (Galarian)",
         "maxpc": "1035",
-        "maxpc50": "117011"
+        "maxpc50": "1170"
     },
     {
         "nodex": "052",
@@ -681,895 +681,895 @@
         "nodex": "053",
         "nombre": "Persian",
         "maxpc": "1689",
-        "maxpc50": "191015"
+        "maxpc50": "1910"
     },
     {
         "nodex": "053",
         "nombre": "Persian (Alolan)",
         "maxpc": "1771",
-        "maxpc50": "200215"
+        "maxpc50": "2002"
     },
     {
         "nodex": "053",
         "nombre": "Persian (Shadow)",
         "maxpc": "1689",
-        "maxpc50": "191015"
+        "maxpc50": "1910"
     },
     {
         "nodex": "054",
         "nombre": "Psyduck",
         "maxpc": "1106",
-        "maxpc50": "125012"
+        "maxpc50": "1250"
     },
     {
         "nodex": "054",
         "nombre": "Psyduck (Shadow)",
         "maxpc": "1106",
-        "maxpc50": "125012"
+        "maxpc50": "1250"
     },
     {
         "nodex": "055",
         "nombre": "Golduck",
         "maxpc": "2450",
-        "maxpc50": "277019"
+        "maxpc50": "2770"
     },
     {
         "nodex": "055",
         "nombre": "Golduck (Shadow)",
         "maxpc": "2450",
-        "maxpc50": "277019"
+        "maxpc50": "2770"
     },
     {
         "nodex": "056",
         "nombre": "Mankey",
         "maxpc": "1164",
-        "maxpc50": "131714"
+        "maxpc50": "1317"
     },
     {
         "nodex": "057",
         "nombre": "Primeape",
         "maxpc": "2288",
-        "maxpc50": "258620"
+        "maxpc50": "2586"
     },
     {
         "nodex": "058",
         "nombre": "Growlithe",
         "maxpc": "1243",
-        "maxpc50": "140513"
+        "maxpc50": "1405"
     },
     {
         "nodex": "058",
         "nombre": "Growlithe (Hisuian)",
         "maxpc": "1322",
-        "maxpc50": "149514"
+        "maxpc50": "1495"
     },
     {
         "nodex": "058",
         "nombre": "Growlithe (Shadow)",
         "maxpc": "1243",
-        "maxpc50": "140513"
+        "maxpc50": "1405"
     },
     {
         "nodex": "059",
         "nombre": "Arcanine",
         "maxpc": "3029",
-        "maxpc50": "342522"
+        "maxpc50": "3425"
     },
     {
         "nodex": "059",
         "nombre": "Arcanine (Hisuian)",
         "maxpc": "3145",
-        "maxpc50": "355623"
+        "maxpc50": "3556"
     },
     {
         "nodex": "059",
         "nombre": "Arcanine (Shadow)",
         "maxpc": "3029",
-        "maxpc50": "342522"
+        "maxpc50": "3425"
     },
     {
         "nodex": "060",
         "nombre": "Poliwag",
         "maxpc": "829",
-        "maxpc50": "93710"
+        "maxpc50": "9371"
     },
     {
         "nodex": "060",
         "nombre": "Poliwag (Shadow)",
         "maxpc": "829",
-        "maxpc50": "93710"
+        "maxpc50": "9371"
     },
     {
         "nodex": "061",
         "nombre": "Poliwhirl",
         "maxpc": "1419",
-        "maxpc50": "160413"
+        "maxpc50": "1604"
     },
     {
         "nodex": "061",
         "nombre": "Poliwhirl (Shadow)",
         "maxpc": "1419",
-        "maxpc50": "160413"
+        "maxpc50": "1604"
     },
     {
         "nodex": "062",
         "nombre": "Poliwrath",
         "maxpc": "2586",
-        "maxpc50": "292318"
+        "maxpc50": "2923"
     },
     {
         "nodex": "062",
         "nombre": "Poliwrath (Shadow)",
         "maxpc": "2586",
-        "maxpc50": "292318"
+        "maxpc50": "2923"
     },
     {
         "nodex": "063",
         "nombre": "Abra",
         "maxpc": "1342",
-        "maxpc50": "151719"
+        "maxpc50": "1517"
     },
     {
         "nodex": "063",
         "nombre": "Abra (Shadow)",
         "maxpc": "1342",
-        "maxpc50": "151719"
+        "maxpc50": "1517"
     },
     {
         "nodex": "064",
         "nombre": "Kadabra",
         "maxpc": "2059",
-        "maxpc50": "232823"
+        "maxpc50": "2328"
     },
     {
         "nodex": "064",
         "nombre": "Kadabra (Shadow)",
         "maxpc": "2059",
-        "maxpc50": "232823"
+        "maxpc50": "2328"
     },
     {
         "nodex": "065",
         "nombre": "Alakazam",
         "maxpc": "3057",
-        "maxpc50": "345627"
+        "maxpc50": "3456"
     },
     {
         "nodex": "065",
         "nombre": "Alakazam (Mega)",
         "maxpc": "4510",
-        "maxpc50": "509936"
+        "maxpc50": "5099"
     },
     {
         "nodex": "065",
         "nombre": "Alakazam (Shadow)",
         "maxpc": "3057",
-        "maxpc50": "345627"
+        "maxpc50": "3456"
     },
     {
         "nodex": "066",
         "nombre": "Machop",
         "maxpc": "1278",
-        "maxpc50": "144513"
+        "maxpc50": "1445"
     },
     {
         "nodex": "066",
         "nombre": "Machop (Shadow)",
         "maxpc": "1278",
-        "maxpc50": "144513"
+        "maxpc50": "1445"
     },
     {
         "nodex": "067",
         "nombre": "Machoke",
         "maxpc": "2031",
-        "maxpc50": "229617"
+        "maxpc50": "2296"
     },
     {
         "nodex": "067",
         "nombre": "Machoke (Shadow)",
         "maxpc": "2031",
-        "maxpc50": "229617"
+        "maxpc50": "2296"
     },
     {
         "nodex": "068",
         "nombre": "Machamp",
         "maxpc": "3056",
-        "maxpc50": "345523"
+        "maxpc50": "3455"
     },
     {
         "nodex": "068",
         "nombre": "Machamp (Shadow)",
         "maxpc": "3056",
-        "maxpc50": "345523"
+        "maxpc50": "3455"
     },
     {
         "nodex": "069",
         "nombre": "Bellsprout",
         "maxpc": "1033",
-        "maxpc50": "116813"
+        "maxpc50": "1168"
     },
     {
         "nodex": "069",
         "nombre": "Bellsprout (Shadow)",
         "maxpc": "1033",
-        "maxpc50": "116813"
+        "maxpc50": "1168"
     },
     {
         "nodex": "070",
         "nombre": "Weepinbell",
         "maxpc": "1611",
-        "maxpc50": "182217"
+        "maxpc50": "1822"
     },
     {
         "nodex": "070",
         "nombre": "Weepinbell (Shadow)",
         "maxpc": "1611",
-        "maxpc50": "182217"
+        "maxpc50": "1822"
     },
     {
         "nodex": "071",
         "nombre": "Victreebel",
         "maxpc": "2431",
-        "maxpc50": "274820"
+        "maxpc50": "2748"
     },
     {
         "nodex": "071",
         "nombre": "Victreebel (Shadow)",
         "maxpc": "2431",
-        "maxpc50": "274820"
+        "maxpc50": "2748"
     },
     {
         "nodex": "072",
         "nombre": "Tentacool",
         "maxpc": "1040",
-        "maxpc50": "11769"
+        "maxpc50": "1176"
     },
     {
         "nodex": "073",
         "nombre": "Tentacruel",
         "maxpc": "2422",
-        "maxpc50": "273816"
+        "maxpc50": "2738"
     },
     {
         "nodex": "074",
         "nombre": "Geodude",
         "maxpc": "1293",
-        "maxpc50": "146213"
+        "maxpc50": "1462"
     },
     {
         "nodex": "074",
         "nombre": "Geodude (Alolan)",
         "maxpc": "1293",
-        "maxpc50": "146213"
+        "maxpc50": "1462"
     },
     {
         "nodex": "074",
         "nombre": "Geodude (Shadow)",
         "maxpc": "1293",
-        "maxpc50": "146213"
+        "maxpc50": "1462"
     },
     {
         "nodex": "075",
         "nombre": "Graveler",
         "maxpc": "1897",
-        "maxpc50": "214516"
+        "maxpc50": "2145"
     },
     {
         "nodex": "075",
         "nombre": "Graveler (Alolan)",
         "maxpc": "1897",
-        "maxpc50": "214516"
+        "maxpc50": "2145"
     },
     {
         "nodex": "075",
         "nombre": "Graveler (Shadow)",
         "maxpc": "1897",
-        "maxpc50": "214516"
+        "maxpc50": "2145"
     },
     {
         "nodex": "076",
         "nombre": "Golem",
         "maxpc": "2949",
-        "maxpc50": "333421"
+        "maxpc50": "3334"
     },
     {
         "nodex": "076",
         "nombre": "Golem (Alolan)",
         "maxpc": "2949",
-        "maxpc50": "333421"
+        "maxpc50": "3334"
     },
     {
         "nodex": "076",
         "nombre": "Golem (Shadow)",
         "maxpc": "2949",
-        "maxpc50": "333421"
+        "maxpc50": "3334"
     },
     {
         "nodex": "077",
         "nombre": "Ponyta",
         "maxpc": "1697",
-        "maxpc50": "191917"
+        "maxpc50": "1919"
     },
     {
         "nodex": "077",
         "nombre": "Ponyta (Galarian)",
         "maxpc": "1697",
-        "maxpc50": "191917"
+        "maxpc50": "1919"
     },
     {
         "nodex": "078",
         "nombre": "Rapidash",
         "maxpc": "2461",
-        "maxpc50": "278220"
+        "maxpc50": "2782"
     },
     {
         "nodex": "078",
         "nombre": "Rapidash (Galarian)",
         "maxpc": "2461",
-        "maxpc50": "278220"
+        "maxpc50": "2782"
     },
     {
         "nodex": "079",
         "nombre": "Slowpoke",
         "maxpc": "1226",
-        "maxpc50": "138610"
+        "maxpc50": "1386"
     },
     {
         "nodex": "079",
         "nombre": "Slowpoke (Galarian)",
         "maxpc": "1226",
-        "maxpc50": "138610"
+        "maxpc50": "1386"
     },
     {
         "nodex": "079",
         "nombre": "Slowpoke (Shadow)",
         "maxpc": "1226",
-        "maxpc50": "138610"
+        "maxpc50": "1386"
     },
     {
         "nodex": "080",
         "nombre": "Slowbro",
         "maxpc": "2545",
-        "maxpc50": "287717"
+        "maxpc50": "2877"
     },
     {
         "nodex": "080",
         "nombre": "Slowbro (Galarian)",
         "maxpc": "2445",
-        "maxpc50": "276418"
+        "maxpc50": "2764"
     },
     {
         "nodex": "080",
         "nombre": "Slowbro (Mega)",
         "maxpc": "3755",
-        "maxpc50": "424522"
+        "maxpc50": "4245"
     },
     {
         "nodex": "080",
         "nombre": "Slowbro (Shadow)",
         "maxpc": "2545",
-        "maxpc50": "287717"
+        "maxpc50": "2877"
     },
     {
         "nodex": "081",
         "nombre": "Magnemite",
         "maxpc": "1362",
-        "maxpc50": "154016"
+        "maxpc50": "1540"
     },
     {
         "nodex": "081",
         "nombre": "Magnemite (Shadow)",
         "maxpc": "1362",
-        "maxpc50": "154016"
+        "maxpc50": "1540"
     },
     {
         "nodex": "082",
         "nombre": "Magneton",
         "maxpc": "2485",
-        "maxpc50": "281022"
+        "maxpc50": "2810"
     },
     {
         "nodex": "082",
         "nombre": "Magneton (Shadow)",
         "maxpc": "2485",
-        "maxpc50": "281022"
+        "maxpc50": "2810"
     },
     {
         "nodex": "083",
         "nombre": "Farfetchd",
         "maxpc": "1236",
-        "maxpc50": "139712"
+        "maxpc50": "1397"
     },
     {
         "nodex": "083",
         "nombre": "Farfetchd (Galarian)",
         "maxpc": "1674",
-        "maxpc50": "189317"
+        "maxpc50": "1893"
     },
     {
         "nodex": "084",
         "nombre": "Doduo",
         "maxpc": "1200",
-        "maxpc50": "135715"
+        "maxpc50": "1357"
     },
     {
         "nodex": "085",
         "nombre": "Dodrio",
         "maxpc": "2362",
-        "maxpc50": "267021"
+        "maxpc50": "2670"
     },
     {
         "nodex": "086",
         "nombre": "Seel",
         "maxpc": "971",
-        "maxpc50": "10988"
+        "maxpc50": "1098"
     },
     {
         "nodex": "087",
         "nombre": "Dewgong",
         "maxpc": "1985",
-        "maxpc50": "224513"
+        "maxpc50": "2245"
     },
     {
         "nodex": "088",
         "nombre": "Grimer",
         "maxpc": "1374",
-        "maxpc50": "155313"
+        "maxpc50": "1553"
     },
     {
         "nodex": "088",
         "nombre": "Grimer (Alolan)",
         "maxpc": "1374",
-        "maxpc50": "155313"
+        "maxpc50": "1553"
     },
     {
         "nodex": "088",
         "nombre": "Grimer (Shadow)",
         "maxpc": "1374",
-        "maxpc50": "155313"
+        "maxpc50": "1553"
     },
     {
         "nodex": "089",
         "nombre": "Muk",
         "maxpc": "2757",
-        "maxpc50": "311719"
+        "maxpc50": "3117"
     },
     {
         "nodex": "089",
         "nombre": "Muk (Alolan)",
         "maxpc": "2757",
-        "maxpc50": "311719"
+        "maxpc50": "3117"
     },
     {
         "nodex": "089",
         "nombre": "Muk (Shadow)",
         "maxpc": "2757",
-        "maxpc50": "311719"
+        "maxpc50": "3117"
     },
     {
         "nodex": "090",
         "nombre": "Shellder",
         "maxpc": "1080",
-        "maxpc50": "122111"
+        "maxpc50": "1221"
     },
     {
         "nodex": "090",
         "nombre": "Shellder (Shadow)",
         "maxpc": "1080",
-        "maxpc50": "122111"
+        "maxpc50": "1221"
     },
     {
         "nodex": "091",
         "nombre": "Cloyster",
         "maxpc": "2547",
-        "maxpc50": "288018"
+        "maxpc50": "2880"
     },
     {
         "nodex": "091",
         "nombre": "Cloyster (Shadow)",
         "maxpc": "2547",
-        "maxpc50": "288018"
+        "maxpc50": "2880"
     },
     {
         "nodex": "092",
         "nombre": "Gastly",
         "maxpc": "1229",
-        "maxpc50": "139018"
+        "maxpc50": "1390"
     },
     {
         "nodex": "093",
         "nombre": "Haunter",
         "maxpc": "1963",
-        "maxpc50": "221922"
+        "maxpc50": "2219"
     },
     {
         "nodex": "094",
         "nombre": "Gengar",
         "maxpc": "2878",
-        "maxpc50": "325426"
+        "maxpc50": "3254"
     },
     {
         "nodex": "094",
         "nombre": "Gengar (Mega)",
         "maxpc": "4336",
-        "maxpc50": "490234"
+        "maxpc50": "4902"
     },
     {
         "nodex": "095",
         "nombre": "Onix",
         "maxpc": "1101",
-        "maxpc50": "12458"
+        "maxpc50": "1245"
     },
     {
         "nodex": "095",
         "nombre": "Onix (Shadow)",
         "maxpc": "1101",
-        "maxpc50": "12458"
+        "maxpc50": "1245"
     },
     {
         "nodex": "096",
         "nombre": "Drowzee",
         "maxpc": "1040",
-        "maxpc50": "11768"
+        "maxpc50": "1176"
     },
     {
         "nodex": "096",
         "nombre": "Drowzee (Shadow)",
         "maxpc": "1040",
-        "maxpc50": "11768"
+        "maxpc50": "1176"
     },
     {
         "nodex": "097",
         "nombre": "Hypno",
         "maxpc": "2090",
-        "maxpc50": "236314"
+        "maxpc50": "2363"
     },
     {
         "nodex": "097",
         "nombre": "Hypno (Shadow)",
         "maxpc": "2090",
-        "maxpc50": "236314"
+        "maxpc50": "2363"
     },
     {
         "nodex": "098",
         "nombre": "Krabby",
         "maxpc": "1561",
-        "maxpc50": "176418"
+        "maxpc50": "1764"
     },
     {
         "nodex": "099",
         "nombre": "Kingler",
         "maxpc": "2829",
-        "maxpc50": "319824"
+        "maxpc50": "3198"
     },
     {
         "nodex": "100",
         "nombre": "Voltorb",
         "maxpc": "1010",
-        "maxpc50": "114110"
+        "maxpc50": "1141"
     },
     {
         "nodex": "100",
         "nombre": "Voltorb (Hisuian)",
         "maxpc": "1010",
-        "maxpc50": "114110"
+        "maxpc50": "1141"
     },
     {
         "nodex": "100",
         "nombre": "Voltorb (Shadow)",
         "maxpc": "1010",
-        "maxpc50": "114110"
+        "maxpc50": "1141"
     },
     {
         "nodex": "101",
         "nombre": "Electrode",
         "maxpc": "2099",
-        "maxpc50": "237317"
+        "maxpc50": "2373"
     },
     {
         "nodex": "101",
         "nombre": "Electrode (Hisuian)",
         "maxpc": "2149",
-        "maxpc50": "243017"
+        "maxpc50": "2430"
     },
     {
         "nodex": "101",
         "nombre": "Electrode (Shadow)",
         "maxpc": "2099",
-        "maxpc50": "237317"
+        "maxpc50": "2373"
     },
     {
         "nodex": "102",
         "nombre": "Exeggcute",
         "maxpc": "1175",
-        "maxpc50": "132810"
+        "maxpc50": "1328"
     },
     {
         "nodex": "102",
         "nombre": "Exeggcute (Shadow)",
         "maxpc": "1175",
-        "maxpc50": "132810"
+        "maxpc50": "1328"
     },
     {
         "nodex": "103",
         "nombre": "Exeggutor",
         "maxpc": "3014",
-        "maxpc50": "340823"
+        "maxpc50": "3408"
     },
     {
         "nodex": "103",
         "nombre": "Exeggutor (Alolan)",
         "maxpc": "3014",
-        "maxpc50": "340723"
+        "maxpc50": "3407"
     },
     {
         "nodex": "103",
         "nombre": "Exeggutor (Shadow)",
         "maxpc": "3014",
-        "maxpc50": "340823"
+        "maxpc50": "3408"
     },
     {
         "nodex": "103",
         "nombre": "Exeggutor (Alolan)",
         "maxpc": "3014",
-        "maxpc50": "340723"
+        "maxpc50": "3407"
     },
     {
         "nodex": "104",
         "nombre": "Cubone",
         "maxpc": "1019",
-        "maxpc50": "11529"
+        "maxpc50": "1152"
     },
     {
         "nodex": "104",
         "nombre": "Cubone (Shadow)",
         "maxpc": "1019",
-        "maxpc50": "11529"
+        "maxpc50": "1152"
     },
     {
         "nodex": "105",
         "nombre": "Marowak",
         "maxpc": "1835",
-        "maxpc50": "207514"
+        "maxpc50": "2075"
     },
     {
         "nodex": "105",
         "nombre": "Marowak (Alolan)",
         "maxpc": "1835",
-        "maxpc50": "207514"
+        "maxpc50": "2075"
     },
     {
         "nodex": "105",
         "nombre": "Marowak (Shadow)",
         "maxpc": "1835",
-        "maxpc50": "207514"
+        "maxpc50": "2075"
     },
     {
         "nodex": "105",
         "nombre": "Marowak (Alolan)",
         "maxpc": "1835",
-        "maxpc50": "207514"
+        "maxpc50": "2075"
     },
     {
         "nodex": "106",
         "nombre": "Hitmonlee",
         "maxpc": "2576",
-        "maxpc50": "291222"
+        "maxpc50": "2912"
     },
     {
         "nodex": "106",
         "nombre": "Hitmonlee (Shadow)",
         "maxpc": "2576",
-        "maxpc50": "291222"
+        "maxpc50": "2912"
     },
     {
         "nodex": "107",
         "nombre": "Hitmonchan",
         "maxpc": "2332",
-        "maxpc50": "263619"
+        "maxpc50": "2636"
     },
     {
         "nodex": "107",
         "nombre": "Hitmonchan (Shadow)",
         "maxpc": "2332",
-        "maxpc50": "263619"
+        "maxpc50": "2636"
     },
     {
         "nodex": "108",
         "nombre": "Lickitung",
         "maxpc": "1411",
-        "maxpc50": "159510"
+        "maxpc50": "1595"
     },
     {
         "nodex": "109",
         "nombre": "Koffing",
         "maxpc": "1214",
-        "maxpc50": "137311"
+        "maxpc50": "1373"
     },
     {
         "nodex": "109",
         "nombre": "Koffing (Shadow)",
         "maxpc": "1214",
-        "maxpc50": "137311"
+        "maxpc50": "1373"
     },
     {
         "nodex": "110",
         "nombre": "Weezing",
         "maxpc": "2293",
-        "maxpc50": "259217"
+        "maxpc50": "2592"
     },
     {
         "nodex": "110",
         "nombre": "Weezing (Galarian)",
         "maxpc": "2293",
-        "maxpc50": "259217"
+        "maxpc50": "2592"
     },
     {
         "nodex": "110",
         "nombre": "Weezing (Shadow)",
         "maxpc": "2293",
-        "maxpc50": "259217"
+        "maxpc50": "2592"
     },
     {
         "nodex": "111",
         "nombre": "Rhyhorn",
         "maxpc": "1651",
-        "maxpc50": "186714"
+        "maxpc50": "1867"
     },
     {
         "nodex": "112",
         "nombre": "Rhydon",
         "maxpc": "3179",
-        "maxpc50": "359422"
+        "maxpc50": "3594"
     },
     {
         "nodex": "113",
         "nombre": "Chansey",
         "maxpc": "1255",
-        "maxpc50": "14186"
+        "maxpc50": "1418"
     },
     {
         "nodex": "114",
         "nombre": "Tangela",
         "maxpc": "2238",
-        "maxpc50": "253018"
+        "maxpc50": "2530"
     },
     {
         "nodex": "114",
         "nombre": "Tangela (Shadow)",
         "maxpc": "2238",
-        "maxpc50": "253018"
+        "maxpc50": "2530"
     },
     {
         "nodex": "115",
         "nombre": "Kangaskhan",
         "maxpc": "2586",
-        "maxpc50": "292418"
+        "maxpc50": "2924"
     },
     {
         "nodex": "115",
         "nombre": "Kangaskhan (Mega)",
         "maxpc": "3850",
-        "maxpc50": "435324"
+        "maxpc50": "4353"
     },
     {
         "nodex": "116",
         "nombre": "Horsea",
         "maxpc": "1056",
-        "maxpc50": "119412"
+        "maxpc50": "1194"
     },
     {
         "nodex": "116",
         "nombre": "Horsea (Shadow)",
         "maxpc": "1056",
-        "maxpc50": "119412"
+        "maxpc50": "1194"
     },
     {
         "nodex": "117",
         "nombre": "Seadra",
         "maxpc": "2093",
-        "maxpc50": "236618"
+        "maxpc50": "2366"
     },
     {
         "nodex": "117",
         "nombre": "Seadra (Shadow)",
         "maxpc": "2093",
-        "maxpc50": "236618"
+        "maxpc50": "2366"
     },
     {
         "nodex": "118",
         "nombre": "Goldeen",
         "maxpc": "1152",
-        "maxpc50": "130212"
+        "maxpc50": "1302"
     },
     {
         "nodex": "119",
         "nombre": "Seaking",
         "maxpc": "2162",
-        "maxpc50": "244417"
+        "maxpc50": "2444"
     },
     {
         "nodex": "120",
         "nombre": "Staryu",
         "maxpc": "1157",
-        "maxpc50": "130813"
+        "maxpc50": "1308"
     },
     {
         "nodex": "121",
         "nombre": "Starmie",
         "maxpc": "2584",
-        "maxpc50": "292221"
+        "maxpc50": "2922"
     },
     {
         "nodex": "122",
         "nombre": "Mr. Mime",
         "maxpc": "2228",
-        "maxpc50": "251819"
+        "maxpc50": "2518"
     },
     {
         "nodex": "122",
         "nombre": "Mr. Mime (Galarian)",
         "maxpc": "2068",
-        "maxpc50": "233818"
+        "maxpc50": "2338"
     },
     {
         "nodex": "123",
         "nombre": "Scyther",
         "maxpc": "2706",
-        "maxpc50": "306021"
+        "maxpc50": "3060"
     },
     {
         "nodex": "123",
         "nombre": "Scyther (Shadow)",
         "maxpc": "2706",
-        "maxpc50": "306021"
+        "maxpc50": "3060"
     },
     {
         "nodex": "124",
         "nombre": "Jynx",
         "maxpc": "2555",
-        "maxpc50": "288822"
+        "maxpc50": "2888"
     },
     {
         "nodex": "125",
         "nombre": "Electabuzz",
         "maxpc": "2334",
-        "maxpc50": "263919"
+        "maxpc50": "2639"
     },
     {
         "nodex": "125",
         "nombre": "Electabuzz (Shadow)",
         "maxpc": "2334",
-        "maxpc50": "263919"
+        "maxpc50": "2639"
     },
     {
         "nodex": "126",
         "nombre": "Magmar",
         "maxpc": "2394",
-        "maxpc50": "270620"
+        "maxpc50": "2706"
     },
     {
         "nodex": "126",
         "nombre": "Magmar (Shadow)",
         "maxpc": "2394",
-        "maxpc50": "270620"
+        "maxpc50": "2706"
     },
     {
         "nodex": "127",
         "nombre": "Pinsir",
         "maxpc": "2959",
-        "maxpc50": "334523"
+        "maxpc50": "3345"
     },
     {
         "nodex": "127",
         "nombre": "Pinsir (Shadow)",
         "maxpc": "2959",
-        "maxpc50": "334523"
+        "maxpc50": "3345"
     },
     {
         "nodex": "128",
         "nombre": "Tauros",
         "maxpc": "2620",
-        "maxpc50": "296219"
+        "maxpc50": "2962"
     },
     {
         "nodex": "129",
@@ -1587,31 +1587,31 @@
         "nodex": "130",
         "nombre": "Gyarados",
         "maxpc": "3391",
-        "maxpc50": "383423"
+        "maxpc50": "3834"
     },
     {
         "nodex": "130",
         "nombre": "Gyarados (Mega)",
         "maxpc": "4717",
-        "maxpc50": "533229"
+        "maxpc50": "5332"
     },
     {
         "nodex": "130",
         "nombre": "Gyarados (Shadow)",
         "maxpc": "3391",
-        "maxpc50": "383423"
+        "maxpc50": "3834"
     },
     {
         "nodex": "131",
         "nombre": "Lapras",
         "maxpc": "2641",
-        "maxpc50": "298516"
+        "maxpc50": "2985"
     },
     {
         "nodex": "131",
         "nombre": "Lapras (Shadow)",
         "maxpc": "2641",
-        "maxpc50": "298516"
+        "maxpc50": "2985"
     },
     {
         "nodex": "132",
@@ -1623,325 +1623,325 @@
         "nodex": "133",
         "nombre": "Eevee",
         "maxpc": "1071",
-        "maxpc50": "121010"
+        "maxpc50": "1210"
     },
     {
         "nodex": "134",
         "nombre": "Vaporeon",
         "maxpc": "3114",
-        "maxpc50": "352120"
+        "maxpc50": "3521"
     },
     {
         "nodex": "135",
         "nombre": "Jolteon",
         "maxpc": "2888",
-        "maxpc50": "326523"
+        "maxpc50": "3265"
     },
     {
         "nodex": "136",
         "nombre": "Flareon",
         "maxpc": "3029",
-        "maxpc50": "342424"
+        "maxpc50": "3424"
     },
     {
         "nodex": "137",
         "nombre": "Porygon",
         "maxpc": "1720",
-        "maxpc50": "194415"
+        "maxpc50": "1944"
     },
     {
         "nodex": "137",
         "nombre": "Porygon (Shadow)",
         "maxpc": "1720",
-        "maxpc50": "194415"
+        "maxpc50": "1944"
     },
     {
         "nodex": "138",
         "nombre": "Omanyte",
         "maxpc": "1544",
-        "maxpc50": "174615"
+        "maxpc50": "1746"
     },
     {
         "nodex": "138",
         "nombre": "Omanyte (Shadow)",
         "maxpc": "1544",
-        "maxpc50": "174615"
+        "maxpc50": "1746"
     },
     {
         "nodex": "139",
         "nombre": "Omastar",
         "maxpc": "2786",
-        "maxpc50": "315020"
+        "maxpc50": "3150"
     },
     {
         "nodex": "139",
         "nombre": "Omastar (Shadow)",
         "maxpc": "2786",
-        "maxpc50": "315020"
+        "maxpc50": "3150"
     },
     {
         "nodex": "140",
         "nombre": "Kabuto",
         "maxpc": "1370",
-        "maxpc50": "154914"
+        "maxpc50": "1549"
     },
     {
         "nodex": "141",
         "nombre": "Kabutops",
         "maxpc": "2713",
-        "maxpc50": "306722"
+        "maxpc50": "3067"
     },
     {
         "nodex": "142",
         "nombre": "Aerodactyl",
         "maxpc": "2783",
-        "maxpc50": "314722"
+        "maxpc50": "3147"
     },
     {
         "nodex": "142",
         "nombre": "Aerodactyl (Mega)",
         "maxpc": "4118",
-        "maxpc50": "465529"
+        "maxpc50": "4655"
     },
     {
         "nodex": "142",
         "nombre": "Aerodactyl (Shadow)",
         "maxpc": "2783",
-        "maxpc50": "314722"
+        "maxpc50": "3147"
     },
     {
         "nodex": "143",
         "nombre": "Snorlax",
         "maxpc": "3225",
-        "maxpc50": "364719"
+        "maxpc50": "3647"
     },
     {
         "nodex": "143",
         "nombre": "Snorlax (Shadow)",
         "maxpc": "3225",
-        "maxpc50": "364719"
+        "maxpc50": "3647"
     },
     {
         "nodex": "144",
         "nombre": "Articuno",
         "maxpc": "3051",
-        "maxpc50": "345019"
+        "maxpc50": "3450"
     },
     {
         "nodex": "144",
         "nombre": "Articuno (Galarian)",
         "maxpc": "3590",
-        "maxpc50": "405925"
+        "maxpc50": "4059"
     },
     {
         "nodex": "144",
         "nombre": "Articuno (Shadow)",
         "maxpc": "3051",
-        "maxpc50": "345019"
+        "maxpc50": "3450"
     },
     {
         "nodex": "145",
         "nombre": "Zapdos",
         "maxpc": "3527",
-        "maxpc50": "398725"
+        "maxpc50": "3987"
     },
     {
         "nodex": "145",
         "nombre": "Zapdos (Galarian)",
         "maxpc": "3548",
-        "maxpc50": "401225"
+        "maxpc50": "4012"
     },
     {
         "nodex": "145",
         "nombre": "Zapdos (Shadow)",
         "maxpc": "3527",
-        "maxpc50": "398725"
+        "maxpc50": "3987"
     },
     {
         "nodex": "146",
         "nombre": "Moltres",
         "maxpc": "3465",
-        "maxpc50": "391725"
+        "maxpc50": "3917"
     },
     {
         "nodex": "146",
         "nombre": "Moltres (Galarian)",
         "maxpc": "3167",
-        "maxpc50": "358020"
+        "maxpc50": "3580"
     },
     {
         "nodex": "146",
         "nombre": "Moltres (Shadow)",
         "maxpc": "3465",
-        "maxpc50": "391725"
+        "maxpc50": "3917"
     },
     {
         "nodex": "147",
         "nombre": "Dratini",
         "maxpc": "1004",
-        "maxpc50": "113611"
+        "maxpc50": "1136"
     },
     {
         "nodex": "147",
         "nombre": "Dratini (Shadow)",
         "maxpc": "1004",
-        "maxpc50": "113611"
+        "maxpc50": "1136"
     },
     {
         "nodex": "148",
         "nombre": "Dragonair",
         "maxpc": "1780",
-        "maxpc50": "201216"
+        "maxpc50": "2012"
     },
     {
         "nodex": "148",
         "nombre": "Dragonair (Shadow)",
         "maxpc": "1780",
-        "maxpc50": "201216"
+        "maxpc50": "2012"
     },
     {
         "nodex": "149",
         "nombre": "Dragonite",
         "maxpc": "3792",
-        "maxpc50": "428726"
+        "maxpc50": "4287"
     },
     {
         "nodex": "149",
         "nombre": "Dragonite (Shadow)",
         "maxpc": "3792",
-        "maxpc50": "428726"
+        "maxpc50": "4287"
     },
     {
         "nodex": "150",
         "nombre": "Mewtwo",
         "maxpc": "4178",
-        "maxpc50": "472430"
+        "maxpc50": "4724"
     },
     {
         "nodex": "150",
         "nombre": "Mewtwo (Armored)",
         "maxpc": "3187",
-        "maxpc50": "360318"
+        "maxpc50": "3603"
     },
     {
         "nodex": "150",
         "nombre": "Mewtwo (Shadow)",
         "maxpc": "4178",
-        "maxpc50": "472430"
+        "maxpc50": "4724"
     },
     {
         "nodex": "151",
         "nombre": "Mew",
         "maxpc": "3265",
-        "maxpc50": "369121"
+        "maxpc50": "3691"
     },
     {
         "nodex": "152",
         "nombre": "Chikorita",
         "maxpc": "935",
-        "maxpc50": "10579"
+        "maxpc50": "1057"
     },
     {
         "nodex": "152",
         "nombre": "Chikorita (Shadow)",
         "maxpc": "935",
-        "maxpc50": "10579"
+        "maxpc50": "1057"
     },
     {
         "nodex": "153",
         "nombre": "Bayleef",
         "maxpc": "1454",
-        "maxpc50": "164412"
+        "maxpc50": "1644"
     },
     {
         "nodex": "153",
         "nombre": "Bayleef (Shadow)",
         "maxpc": "1454",
-        "maxpc50": "164412"
+        "maxpc50": "1644"
     },
     {
         "nodex": "154",
         "nombre": "Meganium",
         "maxpc": "2410",
-        "maxpc50": "272516"
+        "maxpc50": "2725"
     },
     {
         "nodex": "154",
         "nombre": "Meganium (Shadow)",
         "maxpc": "2410",
-        "maxpc50": "272516"
+        "maxpc50": "2725"
     },
     {
         "nodex": "155",
         "nombre": "Cyndaquil",
         "maxpc": "980",
-        "maxpc50": "110811"
+        "maxpc50": "1108"
     },
     {
         "nodex": "155",
         "nombre": "Cyndaquil (Shadow)",
         "maxpc": "980",
-        "maxpc50": "110811"
+        "maxpc50": "1108"
     },
     {
         "nodex": "156",
         "nombre": "Quilava",
         "maxpc": "1653",
-        "maxpc50": "186815"
+        "maxpc50": "1868"
     },
     {
         "nodex": "156",
         "nombre": "Quilava (Shadow)",
         "maxpc": "1653",
-        "maxpc50": "186815"
+        "maxpc50": "1868"
     },
     {
         "nodex": "157",
         "nombre": "Typhlosion",
         "maxpc": "2889",
-        "maxpc50": "326622"
+        "maxpc50": "3266"
     },
     {
         "nodex": "157",
         "nombre": "Typhlosion (Shadow)",
         "maxpc": "2889",
-        "maxpc50": "326622"
+        "maxpc50": "3266"
     },
     {
         "nodex": "158",
         "nombre": "Totodile",
         "maxpc": "1131",
-        "maxpc50": "127911"
+        "maxpc50": "1279"
     },
     {
         "nodex": "158",
         "nombre": "Totodile (Shadow)",
         "maxpc": "1131",
-        "maxpc50": "127911"
+        "maxpc50": "1279"
     },
     {
         "nodex": "159",
         "nombre": "Croconaw",
         "maxpc": "1722",
-        "maxpc50": "194715"
+        "maxpc50": "1947"
     },
     {
         "nodex": "159",
         "nombre": "Croconaw (Shadow)",
         "maxpc": "1722",
-        "maxpc50": "194715"
+        "maxpc50": "1947"
     },
     {
         "nodex": "160",
         "nombre": "Feraligatr",
         "maxpc": "2857",
-        "maxpc50": "323020"
+        "maxpc50": "3230"
     },
     {
         "nodex": "160",
         "nombre": "Feraligatr (Shadow)",
         "maxpc": "2857",
-        "maxpc50": "323020"
+        "maxpc50": "3230"
     },
     {
         "nodex": "161",
@@ -1953,7 +1953,7 @@
         "nodex": "162",
         "nombre": "Furret",
         "maxpc": "1758",
-        "maxpc50": "198714"
+        "maxpc50": "1987"
     },
     {
         "nodex": "163",
@@ -1965,7 +1965,7 @@
         "nodex": "164",
         "nombre": "Noctowl",
         "maxpc": "2024",
-        "maxpc50": "228814"
+        "maxpc50": "2288"
     },
     {
         "nodex": "165",
@@ -1977,43 +1977,43 @@
         "nodex": "166",
         "nombre": "Ledian",
         "maxpc": "1346",
-        "maxpc50": "152210"
+        "maxpc50": "1522"
     },
     {
         "nodex": "167",
         "nombre": "Spinarak",
         "maxpc": "816",
-        "maxpc50": "92310"
+        "maxpc50": "9231"
     },
     {
         "nodex": "168",
         "nombre": "Ariados",
         "maxpc": "1772",
-        "maxpc50": "200316"
+        "maxpc50": "2003"
     },
     {
         "nodex": "169",
         "nombre": "Crobat",
         "maxpc": "2646",
-        "maxpc50": "299219"
+        "maxpc50": "2992"
     },
     {
         "nodex": "169",
         "nombre": "Crobat (Shadow)",
         "maxpc": "2646",
-        "maxpc50": "299219"
+        "maxpc50": "2992"
     },
     {
         "nodex": "170",
         "nombre": "Chinchou",
         "maxpc": "1119",
-        "maxpc50": "126510"
+        "maxpc50": "1265"
     },
     {
         "nodex": "171",
         "nombre": "Lanturn",
         "maxpc": "2085",
-        "maxpc50": "235714"
+        "maxpc50": "2357"
     },
     {
         "nodex": "172",
@@ -2043,85 +2043,85 @@
         "nodex": "176",
         "nombre": "Togetic",
         "maxpc": "1708",
-        "maxpc50": "193113"
+        "maxpc50": "1931"
     },
     {
         "nodex": "177",
         "nombre": "Natu",
         "maxpc": "1102",
-        "maxpc50": "124613"
+        "maxpc50": "1246"
     },
     {
         "nodex": "177",
         "nombre": "Natu (Shadow)",
         "maxpc": "1102",
-        "maxpc50": "124613"
+        "maxpc50": "1246"
     },
     {
         "nodex": "178",
         "nombre": "Xatu",
         "maxpc": "2188",
-        "maxpc50": "247419"
+        "maxpc50": "2474"
     },
     {
         "nodex": "178",
         "nombre": "Xatu (Shadow)",
         "maxpc": "2188",
-        "maxpc50": "247419"
+        "maxpc50": "2474"
     },
     {
         "nodex": "179",
         "nombre": "Mareep",
         "maxpc": "991",
-        "maxpc50": "112011"
+        "maxpc50": "1120"
     },
     {
         "nodex": "179",
         "nombre": "Mareep (Shadow)",
         "maxpc": "991",
-        "maxpc50": "112011"
+        "maxpc50": "1120"
     },
     {
         "nodex": "180",
         "nombre": "Flaaffy",
         "maxpc": "1521",
-        "maxpc50": "172014"
+        "maxpc50": "1720"
     },
     {
         "nodex": "180",
         "nombre": "Flaaffy (Shadow)",
         "maxpc": "1521",
-        "maxpc50": "172014"
+        "maxpc50": "1720"
     },
     {
         "nodex": "181",
         "nombre": "Ampharos",
         "maxpc": "2852",
-        "maxpc50": "322521"
+        "maxpc50": "3225"
     },
     {
         "nodex": "181",
         "nombre": "Ampharos (Mega)",
         "maxpc": "4245",
-        "maxpc50": "479929"
+        "maxpc50": "4799"
     },
     {
         "nodex": "181",
         "nombre": "Ampharos (Shadow)",
         "maxpc": "2852",
-        "maxpc50": "322521"
+        "maxpc50": "3225"
     },
     {
         "nodex": "182",
         "nombre": "Bellossom",
         "maxpc": "2281",
-        "maxpc50": "257816"
+        "maxpc50": "2578"
     },
     {
         "nodex": "182",
         "nombre": "Bellossom (Shadow)",
         "maxpc": "2281",
-        "maxpc50": "257816"
+        "maxpc50": "2578"
     },
     {
         "nodex": "183",
@@ -2133,31 +2133,31 @@
         "nodex": "184",
         "nombre": "Azumarill",
         "maxpc": "1588",
-        "maxpc50": "179511"
+        "maxpc50": "1795"
     },
     {
         "nodex": "185",
         "nombre": "Sudowoodo",
         "maxpc": "2148",
-        "maxpc50": "242816"
+        "maxpc50": "2428"
     },
     {
         "nodex": "185",
         "nombre": "Sudowoodo (Shadow)",
         "maxpc": "2148",
-        "maxpc50": "242816"
+        "maxpc50": "2428"
     },
     {
         "nodex": "186",
         "nombre": "Politoed",
         "maxpc": "2449",
-        "maxpc50": "276917"
+        "maxpc50": "2769"
     },
     {
         "nodex": "186",
         "nombre": "Politoed (Shadow)",
         "maxpc": "2449",
-        "maxpc50": "276917"
+        "maxpc50": "2769"
     },
     {
         "nodex": "187",
@@ -2175,37 +2175,37 @@
         "nodex": "188",
         "nombre": "Skiploom",
         "maxpc": "976",
-        "maxpc50": "11039"
+        "maxpc50": "1103"
     },
     {
         "nodex": "188",
         "nombre": "Skiploom (Shadow)",
         "maxpc": "976",
-        "maxpc50": "11039"
+        "maxpc50": "1103"
     },
     {
         "nodex": "189",
         "nombre": "Jumpluff",
         "maxpc": "1636",
-        "maxpc50": "185011"
+        "maxpc50": "1850"
     },
     {
         "nodex": "189",
         "nombre": "Jumpluff (Shadow)",
         "maxpc": "1636",
-        "maxpc50": "185011"
+        "maxpc50": "1850"
     },
     {
         "nodex": "190",
         "nombre": "Aipom",
         "maxpc": "1348",
-        "maxpc50": "152413"
+        "maxpc50": "1524"
     },
     {
         "nodex": "190",
         "nombre": "Aipom (Shadow)",
         "maxpc": "1348",
-        "maxpc50": "152413"
+        "maxpc50": "1524"
     },
     {
         "nodex": "191",
@@ -2217,13 +2217,13 @@
         "nodex": "192",
         "nombre": "Sunflora",
         "maxpc": "2141",
-        "maxpc50": "242118"
+        "maxpc50": "2421"
     },
     {
         "nodex": "193",
         "nombre": "Yanma",
         "maxpc": "1470",
-        "maxpc50": "166215"
+        "maxpc50": "1662"
     },
     {
         "nodex": "194",
@@ -2241,211 +2241,211 @@
         "nodex": "195",
         "nombre": "Quagsire",
         "maxpc": "1992",
-        "maxpc50": "225215"
+        "maxpc50": "2252"
     },
     {
         "nodex": "195",
         "nombre": "Quagsire (Shadow)",
         "maxpc": "1992",
-        "maxpc50": "225215"
+        "maxpc50": "2252"
     },
     {
         "nodex": "196",
         "nombre": "Espeon",
         "maxpc": "3170",
-        "maxpc50": "358326"
+        "maxpc50": "3583"
     },
     {
         "nodex": "197",
         "nombre": "Umbreon",
         "maxpc": "2137",
-        "maxpc50": "241612"
+        "maxpc50": "2416"
     },
     {
         "nodex": "198",
         "nombre": "Murkrow",
         "maxpc": "1562",
-        "maxpc50": "176617"
+        "maxpc50": "1766"
     },
     {
         "nodex": "198",
         "nombre": "Murkrow (Shadow)",
         "maxpc": "1562",
-        "maxpc50": "176617"
+        "maxpc50": "1766"
     },
     {
         "nodex": "199",
         "nombre": "Slowking",
         "maxpc": "2545",
-        "maxpc50": "287717"
+        "maxpc50": "2877"
     },
     {
         "nodex": "199",
         "nombre": "Slowking (Galarian)",
         "maxpc": "2717",
-        "maxpc50": "307219"
+        "maxpc50": "3072"
     },
     {
         "nodex": "199",
         "nombre": "Slowking (Shadow)",
         "maxpc": "2545",
-        "maxpc50": "287717"
+        "maxpc50": "2877"
     },
     {
         "nodex": "200",
         "nombre": "Misdreavus",
         "maxpc": "1926",
-        "maxpc50": "217816"
+        "maxpc50": "2178"
     },
     {
         "nodex": "200",
         "nombre": "Misdreavus (Shadow)",
         "maxpc": "1926",
-        "maxpc50": "217816"
+        "maxpc50": "2178"
     },
     {
         "nodex": "201",
         "nombre": "Unown",
         "maxpc": "1185",
-        "maxpc50": "133913"
+        "maxpc50": "1339"
     },
     {
         "nodex": "202",
         "nombre": "Wobbuffet",
         "maxpc": "1026",
-        "maxpc50": "11606"
+        "maxpc50": "1160"
     },
     {
         "nodex": "202",
         "nombre": "Wobbuffet (Shadow)",
         "maxpc": "1026",
-        "maxpc50": "11606"
+        "maxpc50": "1160"
     },
     {
         "nodex": "203",
         "nombre": "Girafarig",
         "maxpc": "2046",
-        "maxpc50": "231418"
+        "maxpc50": "2314"
     },
     {
         "nodex": "203",
         "nombre": "Girafarig (Shadow)",
         "maxpc": "2046",
-        "maxpc50": "231418"
+        "maxpc50": "2314"
     },
     {
         "nodex": "204",
         "nombre": "Pineco",
         "maxpc": "1108",
-        "maxpc50": "125310"
+        "maxpc50": "1253"
     },
     {
         "nodex": "204",
         "nombre": "Pineco (Shadow)",
         "maxpc": "1108",
-        "maxpc50": "125310"
+        "maxpc50": "1253"
     },
     {
         "nodex": "205",
         "nombre": "Forretress",
         "maxpc": "2282",
-        "maxpc50": "258016"
+        "maxpc50": "2580"
     },
     {
         "nodex": "205",
         "nombre": "Forretress (Shadow)",
         "maxpc": "2282",
-        "maxpc50": "258016"
+        "maxpc50": "2580"
     },
     {
         "nodex": "206",
         "nombre": "Dunsparce",
         "maxpc": "1689",
-        "maxpc50": "190913"
+        "maxpc50": "1909"
     },
     {
         "nodex": "207",
         "nombre": "Gligar",
         "maxpc": "1857",
-        "maxpc50": "209914"
+        "maxpc50": "2099"
     },
     {
         "nodex": "207",
         "nombre": "Gligar (Shadow)",
         "maxpc": "1857",
-        "maxpc50": "209914"
+        "maxpc50": "2099"
     },
     {
         "nodex": "208",
         "nombre": "Steelix",
         "maxpc": "2414",
-        "maxpc50": "272914"
+        "maxpc50": "2729"
     },
     {
         "nodex": "208",
         "nombre": "Steelix (Mega)",
         "maxpc": "3670",
-        "maxpc50": "414921"
+        "maxpc50": "4149"
     },
     {
         "nodex": "208",
         "nombre": "Steelix (Shadow)",
         "maxpc": "2414",
-        "maxpc50": "272914"
+        "maxpc50": "2729"
     },
     {
         "nodex": "209",
         "nombre": "Snubbull",
         "maxpc": "1237",
-        "maxpc50": "139913"
+        "maxpc50": "1399"
     },
     {
         "nodex": "209",
         "nombre": "Snubbull (Shadow)",
         "maxpc": "1237",
-        "maxpc50": "139913"
+        "maxpc50": "1399"
     },
     {
         "nodex": "210",
         "nombre": "Granbull",
         "maxpc": "2552",
-        "maxpc50": "288521"
+        "maxpc50": "2885"
     },
     {
         "nodex": "210",
         "nombre": "Granbull (Shadow)",
         "maxpc": "2552",
-        "maxpc50": "288521"
+        "maxpc50": "2885"
     },
     {
         "nodex": "211",
         "nombre": "Qwilfish",
         "maxpc": "2051",
-        "maxpc50": "231818"
+        "maxpc50": "2318"
     },
     {
         "nodex": "211",
         "nombre": "Qwilfish (Hisuian)",
         "maxpc": "2136",
-        "maxpc50": "241518"
+        "maxpc50": "2415"
     },
     {
         "nodex": "212",
         "nombre": "Scizor",
         "maxpc": "3001",
-        "maxpc50": "339323"
+        "maxpc50": "3393"
     },
     {
         "nodex": "212",
         "nombre": "Scizor (Mega)",
         "maxpc": "4087",
-        "maxpc50": "462127"
+        "maxpc50": "4621"
     },
     {
         "nodex": "212",
         "nombre": "Scizor (Shadow)",
         "maxpc": "3001",
-        "maxpc50": "339323"
+        "maxpc50": "3393"
     },
     {
         "nodex": "213",
@@ -2463,61 +2463,61 @@
         "nodex": "214",
         "nombre": "Heracross",
         "maxpc": "3101",
-        "maxpc50": "350623"
+        "maxpc50": "3506"
     },
     {
         "nodex": "215",
         "nombre": "Sneasel",
         "maxpc": "2051",
-        "maxpc50": "231918"
+        "maxpc50": "2319"
     },
     {
         "nodex": "215",
         "nombre": "Sneasel (Hisuian)",
         "maxpc": "2051",
-        "maxpc50": "231918"
+        "maxpc50": "2319"
     },
     {
         "nodex": "215",
         "nombre": "Sneasel (Shadow)",
         "maxpc": "2051",
-        "maxpc50": "231918"
+        "maxpc50": "2319"
     },
     {
         "nodex": "216",
         "nombre": "Teddiursa",
         "maxpc": "1328",
-        "maxpc50": "150214"
+        "maxpc50": "1502"
     },
     {
         "nodex": "216",
         "nombre": "Teddiursa (Shadow)",
         "maxpc": "1328",
-        "maxpc50": "150214"
+        "maxpc50": "1502"
     },
     {
         "nodex": "217",
         "nombre": "Ursaring",
         "maxpc": "2945",
-        "maxpc50": "332923"
+        "maxpc50": "3329"
     },
     {
         "nodex": "217",
         "nombre": "Ursaring (Shadow)",
         "maxpc": "2945",
-        "maxpc50": "332923"
+        "maxpc50": "3329"
     },
     {
         "nodex": "218",
         "nombre": "Slugma",
         "maxpc": "895",
-        "maxpc50": "101111"
+        "maxpc50": "1011"
     },
     {
         "nodex": "219",
         "nombre": "Magcargo",
         "maxpc": "1702",
-        "maxpc50": "192413"
+        "maxpc50": "1924"
     },
     {
         "nodex": "220",
@@ -2535,139 +2535,139 @@
         "nodex": "221",
         "nombre": "Piloswine",
         "maxpc": "2345",
-        "maxpc50": "265218"
+        "maxpc50": "2652"
     },
     {
         "nodex": "221",
         "nombre": "Piloswine (Shadow)",
         "maxpc": "2345",
-        "maxpc50": "265218"
+        "maxpc50": "2652"
     },
     {
         "nodex": "222",
         "nombre": "Corsola",
         "maxpc": "1378",
-        "maxpc50": "155811"
+        "maxpc50": "1558"
     },
     {
         "nodex": "223",
         "nombre": "Remoraid",
         "maxpc": "912",
-        "maxpc50": "103112"
+        "maxpc50": "1031"
     },
     {
         "nodex": "224",
         "nombre": "Octillery",
         "maxpc": "2315",
-        "maxpc50": "261719"
+        "maxpc50": "2617"
     },
     {
         "nodex": "225",
         "nombre": "Delibird",
         "maxpc": "1094",
-        "maxpc50": "123712"
+        "maxpc50": "1237"
     },
     {
         "nodex": "225",
         "nombre": "Delibird (Shadow)",
         "maxpc": "1094",
-        "maxpc50": "123712"
+        "maxpc50": "1237"
     },
     {
         "nodex": "226",
         "nombre": "Mantine",
         "maxpc": "2108",
-        "maxpc50": "238314"
+        "maxpc50": "2383"
     },
     {
         "nodex": "227",
         "nombre": "Skarmory",
         "maxpc": "2108",
-        "maxpc50": "238314"
+        "maxpc50": "2383"
     },
     {
         "nodex": "227",
         "nombre": "Skarmory (Shadow)",
         "maxpc": "2108",
-        "maxpc50": "238314"
+        "maxpc50": "2383"
     },
     {
         "nodex": "228",
         "nombre": "Houndour",
         "maxpc": "1234",
-        "maxpc50": "139515"
+        "maxpc50": "1395"
     },
     {
         "nodex": "228",
         "nombre": "Houndour (Shadow)",
         "maxpc": "1234",
-        "maxpc50": "139515"
+        "maxpc50": "1395"
     },
     {
         "nodex": "229",
         "nombre": "Houndoom",
         "maxpc": "2635",
-        "maxpc50": "297922"
+        "maxpc50": "2979"
     },
     {
         "nodex": "229",
         "nombre": "Houndoom (Mega)",
         "maxpc": "3842",
-        "maxpc50": "434428"
+        "maxpc50": "4344"
     },
     {
         "nodex": "229",
         "nombre": "Houndoom (Shadow)",
         "maxpc": "2635",
-        "maxpc50": "297922"
+        "maxpc50": "2979"
     },
     {
         "nodex": "230",
         "nombre": "Kingdra",
         "maxpc": "2641",
-        "maxpc50": "298619"
+        "maxpc50": "2986"
     },
     {
         "nodex": "230",
         "nombre": "Kingdra (Shadow)",
         "maxpc": "2641",
-        "maxpc50": "298619"
+        "maxpc50": "2986"
     },
     {
         "nodex": "231",
         "nombre": "Phanpy",
         "maxpc": "1206",
-        "maxpc50": "136410"
+        "maxpc50": "1364"
     },
     {
         "nodex": "232",
         "nombre": "Donphan",
         "maxpc": "3013",
-        "maxpc50": "340721"
+        "maxpc50": "3407"
     },
     {
         "nodex": "233",
         "nombre": "Porygon2",
         "maxpc": "2711",
-        "maxpc50": "306519"
+        "maxpc50": "3065"
     },
     {
         "nodex": "233",
         "nombre": "Porygon2 (Shadow)",
         "maxpc": "2711",
-        "maxpc50": "306519"
+        "maxpc50": "3065"
     },
     {
         "nodex": "234",
         "nombre": "Stantler",
         "maxpc": "2164",
-        "maxpc50": "244719"
+        "maxpc50": "2447"
     },
     {
         "nodex": "234",
         "nombre": "Stantler (Shadow)",
         "maxpc": "2164",
-        "maxpc50": "244719"
+        "maxpc50": "2447"
     },
     {
         "nodex": "235",
@@ -2685,229 +2685,229 @@
         "nodex": "237",
         "nombre": "Hitmontop",
         "maxpc": "2156",
-        "maxpc50": "243817"
+        "maxpc50": "2438"
     },
     {
         "nodex": "238",
         "nombre": "Smoochum",
         "maxpc": "1291",
-        "maxpc50": "146015"
+        "maxpc50": "1460"
     },
     {
         "nodex": "239",
         "nombre": "Elekid",
         "maxpc": "1206",
-        "maxpc50": "136413"
+        "maxpc50": "1364"
     },
     {
         "nodex": "240",
         "nombre": "Magby",
         "maxpc": "1323",
-        "maxpc50": "149615"
+        "maxpc50": "1496"
     },
     {
         "nodex": "241",
         "nombre": "Miltank",
         "maxpc": "2354",
-        "maxpc50": "266215"
+        "maxpc50": "2662"
     },
     {
         "nodex": "242",
         "nombre": "Blissey",
         "maxpc": "2757",
-        "maxpc50": "311712"
+        "maxpc50": "3117"
     },
     {
         "nodex": "243",
         "nombre": "Raikou",
         "maxpc": "3452",
-        "maxpc50": "390224"
+        "maxpc50": "3902"
     },
     {
         "nodex": "243",
         "nombre": "Raikou (Shadow)",
         "maxpc": "3452",
-        "maxpc50": "390224"
+        "maxpc50": "3902"
     },
     {
         "nodex": "244",
         "nombre": "Entei",
         "maxpc": "3473",
-        "maxpc50": "392623"
+        "maxpc50": "3926"
     },
     {
         "nodex": "244",
         "nombre": "Entei (Shadow)",
         "maxpc": "3473",
-        "maxpc50": "392623"
+        "maxpc50": "3926"
     },
     {
         "nodex": "245",
         "nombre": "Suicune",
         "maxpc": "2983",
-        "maxpc50": "337218"
+        "maxpc50": "3372"
     },
     {
         "nodex": "245",
         "nombre": "Suicune (Shadow)",
         "maxpc": "2983",
-        "maxpc50": "337218"
+        "maxpc50": "3372"
     },
     {
         "nodex": "246",
         "nombre": "Larvitar",
         "maxpc": "1040",
-        "maxpc50": "117611"
+        "maxpc50": "1176"
     },
     {
         "nodex": "246",
         "nombre": "Larvitar (Shadow)",
         "maxpc": "1040",
-        "maxpc50": "117611"
+        "maxpc50": "1176"
     },
     {
         "nodex": "247",
         "nombre": "Pupitar",
         "maxpc": "1766",
-        "maxpc50": "199615"
+        "maxpc50": "1996"
     },
     {
         "nodex": "247",
         "nombre": "Pupitar (Shadow)",
         "maxpc": "1766",
-        "maxpc50": "199615"
+        "maxpc50": "1996"
     },
     {
         "nodex": "248",
         "nombre": "Tyranitar",
         "maxpc": "3834",
-        "maxpc50": "433525"
+        "maxpc50": "4335"
     },
     {
         "nodex": "248",
         "nombre": "Tyranitar (Shadow)",
         "maxpc": "3834",
-        "maxpc50": "433525"
+        "maxpc50": "4335"
     },
     {
         "nodex": "249",
         "nombre": "Lugia",
         "maxpc": "3703",
-        "maxpc50": "418619"
+        "maxpc50": "4186"
     },
     {
         "nodex": "249",
         "nombre": "Lugia (Shadow)",
         "maxpc": "3703",
-        "maxpc50": "418619"
+        "maxpc50": "4186"
     },
     {
         "nodex": "250",
         "nombre": "Ho-oh",
         "maxpc": "3863",
-        "maxpc50": "436723"
+        "maxpc50": "4367"
     },
     {
         "nodex": "250",
         "nombre": "Ho-oh (Shadow)",
         "maxpc": "3863",
-        "maxpc50": "436723"
+        "maxpc50": "4367"
     },
     {
         "nodex": "251",
         "nombre": "Celebi",
         "maxpc": "3265",
-        "maxpc50": "369121"
+        "maxpc50": "3691"
     },
     {
         "nodex": "252",
         "nombre": "Treecko",
         "maxpc": "1053",
-        "maxpc50": "119012"
+        "maxpc50": "1190"
     },
     {
         "nodex": "253",
         "nombre": "Grovyle",
         "maxpc": "1673",
-        "maxpc50": "189117"
+        "maxpc50": "1891"
     },
     {
         "nodex": "254",
         "nombre": "Sceptile",
         "maxpc": "2757",
-        "maxpc50": "311722"
+        "maxpc50": "3117"
     },
     {
         "nodex": "254",
         "nombre": "Sceptile (Mega)",
         "maxpc": "4056",
-        "maxpc50": "458532"
+        "maxpc50": "4585"
     },
     {
         "nodex": "255",
         "nombre": "Torchic",
         "maxpc": "1093",
-        "maxpc50": "123613"
+        "maxpc50": "1236"
     },
     {
         "nodex": "256",
         "nombre": "Combusken",
         "maxpc": "1652",
-        "maxpc50": "186816"
+        "maxpc50": "1868"
     },
     {
         "nodex": "257",
         "nombre": "Blaziken",
         "maxpc": "2848",
-        "maxpc50": "321924"
+        "maxpc50": "3219"
     },
     {
         "nodex": "257",
         "nombre": "Blaziken (Mega)",
         "maxpc": "4161",
-        "maxpc50": "470432"
+        "maxpc50": "4704"
     },
     {
         "nodex": "258",
         "nombre": "Mudkip",
         "maxpc": "1128",
-        "maxpc50": "127512"
+        "maxpc50": "1275"
     },
     {
         "nodex": "258",
         "nombre": "Mudkip (Shadow)",
         "maxpc": "1128",
-        "maxpc50": "127512"
+        "maxpc50": "1275"
     },
     {
         "nodex": "259",
         "nombre": "Marshtomp",
         "maxpc": "1776",
-        "maxpc50": "200815"
+        "maxpc50": "2008"
     },
     {
         "nodex": "259",
         "nombre": "Marshtomp (Shadow)",
         "maxpc": "1776",
-        "maxpc50": "200815"
+        "maxpc50": "2008"
     },
     {
         "nodex": "260",
         "nombre": "Swampert",
         "maxpc": "2974",
-        "maxpc50": "336220"
+        "maxpc50": "3362"
     },
     {
         "nodex": "260",
         "nombre": "Swampert (Mega)",
         "maxpc": "4401",
-        "maxpc50": "497528"
+        "maxpc50": "4975"
     },
     {
         "nodex": "260",
         "nombre": "Swampert (Shadow)",
         "maxpc": "2974",
-        "maxpc50": "336220"
+        "maxpc50": "3362"
     },
     {
         "nodex": "261",
@@ -2925,13 +2925,13 @@
         "nodex": "262",
         "nombre": "Mightyena",
         "maxpc": "1926",
-        "maxpc50": "217717"
+        "maxpc50": "2177"
     },
     {
         "nodex": "262",
         "nombre": "Mightyena (Shadow)",
         "maxpc": "1926",
-        "maxpc50": "217717"
+        "maxpc50": "2177"
     },
     {
         "nodex": "263",
@@ -2949,13 +2949,13 @@
         "nodex": "264",
         "nombre": "Linoone",
         "maxpc": "1662",
-        "maxpc50": "187914"
+        "maxpc50": "1879"
     },
     {
         "nodex": "264",
         "nombre": "Linoone (Galarian)",
         "maxpc": "1662",
-        "maxpc50": "187914"
+        "maxpc50": "1879"
     },
     {
         "nodex": "265",
@@ -2973,7 +2973,7 @@
         "nodex": "267",
         "nombre": "Beautifly",
         "maxpc": "1765",
-        "maxpc50": "199618"
+        "maxpc50": "1996"
     },
     {
         "nodex": "268",
@@ -2985,7 +2985,7 @@
         "nodex": "269",
         "nombre": "Dustox",
         "maxpc": "1224",
-        "maxpc50": "13849"
+        "maxpc50": "1384"
     },
     {
         "nodex": "270",
@@ -2997,13 +2997,13 @@
         "nodex": "271",
         "nombre": "Lombre",
         "maxpc": "1197",
-        "maxpc50": "135311"
+        "maxpc50": "1353"
     },
     {
         "nodex": "272",
         "nombre": "Ludicolo",
         "maxpc": "2323",
-        "maxpc50": "262617"
+        "maxpc50": "2626"
     },
     {
         "nodex": "273",
@@ -3021,49 +3021,49 @@
         "nodex": "274",
         "nombre": "Nuzleaf",
         "maxpc": "1227",
-        "maxpc50": "138713"
+        "maxpc50": "1387"
     },
     {
         "nodex": "274",
         "nombre": "Nuzleaf (Shadow)",
         "maxpc": "1227",
-        "maxpc50": "138713"
+        "maxpc50": "1387"
     },
     {
         "nodex": "275",
         "nombre": "Shiftry",
         "maxpc": "2333",
-        "maxpc50": "263720"
+        "maxpc50": "2637"
     },
     {
         "nodex": "275",
         "nombre": "Shiftry (Shadow)",
         "maxpc": "2333",
-        "maxpc50": "263720"
+        "maxpc50": "2637"
     },
     {
         "nodex": "276",
         "nombre": "Taillow",
         "maxpc": "765",
-        "maxpc50": "86510"
+        "maxpc50": "8651"
     },
     {
         "nodex": "277",
         "nombre": "Swellow",
         "maxpc": "1920",
-        "maxpc50": "217018"
+        "maxpc50": "2170"
     },
     {
         "nodex": "278",
         "nombre": "Wingull",
         "maxpc": "765",
-        "maxpc50": "86510"
+        "maxpc50": "8651"
     },
     {
         "nodex": "279",
         "nombre": "Pelipper",
         "maxpc": "2127",
-        "maxpc50": "240417"
+        "maxpc50": "2404"
     },
     {
         "nodex": "280",
@@ -3081,31 +3081,31 @@
         "nodex": "281",
         "nombre": "Kirlia",
         "maxpc": "966",
-        "maxpc50": "109311"
+        "maxpc50": "1093"
     },
     {
         "nodex": "281",
         "nombre": "Kirlia (Shadow)",
         "maxpc": "966",
-        "maxpc50": "109311"
+        "maxpc50": "1093"
     },
     {
         "nodex": "282",
         "nombre": "Gardevoir",
         "maxpc": "3093",
-        "maxpc50": "349723"
+        "maxpc50": "3497"
     },
     {
         "nodex": "282",
         "nombre": "Gardevoir (Mega)",
         "maxpc": "4512",
-        "maxpc50": "510132"
+        "maxpc50": "5101"
     },
     {
         "nodex": "282",
         "nombre": "Gardevoir (Shadow)",
         "maxpc": "3093",
-        "maxpc50": "349723"
+        "maxpc50": "3497"
     },
     {
         "nodex": "283",
@@ -3117,7 +3117,7 @@
         "nodex": "284",
         "nombre": "Masquerain",
         "maxpc": "2270",
-        "maxpc50": "256719"
+        "maxpc50": "2567"
     },
     {
         "nodex": "285",
@@ -3129,25 +3129,25 @@
         "nodex": "286",
         "nombre": "Breloom",
         "maxpc": "2628",
-        "maxpc50": "297124"
+        "maxpc50": "2971"
     },
     {
         "nodex": "287",
         "nombre": "Slakoth",
         "maxpc": "1002",
-        "maxpc50": "113310"
+        "maxpc50": "1133"
     },
     {
         "nodex": "288",
         "nombre": "Vigoroth",
         "maxpc": "1968",
-        "maxpc50": "222515"
+        "maxpc50": "2225"
     },
     {
         "nodex": "289",
         "nombre": "Slaking",
         "maxpc": "4431",
-        "maxpc50": "501029"
+        "maxpc50": "5010"
     },
     {
         "nodex": "290",
@@ -3159,13 +3159,13 @@
         "nodex": "291",
         "nombre": "Ninjask",
         "maxpc": "1969",
-        "maxpc50": "222619"
+        "maxpc50": "2226"
     },
     {
         "nodex": "292",
         "nombre": "Shedinja",
         "maxpc": "393",
-        "maxpc50": "44515"
+        "maxpc50": "4451"
     },
     {
         "nodex": "293",
@@ -3183,25 +3183,25 @@
         "nodex": "294",
         "nombre": "Loudred",
         "maxpc": "1327",
-        "maxpc50": "150013"
+        "maxpc50": "1500"
     },
     {
         "nodex": "294",
         "nombre": "Loudred (Shadow)",
         "maxpc": "1327",
-        "maxpc50": "150013"
+        "maxpc50": "1500"
     },
     {
         "nodex": "295",
         "nombre": "Exploud",
         "maxpc": "2347",
-        "maxpc50": "265417"
+        "maxpc50": "2654"
     },
     {
         "nodex": "295",
         "nombre": "Exploud (Shadow)",
         "maxpc": "2347",
-        "maxpc50": "265417"
+        "maxpc50": "2654"
     },
     {
         "nodex": "296",
@@ -3219,13 +3219,13 @@
         "nodex": "297",
         "nombre": "Hariyama",
         "maxpc": "2829",
-        "maxpc50": "319820"
+        "maxpc50": "3198"
     },
     {
         "nodex": "297",
         "nombre": "Hariyama (Shadow)",
         "maxpc": "2829",
-        "maxpc50": "319820"
+        "maxpc50": "3198"
     },
     {
         "nodex": "298",
@@ -3237,13 +3237,13 @@
         "nodex": "299",
         "nombre": "Nosepass",
         "maxpc": "993",
-        "maxpc50": "11238"
+        "maxpc50": "1123"
     },
     {
         "nodex": "299",
         "nombre": "Nosepass (Shadow)",
         "maxpc": "993",
-        "maxpc50": "11238"
+        "maxpc50": "1123"
     },
     {
         "nodex": "300",
@@ -3255,73 +3255,73 @@
         "nodex": "301",
         "nombre": "Delcatty",
         "maxpc": "1496",
-        "maxpc50": "169113"
+        "maxpc50": "1691"
     },
     {
         "nodex": "302",
         "nombre": "Sableye",
         "maxpc": "1476",
-        "maxpc50": "166814"
+        "maxpc50": "1668"
     },
     {
         "nodex": "302",
         "nombre": "Sableye (Shadow)",
         "maxpc": "1476",
-        "maxpc50": "166814"
+        "maxpc50": "1668"
     },
     {
         "nodex": "303",
         "nombre": "Mawile",
         "maxpc": "1634",
-        "maxpc50": "184815"
+        "maxpc50": "1848"
     },
     {
         "nodex": "303",
         "nombre": "Mawile (Shadow)",
         "maxpc": "1634",
-        "maxpc50": "184815"
+        "maxpc50": "1848"
     },
     {
         "nodex": "304",
         "nombre": "Aron",
         "maxpc": "1307",
-        "maxpc50": "147812"
+        "maxpc50": "1478"
     },
     {
         "nodex": "304",
         "nombre": "Aron (Shadow)",
         "maxpc": "1307",
-        "maxpc50": "147812"
+        "maxpc50": "1478"
     },
     {
         "nodex": "305",
         "nombre": "Lairon",
         "maxpc": "2056",
-        "maxpc50": "232415"
+        "maxpc50": "2324"
     },
     {
         "nodex": "305",
         "nombre": "Lairon (Shadow)",
         "maxpc": "2056",
-        "maxpc50": "232415"
+        "maxpc50": "2324"
     },
     {
         "nodex": "306",
         "nombre": "Aggron",
         "maxpc": "3000",
-        "maxpc50": "339119"
+        "maxpc50": "3391"
     },
     {
         "nodex": "306",
         "nombre": "Aggron (Mega)",
         "maxpc": "4162",
-        "maxpc50": "470524"
+        "maxpc50": "4705"
     },
     {
         "nodex": "306",
         "nombre": "Aggron (Shadow)",
         "maxpc": "3000",
-        "maxpc50": "339119"
+        "maxpc50": "3391"
     },
     {
         "nodex": "307",
@@ -3333,73 +3333,73 @@
         "nodex": "308",
         "nombre": "Medicham",
         "maxpc": "1431",
-        "maxpc50": "161812"
+        "maxpc50": "1618"
     },
     {
         "nodex": "308",
         "nombre": "Medicham (Mega)",
         "maxpc": "2495",
-        "maxpc50": "282120"
+        "maxpc50": "2821"
     },
     {
         "nodex": "309",
         "nombre": "Electrike",
         "maxpc": "965",
-        "maxpc50": "109112"
+        "maxpc50": "1091"
     },
     {
         "nodex": "309",
         "nombre": "Electrike (Shadow)",
         "maxpc": "965",
-        "maxpc50": "109112"
+        "maxpc50": "1091"
     },
     {
         "nodex": "310",
         "nombre": "Manectric",
         "maxpc": "2340",
-        "maxpc50": "264621"
+        "maxpc50": "2646"
     },
     {
         "nodex": "310",
         "nombre": "Manectric (Mega)",
         "maxpc": "3580",
-        "maxpc50": "404828"
+        "maxpc50": "4048"
     },
     {
         "nodex": "310",
         "nombre": "Manectric (Shadow)",
         "maxpc": "2340",
-        "maxpc50": "264621"
+        "maxpc50": "2646"
     },
     {
         "nodex": "311",
         "nombre": "Plusle",
         "maxpc": "1778",
-        "maxpc50": "201016"
+        "maxpc50": "2010"
     },
     {
         "nodex": "312",
         "nombre": "Minun",
         "maxpc": "1694",
-        "maxpc50": "191514"
+        "maxpc50": "1915"
     },
     {
         "nodex": "313",
         "nombre": "Volbeat",
         "maxpc": "1771",
-        "maxpc50": "200214"
+        "maxpc50": "2002"
     },
     {
         "nodex": "314",
         "nombre": "Illumise",
         "maxpc": "1771",
-        "maxpc50": "200214"
+        "maxpc50": "2002"
     },
     {
         "nodex": "315",
         "nombre": "Roselia",
         "maxpc": "1870",
-        "maxpc50": "211418"
+        "maxpc50": "2114"
     },
     {
         "nodex": "316",
@@ -3411,175 +3411,175 @@
         "nodex": "317",
         "nombre": "Swalot",
         "maxpc": "1978",
-        "maxpc50": "223614"
+        "maxpc50": "2236"
     },
     {
         "nodex": "318",
         "nombre": "Carvanha",
         "maxpc": "1020",
-        "maxpc50": "115417"
+        "maxpc50": "1154"
     },
     {
         "nodex": "318",
         "nombre": "Carvanha (Shadow)",
         "maxpc": "1020",
-        "maxpc50": "115417"
+        "maxpc50": "1154"
     },
     {
         "nodex": "319",
         "nombre": "Sharpedo",
         "maxpc": "2181",
-        "maxpc50": "246624"
+        "maxpc50": "2466"
     },
     {
         "nodex": "319",
         "nombre": "Sharpedo (Shadow)",
         "maxpc": "2181",
-        "maxpc50": "246624"
+        "maxpc50": "2466"
     },
     {
         "nodex": "320",
         "nombre": "Wailmer",
         "maxpc": "1468",
-        "maxpc50": "165913"
+        "maxpc50": "1659"
     },
     {
         "nodex": "320",
         "nombre": "Wailmer (Shadow)",
         "maxpc": "1468",
-        "maxpc50": "165913"
+        "maxpc50": "1659"
     },
     {
         "nodex": "321",
         "nombre": "Wailord",
         "maxpc": "2280",
-        "maxpc50": "257717"
+        "maxpc50": "2577"
     },
     {
         "nodex": "321",
         "nombre": "Wailord (Shadow)",
         "maxpc": "2280",
-        "maxpc50": "257717"
+        "maxpc50": "2577"
     },
     {
         "nodex": "322",
         "nombre": "Numel",
         "maxpc": "1057",
-        "maxpc50": "119611"
+        "maxpc50": "1196"
     },
     {
         "nodex": "322",
         "nombre": "Numel (Shadow)",
         "maxpc": "1057",
-        "maxpc50": "119611"
+        "maxpc50": "1196"
     },
     {
         "nodex": "323",
         "nombre": "Camerupt",
         "maxpc": "2193",
-        "maxpc50": "247919"
+        "maxpc50": "2479"
     },
     {
         "nodex": "323",
         "nombre": "Camerupt (Shadow)",
         "maxpc": "2193",
-        "maxpc50": "247919"
+        "maxpc50": "2479"
     },
     {
         "nodex": "324",
         "nombre": "Torkoal",
         "maxpc": "2093",
-        "maxpc50": "236615"
+        "maxpc50": "2366"
     },
     {
         "nodex": "325",
         "nombre": "Spoink",
         "maxpc": "1334",
-        "maxpc50": "150812"
+        "maxpc50": "1508"
     },
     {
         "nodex": "325",
         "nombre": "Spoink (Shadow)",
         "maxpc": "1334",
-        "maxpc50": "150812"
+        "maxpc50": "1508"
     },
     {
         "nodex": "326",
         "nombre": "Grumpig",
         "maxpc": "2369",
-        "maxpc50": "267917"
+        "maxpc50": "2679"
     },
     {
         "nodex": "326",
         "nombre": "Grumpig (Shadow)",
         "maxpc": "2369",
-        "maxpc50": "267917"
+        "maxpc50": "2679"
     },
     {
         "nodex": "327",
         "nombre": "Spinda",
         "maxpc": "1220",
-        "maxpc50": "138011"
+        "maxpc50": "1380"
     },
     {
         "nodex": "328",
         "nombre": "Trapinch",
         "maxpc": "1274",
-        "maxpc50": "144116"
+        "maxpc50": "1441"
     },
     {
         "nodex": "328",
         "nombre": "Trapinch (Shadow)",
         "maxpc": "1274",
-        "maxpc50": "144116"
+        "maxpc50": "1441"
     },
     {
         "nodex": "329",
         "nombre": "Vibrava",
         "maxpc": "1225",
-        "maxpc50": "138413"
+        "maxpc50": "1384"
     },
     {
         "nodex": "329",
         "nombre": "Vibrava (Shadow)",
         "maxpc": "1225",
-        "maxpc50": "138413"
+        "maxpc50": "1384"
     },
     {
         "nodex": "330",
         "nombre": "Flygon",
         "maxpc": "2661",
-        "maxpc50": "300820"
+        "maxpc50": "3008"
     },
     {
         "nodex": "330",
         "nombre": "Flygon (Shadow)",
         "maxpc": "2661",
-        "maxpc50": "300820"
+        "maxpc50": "3008"
     },
     {
         "nodex": "331",
         "nombre": "Cacnea",
         "maxpc": "1242",
-        "maxpc50": "140415"
+        "maxpc50": "1404"
     },
     {
         "nodex": "331",
         "nombre": "Cacnea (Shadow)",
         "maxpc": "1242",
-        "maxpc50": "140415"
+        "maxpc50": "1404"
     },
     {
         "nodex": "332",
         "nombre": "Cacturne",
         "maxpc": "2298",
-        "maxpc50": "259822"
+        "maxpc50": "2598"
     },
     {
         "nodex": "332",
         "nombre": "Cacturne (Shadow)",
         "maxpc": "2298",
-        "maxpc50": "259822"
+        "maxpc50": "2598"
     },
     {
         "nodex": "333",
@@ -3591,37 +3591,37 @@
         "nodex": "334",
         "nombre": "Altaria",
         "maxpc": "2004",
-        "maxpc50": "226614"
+        "maxpc50": "2266"
     },
     {
         "nodex": "334",
         "nombre": "Altaria (Mega)",
         "maxpc": "3163",
-        "maxpc50": "357622"
+        "maxpc50": "3576"
     },
     {
         "nodex": "335",
         "nombre": "Zangoose",
         "maxpc": "2418",
-        "maxpc50": "273322"
+        "maxpc50": "2733"
     },
     {
         "nodex": "336",
         "nombre": "Seviper",
         "maxpc": "2105",
-        "maxpc50": "238019"
+        "maxpc50": "2380"
     },
     {
         "nodex": "337",
         "nombre": "Lunatone",
         "maxpc": "2327",
-        "maxpc50": "263117"
+        "maxpc50": "2631"
     },
     {
         "nodex": "338",
         "nombre": "Solrock",
         "maxpc": "2327",
-        "maxpc50": "263117"
+        "maxpc50": "2631"
     },
     {
         "nodex": "339",
@@ -3633,19 +3633,19 @@
         "nodex": "340",
         "nombre": "Whiscash",
         "maxpc": "2075",
-        "maxpc50": "234615"
+        "maxpc50": "2346"
     },
     {
         "nodex": "341",
         "nombre": "Corphish",
         "maxpc": "1230",
-        "maxpc50": "139114"
+        "maxpc50": "1391"
     },
     {
         "nodex": "342",
         "nombre": "Crawdaunt",
         "maxpc": "2474",
-        "maxpc50": "279722"
+        "maxpc50": "2797"
     },
     {
         "nodex": "343",
@@ -3657,55 +3657,55 @@
         "nodex": "344",
         "nombre": "Claydol",
         "maxpc": "1971",
-        "maxpc50": "222914"
+        "maxpc50": "2229"
     },
     {
         "nodex": "345",
         "nombre": "Lileep",
         "maxpc": "1291",
-        "maxpc50": "146010"
+        "maxpc50": "1460"
     },
     {
         "nodex": "345",
         "nombre": "Lileep (Shadow)",
         "maxpc": "1291",
-        "maxpc50": "146010"
+        "maxpc50": "1460"
     },
     {
         "nodex": "346",
         "nombre": "Cradily",
         "maxpc": "2211",
-        "maxpc50": "249915"
+        "maxpc50": "2499"
     },
     {
         "nodex": "346",
         "nombre": "Cradily (Shadow)",
         "maxpc": "2211",
-        "maxpc50": "249915"
+        "maxpc50": "2499"
     },
     {
         "nodex": "347",
         "nombre": "Anorith",
         "maxpc": "1529",
-        "maxpc50": "172917"
+        "maxpc50": "1729"
     },
     {
         "nodex": "347",
         "nombre": "Anorith (Shadow)",
         "maxpc": "1529",
-        "maxpc50": "172917"
+        "maxpc50": "1729"
     },
     {
         "nodex": "348",
         "nombre": "Armaldo",
         "maxpc": "2848",
-        "maxpc50": "322022"
+        "maxpc50": "3220"
     },
     {
         "nodex": "348",
         "nombre": "Armaldo (Shadow)",
         "maxpc": "2848",
-        "maxpc50": "322022"
+        "maxpc50": "3220"
     },
     {
         "nodex": "349",
@@ -3717,67 +3717,67 @@
         "nodex": "350",
         "nombre": "Milotic",
         "maxpc": "3005",
-        "maxpc50": "339819"
+        "maxpc50": "3398"
     },
     {
         "nodex": "351",
         "nombre": "Castform",
         "maxpc": "1632",
-        "maxpc50": "184513"
+        "maxpc50": "1845"
     },
     {
         "nodex": "351",
         "nombre": "Castform (Rainy)",
         "maxpc": "1632",
-        "maxpc50": "184513"
+        "maxpc50": "1845"
     },
     {
         "nodex": "351",
         "nombre": "Castform (Snowy)",
         "maxpc": "1632",
-        "maxpc50": "184513"
+        "maxpc50": "1845"
     },
     {
         "nodex": "351",
         "nombre": "Castform (Sunny)",
         "maxpc": "1632",
-        "maxpc50": "184513"
+        "maxpc50": "1845"
     },
     {
         "nodex": "352",
         "nombre": "Kecleon",
         "maxpc": "2047",
-        "maxpc50": "231416"
+        "maxpc50": "2314"
     },
     {
         "nodex": "353",
         "nombre": "Shuppet",
         "maxpc": "1018",
-        "maxpc50": "115113"
+        "maxpc50": "1151"
     },
     {
         "nodex": "353",
         "nombre": "Shuppet (Shadow)",
         "maxpc": "1018",
-        "maxpc50": "115113"
+        "maxpc50": "1151"
     },
     {
         "nodex": "354",
         "nombre": "Banette",
         "maxpc": "2298",
-        "maxpc50": "259921"
+        "maxpc50": "2599"
     },
     {
         "nodex": "354",
         "nombre": "Banette (Mega)",
         "maxpc": "3594",
-        "maxpc50": "406331"
+        "maxpc50": "4063"
     },
     {
         "nodex": "354",
         "nombre": "Banette (Shadow)",
         "maxpc": "2298",
-        "maxpc50": "259921"
+        "maxpc50": "2599"
     },
     {
         "nodex": "355",
@@ -3795,43 +3795,43 @@
         "nodex": "356",
         "nombre": "Dusclops",
         "maxpc": "1591",
-        "maxpc50": "179912"
+        "maxpc50": "1799"
     },
     {
         "nodex": "356",
         "nombre": "Dusclops (Shadow)",
         "maxpc": "1591",
-        "maxpc50": "179912"
+        "maxpc50": "1799"
     },
     {
         "nodex": "357",
         "nombre": "Tropius",
         "maxpc": "1941",
-        "maxpc50": "219413"
+        "maxpc50": "2194"
     },
     {
         "nodex": "358",
         "nombre": "Chimecho",
         "maxpc": "2259",
-        "maxpc50": "255417"
+        "maxpc50": "2554"
     },
     {
         "nodex": "359",
         "nombre": "Absol",
         "maxpc": "2526",
-        "maxpc50": "285624"
+        "maxpc50": "2856"
     },
     {
         "nodex": "359",
         "nombre": "Absol (Mega)",
         "maxpc": "3301",
-        "maxpc50": "373231"
+        "maxpc50": "3732"
     },
     {
         "nodex": "359",
         "nombre": "Absol (Shadow)",
         "maxpc": "2526",
-        "maxpc50": "285624"
+        "maxpc50": "2856"
     },
     {
         "nodex": "360",
@@ -3843,79 +3843,79 @@
         "nodex": "361",
         "nombre": "Snorunt",
         "maxpc": "888",
-        "maxpc50": "10049"
+        "maxpc50": "1004"
     },
     {
         "nodex": "362",
         "nombre": "Glalie",
         "maxpc": "2105",
-        "maxpc50": "238016"
+        "maxpc50": "2380"
     },
     {
         "nodex": "362",
         "nombre": "Glalie (Mega)",
         "maxpc": "3229",
-        "maxpc50": "365125"
+        "maxpc50": "3651"
     },
     {
         "nodex": "363",
         "nombre": "Spheal",
         "maxpc": "962",
-        "maxpc50": "10889"
+        "maxpc50": "1088"
     },
     {
         "nodex": "363",
         "nombre": "Spheal (Shadow)",
         "maxpc": "962",
-        "maxpc50": "10889"
+        "maxpc50": "1088"
     },
     {
         "nodex": "364",
         "nombre": "Sealeo",
         "maxpc": "1714",
-        "maxpc50": "193813"
+        "maxpc50": "1938"
     },
     {
         "nodex": "364",
         "nombre": "Sealeo (Shadow)",
         "maxpc": "1714",
-        "maxpc50": "193813"
+        "maxpc50": "1938"
     },
     {
         "nodex": "365",
         "nombre": "Walrein",
         "maxpc": "2726",
-        "maxpc50": "308118"
+        "maxpc50": "3081"
     },
     {
         "nodex": "365",
         "nombre": "Walrein (Shadow)",
         "maxpc": "2726",
-        "maxpc50": "308118"
+        "maxpc50": "3081"
     },
     {
         "nodex": "366",
         "nombre": "Clamperl",
         "maxpc": "1270",
-        "maxpc50": "143613"
+        "maxpc50": "1436"
     },
     {
         "nodex": "367",
         "nombre": "Huntail",
         "maxpc": "2340",
-        "maxpc50": "264519"
+        "maxpc50": "2645"
     },
     {
         "nodex": "368",
         "nombre": "Gorebyss",
         "maxpc": "2494",
-        "maxpc50": "282021"
+        "maxpc50": "2820"
     },
     {
         "nodex": "369",
         "nombre": "Relicanth",
         "maxpc": "2528",
-        "maxpc50": "285816"
+        "maxpc50": "2858"
     },
     {
         "nodex": "370",
@@ -3927,307 +3927,307 @@
         "nodex": "371",
         "nombre": "Bagon",
         "maxpc": "1156",
-        "maxpc50": "130713"
+        "maxpc50": "1307"
     },
     {
         "nodex": "371",
         "nombre": "Bagon (Shadow)",
         "maxpc": "1156",
-        "maxpc50": "130713"
+        "maxpc50": "1307"
     },
     {
         "nodex": "372",
         "nombre": "Shelgon",
         "maxpc": "2031",
-        "maxpc50": "229617"
+        "maxpc50": "2296"
     },
     {
         "nodex": "372",
         "nombre": "Shelgon (Shadow)",
         "maxpc": "2031",
-        "maxpc50": "229617"
+        "maxpc50": "2296"
     },
     {
         "nodex": "373",
         "nombre": "Salamence",
         "maxpc": "3749",
-        "maxpc50": "423927"
+        "maxpc50": "4239"
     },
     {
         "nodex": "373",
         "nombre": "Salamence (Mega)",
         "maxpc": "5031",
-        "maxpc50": "568831"
+        "maxpc50": "5688"
     },
     {
         "nodex": "373",
         "nombre": "Salamence (Shadow)",
         "maxpc": "3749",
-        "maxpc50": "423927"
+        "maxpc50": "4239"
     },
     {
         "nodex": "374",
         "nombre": "Beldum",
         "maxpc": "976",
-        "maxpc50": "11049"
+        "maxpc50": "1104"
     },
     {
         "nodex": "374",
         "nombre": "Beldum (Shadow)",
         "maxpc": "976",
-        "maxpc50": "11049"
+        "maxpc50": "1104"
     },
     {
         "nodex": "375",
         "nombre": "Metang",
         "maxpc": "1721",
-        "maxpc50": "194613"
+        "maxpc50": "1946"
     },
     {
         "nodex": "375",
         "nombre": "Metang (Shadow)",
         "maxpc": "1721",
-        "maxpc50": "194613"
+        "maxpc50": "1946"
     },
     {
         "nodex": "376",
         "nombre": "Metagross",
         "maxpc": "3791",
-        "maxpc50": "428625"
+        "maxpc50": "4286"
     },
     {
         "nodex": "376",
         "nombre": "Metagross (Shadow)",
         "maxpc": "3791",
-        "maxpc50": "428625"
+        "maxpc50": "4286"
     },
     {
         "nodex": "377",
         "nombre": "Regirock",
         "maxpc": "3122",
-        "maxpc50": "353017"
+        "maxpc50": "3530"
     },
     {
         "nodex": "378",
         "nombre": "Regice",
         "maxpc": "3122",
-        "maxpc50": "353017"
+        "maxpc50": "3530"
     },
     {
         "nodex": "379",
         "nombre": "Registeel",
         "maxpc": "2447",
-        "maxpc50": "276614"
+        "maxpc50": "2766"
     },
     {
         "nodex": "379",
         "nombre": "Registeel (Shadow)",
         "maxpc": "2447",
-        "maxpc50": "276614"
+        "maxpc50": "2766"
     },
     {
         "nodex": "380",
         "nombre": "Latias",
         "maxpc": "3510",
-        "maxpc50": "396822"
+        "maxpc50": "3968"
     },
     {
         "nodex": "380",
         "nombre": "Latias (Mega)",
         "maxpc": "4801",
-        "maxpc50": "542828"
+        "maxpc50": "5428"
     },
     {
         "nodex": "380",
         "nombre": "Latias (Shadow)",
         "maxpc": "3510",
-        "maxpc50": "396822"
+        "maxpc50": "3968"
     },
     {
         "nodex": "381",
         "nombre": "Latios",
         "maxpc": "3812",
-        "maxpc50": "431026"
+        "maxpc50": "4310"
     },
     {
         "nodex": "381",
         "nombre": "Latios (Mega)",
         "maxpc": "5007",
-        "maxpc50": "566133"
+        "maxpc50": "5661"
     },
     {
         "nodex": "381",
         "nombre": "Latios (Shadow)",
         "maxpc": "3812",
-        "maxpc50": "431026"
+        "maxpc50": "4310"
     },
     {
         "nodex": "382",
         "nombre": "Kyogre",
         "maxpc": "4115",
-        "maxpc50": "465227"
+        "maxpc50": "4652"
     },
     {
         "nodex": "382",
         "nombre": "Kyogre (Primal)",
         "maxpc": "5902",
-        "maxpc50": "667235"
+        "maxpc50": "6672"
     },
     {
         "nodex": "383",
         "nombre": "Groudon",
         "maxpc": "4115",
-        "maxpc50": "465227"
+        "maxpc50": "4652"
     },
     {
         "nodex": "383",
         "nombre": "Groudon (Primal)",
         "maxpc": "5902",
-        "maxpc50": "667235"
+        "maxpc50": "6672"
     },
     {
         "nodex": "384",
         "nombre": "Rayquaza",
         "maxpc": "3835",
-        "maxpc50": "433628"
+        "maxpc50": "4336"
     },
     {
         "nodex": "385",
         "nombre": "Jirachi",
         "maxpc": "3265",
-        "maxpc50": "369121"
+        "maxpc50": "3691"
     },
     {
         "nodex": "386",
         "nombre": "Deoxys",
         "maxpc": "3160",
-        "maxpc50": "357334"
+        "maxpc50": "3573"
     },
     {
         "nodex": "386",
         "nombre": "Deoxys (Attack)",
         "maxpc": "2580",
-        "maxpc50": "291641"
+        "maxpc50": "2916"
     },
     {
         "nodex": "386",
         "nombre": "Deoxys (Defense)",
         "maxpc": "2274",
-        "maxpc50": "257014"
+        "maxpc50": "2570"
     },
     {
         "nodex": "386",
         "nombre": "Deoxys (Speed)",
         "maxpc": "2879",
-        "maxpc50": "325523"
+        "maxpc50": "3255"
     },
     {
         "nodex": "387",
         "nombre": "Turtwig",
         "maxpc": "1187",
-        "maxpc50": "134211"
+        "maxpc50": "1342"
     },
     {
         "nodex": "387",
         "nombre": "Turtwig (Shadow)",
         "maxpc": "1187",
-        "maxpc50": "134211"
+        "maxpc50": "1342"
     },
     {
         "nodex": "388",
         "nombre": "Grotle",
         "maxpc": "1890",
-        "maxpc50": "213715"
+        "maxpc50": "2137"
     },
     {
         "nodex": "388",
         "nombre": "Grotle (Shadow)",
         "maxpc": "1890",
-        "maxpc50": "213715"
+        "maxpc50": "2137"
     },
     {
         "nodex": "389",
         "nombre": "Torterra",
         "maxpc": "2934",
-        "maxpc50": "331820"
+        "maxpc50": "3318"
     },
     {
         "nodex": "389",
         "nombre": "Torterra (Shadow)",
         "maxpc": "2934",
-        "maxpc50": "331820"
+        "maxpc50": "3318"
     },
     {
         "nodex": "390",
         "nombre": "Chimchar",
         "maxpc": "957",
-        "maxpc50": "108211"
+        "maxpc50": "1082"
     },
     {
         "nodex": "391",
         "nombre": "Monferno",
         "maxpc": "1574",
-        "maxpc50": "178015"
+        "maxpc50": "1780"
     },
     {
         "nodex": "392",
         "nombre": "Infernape",
         "maxpc": "2683",
-        "maxpc50": "303322"
+        "maxpc50": "3033"
     },
     {
         "nodex": "393",
         "nombre": "Piplup",
         "maxpc": "1075",
-        "maxpc50": "121511"
+        "maxpc50": "1215"
     },
     {
         "nodex": "394",
         "nombre": "Prinplup",
         "maxpc": "1701",
-        "maxpc50": "192315"
+        "maxpc50": "1923"
     },
     {
         "nodex": "395",
         "nombre": "Empoleon",
         "maxpc": "2900",
-        "maxpc50": "327921"
+        "maxpc50": "3279"
     },
     {
         "nodex": "396",
         "nombre": "Starly",
         "maxpc": "719",
-        "maxpc50": "81310"
+        "maxpc50": "8131"
     },
     {
         "nodex": "396",
         "nombre": "Starly (Shadow)",
         "maxpc": "719",
-        "maxpc50": "81310"
+        "maxpc50": "8131"
     },
     {
         "nodex": "397",
         "nombre": "Staravia",
         "maxpc": "1299",
-        "maxpc50": "146814"
+        "maxpc50": "1468"
     },
     {
         "nodex": "397",
         "nombre": "Staravia (Shadow)",
         "maxpc": "1299",
-        "maxpc50": "146814"
+        "maxpc50": "1468"
     },
     {
         "nodex": "398",
         "nombre": "Staraptor",
         "maxpc": "2825",
-        "maxpc50": "319423"
+        "maxpc50": "3194"
     },
     {
         "nodex": "398",
         "nombre": "Staraptor (Shadow)",
         "maxpc": "2825",
-        "maxpc50": "319423"
+        "maxpc50": "3194"
     },
     {
         "nodex": "399",
@@ -4245,13 +4245,13 @@
         "nodex": "400",
         "nombre": "Bibarel",
         "maxpc": "1823",
-        "maxpc50": "206116"
+        "maxpc50": "2061"
     },
     {
         "nodex": "400",
         "nombre": "Bibarel (Shadow)",
         "maxpc": "1823",
-        "maxpc50": "206116"
+        "maxpc50": "2061"
     },
     {
         "nodex": "401",
@@ -4263,43 +4263,43 @@
         "nodex": "402",
         "nombre": "Kricketune",
         "maxpc": "1653",
-        "maxpc50": "186916"
+        "maxpc50": "1869"
     },
     {
         "nodex": "403",
         "nombre": "Shinx",
         "maxpc": "876",
-        "maxpc50": "99011"
+        "maxpc50": "9901"
     },
     {
         "nodex": "403",
         "nombre": "Shinx (Shadow)",
         "maxpc": "876",
-        "maxpc50": "99011"
+        "maxpc50": "9901"
     },
     {
         "nodex": "404",
         "nombre": "Luxio",
         "maxpc": "1486",
-        "maxpc50": "168015"
+        "maxpc50": "1680"
     },
     {
         "nodex": "404",
         "nombre": "Luxio (Shadow)",
         "maxpc": "1486",
-        "maxpc50": "168015"
+        "maxpc50": "1680"
     },
     {
         "nodex": "405",
         "nombre": "Luxray",
         "maxpc": "2888",
-        "maxpc50": "326523"
+        "maxpc50": "3265"
     },
     {
         "nodex": "405",
         "nombre": "Luxray (Shadow)",
         "maxpc": "2888",
-        "maxpc50": "326523"
+        "maxpc50": "3265"
     },
     {
         "nodex": "406",
@@ -4311,31 +4311,31 @@
         "nodex": "407",
         "nombre": "Roserade",
         "maxpc": "2971",
-        "maxpc50": "335924"
+        "maxpc50": "3359"
     },
     {
         "nodex": "408",
         "nombre": "Cranidos",
         "maxpc": "1820",
-        "maxpc50": "205821"
+        "maxpc50": "2058"
     },
     {
         "nodex": "409",
         "nombre": "Rampardos",
         "maxpc": "3298",
-        "maxpc50": "372829"
+        "maxpc50": "3728"
     },
     {
         "nodex": "410",
         "nombre": "Shieldon",
         "maxpc": "890",
-        "maxpc50": "10077"
+        "maxpc50": "1007"
     },
     {
         "nodex": "411",
         "nombre": "Bastiodon",
         "maxpc": "1539",
-        "maxpc50": "17419"
+        "maxpc50": "1741"
     },
     {
         "nodex": "412",
@@ -4359,25 +4359,25 @@
         "nodex": "413",
         "nombre": "Wormadam (Plant)",
         "maxpc": "1773",
-        "maxpc50": "200514"
+        "maxpc50": "2005"
     },
     {
         "nodex": "413",
         "nombre": "Wormadam (Sandy)",
         "maxpc": "1773",
-        "maxpc50": "200514"
+        "maxpc50": "2005"
     },
     {
         "nodex": "413",
         "nombre": "Wormadam (Trash)",
         "maxpc": "1593",
-        "maxpc50": "180212"
+        "maxpc50": "1802"
     },
     {
         "nodex": "414",
         "nombre": "Mothim",
         "maxpc": "1815",
-        "maxpc50": "205218"
+        "maxpc50": "2052"
     },
     {
         "nodex": "415",
@@ -4389,163 +4389,163 @@
         "nodex": "416",
         "nombre": "Vespiquen",
         "maxpc": "2005",
-        "maxpc50": "226714"
+        "maxpc50": "2267"
     },
     {
         "nodex": "417",
         "nombre": "Pachirisu",
         "maxpc": "1213",
-        "maxpc50": "13729"
+        "maxpc50": "1372"
     },
     {
         "nodex": "418",
         "nombre": "Buizel",
         "maxpc": "1054",
-        "maxpc50": "119213"
+        "maxpc50": "1192"
     },
     {
         "nodex": "419",
         "nombre": "Floatzel",
         "maxpc": "2443",
-        "maxpc50": "276222"
+        "maxpc50": "2762"
     },
     {
         "nodex": "420",
         "nombre": "Cherubi",
         "maxpc": "950",
-        "maxpc50": "107410"
+        "maxpc50": "1074"
     },
     {
         "nodex": "421",
         "nombre": "Cherrim (Overcast)",
         "maxpc": "2048",
-        "maxpc50": "231517"
+        "maxpc50": "2315"
     },
     {
         "nodex": "421",
         "nombre": "Cherrim (Sunshine)",
         "maxpc": "2048",
-        "maxpc50": "231517"
+        "maxpc50": "2315"
     },
     {
         "nodex": "422",
         "nombre": "Shellos",
         "maxpc": "1136",
-        "maxpc50": "128410"
+        "maxpc50": "1284"
     },
     {
         "nodex": "423",
         "nombre": "Gastrodon",
         "maxpc": "2324",
-        "maxpc50": "262816"
+        "maxpc50": "2628"
     },
     {
         "nodex": "424",
         "nombre": "Ambipom",
         "maxpc": "2418",
-        "maxpc50": "273320"
+        "maxpc50": "2733"
     },
     {
         "nodex": "424",
         "nombre": "Ambipom (Shadow)",
         "maxpc": "2418",
-        "maxpc50": "273320"
+        "maxpc50": "2733"
     },
     {
         "nodex": "425",
         "nombre": "Drifloon",
         "maxpc": "1197",
-        "maxpc50": "135311"
+        "maxpc50": "1353"
     },
     {
         "nodex": "426",
         "nombre": "Drifblim",
         "maxpc": "2382",
-        "maxpc50": "269318"
+        "maxpc50": "2693"
     },
     {
         "nodex": "427",
         "nombre": "Buneary",
         "maxpc": "1258",
-        "maxpc50": "142313"
+        "maxpc50": "1423"
     },
     {
         "nodex": "428",
         "nombre": "Lopunny",
         "maxpc": "2059",
-        "maxpc50": "232815"
+        "maxpc50": "2328"
     },
     {
         "nodex": "428",
         "nombre": "Lopunny (Mega)",
         "maxpc": "3745",
-        "maxpc50": "423428"
+        "maxpc50": "4234"
     },
     {
         "nodex": "429",
         "nombre": "Mismagius",
         "maxpc": "2615",
-        "maxpc50": "295721"
+        "maxpc50": "2957"
     },
     {
         "nodex": "429",
         "nombre": "Mismagius (Shadow)",
         "maxpc": "2615",
-        "maxpc50": "295721"
+        "maxpc50": "2957"
     },
     {
         "nodex": "430",
         "nombre": "Honchkrow",
         "maxpc": "2711",
-        "maxpc50": "306524"
+        "maxpc50": "3065"
     },
     {
         "nodex": "430",
         "nombre": "Honchkrow (Shadow)",
         "maxpc": "2711",
-        "maxpc50": "306524"
+        "maxpc50": "3065"
     },
     {
         "nodex": "431",
         "nombre": "Glameow",
         "maxpc": "934",
-        "maxpc50": "105610"
+        "maxpc50": "1056"
     },
     {
         "nodex": "432",
         "nombre": "Purugly",
         "maxpc": "1953",
-        "maxpc50": "220817"
+        "maxpc50": "2208"
     },
     {
         "nodex": "433",
         "nombre": "Chingling",
         "maxpc": "1005",
-        "maxpc50": "113711"
+        "maxpc50": "1137"
     },
     {
         "nodex": "434",
         "nombre": "Stunky",
         "maxpc": "1151",
-        "maxpc50": "130112"
+        "maxpc50": "1301"
     },
     {
         "nodex": "434",
         "nombre": "Stunky (Shadow)",
         "maxpc": "1151",
-        "maxpc50": "130112"
+        "maxpc50": "1301"
     },
     {
         "nodex": "435",
         "nombre": "Skuntank",
         "maxpc": "2358",
-        "maxpc50": "266618"
+        "maxpc50": "2666"
     },
     {
         "nodex": "435",
         "nombre": "Skuntank (Shadow)",
         "maxpc": "2358",
-        "maxpc50": "266618"
+        "maxpc50": "2666"
     },
     {
         "nodex": "436",
@@ -4557,19 +4557,19 @@
         "nodex": "437",
         "nombre": "Bronzong",
         "maxpc": "2239",
-        "maxpc50": "253116"
+        "maxpc50": "2531"
     },
     {
         "nodex": "438",
         "nombre": "Bonsly",
         "maxpc": "1302",
-        "maxpc50": "147212"
+        "maxpc50": "1472"
     },
     {
         "nodex": "439",
         "nombre": "Mime (Jr)",
         "maxpc": "1095",
-        "maxpc50": "123812"
+        "maxpc50": "1238"
     },
     {
         "nodex": "440",
@@ -4581,433 +4581,433 @@
         "nodex": "441",
         "nombre": "Chatot",
         "maxpc": "1791",
-        "maxpc50": "202518"
+        "maxpc50": "2025"
     },
     {
         "nodex": "442",
         "nombre": "Spiritomb",
         "maxpc": "2072",
-        "maxpc50": "234316"
+        "maxpc50": "2343"
     },
     {
         "nodex": "443",
         "nombre": "Gible",
         "maxpc": "1112",
-        "maxpc50": "125812"
+        "maxpc50": "1258"
     },
     {
         "nodex": "444",
         "nombre": "Gabite",
         "maxpc": "1874",
-        "maxpc50": "211917"
+        "maxpc50": "2119"
     },
     {
         "nodex": "445",
         "nombre": "Garchomp",
         "maxpc": "3962",
-        "maxpc50": "447926"
+        "maxpc50": "4479"
     },
     {
         "nodex": "446",
         "nombre": "Munchlax",
         "maxpc": "1892",
-        "maxpc50": "213913"
+        "maxpc50": "2139"
     },
     {
         "nodex": "447",
         "nombre": "Riolu",
         "maxpc": "993",
-        "maxpc50": "112312"
+        "maxpc50": "1123"
     },
     {
         "nodex": "448",
         "nombre": "Lucario",
         "maxpc": "2703",
-        "maxpc50": "305623"
+        "maxpc50": "3056"
     },
     {
         "nodex": "449",
         "nombre": "Hippopotas",
         "maxpc": "1358",
-        "maxpc50": "153512"
+        "maxpc50": "1535"
     },
     {
         "nodex": "449",
         "nombre": "Hippopotas (Shadow)",
         "maxpc": "1358",
-        "maxpc50": "153512"
+        "maxpc50": "1535"
     },
     {
         "nodex": "450",
         "nombre": "Hippowdon",
         "maxpc": "3085",
-        "maxpc50": "348820"
+        "maxpc50": "3488"
     },
     {
         "nodex": "450",
         "nombre": "Hippowdon (Shadow)",
         "maxpc": "3085",
-        "maxpc50": "348820"
+        "maxpc50": "3488"
     },
     {
         "nodex": "451",
         "nombre": "Skorupi",
         "maxpc": "1009",
-        "maxpc50": "11419"
+        "maxpc50": "1141"
     },
     {
         "nodex": "451",
         "nombre": "Skorupi (Shadow)",
         "maxpc": "1009",
-        "maxpc50": "11419"
+        "maxpc50": "1141"
     },
     {
         "nodex": "452",
         "nombre": "Drapion",
         "maxpc": "2453",
-        "maxpc50": "277318"
+        "maxpc50": "2773"
     },
     {
         "nodex": "452",
         "nombre": "Drapion (Shadow)",
         "maxpc": "2453",
-        "maxpc50": "277318"
+        "maxpc50": "2773"
     },
     {
         "nodex": "453",
         "nombre": "Croagunk",
         "maxpc": "952",
-        "maxpc50": "107711"
+        "maxpc50": "1077"
     },
     {
         "nodex": "454",
         "nombre": "Toxicroak",
         "maxpc": "2488",
-        "maxpc50": "281321"
+        "maxpc50": "2813"
     },
     {
         "nodex": "455",
         "nombre": "Carnivine",
         "maxpc": "2159",
-        "maxpc50": "244118"
+        "maxpc50": "2441"
     },
     {
         "nodex": "456",
         "nombre": "Finneon",
         "maxpc": "971",
-        "maxpc50": "10989"
+        "maxpc50": "1098"
     },
     {
         "nodex": "457",
         "nombre": "Lumineon",
         "maxpc": "1814",
-        "maxpc50": "205014"
+        "maxpc50": "2050"
     },
     {
         "nodex": "458",
         "nombre": "Mantyke",
         "maxpc": "1248",
-        "maxpc50": "141110"
+        "maxpc50": "1411"
     },
     {
         "nodex": "459",
         "nombre": "Snover",
         "maxpc": "1159",
-        "maxpc50": "131111"
+        "maxpc50": "1311"
     },
     {
         "nodex": "459",
         "nombre": "Snover (Shadow)",
         "maxpc": "1159",
-        "maxpc50": "131111"
+        "maxpc50": "1311"
     },
     {
         "nodex": "460",
         "nombre": "Abomasnow",
         "maxpc": "2362",
-        "maxpc50": "267017"
+        "maxpc50": "2670"
     },
     {
         "nodex": "460",
         "nombre": "Abomasnow (Mega)",
         "maxpc": "3405",
-        "maxpc50": "385024"
+        "maxpc50": "3850"
     },
     {
         "nodex": "460",
         "nombre": "Abomasnow (Shadow)",
         "maxpc": "2362",
-        "maxpc50": "267017"
+        "maxpc50": "2670"
     },
     {
         "nodex": "461",
         "nombre": "Weavile",
         "maxpc": "3005",
-        "maxpc50": "339724"
+        "maxpc50": "3397"
     },
     {
         "nodex": "461",
         "nombre": "Weavile (Shadow)",
         "maxpc": "3005",
-        "maxpc50": "339724"
+        "maxpc50": "3397"
     },
     {
         "nodex": "462",
         "nombre": "Magnezone",
         "maxpc": "3205",
-        "maxpc50": "362323"
+        "maxpc50": "3623"
     },
     {
         "nodex": "462",
         "nombre": "Magnezone (Shadow)",
         "maxpc": "3205",
-        "maxpc50": "362323"
+        "maxpc50": "3623"
     },
     {
         "nodex": "463",
         "nombre": "Lickilicky",
         "maxpc": "2467",
-        "maxpc50": "278916"
+        "maxpc50": "2789"
     },
     {
         "nodex": "464",
         "nombre": "Rhyperior",
         "maxpc": "3733",
-        "maxpc50": "422124"
+        "maxpc50": "4221"
     },
     {
         "nodex": "465",
         "nombre": "Tangrowth",
         "maxpc": "3030",
-        "maxpc50": "342520"
+        "maxpc50": "3425"
     },
     {
         "nodex": "465",
         "nombre": "Tangrowth (Shadow)",
         "maxpc": "3030",
-        "maxpc50": "342520"
+        "maxpc50": "3425"
     },
     {
         "nodex": "466",
         "nombre": "Electivire",
         "maxpc": "3079",
-        "maxpc50": "348124"
+        "maxpc50": "3481"
     },
     {
         "nodex": "466",
         "nombre": "Electivire (Shadow)",
         "maxpc": "3079",
-        "maxpc50": "348124"
+        "maxpc50": "3481"
     },
     {
         "nodex": "467",
         "nombre": "Magmortar",
         "maxpc": "3132",
-        "maxpc50": "354124"
+        "maxpc50": "3541"
     },
     {
         "nodex": "467",
         "nombre": "Magmortar (Shadow)",
         "maxpc": "3132",
-        "maxpc50": "354124"
+        "maxpc50": "3541"
     },
     {
         "nodex": "468",
         "nombre": "Togekiss",
         "maxpc": "3332",
-        "maxpc50": "376722"
+        "maxpc50": "3767"
     },
     {
         "nodex": "469",
         "nombre": "Yanmega",
         "maxpc": "2946",
-        "maxpc50": "333023"
+        "maxpc50": "3330"
     },
     {
         "nodex": "470",
         "nombre": "Leafeon",
         "maxpc": "2944",
-        "maxpc50": "332821"
+        "maxpc50": "3328"
     },
     {
         "nodex": "471",
         "nombre": "Glaceon",
         "maxpc": "3126",
-        "maxpc50": "353523"
+        "maxpc50": "3535"
     },
     {
         "nodex": "472",
         "nombre": "Gliscor",
         "maxpc": "2692",
-        "maxpc50": "304318"
+        "maxpc50": "3043"
     },
     {
         "nodex": "472",
         "nombre": "Gliscor (Shadow)",
         "maxpc": "2692",
-        "maxpc50": "304318"
+        "maxpc50": "3043"
     },
     {
         "nodex": "473",
         "nombre": "Mamoswine",
         "maxpc": "3328",
-        "maxpc50": "376324"
+        "maxpc50": "3763"
     },
     {
         "nodex": "473",
         "nombre": "Mamoswine (Shadow)",
         "maxpc": "3328",
-        "maxpc50": "376324"
+        "maxpc50": "3763"
     },
     {
         "nodex": "474",
         "nombre": "Porygon-z",
         "maxpc": "3266",
-        "maxpc50": "369326"
+        "maxpc50": "3693"
     },
     {
         "nodex": "474",
         "nombre": "Porygon-z (Shadow)",
         "maxpc": "3266",
-        "maxpc50": "369326"
+        "maxpc50": "3693"
     },
     {
         "nodex": "475",
         "nombre": "Gallade",
         "maxpc": "3093",
-        "maxpc50": "349723"
+        "maxpc50": "3497"
     },
     {
         "nodex": "475",
         "nombre": "Gallade (Shadow)",
         "maxpc": "3093",
-        "maxpc50": "349723"
+        "maxpc50": "3497"
     },
     {
         "nodex": "476",
         "nombre": "Probopass",
         "maxpc": "2080",
-        "maxpc50": "235113"
+        "maxpc50": "2351"
     },
     {
         "nodex": "476",
         "nombre": "Probopass (Shadow)",
         "maxpc": "2080",
-        "maxpc50": "235113"
+        "maxpc50": "2351"
     },
     {
         "nodex": "477",
         "nombre": "Dusknoir",
         "maxpc": "2388",
-        "maxpc50": "270018"
+        "maxpc50": "2700"
     },
     {
         "nodex": "477",
         "nombre": "Dusknoir (Shadow)",
         "maxpc": "2388",
-        "maxpc50": "270018"
+        "maxpc50": "2700"
     },
     {
         "nodex": "478",
         "nombre": "Froslass",
         "maxpc": "2040",
-        "maxpc50": "230617"
+        "maxpc50": "2306"
     },
     {
         "nodex": "479",
         "nombre": "Rotom (Mow)",
         "maxpc": "2579",
-        "maxpc50": "291620"
+        "maxpc50": "2916"
     },
     {
         "nodex": "479",
         "nombre": "Rotom (Wash)",
         "maxpc": "2579",
-        "maxpc50": "291620"
+        "maxpc50": "2916"
     },
     {
         "nodex": "480",
         "nombre": "Uxie",
         "maxpc": "2524",
-        "maxpc50": "285315"
+        "maxpc50": "2853"
     },
     {
         "nodex": "481",
         "nombre": "Mesprit",
         "maxpc": "3058",
-        "maxpc50": "345721"
+        "maxpc50": "3457"
     },
     {
         "nodex": "482",
         "nombre": "Azelf",
         "maxpc": "3210",
-        "maxpc50": "362927"
+        "maxpc50": "3629"
     },
     {
         "nodex": "483",
         "nombre": "Dialga",
         "maxpc": "4038",
-        "maxpc50": "456527"
+        "maxpc50": "4565"
     },
     {
         "nodex": "484",
         "nombre": "Palkia",
         "maxpc": "3991",
-        "maxpc50": "451228"
+        "maxpc50": "4512"
     },
     {
         "nodex": "485",
         "nombre": "Heatran",
         "maxpc": "3754",
-        "maxpc50": "424425"
+        "maxpc50": "4244"
     },
     {
         "nodex": "486",
         "nombre": "Regigigas",
         "maxpc": "4346",
-        "maxpc50": "491328"
+        "maxpc50": "4913"
     },
     {
         "nodex": "487",
         "nombre": "Giratina (Altered)",
         "maxpc": "3379",
-        "maxpc50": "382018"
+        "maxpc50": "3820"
     },
     {
         "nodex": "487",
         "nombre": "Giratina (Origin)",
         "maxpc": "3683",
-        "maxpc50": "416422"
+        "maxpc50": "4164"
     },
     {
         "nodex": "488",
         "nombre": "Cresselia",
         "maxpc": "2857",
-        "maxpc50": "323015"
+        "maxpc50": "3230"
     },
     {
         "nodex": "491",
         "nombre": "Darkrai",
         "maxpc": "3739",
-        "maxpc50": "422728"
+        "maxpc50": "4227"
     },
     {
         "nodex": "492",
         "nombre": "Shaymin (Land)",
         "maxpc": "3265",
-        "maxpc50": "369121"
+        "maxpc50": "3691"
     },
     {
         "nodex": "492",
         "nombre": "Shaymin (Sky)",
         "maxpc": "3592",
-        "maxpc50": "406126"
+        "maxpc50": "4061"
     },
     {
         "nodex": "494",
         "nombre": "Victini",
         "maxpc": "3265",
-        "maxpc50": "369121"
+        "maxpc50": "3691"
     },
     {
         "nodex": "495",
@@ -5019,49 +5019,49 @@
         "nodex": "496",
         "nombre": "Servine",
         "maxpc": "1441",
-        "maxpc50": "162912"
+        "maxpc50": "1629"
     },
     {
         "nodex": "497",
         "nombre": "Serperior",
         "maxpc": "2277",
-        "maxpc50": "257416"
+        "maxpc50": "2574"
     },
     {
         "nodex": "498",
         "nombre": "Tepig",
         "maxpc": "1083",
-        "maxpc50": "122411"
+        "maxpc50": "1224"
     },
     {
         "nodex": "499",
         "nombre": "Pignite",
         "maxpc": "1924",
-        "maxpc50": "217517"
+        "maxpc50": "2175"
     },
     {
         "nodex": "500",
         "nombre": "Emboar",
         "maxpc": "2982",
-        "maxpc50": "337223"
+        "maxpc50": "3372"
     },
     {
         "nodex": "501",
         "nombre": "Oshawott",
         "maxpc": "1046",
-        "maxpc50": "118211"
+        "maxpc50": "1182"
     },
     {
         "nodex": "502",
         "nombre": "Dewott",
         "maxpc": "1741",
-        "maxpc50": "196815"
+        "maxpc50": "1968"
     },
     {
         "nodex": "503",
         "nombre": "Samurott",
         "maxpc": "2826",
-        "maxpc50": "319421"
+        "maxpc50": "3194"
     },
     {
         "nodex": "504",
@@ -5079,31 +5079,31 @@
         "nodex": "505",
         "nombre": "Watchog",
         "maxpc": "1819",
-        "maxpc50": "205616"
+        "maxpc50": "2056"
     },
     {
         "nodex": "505",
         "nombre": "Watchog (Shadow)",
         "maxpc": "1819",
-        "maxpc50": "205616"
+        "maxpc50": "2056"
     },
     {
         "nodex": "506",
         "nombre": "Lillipup",
         "maxpc": "915",
-        "maxpc50": "103510"
+        "maxpc50": "1035"
     },
     {
         "nodex": "507",
         "nombre": "Herdier",
         "maxpc": "1583",
-        "maxpc50": "178914"
+        "maxpc50": "1789"
     },
     {
         "nodex": "508",
         "nombre": "Stoutland",
         "maxpc": "2827",
-        "maxpc50": "319620"
+        "maxpc50": "3196"
     },
     {
         "nodex": "509",
@@ -5121,61 +5121,61 @@
         "nodex": "510",
         "nombre": "Liepard",
         "maxpc": "1846",
-        "maxpc50": "208718"
+        "maxpc50": "2087"
     },
     {
         "nodex": "510",
         "nombre": "Liepard (Shadow)",
         "maxpc": "1846",
-        "maxpc50": "208718"
+        "maxpc50": "2087"
     },
     {
         "nodex": "511",
         "nombre": "Pansage",
         "maxpc": "956",
-        "maxpc50": "108110"
+        "maxpc50": "1081"
     },
     {
         "nodex": "512",
         "nombre": "Simisage",
         "maxpc": "2350",
-        "maxpc50": "265720"
+        "maxpc50": "2657"
     },
     {
         "nodex": "513",
         "nombre": "Pansear",
         "maxpc": "956",
-        "maxpc50": "108110"
+        "maxpc50": "1081"
     },
     {
         "nodex": "514",
         "nombre": "Simisear",
         "maxpc": "2350",
-        "maxpc50": "265720"
+        "maxpc50": "2657"
     },
     {
         "nodex": "515",
         "nombre": "Panpour",
         "maxpc": "956",
-        "maxpc50": "108110"
+        "maxpc50": "1081"
     },
     {
         "nodex": "516",
         "nombre": "Simipour",
         "maxpc": "2350",
-        "maxpc50": "265720"
+        "maxpc50": "2657"
     },
     {
         "nodex": "517",
         "nombre": "Munna",
         "maxpc": "1145",
-        "maxpc50": "129411"
+        "maxpc50": "1294"
     },
     {
         "nodex": "518",
         "nombre": "Musharna",
         "maxpc": "2723",
-        "maxpc50": "307918"
+        "maxpc50": "3079"
     },
     {
         "nodex": "519",
@@ -5187,103 +5187,103 @@
         "nodex": "520",
         "nombre": "Tranquill",
         "maxpc": "1442",
-        "maxpc50": "163114"
+        "maxpc50": "1631"
     },
     {
         "nodex": "521",
         "nombre": "Unfezant",
         "maxpc": "2734",
-        "maxpc50": "309122"
+        "maxpc50": "3091"
     },
     {
         "nodex": "522",
         "nombre": "Blitzle",
         "maxpc": "882",
-        "maxpc50": "99811"
+        "maxpc50": "9981"
     },
     {
         "nodex": "522",
         "nombre": "Blitzle (Shadow)",
         "maxpc": "882",
-        "maxpc50": "99811"
+        "maxpc50": "9981"
     },
     {
         "nodex": "523",
         "nombre": "Zebstrika",
         "maxpc": "2428",
-        "maxpc50": "274521"
+        "maxpc50": "2745"
     },
     {
         "nodex": "523",
         "nombre": "Zebstrika (Shadow)",
         "maxpc": "2428",
-        "maxpc50": "274521"
+        "maxpc50": "2745"
     },
     {
         "nodex": "524",
         "nombre": "Roggenrola",
         "maxpc": "1205",
-        "maxpc50": "136212"
+        "maxpc50": "1362"
     },
     {
         "nodex": "525",
         "nombre": "Boldore",
         "maxpc": "2029",
-        "maxpc50": "229317"
+        "maxpc50": "2293"
     },
     {
         "nodex": "526",
         "nombre": "Gigalith",
         "maxpc": "3228",
-        "maxpc50": "365022"
+        "maxpc50": "3650"
     },
     {
         "nodex": "527",
         "nombre": "Woobat",
         "maxpc": "1016",
-        "maxpc50": "114910"
+        "maxpc50": "1149"
     },
     {
         "nodex": "528",
         "nombre": "Swoobat",
         "maxpc": "1716",
-        "maxpc50": "194016"
+        "maxpc50": "1940"
     },
     {
         "nodex": "529",
         "nombre": "Drilbur",
         "maxpc": "1376",
-        "maxpc50": "155515"
+        "maxpc50": "1555"
     },
     {
         "nodex": "530",
         "nombre": "Excadrill",
         "maxpc": "3244",
-        "maxpc50": "366725"
+        "maxpc50": "3667"
     },
     {
         "nodex": "531",
         "nombre": "Audino",
         "maxpc": "1682",
-        "maxpc50": "190211"
+        "maxpc50": "1902"
     },
     {
         "nodex": "532",
         "nombre": "Timburr",
         "maxpc": "1315",
-        "maxpc50": "148713"
+        "maxpc50": "1487"
     },
     {
         "nodex": "533",
         "nombre": "Gurdurr",
         "maxpc": "2169",
-        "maxpc50": "245218"
+        "maxpc50": "2452"
     },
     {
         "nodex": "534",
         "nombre": "Conkeldurr",
         "maxpc": "3337",
-        "maxpc50": "377324"
+        "maxpc50": "3773"
     },
     {
         "nodex": "535",
@@ -5295,43 +5295,43 @@
         "nodex": "536",
         "nombre": "Palpitoad",
         "maxpc": "1392",
-        "maxpc50": "157412"
+        "maxpc50": "1574"
     },
     {
         "nodex": "537",
         "nombre": "Seismitoad",
         "maxpc": "2564",
-        "maxpc50": "289918"
+        "maxpc50": "2899"
     },
     {
         "nodex": "538",
         "nombre": "Throh",
         "maxpc": "2562",
-        "maxpc50": "289617"
+        "maxpc50": "2896"
     },
     {
         "nodex": "539",
         "nombre": "Sawk",
         "maxpc": "2788",
-        "maxpc50": "315223"
+        "maxpc50": "3152"
     },
     {
         "nodex": "540",
         "nombre": "Sewaddle",
         "maxpc": "977",
-        "maxpc50": "11059"
+        "maxpc50": "1105"
     },
     {
         "nodex": "541",
         "nombre": "Swadloon",
         "maxpc": "1370",
-        "maxpc50": "154911"
+        "maxpc50": "1549"
     },
     {
         "nodex": "542",
         "nombre": "Leavanny",
         "maxpc": "2580",
-        "maxpc50": "291720"
+        "maxpc50": "2917"
     },
     {
         "nodex": "543",
@@ -5343,13 +5343,13 @@
         "nodex": "544",
         "nombre": "Whirlipede",
         "maxpc": "1144",
-        "maxpc50": "129310"
+        "maxpc50": "1293"
     },
     {
         "nodex": "545",
         "nombre": "Scolipede",
         "maxpc": "2447",
-        "maxpc50": "276620"
+        "maxpc50": "2766"
     },
     {
         "nodex": "546",
@@ -5361,169 +5361,169 @@
         "nodex": "547",
         "nombre": "Whimsicott",
         "maxpc": "2014",
-        "maxpc50": "227716"
+        "maxpc50": "2277"
     },
     {
         "nodex": "548",
         "nombre": "Petilil",
         "maxpc": "1030",
-        "maxpc50": "116411"
+        "maxpc50": "1164"
     },
     {
         "nodex": "549",
         "nombre": "Lilligant",
         "maxpc": "2550",
-        "maxpc50": "288321"
+        "maxpc50": "2883"
     },
     {
         "nodex": "550",
         "nombre": "Basculin",
         "maxpc": "2090",
-        "maxpc50": "236318"
+        "maxpc50": "2363"
     },
     {
         "nodex": "551",
         "nombre": "Sandile",
         "maxpc": "1037",
-        "maxpc50": "117213"
+        "maxpc50": "1172"
     },
     {
         "nodex": "552",
         "nombre": "Krokorok",
         "maxpc": "1418",
-        "maxpc50": "160315"
+        "maxpc50": "1603"
     },
     {
         "nodex": "553",
         "nombre": "Krookodile",
         "maxpc": "3046",
-        "maxpc50": "344422"
+        "maxpc50": "3444"
     },
     {
         "nodex": "554",
         "nombre": "Darumaka",
         "maxpc": "1442",
-        "maxpc50": "163015"
+        "maxpc50": "1630"
     },
     {
         "nodex": "554",
         "nombre": "Darumaka (Galarian)",
         "maxpc": "1442",
-        "maxpc50": "163015"
+        "maxpc50": "1630"
     },
     {
         "nodex": "555",
         "nombre": "Darmanitan (Galarian)",
         "maxpc": "3105",
-        "maxpc50": "351126"
+        "maxpc50": "3511"
     },
     {
         "nodex": "555",
         "nombre": "Darmanitan (Standard)",
         "maxpc": "3105",
-        "maxpc50": "351126"
+        "maxpc50": "3511"
     },
     {
         "nodex": "556",
         "nombre": "Maractus",
         "maxpc": "2274",
-        "maxpc50": "257120"
+        "maxpc50": "2571"
     },
     {
         "nodex": "557",
         "nombre": "Dwebble",
         "maxpc": "1224",
-        "maxpc50": "138411"
+        "maxpc50": "1384"
     },
     {
         "nodex": "558",
         "nombre": "Crustle",
         "maxpc": "2542",
-        "maxpc50": "287418"
+        "maxpc50": "2874"
     },
     {
         "nodex": "559",
         "nombre": "Scraggy",
         "maxpc": "1372",
-        "maxpc50": "155113"
+        "maxpc50": "1551"
     },
     {
         "nodex": "560",
         "nombre": "Scrafty",
         "maxpc": "2283",
-        "maxpc50": "258116"
+        "maxpc50": "2581"
     },
     {
         "nodex": "561",
         "nombre": "Sigilyph",
         "maxpc": "2550",
-        "maxpc50": "288320"
+        "maxpc50": "2883"
     },
     {
         "nodex": "562",
         "nombre": "Yamask",
         "maxpc": "982",
-        "maxpc50": "11109"
+        "maxpc50": "1110"
     },
     {
         "nodex": "562",
         "nombre": "Yamask (Galarian)",
         "maxpc": "982",
-        "maxpc50": "11109"
+        "maxpc50": "1110"
     },
     {
         "nodex": "563",
         "nombre": "Cofagrigus",
         "maxpc": "2273",
-        "maxpc50": "257016"
+        "maxpc50": "2570"
     },
     {
         "nodex": "564",
         "nombre": "Tirtouga",
         "maxpc": "1488",
-        "maxpc50": "168313"
+        "maxpc50": "1683"
     },
     {
         "nodex": "565",
         "nombre": "Carracosta",
         "maxpc": "2621",
-        "maxpc50": "296419"
+        "maxpc50": "2964"
     },
     {
         "nodex": "566",
         "nombre": "Archen",
         "maxpc": "1842",
-        "maxpc50": "208321"
+        "maxpc50": "2083"
     },
     {
         "nodex": "567",
         "nombre": "Archeops",
         "maxpc": "3331",
-        "maxpc50": "376629"
+        "maxpc50": "3766"
     },
     {
         "nodex": "568",
         "nombre": "Trubbish",
         "maxpc": "1000",
-        "maxpc50": "11319"
+        "maxpc50": "1131"
     },
     {
         "nodex": "569",
         "nombre": "Garbodor",
         "maxpc": "2345",
-        "maxpc50": "265118"
+        "maxpc50": "2651"
     },
     {
         "nodex": "570",
         "nombre": "Zorua",
         "maxpc": "1175",
-        "maxpc50": "132915"
+        "maxpc50": "1329"
     },
     {
         "nodex": "571",
         "nombre": "Zoroark",
         "maxpc": "2571",
-        "maxpc50": "290725"
+        "maxpc50": "2907"
     },
     {
         "nodex": "572",
@@ -5535,43 +5535,43 @@
         "nodex": "573",
         "nombre": "Cinccino",
         "maxpc": "2242",
-        "maxpc50": "253519"
+        "maxpc50": "2535"
     },
     {
         "nodex": "574",
         "nombre": "Gothita",
         "maxpc": "951",
-        "maxpc50": "10759"
+        "maxpc50": "1075"
     },
     {
         "nodex": "575",
         "nombre": "Gothorita",
         "maxpc": "1604",
-        "maxpc50": "181313"
+        "maxpc50": "1813"
     },
     {
         "nodex": "576",
         "nombre": "Gothitelle",
         "maxpc": "2419",
-        "maxpc50": "273517"
+        "maxpc50": "2735"
     },
     {
         "nodex": "577",
         "nombre": "Solosis",
         "maxpc": "1367",
-        "maxpc50": "154617"
+        "maxpc50": "1546"
     },
     {
         "nodex": "578",
         "nombre": "Duosion",
         "maxpc": "2018",
-        "maxpc50": "228220"
+        "maxpc50": "2282"
     },
     {
         "nodex": "579",
         "nombre": "Reuniclus",
         "maxpc": "2927",
-        "maxpc50": "330921"
+        "maxpc50": "3309"
     },
     {
         "nodex": "580",
@@ -5589,241 +5589,241 @@
         "nodex": "581",
         "nombre": "Swanna",
         "maxpc": "2088",
-        "maxpc50": "236118"
+        "maxpc50": "2361"
     },
     {
         "nodex": "581",
         "nombre": "Swanna (Shadow)",
         "maxpc": "2088",
-        "maxpc50": "236118"
+        "maxpc50": "2361"
     },
     {
         "nodex": "582",
         "nombre": "Vanillite",
         "maxpc": "1033",
-        "maxpc50": "116811"
+        "maxpc50": "1168"
     },
     {
         "nodex": "583",
         "nombre": "Vanillish",
         "maxpc": "1591",
-        "maxpc50": "179915"
+        "maxpc50": "1799"
     },
     {
         "nodex": "584",
         "nombre": "Vanilluxe",
         "maxpc": "2822",
-        "maxpc50": "319021"
+        "maxpc50": "3190"
     },
     {
         "nodex": "585",
         "nombre": "Deerling",
         "maxpc": "1135",
-        "maxpc50": "128311"
+        "maxpc50": "1283"
     },
     {
         "nodex": "586",
         "nombre": "Sawsbuck",
         "maxpc": "2416",
-        "maxpc50": "273219"
+        "maxpc50": "2732"
     },
     {
         "nodex": "587",
         "nombre": "Emolga",
         "maxpc": "1633",
-        "maxpc50": "184715"
+        "maxpc50": "1847"
     },
     {
         "nodex": "588",
         "nombre": "Karrablast",
         "maxpc": "1182",
-        "maxpc50": "133613"
+        "maxpc50": "1336"
     },
     {
         "nodex": "589",
         "nombre": "Escavalier",
         "maxpc": "2889",
-        "maxpc50": "326622"
+        "maxpc50": "3266"
     },
     {
         "nodex": "590",
         "nombre": "Foongus",
         "maxpc": "979",
-        "maxpc50": "11079"
+        "maxpc50": "1107"
     },
     {
         "nodex": "590",
         "nombre": "Foongus (Shadow)",
         "maxpc": "979",
-        "maxpc50": "11079"
+        "maxpc50": "1107"
     },
     {
         "nodex": "591",
         "nombre": "Amoonguss",
         "maxpc": "2140",
-        "maxpc50": "242015"
+        "maxpc50": "2420"
     },
     {
         "nodex": "591",
         "nombre": "Amoonguss (Shadow)",
         "maxpc": "2140",
-        "maxpc50": "242015"
+        "maxpc50": "2420"
     },
     {
         "nodex": "592",
         "nombre": "Frillish",
         "maxpc": "1257",
-        "maxpc50": "142111"
+        "maxpc50": "1421"
     },
     {
         "nodex": "593",
         "nombre": "Jellicent",
         "maxpc": "2338",
-        "maxpc50": "264415"
+        "maxpc50": "2644"
     },
     {
         "nodex": "594",
         "nombre": "Alomomola",
         "maxpc": "2169",
-        "maxpc50": "245213"
+        "maxpc50": "2452"
     },
     {
         "nodex": "595",
         "nombre": "Joltik",
         "maxpc": "1023",
-        "maxpc50": "115611"
+        "maxpc50": "1156"
     },
     {
         "nodex": "595",
         "nombre": "Joltik (Shadow)",
         "maxpc": "1023",
-        "maxpc50": "115611"
+        "maxpc50": "1156"
     },
     {
         "nodex": "596",
         "nombre": "Galvantula",
         "maxpc": "2206",
-        "maxpc50": "249420"
+        "maxpc50": "2494"
     },
     {
         "nodex": "596",
         "nombre": "Galvantula (Shadow)",
         "maxpc": "2206",
-        "maxpc50": "249420"
+        "maxpc50": "2494"
     },
     {
         "nodex": "597",
         "nombre": "Ferroseed",
         "maxpc": "941",
-        "maxpc50": "10648"
+        "maxpc50": "1064"
     },
     {
         "nodex": "598",
         "nombre": "Ferrothorn",
         "maxpc": "2321",
-        "maxpc50": "262415"
+        "maxpc50": "2624"
     },
     {
         "nodex": "599",
         "nombre": "Klink",
         "maxpc": "956",
-        "maxpc50": "10819"
+        "maxpc50": "1081"
     },
     {
         "nodex": "600",
         "nombre": "Klang",
         "maxpc": "1847",
-        "maxpc50": "208815"
+        "maxpc50": "2088"
     },
     {
         "nodex": "601",
         "nombre": "Klinklang",
         "maxpc": "2637",
-        "maxpc50": "298119"
+        "maxpc50": "2981"
     },
     {
         "nodex": "602",
         "nombre": "Tynamo",
         "maxpc": "811",
-        "maxpc50": "91710"
+        "maxpc50": "9171"
     },
     {
         "nodex": "603",
         "nombre": "Eelektrik",
         "maxpc": "1715",
-        "maxpc50": "193915"
+        "maxpc50": "1939"
     },
     {
         "nodex": "604",
         "nombre": "Eelektross",
         "maxpc": "2732",
-        "maxpc50": "308921"
+        "maxpc50": "3089"
     },
     {
         "nodex": "605",
         "nombre": "Elgyem",
         "maxpc": "1385",
-        "maxpc50": "156614"
+        "maxpc50": "1566"
     },
     {
         "nodex": "606",
         "nombre": "Beheeyem",
         "maxpc": "2753",
-        "maxpc50": "311222"
+        "maxpc50": "3112"
     },
     {
         "nodex": "607",
         "nombre": "Litwick",
         "maxpc": "1006",
-        "maxpc50": "113810"
+        "maxpc50": "1138"
     },
     {
         "nodex": "608",
         "nombre": "Lampent",
         "maxpc": "1708",
-        "maxpc50": "193116"
+        "maxpc50": "1931"
     },
     {
         "nodex": "609",
         "nombre": "Chandelure",
         "maxpc": "3268",
-        "maxpc50": "369527"
+        "maxpc50": "3695"
     },
     {
         "nodex": "610",
         "nombre": "Axew",
         "maxpc": "1368",
-        "maxpc50": "154715"
+        "maxpc50": "1547"
     },
     {
         "nodex": "611",
         "nombre": "Fraxure",
         "maxpc": "2234",
-        "maxpc50": "252621"
+        "maxpc50": "2526"
     },
     {
         "nodex": "612",
         "nombre": "Haxorus",
         "maxpc": "3593",
-        "maxpc50": "406228"
+        "maxpc50": "4062"
     },
     {
         "nodex": "613",
         "nombre": "Cubchoo",
         "maxpc": "1069",
-        "maxpc50": "120812"
+        "maxpc50": "1208"
     },
     {
         "nodex": "614",
         "nombre": "Beartic",
         "maxpc": "3042",
-        "maxpc50": "343923"
+        "maxpc50": "3439"
     },
     {
         "nodex": "615",
         "nombre": "Cryogonal",
         "maxpc": "2798",
-        "maxpc50": "316319"
+        "maxpc50": "3163"
     },
     {
         "nodex": "616",
@@ -5835,307 +5835,307 @@
         "nodex": "617",
         "nombre": "Accelgor",
         "maxpc": "2441",
-        "maxpc50": "276022"
+        "maxpc50": "2760"
     },
     {
         "nodex": "618",
         "nombre": "Stunfisk",
         "maxpc": "2162",
-        "maxpc50": "244514"
+        "maxpc50": "2445"
     },
     {
         "nodex": "618",
         "nombre": "Stunfisk (Galarian)",
         "maxpc": "2162",
-        "maxpc50": "244514"
+        "maxpc50": "2445"
     },
     {
         "nodex": "619",
         "nombre": "Mienfoo",
         "maxpc": "1389",
-        "maxpc50": "157016"
+        "maxpc50": "1570"
     },
     {
         "nodex": "620",
         "nombre": "Mienshao",
         "maxpc": "2710",
-        "maxpc50": "306425"
+        "maxpc50": "3064"
     },
     {
         "nodex": "621",
         "nombre": "Druddigon",
         "maxpc": "2732",
-        "maxpc50": "308821"
+        "maxpc50": "3088"
     },
     {
         "nodex": "622",
         "nombre": "Golett",
         "maxpc": "1189",
-        "maxpc50": "134412"
+        "maxpc50": "1344"
     },
     {
         "nodex": "622",
         "nombre": "Golett (Shadow)",
         "maxpc": "1189",
-        "maxpc50": "134412"
+        "maxpc50": "1344"
     },
     {
         "nodex": "623",
         "nombre": "Golurk",
         "maxpc": "2854",
-        "maxpc50": "322622"
+        "maxpc50": "3226"
     },
     {
         "nodex": "623",
         "nombre": "Golurk (Shadow)",
         "maxpc": "2854",
-        "maxpc50": "322622"
+        "maxpc50": "3226"
     },
     {
         "nodex": "624",
         "nombre": "Pawniard",
         "maxpc": "1433",
-        "maxpc50": "162015"
+        "maxpc50": "1620"
     },
     {
         "nodex": "625",
         "nombre": "Bisharp",
         "maxpc": "2844",
-        "maxpc50": "321523"
+        "maxpc50": "3215"
     },
     {
         "nodex": "626",
         "nombre": "Bouffalant",
         "maxpc": "2797",
-        "maxpc50": "316319"
+        "maxpc50": "3163"
     },
     {
         "nodex": "627",
         "nombre": "Rufflet",
         "maxpc": "1491",
-        "maxpc50": "168615"
+        "maxpc50": "1686"
     },
     {
         "nodex": "628",
         "nombre": "Braviary",
         "maxpc": "3088",
-        "maxpc50": "349123"
+        "maxpc50": "3491"
     },
     {
         "nodex": "628",
         "nombre": "Braviary (Hisuian)",
         "maxpc": "2814",
-        "maxpc50": "318121"
+        "maxpc50": "3181"
     },
     {
         "nodex": "629",
         "nombre": "Vullaby",
         "maxpc": "1271",
-        "maxpc50": "143710"
+        "maxpc50": "1437"
     },
     {
         "nodex": "630",
         "nombre": "Mandibuzz",
         "maxpc": "2138",
-        "maxpc50": "241712"
+        "maxpc50": "2417"
     },
     {
         "nodex": "631",
         "nombre": "Heatmor",
         "maxpc": "2395",
-        "maxpc50": "270820"
+        "maxpc50": "2708"
     },
     {
         "nodex": "632",
         "nombre": "Durant",
         "maxpc": "2659",
-        "maxpc50": "300721"
+        "maxpc50": "3007"
     },
     {
         "nodex": "633",
         "nombre": "Deino",
         "maxpc": "1062",
-        "maxpc50": "120011"
+        "maxpc50": "1200"
     },
     {
         "nodex": "634",
         "nombre": "Zweilous",
         "maxpc": "1839",
-        "maxpc50": "207915"
+        "maxpc50": "2079"
     },
     {
         "nodex": "635",
         "nombre": "Hydreigon",
         "maxpc": "3625",
-        "maxpc50": "409825"
+        "maxpc50": "4098"
     },
     {
         "nodex": "638",
         "nombre": "Cobalion",
         "maxpc": "3022",
-        "maxpc50": "341719"
+        "maxpc50": "3417"
     },
     {
         "nodex": "639",
         "nombre": "Terrakion",
         "maxpc": "3698",
-        "maxpc50": "418126"
+        "maxpc50": "4181"
     },
     {
         "nodex": "640",
         "nombre": "Virizion",
         "maxpc": "3022",
-        "maxpc50": "341719"
+        "maxpc50": "3417"
     },
     {
         "nodex": "641",
         "nombre": "Tornadus (Incarnate)",
         "maxpc": "3345",
-        "maxpc50": "378226"
+        "maxpc50": "3782"
     },
     {
         "nodex": "641",
         "nombre": "Tornadus (Therian)",
         "maxpc": "3215",
-        "maxpc50": "363523"
+        "maxpc50": "3635"
     },
     {
         "nodex": "642",
         "nombre": "Thundurus (Incarnate)",
         "maxpc": "3345",
-        "maxpc50": "378226"
+        "maxpc50": "3782"
     },
     {
         "nodex": "642",
         "nombre": "Thundurus (Therian)",
         "maxpc": "3659",
-        "maxpc50": "413729"
+        "maxpc50": "4137"
     },
     {
         "nodex": "643",
         "nombre": "Reshiram",
         "maxpc": "4038",
-        "maxpc50": "456527"
+        "maxpc50": "4565"
     },
     {
         "nodex": "644",
         "nombre": "Zekrom",
         "maxpc": "4038",
-        "maxpc50": "456527"
+        "maxpc50": "4565"
     },
     {
         "nodex": "645",
         "nombre": "Landorus (Incarnate)",
         "maxpc": "3588",
-        "maxpc50": "405726"
+        "maxpc50": "4057"
     },
     {
         "nodex": "645",
         "nombre": "Landorus (Therian)",
         "maxpc": "3922",
-        "maxpc50": "443428"
+        "maxpc50": "4434"
     },
     {
         "nodex": "646",
         "nombre": "Kyurem",
         "maxpc": "3575",
-        "maxpc50": "404124"
+        "maxpc50": "4041"
     },
     {
         "nodex": "647",
         "nombre": "Keldeo (Ordinary)",
         "maxpc": "3698",
-        "maxpc50": "418126"
+        "maxpc50": "4181"
     },
     {
         "nodex": "648",
         "nombre": "Meloetta (Aria)",
         "maxpc": "3972",
-        "maxpc50": "449025"
+        "maxpc50": "4490"
     },
     {
         "nodex": "649",
         "nombre": "Genesect",
         "maxpc": "3353",
-        "maxpc50": "379125"
+        "maxpc50": "3791"
     },
     {
         "nodex": "649",
         "nombre": "Genesect (Burn)",
         "maxpc": "3353",
-        "maxpc50": "379125"
+        "maxpc50": "3791"
     },
     {
         "nodex": "649",
         "nombre": "Genesect (Chill)",
         "maxpc": "3353",
-        "maxpc50": "379125"
+        "maxpc50": "3791"
     },
     {
         "nodex": "649",
         "nombre": "Genesect (Douse)",
         "maxpc": "3353",
-        "maxpc50": "379125"
+        "maxpc50": "3791"
     },
     {
         "nodex": "649",
         "nombre": "Genesect (Shock)",
         "maxpc": "3353",
-        "maxpc50": "379125"
+        "maxpc50": "3791"
     },
     {
         "nodex": "650",
         "nombre": "Chespin",
         "maxpc": "1096",
-        "maxpc50": "123911"
+        "maxpc50": "1239"
     },
     {
         "nodex": "651",
         "nombre": "Quilladin",
         "maxpc": "1719",
-        "maxpc50": "194314"
+        "maxpc50": "1943"
     },
     {
         "nodex": "652",
         "nombre": "Chesnaught",
         "maxpc": "2954",
-        "maxpc50": "334020"
+        "maxpc50": "3340"
     },
     {
         "nodex": "653",
         "nombre": "Fennekin",
         "maxpc": "1028",
-        "maxpc50": "116211"
+        "maxpc50": "1162"
     },
     {
         "nodex": "654",
         "nombre": "Braixen",
         "maxpc": "1813",
-        "maxpc50": "204917"
+        "maxpc50": "2049"
     },
     {
         "nodex": "655",
         "nombre": "Delphox",
         "maxpc": "3059",
-        "maxpc50": "345923"
+        "maxpc50": "3459"
     },
     {
         "nodex": "656",
         "nombre": "Froakie",
         "maxpc": "992",
-        "maxpc50": "112212"
+        "maxpc50": "1122"
     },
     {
         "nodex": "657",
         "nombre": "Frogadier",
         "maxpc": "1636",
-        "maxpc50": "185016"
+        "maxpc50": "1850"
     },
     {
         "nodex": "658",
         "nombre": "Greninja",
         "maxpc": "2654",
-        "maxpc50": "300122"
+        "maxpc50": "3001"
     },
     {
         "nodex": "659",
@@ -6147,7 +6147,7 @@
         "nodex": "660",
         "nombre": "Diggersby",
         "maxpc": "1509",
-        "maxpc50": "170611"
+        "maxpc50": "1706"
     },
     {
         "nodex": "661",
@@ -6159,13 +6159,13 @@
         "nodex": "662",
         "nombre": "Fletchinder",
         "maxpc": "1469",
-        "maxpc50": "166114"
+        "maxpc50": "1661"
     },
     {
         "nodex": "663",
         "nombre": "Talonflame",
         "maxpc": "2205",
-        "maxpc50": "249317"
+        "maxpc50": "2493"
     },
     {
         "nodex": "664",
@@ -6177,301 +6177,301 @@
         "nodex": "666",
         "nombre": "Vivillon",
         "maxpc": "1855",
-        "maxpc50": "209717"
+        "maxpc50": "2097"
     },
     {
         "nodex": "667",
         "nombre": "Litleo",
         "maxpc": "1425",
-        "maxpc50": "161113"
+        "maxpc50": "1611"
     },
     {
         "nodex": "668",
         "nombre": "Pyroar",
         "maxpc": "2767",
-        "maxpc50": "312922"
+        "maxpc50": "3129"
     },
     {
         "nodex": "669",
         "nombre": "Flabebe",
         "maxpc": "1063",
-        "maxpc50": "120210"
+        "maxpc50": "1202"
     },
     {
         "nodex": "670",
         "nombre": "Floette",
         "maxpc": "1532",
-        "maxpc50": "173213"
+        "maxpc50": "1732"
     },
     {
         "nodex": "671",
         "nombre": "Florges",
         "maxpc": "3234",
-        "maxpc50": "365721"
+        "maxpc50": "3657"
     },
     {
         "nodex": "674",
         "nombre": "Pancham",
         "maxpc": "1489",
-        "maxpc50": "168314"
+        "maxpc50": "1683"
     },
     {
         "nodex": "675",
         "nombre": "Pangoro",
         "maxpc": "2902",
-        "maxpc50": "328122"
+        "maxpc50": "3281"
     },
     {
         "nodex": "676",
         "nombre": "Furfrou",
         "maxpc": "2111",
-        "maxpc50": "238716"
+        "maxpc50": "2387"
     },
     {
         "nodex": "677",
         "nombre": "Espurr",
         "maxpc": "1259",
-        "maxpc50": "142412"
+        "maxpc50": "1424"
     },
     {
         "nodex": "678",
         "nombre": "Meowstic (Female)",
         "maxpc": "2124",
-        "maxpc50": "240116"
+        "maxpc50": "2401"
     },
     {
         "nodex": "678",
         "nombre": "Meowstic (Male)",
         "maxpc": "2124",
-        "maxpc50": "240116"
+        "maxpc50": "2401"
     },
     {
         "nodex": "682",
         "nombre": "Spritzee",
         "maxpc": "1252",
-        "maxpc50": "141511"
+        "maxpc50": "1415"
     },
     {
         "nodex": "683",
         "nombre": "Aromatisse",
         "maxpc": "2341",
-        "maxpc50": "264717"
+        "maxpc50": "2647"
     },
     {
         "nodex": "684",
         "nombre": "Swirlix",
         "maxpc": "1179",
-        "maxpc50": "133310"
+        "maxpc50": "1333"
     },
     {
         "nodex": "685",
         "nombre": "Slurpuff",
         "maxpc": "2199",
-        "maxpc50": "248616"
+        "maxpc50": "2486"
     },
     {
         "nodex": "686",
         "nombre": "Inkay",
         "maxpc": "927",
-        "maxpc50": "10489"
+        "maxpc50": "1048"
     },
     {
         "nodex": "687",
         "nombre": "Malamar",
         "maxpc": "2359",
-        "maxpc50": "266717"
+        "maxpc50": "2667"
     },
     {
         "nodex": "688",
         "nombre": "Binacle",
         "maxpc": "946",
-        "maxpc50": "10699"
+        "maxpc50": "1069"
     },
     {
         "nodex": "689",
         "nombre": "Barbaracle",
         "maxpc": "2675",
-        "maxpc50": "302519"
+        "maxpc50": "3025"
     },
     {
         "nodex": "690",
         "nombre": "Skrelp",
         "maxpc": "1063",
-        "maxpc50": "120210"
+        "maxpc50": "1202"
     },
     {
         "nodex": "691",
         "nombre": "Dragalge",
         "maxpc": "2383",
-        "maxpc50": "269417"
+        "maxpc50": "2694"
     },
     {
         "nodex": "692",
         "nombre": "Clauncher",
         "maxpc": "1088",
-        "maxpc50": "123010"
+        "maxpc50": "1230"
     },
     {
         "nodex": "693",
         "nombre": "Clawitzer",
         "maxpc": "2763",
-        "maxpc50": "312422"
+        "maxpc50": "3124"
     },
     {
         "nodex": "694",
         "nombre": "Helioptile",
         "maxpc": "933",
-        "maxpc50": "105411"
+        "maxpc50": "1054"
     },
     {
         "nodex": "695",
         "nombre": "Heliolisk",
         "maxpc": "2600",
-        "maxpc50": "293921"
+        "maxpc50": "2939"
     },
     {
         "nodex": "696",
         "nombre": "Tyrunt",
         "maxpc": "1635",
-        "maxpc50": "184815"
+        "maxpc50": "1848"
     },
     {
         "nodex": "697",
         "nombre": "Tyrantrum",
         "maxpc": "3128",
-        "maxpc50": "353722"
+        "maxpc50": "3537"
     },
     {
         "nodex": "698",
         "nombre": "Amaura",
         "maxpc": "1363",
-        "maxpc50": "154112"
+        "maxpc50": "1541"
     },
     {
         "nodex": "699",
         "nombre": "Aurorus",
         "maxpc": "2802",
-        "maxpc50": "316818"
+        "maxpc50": "3168"
     },
     {
         "nodex": "700",
         "nombre": "Sylveon",
         "maxpc": "3069",
-        "maxpc50": "347020"
+        "maxpc50": "3470"
     },
     {
         "nodex": "701",
         "nombre": "Hawlucha",
         "maxpc": "2410",
-        "maxpc50": "272419"
+        "maxpc50": "2724"
     },
     {
         "nodex": "702",
         "nombre": "Dedenne",
         "maxpc": "1841",
-        "maxpc50": "208116"
+        "maxpc50": "2081"
     },
     {
         "nodex": "704",
         "nombre": "Goomy",
         "maxpc": "976",
-        "maxpc50": "110310"
+        "maxpc50": "1103"
     },
     {
         "nodex": "705",
         "nombre": "Sliggoo",
         "maxpc": "2037",
-        "maxpc50": "230315"
+        "maxpc50": "2303"
     },
     {
         "nodex": "706",
         "nombre": "Goodra",
         "maxpc": "3505",
-        "maxpc50": "396322"
+        "maxpc50": "3963"
     },
     {
         "nodex": "707",
         "nombre": "Klefki",
         "maxpc": "1949",
-        "maxpc50": "220416"
+        "maxpc50": "2204"
     },
     {
         "nodex": "708",
         "nombre": "Phantump",
         "maxpc": "1123",
-        "maxpc50": "127012"
+        "maxpc50": "1270"
     },
     {
         "nodex": "709",
         "nombre": "Trevenant",
         "maxpc": "2559",
-        "maxpc50": "289320"
+        "maxpc50": "2893"
     },
     {
         "nodex": "710",
         "nombre": "Pumpkaboo (Average)",
         "maxpc": "1222",
-        "maxpc50": "138112"
+        "maxpc50": "1381"
     },
     {
         "nodex": "710",
         "nombre": "Pumpkaboo (Large)",
         "maxpc": "1244",
-        "maxpc50": "140612"
+        "maxpc50": "1406"
     },
     {
         "nodex": "710",
         "nombre": "Pumpkaboo (Small)",
         "maxpc": "1202",
-        "maxpc50": "135912"
+        "maxpc50": "1359"
     },
     {
         "nodex": "710",
         "nombre": "Pumpkaboo (Super)",
         "maxpc": "1250",
-        "maxpc50": "141411"
+        "maxpc50": "1414"
     },
     {
         "nodex": "711",
         "nombre": "Gourgeist (Average)",
         "maxpc": "2390",
-        "maxpc50": "270217"
+        "maxpc50": "2702"
     },
     {
         "nodex": "711",
         "nombre": "Gourgeist (Large)",
         "maxpc": "2521",
-        "maxpc50": "285017"
+        "maxpc50": "2850"
     },
     {
         "nodex": "711",
         "nombre": "Gourgeist (Small)",
         "maxpc": "2254",
-        "maxpc50": "254917"
+        "maxpc50": "2549"
     },
     {
         "nodex": "711",
         "nombre": "Gourgeist (Super)",
         "maxpc": "2633",
-        "maxpc50": "297618"
+        "maxpc50": "2976"
     },
     {
         "nodex": "712",
         "nombre": "Bergmite",
         "maxpc": "1215",
-        "maxpc50": "137411"
+        "maxpc50": "1374"
     },
     {
         "nodex": "713",
         "nombre": "Avalugg",
         "maxpc": "3198",
-        "maxpc50": "361519"
+        "maxpc50": "3615"
     },
     {
         "nodex": "713",
         "nombre": "Avalugg (Hisuian)",
         "maxpc": "3457",
-        "maxpc50": "390921"
+        "maxpc50": "3909"
     },
     {
         "nodex": "714",
@@ -6483,199 +6483,199 @@
         "nodex": "715",
         "nombre": "Noivern",
         "maxpc": "2764",
-        "maxpc50": "312520"
+        "maxpc50": "3125"
     },
     {
         "nodex": "716",
         "nombre": "Xerneas",
         "maxpc": "3781",
-        "maxpc50": "427525"
+        "maxpc50": "4275"
     },
     {
         "nodex": "717",
         "nombre": "Yveltal",
         "maxpc": "3781",
-        "maxpc50": "427525"
+        "maxpc50": "4275"
     },
     {
         "nodex": "720",
         "nombre": "Hoopa",
         "maxpc": "3359",
-        "maxpc50": "379726"
+        "maxpc50": "3797"
     },
     {
         "nodex": "720",
         "nombre": "Hoopa (Unbound)",
         "maxpc": "4006",
-        "maxpc50": "453031"
+        "maxpc50": "4530"
     },
     {
         "nodex": "722",
         "nombre": "Rowlet",
         "maxpc": "1058",
-        "maxpc50": "119610"
+        "maxpc50": "1196"
     },
     {
         "nodex": "723",
         "nombre": "Dartrix",
         "maxpc": "1725",
-        "maxpc50": "195014"
+        "maxpc50": "1950"
     },
     {
         "nodex": "724",
         "nombre": "Decidueye",
         "maxpc": "2775",
-        "maxpc50": "313721"
+        "maxpc50": "3137"
     },
     {
         "nodex": "725",
         "nombre": "Litten",
         "maxpc": "1035",
-        "maxpc50": "117012"
+        "maxpc50": "1170"
     },
     {
         "nodex": "726",
         "nombre": "Torracat",
         "maxpc": "1710",
-        "maxpc50": "193417"
+        "maxpc50": "1934"
     },
     {
         "nodex": "727",
         "nombre": "Incineroar",
         "maxpc": "2996",
-        "maxpc50": "338721"
+        "maxpc50": "3387"
     },
     {
         "nodex": "728",
         "nombre": "Popplio",
         "maxpc": "1129",
-        "maxpc50": "127612"
+        "maxpc50": "1276"
     },
     {
         "nodex": "729",
         "nombre": "Brionne",
         "maxpc": "1885",
-        "maxpc50": "213116"
+        "maxpc50": "2131"
     },
     {
         "nodex": "730",
         "nombre": "Primarina",
         "maxpc": "3200",
-        "maxpc50": "361823"
+        "maxpc50": "3618"
     },
     {
         "nodex": "731",
         "nombre": "Pikipek",
         "maxpc": "910",
-        "maxpc50": "102913"
+        "maxpc50": "1029"
     },
     {
         "nodex": "732",
         "nombre": "Trumbeak",
         "maxpc": "1478",
-        "maxpc50": "167115"
+        "maxpc50": "1671"
     },
     {
         "nodex": "733",
         "nombre": "Toucannon",
         "maxpc": "2689",
-        "maxpc50": "304022"
+        "maxpc50": "3040"
     },
     {
         "nodex": "734",
         "nombre": "Yungoos",
         "maxpc": "880",
-        "maxpc50": "99412"
+        "maxpc50": "9941"
     },
     {
         "nodex": "735",
         "nombre": "Gumshoos",
         "maxpc": "2185",
-        "maxpc50": "247019"
+        "maxpc50": "2470"
     },
     {
         "nodex": "736",
         "nombre": "Grubbin",
         "maxpc": "984",
-        "maxpc50": "111211"
+        "maxpc50": "1112"
     },
     {
         "nodex": "737",
         "nombre": "Charjabug",
         "maxpc": "1697",
-        "maxpc50": "191914"
+        "maxpc50": "1919"
     },
     {
         "nodex": "738",
         "nombre": "Vikavolt",
         "maxpc": "3117",
-        "maxpc50": "352425"
+        "maxpc50": "3524"
     },
     {
         "nodex": "739",
         "nombre": "Crabrawler",
         "maxpc": "1363",
-        "maxpc50": "154015"
+        "maxpc50": "1540"
     },
     {
         "nodex": "740",
         "nombre": "Crabominable",
         "maxpc": "2907",
-        "maxpc50": "328623"
+        "maxpc50": "3286"
     },
     {
         "nodex": "741",
         "nombre": "Oricorio (Baile)",
         "maxpc": "2333",
-        "maxpc50": "263819"
+        "maxpc50": "2638"
     },
     {
         "nodex": "741",
         "nombre": "Oricorio (Pau)",
         "maxpc": "2333",
-        "maxpc50": "263819"
+        "maxpc50": "2638"
     },
     {
         "nodex": "741",
         "nombre": "Oricorio (Pom-Pom)",
         "maxpc": "2333",
-        "maxpc50": "263819"
+        "maxpc50": "2638"
     },
     {
         "nodex": "741",
         "nombre": "Oricorio (Sensu)",
         "maxpc": "2333",
-        "maxpc50": "263819"
+        "maxpc50": "2638"
     },
     {
         "nodex": "744",
         "nombre": "Rockruff",
         "maxpc": "950",
-        "maxpc50": "107411"
+        "maxpc50": "1074"
     },
     {
         "nodex": "745",
         "nombre": "Lycanroc (Midday)",
         "maxpc": "2678",
-        "maxpc50": "302723"
+        "maxpc50": "3027"
     },
     {
         "nodex": "745",
         "nombre": "Lycanroc (Midnight)",
         "maxpc": "2744",
-        "maxpc50": "310221"
+        "maxpc50": "3102"
     },
     {
         "nodex": "747",
         "nombre": "Mareanie",
         "maxpc": "972",
-        "maxpc50": "10999"
+        "maxpc50": "1099"
     },
     {
         "nodex": "748",
         "nombre": "Toxapex",
         "maxpc": "1685",
-        "maxpc50": "190511"
+        "maxpc50": "1905"
     },
     {
         "nodex": "751",
@@ -6687,67 +6687,67 @@
         "nodex": "752",
         "nombre": "Araquanid",
         "maxpc": "1827",
-        "maxpc50": "206512"
+        "maxpc50": "2065"
     },
     {
         "nodex": "753",
         "nombre": "Fomantis",
         "maxpc": "741",
-        "maxpc50": "83810"
+        "maxpc50": "8381"
     },
     {
         "nodex": "754",
         "nombre": "Lurantis",
         "maxpc": "2398",
-        "maxpc50": "271119"
+        "maxpc50": "2711"
     },
     {
         "nodex": "755",
         "nombre": "Morelull",
         "maxpc": "1033",
-        "maxpc50": "116810"
+        "maxpc50": "1168"
     },
     {
         "nodex": "756",
         "nombre": "Shiinotic",
         "maxpc": "1861",
-        "maxpc50": "210415"
+        "maxpc50": "2104"
     },
     {
         "nodex": "757",
         "nombre": "Salandit",
         "maxpc": "1122",
-        "maxpc50": "126813"
+        "maxpc50": "1268"
     },
     {
         "nodex": "758",
         "nombre": "Salazzle",
         "maxpc": "2479",
-        "maxpc50": "280222"
+        "maxpc50": "2802"
     },
     {
         "nodex": "759",
         "nombre": "Stufful",
         "maxpc": "1352",
-        "maxpc50": "152913"
+        "maxpc50": "1529"
     },
     {
         "nodex": "760",
         "nombre": "Bewear",
         "maxpc": "3117",
-        "maxpc50": "352422"
+        "maxpc50": "3524"
     },
     {
         "nodex": "764",
         "nombre": "Comfey",
         "maxpc": "2115",
-        "maxpc50": "239216"
+        "maxpc50": "2392"
     },
     {
         "nodex": "765",
         "nombre": "Oranguru",
         "maxpc": "2450",
-        "maxpc50": "277016"
+        "maxpc50": "2770"
     },
     {
         "nodex": "767",
@@ -6759,139 +6759,139 @@
         "nodex": "768",
         "nombre": "Golisopod",
         "maxpc": "3162",
-        "maxpc50": "357521"
+        "maxpc50": "3575"
     },
     {
         "nodex": "777",
         "nombre": "Togedemaru",
         "maxpc": "2160",
-        "maxpc50": "244219"
+        "maxpc50": "2442"
     },
     {
         "nodex": "779",
         "nombre": "Bruxish",
         "maxpc": "2389",
-        "maxpc50": "270120"
+        "maxpc50": "2701"
     },
     {
         "nodex": "782",
         "nombre": "Jangmo-o",
         "maxpc": "969",
-        "maxpc50": "109510"
+        "maxpc50": "1095"
     },
     {
         "nodex": "783",
         "nombre": "Hakamo-o",
         "maxpc": "1686",
-        "maxpc50": "190714"
+        "maxpc50": "1907"
     },
     {
         "nodex": "784",
         "nombre": "Kommo-o",
         "maxpc": "3309",
-        "maxpc50": "374122"
+        "maxpc50": "3741"
     },
     {
         "nodex": "785",
         "nombre": "Tapu Koko",
         "maxpc": "3168",
-        "maxpc50": "358225"
+        "maxpc50": "3582"
     },
     {
         "nodex": "786",
         "nombre": "Tapu Lele",
         "maxpc": "3494",
-        "maxpc50": "395025"
+        "maxpc50": "3950"
     },
     {
         "nodex": "787",
         "nombre": "Tapu Bulu",
         "maxpc": "3419",
-        "maxpc50": "386524"
+        "maxpc50": "3865"
     },
     {
         "nodex": "788",
         "nombre": "Tapu Fini",
         "maxpc": "2857",
-        "maxpc50": "323018"
+        "maxpc50": "3230"
     },
     {
         "nodex": "791",
         "nombre": "Solgaleo",
         "maxpc": "4042",
-        "maxpc50": "457025"
+        "maxpc50": "4570"
     },
     {
         "nodex": "792",
         "nombre": "Lunala",
         "maxpc": "4042",
-        "maxpc50": "457025"
+        "maxpc50": "4570"
     },
     {
         "nodex": "793",
         "nombre": "Nihilego",
         "maxpc": "3949",
-        "maxpc50": "446524"
+        "maxpc50": "4465"
     },
     {
         "nodex": "794",
         "nombre": "Buzzwole",
         "maxpc": "3461",
-        "maxpc50": "391223"
+        "maxpc50": "3912"
     },
     {
         "nodex": "795",
         "nombre": "Pheromosa",
         "maxpc": "2842",
-        "maxpc50": "321331"
+        "maxpc50": "3213"
     },
     {
         "nodex": "796",
         "nombre": "Xurkitree",
         "maxpc": "3937",
-        "maxpc50": "445133"
+        "maxpc50": "4451"
     },
     {
         "nodex": "797",
         "nombre": "Celesteela",
         "maxpc": "3102",
-        "maxpc50": "350720"
+        "maxpc50": "3507"
     },
     {
         "nodex": "798",
         "nombre": "Kartana",
         "maxpc": "3677",
-        "maxpc50": "415632"
+        "maxpc50": "4156"
     },
     {
         "nodex": "799",
         "nombre": "Guzzlord",
         "maxpc": "2887",
-        "maxpc50": "326418"
+        "maxpc50": "3264"
     },
     {
         "nodex": "808",
         "nombre": "Meltan",
         "maxpc": "1068",
-        "maxpc50": "120711"
+        "maxpc50": "1207"
     },
     {
         "nodex": "809",
         "nombre": "Melmetal",
         "maxpc": "3599",
-        "maxpc50": "406922"
+        "maxpc50": "4069"
     },
     {
         "nodex": "819",
         "nombre": "Skwovet",
         "maxpc": "944",
-        "maxpc50": "10679"
+        "maxpc50": "1067"
     },
     {
         "nodex": "820",
         "nombre": "Greedent",
         "maxpc": "2370",
-        "maxpc50": "267916"
+        "maxpc50": "2679"
     },
     {
         "nodex": "831",
@@ -6903,102 +6903,102 @@
         "nodex": "832",
         "nombre": "Dubwool",
         "maxpc": "2191",
-        "maxpc50": "247815"
+        "maxpc50": "2478"
     },
     {
         "nodex": "862",
         "nombre": "Obstagoon",
         "maxpc": "2652",
-        "maxpc50": "299918"
+        "maxpc50": "2999"
     },
     {
         "nodex": "863",
         "nombre": "Perrserker",
         "maxpc": "2386",
-        "maxpc50": "269719"
+        "maxpc50": "2697"
     },
     {
         "nodex": "865",
         "nombre": "Sirfetchd",
         "maxpc": "2985",
-        "maxpc50": "337524"
+        "maxpc50": "3375"
     },
     {
         "nodex": "866",
         "nombre": "Mr. Rime",
         "maxpc": "2827",
-        "maxpc50": "319621"
+        "maxpc50": "3196"
     },
     {
         "nodex": "867",
         "nombre": "Runerigus",
         "maxpc": "2273",
-        "maxpc50": "257016"
+        "maxpc50": "2570"
     },
     {
         "nodex": "870",
         "nombre": "Falinks",
         "maxpc": "2357",
-        "maxpc50": "266519"
+        "maxpc50": "2665"
     },
     {
         "nodex": "888",
         "nombre": "Zacian (Hero)",
         "maxpc": "3829",
-        "maxpc50": "432925"
+        "maxpc50": "4329"
     },
     {
         "nodex": "889",
         "nombre": "Zamazenta (Hero)",
         "maxpc": "3829",
-        "maxpc50": "432925"
+        "maxpc50": "4329"
     },
     {
         "nodex": "893",
         "nombre": "Zarude",
         "maxpc": "3833",
-        "maxpc50": "433424"
+        "maxpc50": "4334"
     },
     {
         "nodex": "895",
         "nombre": "Regidrago",
         "maxpc": "2973",
-        "maxpc50": "336120"
+        "maxpc50": "3361"
     },
     {
         "nodex": "901",
         "nombre": "Ursaluna",
         "maxpc": "3854",
-        "maxpc50": "435824"
+        "maxpc50": "4358"
     },
     {
         "nodex": "901",
         "nombre": "Ursaluna (Shadow)",
         "maxpc": "3854",
-        "maxpc50": "435824"
+        "maxpc50": "4358"
     },
     {
         "nodex": "903",
         "nombre": "Sneasler",
         "maxpc": "3222",
-        "maxpc50": "364325"
+        "maxpc50": "3643"
     },
     {
         "nodex": "904",
         "nombre": "Overqwil",
         "maxpc": "2946",
-        "maxpc50": "333022"
+        "maxpc50": "3330"
     },
     {
         "nodex": "999",
         "nombre": "Gimmighoul",
         "maxpc": "1104",
-        "maxpc50": "124814"
+        "maxpc50": "1248"
     },
     {
         "nodex": "1000",
         "nombre": "Gholdengo",
         "maxpc": "3517",
-        "maxpc50": "397625"
+        "maxpc50": "3976"
     }
 ]
