@@ -31,7 +31,7 @@ if response.status_code == 200:
             nodex = match.group(1)
             name = match.group(2)
             max_pc = match.group(3)
-            max_pc_50 = match.group(4)
+            max_pc_50 = match.group(4)[:4]  # Tomar los primeros 4 dígitos
         else:
             nodex = "No encontrado"
             name = "No encontrado"
@@ -43,7 +43,7 @@ if response.status_code == 200:
             "nodex": nodex,
             "nombre": name,
             "maxpc": max_pc,
-            "maxpc50": max_pc_50[:-1],  # Eliminar el último dígito
+            "maxpc50": max_pc_50,
         }
         
         # Agregar el diccionario a la lista
