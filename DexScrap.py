@@ -59,6 +59,11 @@ if response.status_code == 200:
                     image = assets.get("image", "No encontrado")
                     shiny_image = assets.get("shinyImage", "No encontrado")
                     
+                    # Modificar las URLs si el "nombre" contiene "(Mega)"
+                    if "(Mega)" in name:
+                        image = image.replace("pm", "pm" + nodex + ".fMEGA.")
+                        shiny_image = shiny_image.replace("pm", "pm" + nodex + ".fMEGA.")
+                    
                     # Crear un diccionario con todos los datos
                     pokemon = {
                         "nodex": nodex,
