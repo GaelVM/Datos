@@ -59,10 +59,12 @@ if response.status_code == 200:
                     image = assets.get("image", "No encontrado")
                     shiny_image = assets.get("shinyImage", "No encontrado")
                     
-                    # Modificar las URLs si el "nombre" contiene "(Mega)"
-                    if "(Mega)" in name:
-                        image = image.replace("pm", "pm" + nodex + ".fMEGA.")
-                        shiny_image = shiny_image.replace("pm", "pm" + nodex + ".fMEGA.")
+                    # Modificar el campo "nombre" si contiene "(Shadow)" y agregar el campo "oscuro"
+                    if "(Shadow)" in name:
+                        name = name.replace("(Shadow)", "(Oscuro)")
+                        oscuro = "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Rocket/ic_shadow.png"
+                    else:
+                        oscuro = "No encontrado"
                     
                     # Crear un diccionario con todos los datos
                     pokemon = {
@@ -75,6 +77,7 @@ if response.status_code == 200:
                         "assets": {
                             "image": image,
                             "shinyImage": shiny_image,
+                            "oscuro": oscuro,  # Agregar el campo "oscuro"
                         },
                     }
                     
