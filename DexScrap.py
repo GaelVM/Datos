@@ -1,57 +1,90 @@
 import requests
+from bs4 import BeautifulSoup
 import json
+import re
 
-# URL del JSON en GitHub
+# URL del sitio web a raspar
+url = "https://gostats.app/pokedex"
+
+# URL del JSON con datos adicionales
 json_url = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokemon_data.json"
 
-# Descargar el JSON desde la URL
-response = requests.get(json_url)
+# Realizar una solicitud GET al sitio web
+response = requests.get(url)
 
-# Comprobar si la descarga fue exitosa
+# Comprobar si la solicitud fue exitosa
 if response.status_code == 200:
-    # Cargar el JSON descargado
-    json_data = json.loads(response.text)
-
-    # Cargar el JSON generado anteriormente
-    with open("pokedex2023.json", "r", encoding="utf-8") as generated_json_file:
-        generated_data = json.load(generated_json_file)
-
-    # Inicializar una lista para almacenar los datos coincidentes
-    matched_data = []
-
-    # Iterar a través de los datos generados
-    for generated_pokemon in generated_data:
-        # Obtener el valor de "nodex" del JSON generado
-        generated_nodex = generated_pokemon["nodex"]
+    # Parsear el contenido HTML de la página
+    soup = BeautifulSoup(response.content, 'html.parser')
+    
+    # Encontrar todos los elementos <span> con la clase "badge"
+    badge_elements = soup.find_all("span", {"class": "badge"})
+    
+    # Inicializar una lista para almacenar los datos de los pokemons
+    pokemon_data = []
+    
+    # Iterar a través de los elementos <span>
+    for badge in badge_elements:
+        # Obtener el texto dentro del elemento <span>
+        span_text = badge.get_text().strip()
         
-        # Buscar una coincidencia en el JSON descargado por "dexNr"
-        matching_pokemon = next((pokemon for pokemon in json_data if pokemon.get("dexNr") == generated_nodex), None)
+        # Utilizar expresiones regulares para extraer los datos
+        match = re.search(r'#(\d+) (.+?)MAX PC: (\d+)MAX PC 50: (\d+)', span_text)
+        if match:
+            nodex = match.group(1)
+            name = match.group(2)
+            max_pc = match.group(3)
+            max_pc_50 = match.group(4)[:4]  # Tomar los primeros 4 dígitos
+        else:
+            nodex = "No encontrado"
+            name = "No encontrado"
+            max_pc = "No encontrado"
+            max_pc_50 = "No encontrado"
         
-        if matching_pokemon:
-            # Extraer la información deseada y agregarla a la lista
-            extracted_data = {
-                "nodex": generated_pokemon["nodex"],
-                "nombre": generated_pokemon["nombre"],
-                "maxpc": generated_pokemon["maxpc"],
-                "maxpc50": generated_pokemon["maxpc50"],
-                "primaryType": matching_pokemon.get("primaryType", {}).get("en"),
-                "secondaryType": matching_pokemon.get("secondaryType", {}).get("en"),
-                "assets": {
-                    "image": matching_pokemon.get("assets", {}).get("image"),
-                    "shinyImage": matching_pokemon.get("assets", {}).get("shinyImage"),
-                }
-            }
+        # Realizar una solicitud GET al JSON
+        json_response = requests.get(json_url)
+        
+        # Comprobar si la solicitud del JSON fue exitosa
+        if json_response.status_code == 200:
+            # Cargar el JSON desde la respuesta
+            json_data = json_response.json()
             
-            matched_data.append(extracted_data)
+            # Buscar el elemento correspondiente en el JSON por "dexNr" (nodex en formato numérico)
+            for entry in json_data:
+                if entry.get("dexNr") == int(nodex):
+                    # Extraer los datos adicionales del JSON
+                    primary_type = entry.get("primaryType", "No encontrado")
+                    secondary_type = entry.get("secondaryType", "No encontrado")
+                    assets = entry.get("assets", {})
+                    image = assets.get("image", "No encontrado")
+                    shiny_image = assets.get("shinyImage", "No encontrado")
+                    
+                    # Crear un diccionario con todos los datos
+                    pokemon = {
+                        "nodex": nodex,
+                        "nombre": name,
+                        "maxpc": max_pc,
+                        "maxpc50": max_pc_50,
+                        "primaryType": primary_type,
+                        "secondaryType": secondary_type,
+                        "assets": {
+                            "image": image,
+                            "shinyImage": shiny_image,
+                        },
+                    }
+                    
+                    # Agregar el diccionario a la lista
+                    pokemon_data.append(pokemon)
+                    break  # Romper el bucle una vez que se encuentra el elemento en el JSON
+    
+    # Convertir la lista de datos de pokemons a JSON
+    json_data = json.dumps(pokemon_data, indent=4, ensure_ascii=False)
+    
+    # Guardar el JSON en un archivo llamado "pokedex2023.json"
+    with open("pokedex2023.json", "w", encoding="utf-8") as json_file:
+        json_file.write(json_data)
 
-    # Convertir la lista de datos coincidentes a JSON
-    matched_json = json.dumps(matched_data, indent=4, ensure_ascii=False)
-
-    # Guardar el JSON de datos coincidentes en un archivo
-    with open("matched_pokemon_data.json", "w", encoding="utf-8") as matched_json_file:
-        matched_json_file.write(matched_json)
-
-    print("Se ha creado el archivo matched_pokemon_data.json con los datos coincidentes.")
+    print("El archivo pokedex2023.json ha sido creado exitosamente.")
 
 else:
-    print("Error al descargar el JSON desde la URL.")
+    print("Error al realizar la solicitud al sitio web.")
