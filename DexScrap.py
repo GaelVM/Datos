@@ -34,8 +34,8 @@ if response.status_code == 200:
                 "nombre": generated_pokemon["nombre"],
                 "maxpc": generated_pokemon["maxpc"],
                 "maxpc50": generated_pokemon["maxpc50"],
-                "primaryType": matching_pokemon.get("primaryType"),
-                "secondaryType": matching_pokemon.get("secondaryType"),
+                "primaryType": matching_pokemon.get("primaryType", {}).get("en"),
+                "secondaryType": matching_pokemon.get("secondaryType", {}).get("en"),
                 "assets": {
                     "image": matching_pokemon.get("assets", {}).get("image"),
                     "shinyImage": matching_pokemon.get("assets", {}).get("shinyImage"),
