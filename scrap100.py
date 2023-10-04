@@ -63,11 +63,14 @@ def scrape_website():
                     # Agregar el diccionario a la lista
                     data_list.append(data)
 
-            # Convertir la lista de datos en un objeto JSON
-            json_data = json.dumps(data_list, indent=4)
+            # Nombre del archivo JSON de salida (puedes personalizarlo)
+            output_file = "pokemon_data.json"
 
-            # Imprimir el JSON o guardarlo en un archivo
-            print(json_data)
+            # Convertir la lista de datos en un objeto JSON y escribirlo en un archivo
+            with open(output_file, "w") as json_file:
+                json.dump(data_list, json_file, indent=4)
+
+            print(f"Datos almacenados en {output_file}")
         else:
             print("No se encontró la tabla con ID 'customers'")
     else:
