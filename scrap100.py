@@ -24,9 +24,12 @@ def scrape_website():
             for row in table.find_all('tr')[1:]:
                 columns = row.find_all('td')
                 if len(columns) >= 14:
-                    # Extraer los datos de cada columna
-                    name = columns[0].text.strip()
-                    number = columns[1].text.strip()
+                    # Extraer el nombre del Pokémon de la columna correspondiente
+                    name_column = columns[1]
+                    name = name_column.find('a').text.strip()
+
+                    # Extraer los datos de las otras columnas
+                    number = columns[0].text.strip()
                     coords = columns[2].text.strip()
                     cp = columns[3].text.strip()
                     level = columns[4].text.strip()
