@@ -23,31 +23,27 @@ def scrape_website():
             # Iterar a través de las filas de la tabla (excepto la primera que contiene encabezados)
             for row in table.find_all('tr')[1:]:
                 columns = row.find_all('td')
-                if len(columns) >= 14:
-                    # Extraer el nombre del Pokémon de la columna correspondiente si existe
-                    name_column = columns[1].find('a')
-                    if name_column:
-                        name = name_column.text.strip()
-                    else:
-                        name = "Nombre no encontrado"
-
-                    # Extraer los datos de las otras columnas
-                    number = columns[0].text.strip()
-                    coords = columns[2].text.strip()
-                    cp = columns[3].text.strip()
-                    level = columns[4].text.strip()
-                    attack = columns[5].text.strip()
-                    defense = columns[6].text.strip()
-                    hp = columns[7].text.strip()
-                    iv = columns[8].text.strip()
-                    form = columns[9].text.strip()
-                    shiny = columns[10].text.strip()
-                    start_time = columns[11].text.strip()
-                    end_time = columns[12].text.strip()
-                    country = columns[13].text.strip()
+                if len(columns) >= 15:
+                    # Extraer los datos de cada columna
+                    corre = columns[0].text.strip()
+                    name = columns[1].text.strip()
+                    number = columns[2].text.strip()
+                    coords = columns[3].text.strip()
+                    cp = columns[4].text.strip()
+                    level = columns[5].text.strip()
+                    attack = columns[6].text.strip()
+                    defense = columns[7].text.strip()
+                    hp = columns[8].text.strip()
+                    iv = columns[9].text.strip()
+                    form = columns[10].text.strip()
+                    shiny = columns[11].text.strip()
+                    start_time = columns[12].text.strip()
+                    end_time = columns[13].text.strip()
+                    country = columns[14].text.strip()
 
                     # Crear un diccionario con los datos
-                    data = {
+                    data = {        
+                        "corre": corre,
                         "Name": name,
                         "Number": number,
                         "Coords": coords,
