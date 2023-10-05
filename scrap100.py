@@ -64,7 +64,7 @@ def scrape_website():
                     data_list.append(data)
 
             # Nombre del archivo JSON de salida (puedes personalizarlo)
-            output_file = "pokemon_data.json"
+            output_file = "100_iv.json"
 
             # Convertir la lista de datos en un objeto JSON y escribirlo en un archivo
             with open(output_file, "w") as json_file:

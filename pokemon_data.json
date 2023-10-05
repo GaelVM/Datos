@@ -2792,6 +2792,10 @@
                 "es": "Terratemblor"
             },
             {
+                "en": "393",
+                "es": "393"
+            },
+            {
                 "en": "Night Slash",
                 "es": "Tajo Umbrío"
             }
@@ -3480,6 +3484,10 @@
             {
                 "en": "Weather Ball",
                 "es": "Meteorobola"
+            },
+            {
+                "en": "393",
+                "es": "393"
             },
             {
                 "en": "Ember",
@@ -4519,6 +4527,10 @@
                         "es": "Excavar"
                     },
                     {
+                        "en": "392",
+                        "es": "392"
+                    },
+                    {
                         "en": "Body Slam",
                         "es": "Golpe Cuerpo"
                     }
@@ -5034,6 +5046,10 @@
             {
                 "en": "Psychic Fangs",
                 "es": "Psicocolmillo"
+            },
+            {
+                "en": "393",
+                "es": "393"
             },
             {
                 "en": "Bite",
@@ -6418,6 +6434,10 @@
                 "es": "Nitrocarga"
             },
             {
+                "en": "393",
+                "es": "393"
+            },
+            {
                 "en": "Ember",
                 "es": "Ascuas"
             }
@@ -6750,6 +6770,10 @@
                 "es": "Impactrueno"
             },
             {
+                "en": "Volt Switch",
+                "es": "Voltiocambio"
+            },
+            {
                 "en": "Discharge",
                 "es": "Chispazo"
             },
@@ -6804,6 +6828,10 @@
             {
                 "en": "Thunder Shock",
                 "es": "Impactrueno"
+            },
+            {
+                "en": "Volt Switch",
+                "es": "Voltiocambio"
             },
             {
                 "en": "Zap Cannon",
@@ -7439,6 +7467,10 @@
             {
                 "en": "Icy Wind",
                 "es": "Viento Hielo"
+            },
+            {
+                "en": "Razor Shell",
+                "es": "Concha Filo"
             }
         ],
         "hasMegaEvolution": false,
@@ -7499,6 +7531,10 @@
             {
                 "en": "Liquidation",
                 "es": "Hidroariete"
+            },
+            {
+                "en": "Razor Shell",
+                "es": "Concha Filo"
             },
             {
                 "en": "Blizzard",
@@ -7782,6 +7818,10 @@
                 "es": "Cuerpo Pesado"
             },
             {
+                "en": "Breaking Swipe",
+                "es": "Vasto Impacto"
+            },
+            {
                 "en": "Iron Head",
                 "es": "Cabeza de Hierro"
             },
@@ -7964,6 +8004,10 @@
             {
                 "en": "Water Pulse",
                 "es": "Hidropulso"
+            },
+            {
+                "en": "Razor Shell",
+                "es": "Concha Filo"
             }
         ],
         "hasMegaEvolution": false,
@@ -8020,6 +8064,10 @@
             {
                 "en": "Crabhammer",
                 "es": "Martillazo"
+            },
+            {
+                "en": "Razor Shell",
+                "es": "Concha Filo"
             },
             {
                 "en": "Mud Shot",
@@ -8618,6 +8666,10 @@
                 "es": "Roca Afilada"
             },
             {
+                "en": "Blaze Kick",
+                "es": "Patada Ígnea"
+            },
+            {
                 "en": "Stomp",
                 "es": "Pisotón"
             },
@@ -9013,6 +9065,10 @@
             {
                 "en": "Stone Edge",
                 "es": "Roca Afilada"
+            },
+            {
+                "en": "Breaking Swipe",
+                "es": "Vasto Impacto"
             },
             {
                 "en": "Megahorn",
@@ -9596,6 +9652,10 @@
                 "es": "Cabezazo Zen"
             },
             {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
                 "en": "Psybeam",
                 "es": "Psicorrayo"
             },
@@ -9648,6 +9708,10 @@
                     {
                         "en": "Ice Punch",
                         "es": "Puño Hielo"
+                    },
+                    {
+                        "en": "391",
+                        "es": "391"
                     }
                 ],
                 "assets": {
@@ -9703,6 +9767,10 @@
             {
                 "en": "Aerial Ace",
                 "es": "Golpe Aéreo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             },
             {
                 "en": "Steel Wing",
@@ -9879,6 +9947,10 @@
             {
                 "en": "Flamethrower",
                 "es": "Lanzallamas"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -10020,6 +10092,10 @@
             {
                 "en": "Earthquake",
                 "es": "Terremoto"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -11836,6 +11912,10 @@
                 "es": "Placaje"
             },
             {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
                 "en": "Energy Ball",
                 "es": "Energibola"
             },
@@ -11888,6 +11968,10 @@
                 "es": "Placaje"
             },
             {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
                 "en": "Energy Ball",
                 "es": "Energibola"
             },
@@ -11938,6 +12022,10 @@
             {
                 "en": "Vine Whip",
                 "es": "Látigo Cepa"
+            },
+            {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
             },
             {
                 "en": "Petal Blizzard",
@@ -13326,6 +13414,10 @@
             {
                 "en": "Discharge",
                 "es": "Chispazo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -13378,6 +13470,10 @@
             {
                 "en": "Discharge",
                 "es": "Chispazo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -13442,6 +13538,10 @@
             {
                 "en": "Brutal Swing",
                 "es": "Giro Vil"
+            },
+            {
+                "en": "392",
+                "es": "392"
             },
             {
                 "en": "Dragon Pulse",
@@ -13515,6 +13615,10 @@
             {
                 "en": "Bullet Seed",
                 "es": "Semilladora"
+            },
+            {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
             },
             {
                 "en": "Leaf Blade",
@@ -13691,6 +13795,10 @@
             {
                 "en": "Meteor Beam",
                 "es": "Rayo Meteórico"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -14728,6 +14836,10 @@
             {
                 "en": "Psychic Fangs",
                 "es": "Psicocolmillo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -15008,6 +15120,10 @@
             {
                 "en": "Psychic Fangs",
                 "es": "Psicocolmillo"
+            },
+            {
+                "en": "Breaking Swipe",
+                "es": "Vasto Impacto"
             }
         ],
         "hasMegaEvolution": true,
@@ -15306,6 +15422,10 @@
             {
                 "en": "Night Slash",
                 "es": "Tajo Umbrío"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": true,
@@ -15491,6 +15611,10 @@
             {
                 "en": "Foul Play",
                 "es": "Juego Sucio"
+            },
+            {
+                "en": "391",
+                "es": "391"
             }
         ],
         "hasMegaEvolution": false,
@@ -15588,6 +15712,10 @@
             {
                 "en": "Play Rough",
                 "es": "Carantoña"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -15644,6 +15772,10 @@
             {
                 "en": "Play Rough",
                 "es": "Carantoña"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -16010,7 +16142,7 @@
                 "es": "Disparo Lodo"
             },
             {
-                "en": "Lock On",
+                "en": "Lock-On",
                 "es": "Fijar Blanco"
             },
             {
@@ -16437,6 +16569,10 @@
             {
                 "en": "Body Slam",
                 "es": "Golpe Cuerpo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -16501,6 +16637,10 @@
             {
                 "en": "Body Slam",
                 "es": "Golpe Cuerpo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -16543,7 +16683,7 @@
                 "es": "Rayo Carga"
             },
             {
-                "en": "Lock On",
+                "en": "Lock-On",
                 "es": "Fijar Blanco"
             },
             {
@@ -16748,6 +16888,10 @@
             {
                 "en": "Stone Edge",
                 "es": "Roca Afilada"
+            },
+            {
+                "en": "391",
+                "es": "391"
             }
         ],
         "hasMegaEvolution": false,
@@ -17197,6 +17341,10 @@
             {
                 "en": "Flame Charge",
                 "es": "Nitrocarga"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -17247,6 +17395,10 @@
                     {
                         "en": "Flame Charge",
                         "es": "Nitrocarga"
+                    },
+                    {
+                        "en": "393",
+                        "es": "393"
                     }
                 ],
                 "assets": {
@@ -18018,6 +18170,10 @@
             {
                 "en": "Dragon Claw",
                 "es": "Garra Dragón"
+            },
+            {
+                "en": "Breaking Swipe",
+                "es": "Vasto Impacto"
             },
             {
                 "en": "Frenzy Plant",
@@ -19601,6 +19757,10 @@
                 "es": "Rayo Carga"
             },
             {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
                 "en": "Psychic",
                 "es": "Psíquico"
             },
@@ -19611,6 +19771,10 @@
             {
                 "en": "Shadow Sneak",
                 "es": "Sombra Vil"
+            },
+            {
+                "en": "391",
+                "es": "391"
             }
         ],
         "hasMegaEvolution": false,
@@ -19657,6 +19821,10 @@
                 "es": "Encanto"
             },
             {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
                 "en": "Psychic",
                 "es": "Psíquico"
             },
@@ -19667,6 +19835,10 @@
             {
                 "en": "Shadow Ball",
                 "es": "Bola Sombra"
+            },
+            {
+                "en": "391",
+                "es": "391"
             },
             {
                 "en": "Synchronoise",
@@ -21582,6 +21754,10 @@
                 "es": "Hoja Afilada"
             },
             {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
                 "en": "Petal Blizzard",
                 "es": "Tormenta Floral"
             },
@@ -21684,6 +21860,10 @@
             {
                 "en": "Infestation",
                 "es": "Acoso"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
             },
             {
                 "en": "Gunk Shot",
@@ -22280,6 +22460,10 @@
             {
                 "en": "Crunch",
                 "es": "Triturar"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -22332,6 +22516,10 @@
             {
                 "en": "Bug Buzz",
                 "es": "Zumbido"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -22388,6 +22576,10 @@
             {
                 "en": "Boomburst",
                 "es": "Estruendo"
+            },
+            {
+                "en": "393",
+                "es": "393"
             },
             {
                 "en": "Earth Power",
@@ -23001,6 +23193,10 @@
             {
                 "en": "Aqua Jet",
                 "es": "Acua Jet"
+            },
+            {
+                "en": "Razor Shell",
+                "es": "Concha Filo"
             }
         ],
         "hasMegaEvolution": false,
@@ -23057,6 +23253,10 @@
             {
                 "en": "Crabhammer",
                 "es": "Martillazo"
+            },
+            {
+                "en": "Razor Shell",
+                "es": "Concha Filo"
             }
         ],
         "hasMegaEvolution": false,
@@ -23181,6 +23381,10 @@
             {
                 "en": "Rock Tomb",
                 "es": "Tumba Rocas"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -25136,7 +25340,7 @@
                 "es": "Golpe Roca"
             },
             {
-                "en": "Lock On",
+                "en": "Lock-On",
                 "es": "Fijar Blanco"
             },
             {
@@ -25196,7 +25400,7 @@
                 "es": "Golpe Roca"
             },
             {
-                "en": "Lock On",
+                "en": "Lock-On",
                 "es": "Fijar Blanco"
             },
             {
@@ -25256,7 +25460,7 @@
                 "es": "Golpe Roca"
             },
             {
-                "en": "Lock On",
+                "en": "Lock-On",
                 "es": "Fijar Blanco"
             },
             {
@@ -27144,6 +27348,10 @@
                 "es": "Hoja Afilada"
             },
             {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
                 "en": "Solar Beam",
                 "es": "Rayo Solar"
             },
@@ -28771,6 +28979,10 @@
             {
                 "en": "Focus Blast",
                 "es": "Onda Certera"
+            },
+            {
+                "en": "391",
+                "es": "391"
             }
         ],
         "hasMegaEvolution": true,
@@ -28836,6 +29048,10 @@
             {
                 "en": "Hex",
                 "es": "Infortunio"
+            },
+            {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
             },
             {
                 "en": "Shadow Ball",
@@ -29112,6 +29328,10 @@
             {
                 "en": "Sludge Bomb",
                 "es": "Bomba Lodo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -29164,6 +29384,10 @@
             {
                 "en": "Sludge Bomb",
                 "es": "Bomba Lodo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -29804,6 +30028,10 @@
             {
                 "en": "Cross Chop",
                 "es": "Tajo Cruzado"
+            },
+            {
+                "en": "Blaze Kick",
+                "es": "Patada Ígnea"
             }
         ],
         "hasMegaEvolution": false,
@@ -29864,6 +30092,10 @@
             {
                 "en": "Aura Sphere",
                 "es": "Esfera Aural"
+            },
+            {
+                "en": "Blaze Kick",
+                "es": "Patada Ígnea"
             }
         ],
         "hasMegaEvolution": false,
@@ -29984,6 +30216,10 @@
             {
                 "en": "Weather Ball",
                 "es": "Meteorobola"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -30142,6 +30378,10 @@
                 "es": "Puya Nociva"
             },
             {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
+            },
+            {
                 "en": "Brick Break",
                 "es": "Demolición"
             },
@@ -30192,6 +30432,10 @@
             {
                 "en": "Counter",
                 "es": "Contraataque"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
             },
             {
                 "en": "Dynamic Punch",
@@ -30609,6 +30853,10 @@
             {
                 "en": "Foul Play",
                 "es": "Juego Sucio"
+            },
+            {
+                "en": "391",
+                "es": "391"
             }
         ],
         "hasMegaEvolution": false,
@@ -30649,6 +30897,10 @@
             {
                 "en": "Charge Beam",
                 "es": "Rayo Carga"
+            },
+            {
+                "en": "Volt Switch",
+                "es": "Voltiocambio"
             },
             {
                 "en": "Zap Cannon",
@@ -30785,6 +31037,10 @@
             {
                 "en": "Superpower",
                 "es": "Fuerza Bruta"
+            },
+            {
+                "en": "Breaking Swipe",
+                "es": "Vasto Impacto"
             },
             {
                 "en": "Rock Wrecker",
@@ -30965,6 +31221,10 @@
             {
                 "en": "Psychic",
                 "es": "Psíquico"
+            },
+            {
+                "en": "393",
+                "es": "393"
             },
             {
                 "en": "Thunderbolt",
@@ -31363,7 +31623,7 @@
                 "es": "Rayo Carga"
             },
             {
-                "en": "Lock On",
+                "en": "Lock-On",
                 "es": "Fijar Blanco"
             },
             {
@@ -32677,6 +32937,10 @@
                 "es": "Cabezazo Zen"
             },
             {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
                 "en": "Energy Ball",
                 "es": "Energibola"
             },
@@ -32721,6 +32985,10 @@
                     {
                         "en": "Zen Headbutt",
                         "es": "Cabezazo Zen"
+                    },
+                    {
+                        "en": "Magical Leaf",
+                        "es": "Hoja Mágica"
                     },
                     {
                         "en": "Energy Ball",
@@ -32769,6 +33037,10 @@
                     {
                         "en": "Zen Headbutt",
                         "es": "Cabezazo Zen"
+                    },
+                    {
+                        "en": "Magical Leaf",
+                        "es": "Hoja Mágica"
                     },
                     {
                         "en": "Energy Ball",
@@ -35569,6 +35841,10 @@
             {
                 "en": "Iron Head",
                 "es": "Cabeza de Hierro"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -36557,6 +36833,10 @@
             {
                 "en": "Hidden Power",
                 "es": "Poder Oculto"
+            },
+            {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
             },
             {
                 "en": "Petal Blizzard",
@@ -38825,6 +39105,10 @@
             {
                 "en": "Wild Charge",
                 "es": "Voltio Cruel"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -38867,6 +39151,10 @@
                     {
                         "en": "Wild Charge",
                         "es": "Voltio Cruel"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -38911,6 +39199,10 @@
                     {
                         "en": "Wild Charge",
                         "es": "Voltio Cruel"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -38955,6 +39247,10 @@
                     {
                         "en": "Wild Charge",
                         "es": "Voltio Cruel"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -38999,6 +39295,10 @@
                     {
                         "en": "Wild Charge",
                         "es": "Voltio Cruel"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -39058,6 +39358,10 @@
             {
                 "en": "Hyper Beam",
                 "es": "Hiperrayo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -39104,6 +39408,10 @@
                     {
                         "en": "Hyper Beam",
                         "es": "Hiperrayo"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -39152,6 +39460,10 @@
                     {
                         "en": "Hyper Beam",
                         "es": "Hiperrayo"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -39200,6 +39512,10 @@
                     {
                         "en": "Hyper Beam",
                         "es": "Hiperrayo"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -39248,6 +39564,10 @@
                     {
                         "en": "Hyper Beam",
                         "es": "Hiperrayo"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -41015,6 +41335,10 @@
                 "es": "Acoso"
             },
             {
+                "en": "WATER_SHURIKEN_FAST",
+                "es": "WATER_SHURIKEN_FAST"
+            },
+            {
                 "en": "Bug Buzz",
                 "es": "Zumbido"
             },
@@ -41234,6 +41558,10 @@
             {
                 "en": "Stone Edge",
                 "es": "Roca Afilada"
+            },
+            {
+                "en": "Blaze Kick",
+                "es": "Patada Ígnea"
             }
         ],
         "hasMegaEvolution": false,
@@ -44148,6 +44476,10 @@
                 "es": "Burbuja"
             },
             {
+                "en": "WATER_SHURIKEN_FAST",
+                "es": "WATER_SHURIKEN_FAST"
+            },
+            {
                 "en": "Night Slash",
                 "es": "Tajo Umbrío"
             },
@@ -44162,6 +44494,10 @@
             {
                 "en": "Hydro Pump",
                 "es": "Hidrobomba"
+            },
+            {
+                "en": "Hydro Cannon",
+                "es": "Hidrocañón"
             }
         ],
         "hasMegaEvolution": false,
@@ -44270,6 +44606,10 @@
             {
                 "en": "Fire Punch",
                 "es": "Puño Fuego"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -48874,6 +49214,10 @@
                         "es": "Encanto"
                     },
                     {
+                        "en": "Magical Leaf",
+                        "es": "Hoja Mágica"
+                    },
+                    {
                         "en": "Psychic",
                         "es": "Psíquico"
                     },
@@ -49459,6 +49803,10 @@
             {
                 "en": "Grass Knot",
                 "es": "Hierba Lazo"
+            },
+            {
+                "en": "Razor Shell",
+                "es": "Concha Filo"
             }
         ],
         "hasMegaEvolution": false,
@@ -49795,6 +50143,10 @@
             {
                 "en": "Grass Knot",
                 "es": "Hierba Lazo"
+            },
+            {
+                "en": "Breaking Swipe",
+                "es": "Vasto Impacto"
             }
         ],
         "hasMegaEvolution": false,
@@ -51406,6 +51758,10 @@
             {
                 "en": "Thunder",
                 "es": "Trueno"
+            },
+            {
+                "en": "387",
+                "es": "387"
             }
         ],
         "hasMegaEvolution": false,
@@ -51470,6 +51826,10 @@
             {
                 "en": "Psychic",
                 "es": "Psíquico"
+            },
+            {
+                "en": "389",
+                "es": "389"
             }
         ],
         "hasMegaEvolution": false,
@@ -51647,8 +52007,8 @@
                     }
                 ],
                 "assets": {
-                    "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm718.fCOMPLETE.icon.png",
-                    "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm718.fCOMPLETE.s.icon.png"
+                    "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm718.fCOMPLETE_FIFTY_PERCENT.icon.png",
+                    "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm718.fCOMPLETE_FIFTY_PERCENT.s.icon.png"
                 }
             },
             {
@@ -51703,8 +52063,8 @@
                     }
                 ],
                 "assets": {
-                    "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_718_00.png",
-                    "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_718_00_shiny.png"
+                    "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm718.fCOMPLETE_TEN_PERCENT.icon.png",
+                    "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm718.fCOMPLETE_TEN_PERCENT.s.icon.png"
                 }
             },
             {
@@ -52139,6 +52499,10 @@
                 "es": "Follaje"
             },
             {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
                 "en": "Seed Bomb",
                 "es": "Bomba Germen"
             },
@@ -52189,6 +52553,10 @@
             {
                 "en": "Leafage",
                 "es": "Follaje"
+            },
+            {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
             },
             {
                 "en": "Seed Bomb",
@@ -52245,6 +52613,10 @@
             {
                 "en": "Leafage",
                 "es": "Follaje"
+            },
+            {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
             },
             {
                 "en": "Shadow Sneak",
@@ -52417,6 +52789,10 @@
             {
                 "en": "Dark Pulse",
                 "es": "Pulso Umbrío"
+            },
+            {
+                "en": "Blaze Kick",
+                "es": "Patada Ígnea"
             }
         ],
         "hasMegaEvolution": false,
@@ -53486,6 +53862,10 @@
             {
                 "en": "Crunch",
                 "es": "Triturar"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -53538,6 +53918,10 @@
             {
                 "en": "Crunch",
                 "es": "Triturar"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -53584,6 +53968,10 @@
                     {
                         "en": "Crunch",
                         "es": "Triturar"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -53628,6 +54016,10 @@
                     {
                         "en": "Crunch",
                         "es": "Triturar"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -53672,6 +54064,10 @@
                     {
                         "en": "Crunch",
                         "es": "Triturar"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
                     }
                 ],
                 "assets": {
@@ -54200,6 +54596,10 @@
             {
                 "en": "Grass Knot",
                 "es": "Hierba Lazo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -54260,6 +54660,10 @@
             {
                 "en": "X-Scissor",
                 "es": "Tijera X"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -54672,6 +55076,10 @@
             {
                 "en": "Grass Knot",
                 "es": "Hierba Lazo"
+            },
+            {
+                "en": "391",
+                "es": "391"
             }
         ],
         "hasMegaEvolution": false,
@@ -54732,6 +55140,10 @@
             {
                 "en": "Stomp",
                 "es": "Pisotón"
+            },
+            {
+                "en": "391",
+                "es": "391"
             }
         ],
         "hasMegaEvolution": false,
@@ -55000,6 +55412,10 @@
             {
                 "en": "Liquidation",
                 "es": "Hidroariete"
+            },
+            {
+                "en": "Razor Shell",
+                "es": "Concha Filo"
             }
         ],
         "hasMegaEvolution": false,
@@ -55052,6 +55468,10 @@
             {
                 "en": "Earth Power",
                 "es": "Tierra Viva"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -55104,6 +55524,10 @@
             {
                 "en": "Earth Power",
                 "es": "Tierra Viva"
+            },
+            {
+                "en": "393",
+                "es": "393"
             }
         ],
         "hasMegaEvolution": false,
@@ -58989,6 +59413,10 @@
             {
                 "en": "Crunch",
                 "es": "Triturar"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -59033,6 +59461,10 @@
             {
                 "en": "Bullet Seed",
                 "es": "Semilladora"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
             },
             {
                 "en": "Body Slam",
@@ -61548,6 +61980,10 @@
             {
                 "en": "Foul Play",
                 "es": "Juego Sucio"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -61720,6 +62156,10 @@
             {
                 "en": "Icy Wind",
                 "es": "Viento Hielo"
+            },
+            {
+                "en": "391",
+                "es": "391"
             }
         ],
         "hasMegaEvolution": false,
@@ -63809,8 +64249,12 @@
                 "es": "Impactrueno"
             },
             {
-                "en": "Lock On",
+                "en": "Lock-On",
                 "es": "Fijar Blanco"
+            },
+            {
+                "en": "Volt Switch",
+                "es": "Voltiocambio"
             },
             {
                 "en": "Hyper Beam",
@@ -63871,6 +64315,10 @@
             {
                 "en": "Dragon Pulse",
                 "es": "Pulso Dragón"
+            },
+            {
+                "en": "Breaking Swipe",
+                "es": "Vasto Impacto"
             }
         ],
         "hasMegaEvolution": false,
@@ -64128,6 +64576,10 @@
             {
                 "en": "Stone Edge",
                 "es": "Roca Afilada"
+            },
+            {
+                "en": "392",
+                "es": "392"
             }
         ],
         "hasMegaEvolution": false,
@@ -64184,6 +64636,10 @@
             {
                 "en": "Ice Punch",
                 "es": "Puño Hielo"
+            },
+            {
+                "en": "392",
+                "es": "392"
             },
             {
                 "en": "High Horsepower",
@@ -64320,6 +64776,5496 @@
         }
     },
     {
+        "id": "SPRIGATITO",
+        "formId": "SPRIGATITO",
+        "dexNr": 906,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "SPRIGATITO",
+            "es": "SPRIGATITO"
+        },
+        "attacks": [
+            {
+                "en": "Leafage",
+                "es": "Follaje"
+            },
+            {
+                "en": "Charm",
+                "es": "Encanto"
+            },
+            {
+                "en": "Grass Knot",
+                "es": "Hierba Lazo"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Energy Ball",
+                "es": "Energibola"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 120,
+            "attack": 116,
+            "defense": 99
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm906.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm906.s.icon.png"
+        }
+    },
+    {
+        "id": "FLORAGATO",
+        "formId": "FLORAGATO",
+        "dexNr": 907,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "FLORAGATO",
+            "es": "FLORAGATO"
+        },
+        "attacks": [
+            {
+                "en": "Leafage",
+                "es": "Follaje"
+            },
+            {
+                "en": "Charm",
+                "es": "Encanto"
+            },
+            {
+                "en": "Grass Knot",
+                "es": "Hierba Lazo"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Energy Ball",
+                "es": "Energibola"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 156,
+            "attack": 157,
+            "defense": 128
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm907.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm907.s.icon.png"
+        }
+    },
+    {
+        "id": "MEOWSCARADA",
+        "formId": "MEOWSCARADA",
+        "dexNr": 908,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "names": {
+            "en": "MEOWSCARADA",
+            "es": "MEOWSCARADA"
+        },
+        "attacks": [
+            {
+                "en": "Leafage",
+                "es": "Follaje"
+            },
+            {
+                "en": "Charm",
+                "es": "Encanto"
+            },
+            {
+                "en": "Grass Knot",
+                "es": "Hierba Lazo"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Energy Ball",
+                "es": "Energibola"
+            },
+            {
+                "en": "Night Slash",
+                "es": "Tajo Umbrío"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 183,
+            "attack": 233,
+            "defense": 153
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm908.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm908.s.icon.png"
+        }
+    },
+    {
+        "id": "FUECOCO",
+        "formId": "FUECOCO",
+        "dexNr": 909,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fire",
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "FUECOCO",
+            "es": "FUECOCO"
+        },
+        "attacks": [
+            {
+                "en": "Incinerate",
+                "es": "Calcinación"
+            },
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Flamethrower",
+                "es": "Lanzallamas"
+            },
+            {
+                "en": "Disarming Voice",
+                "es": "Voz Cautivadora"
+            },
+            {
+                "en": "Crunch",
+                "es": "Triturar"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 167,
+            "attack": 112,
+            "defense": 96
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm909.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm909.s.icon.png"
+        }
+    },
+    {
+        "id": "CROCALOR",
+        "formId": "CROCALOR",
+        "dexNr": 910,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fire",
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "CROCALOR",
+            "es": "CROCALOR"
+        },
+        "attacks": [
+            {
+                "en": "Incinerate",
+                "es": "Calcinación"
+            },
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Flamethrower",
+                "es": "Lanzallamas"
+            },
+            {
+                "en": "Disarming Voice",
+                "es": "Voz Cautivadora"
+            },
+            {
+                "en": "Crunch",
+                "es": "Triturar"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 191,
+            "attack": 162,
+            "defense": 134
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm910.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm910.s.icon.png"
+        }
+    },
+    {
+        "id": "SKELEDIRGE",
+        "formId": "SKELEDIRGE",
+        "dexNr": 911,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fire",
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "en": "Ghost",
+            "es": "Fantasma"
+        },
+        "names": {
+            "en": "SKELEDIRGE",
+            "es": "SKELEDIRGE"
+        },
+        "attacks": [
+            {
+                "en": "Incinerate",
+                "es": "Calcinación"
+            },
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Flamethrower",
+                "es": "Lanzallamas"
+            },
+            {
+                "en": "Disarming Voice",
+                "es": "Voz Cautivadora"
+            },
+            {
+                "en": "Crunch",
+                "es": "Triturar"
+            },
+            {
+                "en": "Shadow Ball",
+                "es": "Bola Sombra"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 232,
+            "attack": 207,
+            "defense": 178
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm911.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm911.s.icon.png"
+        }
+    },
+    {
+        "id": "QUAXLY",
+        "formId": "QUAXLY",
+        "dexNr": 912,
+        "generation": 9,
+        "primaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "QUAXLY",
+            "es": "QUAXLY"
+        },
+        "attacks": [
+            {
+                "en": "Water Gun",
+                "es": "Pistola Agua"
+            },
+            {
+                "en": "Wing Attack",
+                "es": "Ataque Ala"
+            },
+            {
+                "en": "Aqua Jet",
+                "es": "Acua Jet"
+            },
+            {
+                "en": "Aerial Ace",
+                "es": "Golpe Aéreo"
+            },
+            {
+                "en": "Liquidation",
+                "es": "Hidroariete"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 146,
+            "attack": 120,
+            "defense": 86
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm912.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm912.s.icon.png"
+        }
+    },
+    {
+        "id": "QUAXWELL",
+        "formId": "QUAXWELL",
+        "dexNr": 913,
+        "generation": 9,
+        "primaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "QUAXWELL",
+            "es": "QUAXWELL"
+        },
+        "attacks": [
+            {
+                "en": "Water Gun",
+                "es": "Pistola Agua"
+            },
+            {
+                "en": "Wing Attack",
+                "es": "Ataque Ala"
+            },
+            {
+                "en": "Aqua Jet",
+                "es": "Acua Jet"
+            },
+            {
+                "en": "Aerial Ace",
+                "es": "Golpe Aéreo"
+            },
+            {
+                "en": "Liquidation",
+                "es": "Hidroariete"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 172,
+            "attack": 162,
+            "defense": 123
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm913.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm913.s.icon.png"
+        }
+    },
+    {
+        "id": "QUAQUAVAL",
+        "formId": "QUAQUAVAL",
+        "dexNr": 914,
+        "generation": 9,
+        "primaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "names": {
+            "en": "QUAQUAVAL",
+            "es": "QUAQUAVAL"
+        },
+        "attacks": [
+            {
+                "en": "Water Gun",
+                "es": "Pistola Agua"
+            },
+            {
+                "en": "Wing Attack",
+                "es": "Ataque Ala"
+            },
+            {
+                "en": "Aqua Jet",
+                "es": "Acua Jet"
+            },
+            {
+                "en": "Aerial Ace",
+                "es": "Golpe Aéreo"
+            },
+            {
+                "en": "Liquidation",
+                "es": "Hidroariete"
+            },
+            {
+                "en": "Close Combat",
+                "es": "A Bocajarro"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 198,
+            "attack": 236,
+            "defense": 159
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm914.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm914.s.icon.png"
+        }
+    },
+    {
+        "id": "LECHONK",
+        "formId": "LECHONK",
+        "dexNr": 915,
+        "generation": 9,
+        "primaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "LECHONK",
+            "es": "LECHONK"
+        },
+        "attacks": [
+            {
+                "en": "Tackle",
+                "es": "Placaje"
+            },
+            {
+                "en": "Take Down",
+                "es": "Derribo"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            },
+            {
+                "en": "392",
+                "es": "392"
+            },
+            {
+                "en": "Body Slam",
+                "es": "Golpe Cuerpo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 144,
+            "attack": 81,
+            "defense": 79
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm915.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm915.s.icon.png"
+        }
+    },
+    {
+        "id": "OINKOLOGNE",
+        "formId": "OINKOLOGNE",
+        "dexNr": 916,
+        "generation": 9,
+        "primaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "OINKOLOGNE",
+            "es": "OINKOLOGNE"
+        },
+        "attacks": [
+            {
+                "en": "Tackle",
+                "es": "Placaje"
+            },
+            {
+                "en": "Take Down",
+                "es": "Derribo"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            },
+            {
+                "en": "392",
+                "es": "392"
+            },
+            {
+                "en": "Body Slam",
+                "es": "Golpe Cuerpo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [
+            {
+                "id": "OINKOLOGNE",
+                "formId": "OINKOLOGNE_FEMALE",
+                "dexNr": 916,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Normal",
+                    "es": "Normal"
+                },
+                "secondaryType": {
+                    "en": null,
+                    "es": null
+                },
+                "names": {
+                    "en": " (Female)",
+                    "es": " (Hembra)"
+                },
+                "attacks": [
+                    {
+                        "en": "Tackle",
+                        "es": "Placaje"
+                    },
+                    {
+                        "en": "Take Down",
+                        "es": "Derribo"
+                    },
+                    {
+                        "en": "Dig",
+                        "es": "Excavar"
+                    },
+                    {
+                        "en": "392",
+                        "es": "392"
+                    },
+                    {
+                        "en": "Body Slam",
+                        "es": "Golpe Cuerpo"
+                    }
+                ],
+                "assets": {
+                    "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm916.fFEMALE.icon.png",
+                    "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm916.fFEMALE.s.icon.png"
+                }
+            }
+        ],
+        "stats": {
+            "stamina": 242,
+            "attack": 186,
+            "defense": 153
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm916.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm916.s.icon.png"
+        }
+    },
+    {
+        "id": "TAROUNTULA",
+        "formId": "TAROUNTULA",
+        "dexNr": 917,
+        "generation": 9,
+        "primaryType": {
+            "en": "Bug",
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "TAROUNTULA",
+            "es": "TAROUNTULA"
+        },
+        "attacks": [
+            {
+                "en": "Bug Bite",
+                "es": "Picadura"
+            },
+            {
+                "en": "Struggle Bug",
+                "es": "Estoicismo"
+            },
+            {
+                "en": "X-Scissor",
+                "es": "Tijera X"
+            },
+            {
+                "en": "Grass Knot",
+                "es": "Hierba Lazo"
+            },
+            {
+                "en": "Lunge",
+                "es": "Plancha"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 111,
+            "attack": 70,
+            "defense": 77
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "SPIDOPS",
+        "formId": "SPIDOPS",
+        "dexNr": 918,
+        "generation": 9,
+        "primaryType": {
+            "en": "Bug",
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "SPIDOPS",
+            "es": "SPIDOPS"
+        },
+        "attacks": [
+            {
+                "en": "Bug Bite",
+                "es": "Picadura"
+            },
+            {
+                "en": "Counter",
+                "es": "Contraataque"
+            },
+            {
+                "en": "X-Scissor",
+                "es": "Tijera X"
+            },
+            {
+                "en": "Grass Knot",
+                "es": "Hierba Lazo"
+            },
+            {
+                "en": "Lunge",
+                "es": "Plancha"
+            },
+            {
+                "en": "Rock Tomb",
+                "es": "Tumba Rocas"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 155,
+            "attack": 139,
+            "defense": 166
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "NYMBLE",
+        "formId": "NYMBLE",
+        "dexNr": 919,
+        "generation": 9,
+        "primaryType": {
+            "en": "Bug",
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "NYMBLE",
+            "es": "NYMBLE"
+        },
+        "attacks": [
+            {
+                "en": "Bug Bite",
+                "es": "Picadura"
+            },
+            {
+                "en": "Struggle Bug",
+                "es": "Estoicismo"
+            },
+            {
+                "en": "X-Scissor",
+                "es": "Tijera X"
+            },
+            {
+                "en": "392",
+                "es": "392"
+            },
+            {
+                "en": "Bug Buzz",
+                "es": "Zumbido"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 107,
+            "attack": 81,
+            "defense": 65
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm919.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm919.s.icon.png"
+        }
+    },
+    {
+        "id": "LOKIX",
+        "formId": "LOKIX",
+        "dexNr": 920,
+        "generation": 9,
+        "primaryType": {
+            "en": "Bug",
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "names": {
+            "en": "LOKIX",
+            "es": "LOKIX"
+        },
+        "attacks": [
+            {
+                "en": "Bug Bite",
+                "es": "Picadura"
+            },
+            {
+                "en": "Sucker Punch",
+                "es": "Golpe Bajo"
+            },
+            {
+                "en": "X-Scissor",
+                "es": "Tijera X"
+            },
+            {
+                "en": "392",
+                "es": "392"
+            },
+            {
+                "en": "Bug Buzz",
+                "es": "Zumbido"
+            },
+            {
+                "en": "Dark Pulse",
+                "es": "Pulso Umbrío"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 174,
+            "attack": 199,
+            "defense": 144
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm920.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm920.s.icon.png"
+        }
+    },
+    {
+        "id": "PAWMI",
+        "formId": "PAWMI",
+        "dexNr": 921,
+        "generation": 9,
+        "primaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "PAWMI",
+            "es": "PAWMI"
+        },
+        "attacks": [
+            {
+                "en": "Spark",
+                "es": "Chispa"
+            },
+            {
+                "en": "Charge Beam",
+                "es": "Rayo Carga"
+            },
+            {
+                "en": "Thunderbolt",
+                "es": "Rayo"
+            },
+            {
+                "en": "Discharge",
+                "es": "Chispazo"
+            },
+            {
+                "en": "Wild Charge",
+                "es": "Voltio Cruel"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 128,
+            "attack": 95,
+            "defense": 45
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm921.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm921.s.icon.png"
+        }
+    },
+    {
+        "id": "PAWMO",
+        "formId": "PAWMO",
+        "dexNr": 922,
+        "generation": 9,
+        "primaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "secondaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "names": {
+            "en": "PAWMO",
+            "es": "PAWMO"
+        },
+        "attacks": [
+            {
+                "en": "Spark",
+                "es": "Chispa"
+            },
+            {
+                "en": "Charge Beam",
+                "es": "Rayo Carga"
+            },
+            {
+                "en": "Thunderbolt",
+                "es": "Rayo"
+            },
+            {
+                "en": "Discharge",
+                "es": "Chispazo"
+            },
+            {
+                "en": "Wild Charge",
+                "es": "Voltio Cruel"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 155,
+            "attack": 147,
+            "defense": 82
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm922.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm922.s.icon.png"
+        }
+    },
+    {
+        "id": "PAWMOT",
+        "formId": "PAWMOT",
+        "dexNr": 923,
+        "generation": 9,
+        "primaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "secondaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "names": {
+            "en": "PAWMOT",
+            "es": "PAWMOT"
+        },
+        "attacks": [
+            {
+                "en": "Spark",
+                "es": "Chispa"
+            },
+            {
+                "en": "Charge Beam",
+                "es": "Rayo Carga"
+            },
+            {
+                "en": "Low Kick",
+                "es": "Patada Baja"
+            },
+            {
+                "en": "Thunderbolt",
+                "es": "Rayo"
+            },
+            {
+                "en": "Discharge",
+                "es": "Chispazo"
+            },
+            {
+                "en": "Wild Charge",
+                "es": "Voltio Cruel"
+            },
+            {
+                "en": "Close Combat",
+                "es": "A Bocajarro"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 172,
+            "attack": 232,
+            "defense": 141
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm923.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm923.s.icon.png"
+        }
+    },
+    {
+        "id": "TANDEMAUS",
+        "formId": "TANDEMAUS",
+        "dexNr": 924,
+        "generation": 9,
+        "primaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "TANDEMAUS",
+            "es": "TANDEMAUS"
+        },
+        "attacks": [
+            {
+                "en": "Take Down",
+                "es": "Derribo"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
+            },
+            {
+                "en": "Bullet Seed",
+                "es": "Semilladora"
+            },
+            {
+                "en": "Swift",
+                "es": "Rapidez"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Crunch",
+                "es": "Triturar"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 137,
+            "attack": 98,
+            "defense": 90
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "MAUSHOLD",
+        "formId": "MAUSHOLD",
+        "dexNr": 925,
+        "generation": 9,
+        "primaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "MAUSHOLD",
+            "es": "MAUSHOLD"
+        },
+        "attacks": [
+            {
+                "en": "Take Down",
+                "es": "Derribo"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
+            },
+            {
+                "en": "Bullet Seed",
+                "es": "Semilladora"
+            },
+            {
+                "en": "Swift",
+                "es": "Rapidez"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Crunch",
+                "es": "Triturar"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [
+            {
+                "id": "MAUSHOLD",
+                "formId": "MAUSHOLD_FAMILY_OF_FOUR",
+                "dexNr": 925,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Normal",
+                    "es": "Normal"
+                },
+                "secondaryType": {
+                    "en": null,
+                    "es": null
+                },
+                "names": {
+                    "en": "MAUSHOLD",
+                    "es": "MAUSHOLD"
+                },
+                "attacks": [
+                    {
+                        "en": "Take Down",
+                        "es": "Derribo"
+                    },
+                    {
+                        "en": "Mud Shot",
+                        "es": "Disparo Lodo"
+                    },
+                    {
+                        "en": "Bullet Seed",
+                        "es": "Semilladora"
+                    },
+                    {
+                        "en": "Swift",
+                        "es": "Rapidez"
+                    },
+                    {
+                        "en": "Play Rough",
+                        "es": "Carantoña"
+                    },
+                    {
+                        "en": "Crunch",
+                        "es": "Triturar"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            },
+            {
+                "id": "MAUSHOLD",
+                "formId": "MAUSHOLD_FAMILY_OF_THREE",
+                "dexNr": 925,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Normal",
+                    "es": "Normal"
+                },
+                "secondaryType": {
+                    "en": null,
+                    "es": null
+                },
+                "names": {
+                    "en": "MAUSHOLD",
+                    "es": "MAUSHOLD"
+                },
+                "attacks": [
+                    {
+                        "en": "Take Down",
+                        "es": "Derribo"
+                    },
+                    {
+                        "en": "Mud Shot",
+                        "es": "Disparo Lodo"
+                    },
+                    {
+                        "en": "Bullet Seed",
+                        "es": "Semilladora"
+                    },
+                    {
+                        "en": "Swift",
+                        "es": "Rapidez"
+                    },
+                    {
+                        "en": "Play Rough",
+                        "es": "Carantoña"
+                    },
+                    {
+                        "en": "Crunch",
+                        "es": "Triturar"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            }
+        ],
+        "stats": {
+            "stamina": 179,
+            "attack": 159,
+            "defense": 157
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "FIDOUGH",
+        "formId": "FIDOUGH",
+        "dexNr": 926,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fairy",
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "FIDOUGH",
+            "es": "FIDOUGH"
+        },
+        "attacks": [
+            {
+                "en": "Charm",
+                "es": "Encanto"
+            },
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Body Slam",
+                "es": "Golpe Cuerpo"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Psychic Fangs",
+                "es": "Psicocolmillo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 114,
+            "attack": 102,
+            "defense": 126
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "DACHSBUN",
+        "formId": "DACHSBUN",
+        "dexNr": 927,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fairy",
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "DACHSBUN",
+            "es": "DACHSBUN"
+        },
+        "attacks": [
+            {
+                "en": "Charm",
+                "es": "Encanto"
+            },
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Body Slam",
+                "es": "Golpe Cuerpo"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Psychic Fangs",
+                "es": "Psicocolmillo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 149,
+            "attack": 159,
+            "defense": 212
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "SMOLIV",
+        "formId": "SMOLIV",
+        "dexNr": 928,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "names": {
+            "en": "SMOLIV",
+            "es": "SMOLIV"
+        },
+        "attacks": [
+            {
+                "en": "Razor Leaf",
+                "es": "Hoja Afilada"
+            },
+            {
+                "en": "Tackle",
+                "es": "Placaje"
+            },
+            {
+                "en": "Seed Bomb",
+                "es": "Bomba Germen"
+            },
+            {
+                "en": "Energy Ball",
+                "es": "Energibola"
+            },
+            {
+                "en": "Earth Power",
+                "es": "Tierra Viva"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 121,
+            "attack": 100,
+            "defense": 89
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "DOLLIV",
+        "formId": "DOLLIV",
+        "dexNr": 929,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "names": {
+            "en": "DOLLIV",
+            "es": "DOLLIV"
+        },
+        "attacks": [
+            {
+                "en": "Razor Leaf",
+                "es": "Hoja Afilada"
+            },
+            {
+                "en": "Tackle",
+                "es": "Placaje"
+            },
+            {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
+                "en": "Seed Bomb",
+                "es": "Bomba Germen"
+            },
+            {
+                "en": "Energy Ball",
+                "es": "Energibola"
+            },
+            {
+                "en": "Earth Power",
+                "es": "Tierra Viva"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 141,
+            "attack": 137,
+            "defense": 131
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "ARBOLIVA",
+        "formId": "ARBOLIVA",
+        "dexNr": 930,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "names": {
+            "en": "ARBOLIVA",
+            "es": "ARBOLIVA"
+        },
+        "attacks": [
+            {
+                "en": "Razor Leaf",
+                "es": "Hoja Afilada"
+            },
+            {
+                "en": "Tackle",
+                "es": "Placaje"
+            },
+            {
+                "en": "Magical Leaf",
+                "es": "Hoja Mágica"
+            },
+            {
+                "en": "Seed Bomb",
+                "es": "Bomba Germen"
+            },
+            {
+                "en": "Energy Ball",
+                "es": "Energibola"
+            },
+            {
+                "en": "Earth Power",
+                "es": "Tierra Viva"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 186,
+            "attack": 219,
+            "defense": 189
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "SQUAWKABILLY",
+        "formId": "SQUAWKABILLY",
+        "dexNr": 931,
+        "generation": 9,
+        "primaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "en": "Flying",
+            "es": "Volador"
+        },
+        "names": {
+            "en": "SQUAWKABILLY",
+            "es": "SQUAWKABILLY"
+        },
+        "attacks": [
+            {
+                "en": "Peck",
+                "es": "Picotazo"
+            },
+            {
+                "en": "Air Slash",
+                "es": "Tajo Aéreo"
+            },
+            {
+                "en": "Aerial Ace",
+                "es": "Golpe Aéreo"
+            },
+            {
+                "en": "Brave Bird",
+                "es": "Pájaro Osado"
+            },
+            {
+                "en": "Fly",
+                "es": "Vuelo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [
+            {
+                "id": "SQUAWKABILLY",
+                "formId": "SQUAWKABILLY_BLUE",
+                "dexNr": 931,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Normal",
+                    "es": "Normal"
+                },
+                "secondaryType": {
+                    "en": "Flying",
+                    "es": "Volador"
+                },
+                "names": {
+                    "en": "SQUAWKABILLY",
+                    "es": "SQUAWKABILLY"
+                },
+                "attacks": [
+                    {
+                        "en": "Peck",
+                        "es": "Picotazo"
+                    },
+                    {
+                        "en": "Air Slash",
+                        "es": "Tajo Aéreo"
+                    },
+                    {
+                        "en": "Aerial Ace",
+                        "es": "Golpe Aéreo"
+                    },
+                    {
+                        "en": "Brave Bird",
+                        "es": "Pájaro Osado"
+                    },
+                    {
+                        "en": "Fly",
+                        "es": "Vuelo"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            },
+            {
+                "id": "SQUAWKABILLY",
+                "formId": "SQUAWKABILLY_GREEN",
+                "dexNr": 931,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Normal",
+                    "es": "Normal"
+                },
+                "secondaryType": {
+                    "en": "Flying",
+                    "es": "Volador"
+                },
+                "names": {
+                    "en": "SQUAWKABILLY",
+                    "es": "SQUAWKABILLY"
+                },
+                "attacks": [
+                    {
+                        "en": "Peck",
+                        "es": "Picotazo"
+                    },
+                    {
+                        "en": "Air Slash",
+                        "es": "Tajo Aéreo"
+                    },
+                    {
+                        "en": "Aerial Ace",
+                        "es": "Golpe Aéreo"
+                    },
+                    {
+                        "en": "Brave Bird",
+                        "es": "Pájaro Osado"
+                    },
+                    {
+                        "en": "Fly",
+                        "es": "Vuelo"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            },
+            {
+                "id": "SQUAWKABILLY",
+                "formId": "SQUAWKABILLY_WHITE",
+                "dexNr": 931,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Normal",
+                    "es": "Normal"
+                },
+                "secondaryType": {
+                    "en": "Flying",
+                    "es": "Volador"
+                },
+                "names": {
+                    "en": " (White Kyurem)",
+                    "es": " (Kyurem Blanco)"
+                },
+                "attacks": [
+                    {
+                        "en": "Peck",
+                        "es": "Picotazo"
+                    },
+                    {
+                        "en": "Air Slash",
+                        "es": "Tajo Aéreo"
+                    },
+                    {
+                        "en": "Aerial Ace",
+                        "es": "Golpe Aéreo"
+                    },
+                    {
+                        "en": "Brave Bird",
+                        "es": "Pájaro Osado"
+                    },
+                    {
+                        "en": "Fly",
+                        "es": "Vuelo"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            },
+            {
+                "id": "SQUAWKABILLY",
+                "formId": "SQUAWKABILLY_YELLOW",
+                "dexNr": 931,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Normal",
+                    "es": "Normal"
+                },
+                "secondaryType": {
+                    "en": "Flying",
+                    "es": "Volador"
+                },
+                "names": {
+                    "en": "SQUAWKABILLY",
+                    "es": "SQUAWKABILLY"
+                },
+                "attacks": [
+                    {
+                        "en": "Peck",
+                        "es": "Picotazo"
+                    },
+                    {
+                        "en": "Air Slash",
+                        "es": "Tajo Aéreo"
+                    },
+                    {
+                        "en": "Aerial Ace",
+                        "es": "Golpe Aéreo"
+                    },
+                    {
+                        "en": "Brave Bird",
+                        "es": "Pájaro Osado"
+                    },
+                    {
+                        "en": "Fly",
+                        "es": "Vuelo"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            }
+        ],
+        "stats": {
+            "stamina": 193,
+            "attack": 185,
+            "defense": 105
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "NACLI",
+        "formId": "NACLI",
+        "dexNr": 932,
+        "generation": 9,
+        "primaryType": {
+            "en": "Rock",
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "NACLI",
+            "es": "NACLI"
+        },
+        "attacks": [
+            {
+                "en": "Rock Throw",
+                "es": "Lanzarrocas"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
+            },
+            {
+                "en": "Rock Blast",
+                "es": "Pedrada"
+            },
+            {
+                "en": "Rock Tomb",
+                "es": "Tumba Rocas"
+            },
+            {
+                "en": "Ancient Power",
+                "es": "Poder Pasado"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 146,
+            "attack": 95,
+            "defense": 108
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "NACLSTACK",
+        "formId": "NACLSTACK",
+        "dexNr": 933,
+        "generation": 9,
+        "primaryType": {
+            "en": "Rock",
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "NACLSTACK",
+            "es": "NACLSTACK"
+        },
+        "attacks": [
+            {
+                "en": "Smack Down",
+                "es": "Antiaéreo"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
+            },
+            {
+                "en": "Rock Blast",
+                "es": "Pedrada"
+            },
+            {
+                "en": "Rock Tomb",
+                "es": "Tumba Rocas"
+            },
+            {
+                "en": "Ancient Power",
+                "es": "Poder Pasado"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 155,
+            "attack": 105,
+            "defense": 160
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "GARGANACL",
+        "formId": "GARGANACL",
+        "dexNr": 934,
+        "generation": 9,
+        "primaryType": {
+            "en": "Rock",
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "GARGANACL",
+            "es": "GARGANACL"
+        },
+        "attacks": [
+            {
+                "en": "Smack Down",
+                "es": "Antiaéreo"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
+            },
+            {
+                "en": "Rock Slide",
+                "es": "Avalancha"
+            },
+            {
+                "en": "Rock Tomb",
+                "es": "Tumba Rocas"
+            },
+            {
+                "en": "Ancient Power",
+                "es": "Poder Pasado"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 225,
+            "attack": 171,
+            "defense": 212
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "CHARCADET",
+        "formId": "CHARCADET",
+        "dexNr": 935,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fire",
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "CHARCADET",
+            "es": "CHARCADET"
+        },
+        "attacks": [
+            {
+                "en": "Ember",
+                "es": "Ascuas"
+            },
+            {
+                "en": "Incinerate",
+                "es": "Calcinación"
+            },
+            {
+                "en": "Flame Charge",
+                "es": "Nitrocarga"
+            },
+            {
+                "en": "Heat Wave",
+                "es": "Onda Ígnea"
+            },
+            {
+                "en": "Flamethrower",
+                "es": "Lanzallamas"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 120,
+            "attack": 92,
+            "defense": 74
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "ARMAROUGE",
+        "formId": "ARMAROUGE",
+        "dexNr": 936,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fire",
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "en": "Psychic",
+            "es": "Psíquico"
+        },
+        "names": {
+            "en": "ARMAROUGE",
+            "es": "ARMAROUGE"
+        },
+        "attacks": [
+            {
+                "en": "Ember",
+                "es": "Ascuas"
+            },
+            {
+                "en": "Incinerate",
+                "es": "Calcinación"
+            },
+            {
+                "en": "Flame Charge",
+                "es": "Nitrocarga"
+            },
+            {
+                "en": "Heat Wave",
+                "es": "Onda Ígnea"
+            },
+            {
+                "en": "Flamethrower",
+                "es": "Lanzallamas"
+            },
+            {
+                "en": "Psyshock",
+                "es": "Psicocarga"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 198,
+            "attack": 234,
+            "defense": 185
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "CERULEDGE",
+        "formId": "CERULEDGE",
+        "dexNr": 937,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fire",
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "en": "Ghost",
+            "es": "Fantasma"
+        },
+        "names": {
+            "en": "CERULEDGE",
+            "es": "CERULEDGE"
+        },
+        "attacks": [
+            {
+                "en": "Ember",
+                "es": "Ascuas"
+            },
+            {
+                "en": "Incinerate",
+                "es": "Calcinación"
+            },
+            {
+                "en": "Flame Charge",
+                "es": "Nitrocarga"
+            },
+            {
+                "en": "Heat Wave",
+                "es": "Onda Ígnea"
+            },
+            {
+                "en": "Flamethrower",
+                "es": "Lanzallamas"
+            },
+            {
+                "en": "Shadow Ball",
+                "es": "Bola Sombra"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 181,
+            "attack": 239,
+            "defense": 189
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "TADBULB",
+        "formId": "TADBULB",
+        "dexNr": 938,
+        "generation": 9,
+        "primaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "TADBULB",
+            "es": "TADBULB"
+        },
+        "attacks": [
+            {
+                "en": "Thunder Shock",
+                "es": "Impactrueno"
+            },
+            {
+                "en": "Water Gun",
+                "es": "Pistola Agua"
+            },
+            {
+                "en": "Parabolic Charge",
+                "es": "Carga Parábola"
+            },
+            {
+                "en": "Discharge",
+                "es": "Chispazo"
+            },
+            {
+                "en": "Zap Cannon",
+                "es": "Electrocañón"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 156,
+            "attack": 104,
+            "defense": 73
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "BELLIBOLT",
+        "formId": "BELLIBOLT",
+        "dexNr": 939,
+        "generation": 9,
+        "primaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "BELLIBOLT",
+            "es": "BELLIBOLT"
+        },
+        "attacks": [
+            {
+                "en": "Thunder Shock",
+                "es": "Impactrueno"
+            },
+            {
+                "en": "Water Gun",
+                "es": "Pistola Agua"
+            },
+            {
+                "en": "Parabolic Charge",
+                "es": "Carga Parábola"
+            },
+            {
+                "en": "Discharge",
+                "es": "Chispazo"
+            },
+            {
+                "en": "Zap Cannon",
+                "es": "Electrocañón"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 240,
+            "attack": 184,
+            "defense": 165
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "WATTREL",
+        "formId": "WATTREL",
+        "dexNr": 940,
+        "generation": 9,
+        "primaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "secondaryType": {
+            "en": "Flying",
+            "es": "Volador"
+        },
+        "names": {
+            "en": "WATTREL",
+            "es": "WATTREL"
+        },
+        "attacks": [
+            {
+                "en": "Thunder Shock",
+                "es": "Impactrueno"
+            },
+            {
+                "en": "Peck",
+                "es": "Picotazo"
+            },
+            {
+                "en": "Acrobatics",
+                "es": "Acróbata"
+            },
+            {
+                "en": "Aerial Ace",
+                "es": "Golpe Aéreo"
+            },
+            {
+                "en": "Thunderbolt",
+                "es": "Rayo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 120,
+            "attack": 105,
+            "defense": 75
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "KILOWATTREL",
+        "formId": "KILOWATTREL",
+        "dexNr": 941,
+        "generation": 9,
+        "primaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "secondaryType": {
+            "en": "Flying",
+            "es": "Volador"
+        },
+        "names": {
+            "en": "KILOWATTREL",
+            "es": "KILOWATTREL"
+        },
+        "attacks": [
+            {
+                "en": "Thunder Shock",
+                "es": "Impactrueno"
+            },
+            {
+                "en": "Air Slash",
+                "es": "Tajo Aéreo"
+            },
+            {
+                "en": "Acrobatics",
+                "es": "Acróbata"
+            },
+            {
+                "en": "Aerial Ace",
+                "es": "Golpe Aéreo"
+            },
+            {
+                "en": "Thunderbolt",
+                "es": "Rayo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 172,
+            "attack": 221,
+            "defense": 132
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "MASCHIFF",
+        "formId": "MASCHIFF",
+        "dexNr": 942,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "MASCHIFF",
+            "es": "MASCHIFF"
+        },
+        "attacks": [
+            {
+                "en": "Snarl",
+                "es": "Alarido"
+            },
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Crunch",
+                "es": "Triturar"
+            },
+            {
+                "en": "Payback",
+                "es": "Vendetta"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 155,
+            "attack": 140,
+            "defense": 108
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "MABOSSTIFF",
+        "formId": "MABOSSTIFF",
+        "dexNr": 943,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "MABOSSTIFF",
+            "es": "MABOSSTIFF"
+        },
+        "attacks": [
+            {
+                "en": "Snarl",
+                "es": "Alarido"
+            },
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Crunch",
+                "es": "Triturar"
+            },
+            {
+                "en": "Payback",
+                "es": "Vendetta"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 190,
+            "attack": 230,
+            "defense": 168
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "SHROODLE",
+        "formId": "SHROODLE",
+        "dexNr": 944,
+        "generation": 9,
+        "primaryType": {
+            "en": "Poison",
+            "es": "Veneno"
+        },
+        "secondaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "names": {
+            "en": "SHROODLE",
+            "es": "SHROODLE"
+        },
+        "attacks": [
+            {
+                "en": "Mud-Slap",
+                "es": "Bofetón Lodo"
+            },
+            {
+                "en": "Poison Jab",
+                "es": "Puya Nociva"
+            },
+            {
+                "en": "Acid Spray",
+                "es": "Bomba Ácida"
+            },
+            {
+                "en": "Poison Fang",
+                "es": "Colmillo Veneno"
+            },
+            {
+                "en": "Sludge Bomb",
+                "es": "Bomba Lodo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 120,
+            "attack": 124,
+            "defense": 70
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "GRAFAIAI",
+        "formId": "GRAFAIAI",
+        "dexNr": 945,
+        "generation": 9,
+        "primaryType": {
+            "en": "Poison",
+            "es": "Veneno"
+        },
+        "secondaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "names": {
+            "en": "GRAFAIAI",
+            "es": "GRAFAIAI"
+        },
+        "attacks": [
+            {
+                "en": "Mud-Slap",
+                "es": "Bofetón Lodo"
+            },
+            {
+                "en": "Poison Jab",
+                "es": "Puya Nociva"
+            },
+            {
+                "en": "Acid Spray",
+                "es": "Bomba Ácida"
+            },
+            {
+                "en": "Poison Fang",
+                "es": "Colmillo Veneno"
+            },
+            {
+                "en": "Sludge Bomb",
+                "es": "Bomba Lodo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 160,
+            "attack": 199,
+            "defense": 149
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "BRAMBLIN",
+        "formId": "BRAMBLIN",
+        "dexNr": 946,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": "Ghost",
+            "es": "Fantasma"
+        },
+        "names": {
+            "en": "BRAMBLIN",
+            "es": "BRAMBLIN"
+        },
+        "attacks": [
+            {
+                "en": "Astonish",
+                "es": "Impresionar"
+            },
+            {
+                "en": "Bullet Seed",
+                "es": "Semilladora"
+            },
+            {
+                "en": "Shadow Sneak",
+                "es": "Sombra Vil"
+            },
+            {
+                "en": "Night Shade",
+                "es": "Tinieblas"
+            },
+            {
+                "en": "Power Whip",
+                "es": "Latigazo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 120,
+            "attack": 121,
+            "defense": 64
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "BRAMBLEGHAST",
+        "formId": "BRAMBLEGHAST",
+        "dexNr": 947,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": "Ghost",
+            "es": "Fantasma"
+        },
+        "names": {
+            "en": "BRAMBLEGHAST",
+            "es": "BRAMBLEGHAST"
+        },
+        "attacks": [
+            {
+                "en": "Hex",
+                "es": "Infortunio"
+            },
+            {
+                "en": "Bullet Seed",
+                "es": "Semilladora"
+            },
+            {
+                "en": "Shadow Sneak",
+                "es": "Sombra Vil"
+            },
+            {
+                "en": "Night Shade",
+                "es": "Tinieblas"
+            },
+            {
+                "en": "Power Whip",
+                "es": "Latigazo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 146,
+            "attack": 228,
+            "defense": 144
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "TOEDSCOOL",
+        "formId": "TOEDSCOOL",
+        "dexNr": 948,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ground",
+            "es": "Tierra"
+        },
+        "secondaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "names": {
+            "en": "TOEDSCOOL",
+            "es": "TOEDSCOOL"
+        },
+        "attacks": [
+            {
+                "en": "Mud-Slap",
+                "es": "Bofetón Lodo"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
+            },
+            {
+                "en": "Earth Power",
+                "es": "Tierra Viva"
+            },
+            {
+                "en": "Seed Bomb",
+                "es": "Bomba Germen"
+            },
+            {
+                "en": "Wrap",
+                "es": "Constricción"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 120,
+            "attack": 97,
+            "defense": 149
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "TOEDSCRUEL",
+        "formId": "TOEDSCRUEL",
+        "dexNr": 949,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ground",
+            "es": "Tierra"
+        },
+        "secondaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "names": {
+            "en": "TOEDSCRUEL",
+            "es": "TOEDSCRUEL"
+        },
+        "attacks": [
+            {
+                "en": "Mud-Slap",
+                "es": "Bofetón Lodo"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
+            },
+            {
+                "en": "Earth Power",
+                "es": "Tierra Viva"
+            },
+            {
+                "en": "Seed Bomb",
+                "es": "Bomba Germen"
+            },
+            {
+                "en": "Acid Spray",
+                "es": "Bomba Ácida"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 190,
+            "attack": 166,
+            "defense": 209
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "KLAWF",
+        "formId": "KLAWF",
+        "dexNr": 950,
+        "generation": 9,
+        "primaryType": {
+            "en": "Rock",
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "KLAWF",
+            "es": "KLAWF"
+        },
+        "attacks": [
+            {
+                "en": "Rock Throw",
+                "es": "Lanzarrocas"
+            },
+            {
+                "en": "Mud-Slap",
+                "es": "Bofetón Lodo"
+            },
+            {
+                "en": "Rock Slide",
+                "es": "Avalancha"
+            },
+            {
+                "en": "Rock Tomb",
+                "es": "Tumba Rocas"
+            },
+            {
+                "en": "Bulldoze",
+                "es": "Terratemblor"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 172,
+            "attack": 184,
+            "defense": 185
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "CAPSAKID",
+        "formId": "CAPSAKID",
+        "dexNr": 951,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "CAPSAKID",
+            "es": "CAPSAKID"
+        },
+        "attacks": [
+            {
+                "en": "Leafage",
+                "es": "Follaje"
+            },
+            {
+                "en": "Razor Leaf",
+                "es": "Hoja Afilada"
+            },
+            {
+                "en": "Leaf Storm",
+                "es": "Lluevehojas"
+            },
+            {
+                "en": "Grass Knot",
+                "es": "Hierba Lazo"
+            },
+            {
+                "en": "Seed Bomb",
+                "es": "Bomba Germen"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 137,
+            "attack": 118,
+            "defense": 76
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "SCOVILLAIN",
+        "formId": "SCOVILLAIN",
+        "dexNr": 952,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": "Fire",
+            "es": "Fuego"
+        },
+        "names": {
+            "en": "SCOVILLAIN",
+            "es": "SCOVILLAIN"
+        },
+        "attacks": [
+            {
+                "en": "Leafage",
+                "es": "Follaje"
+            },
+            {
+                "en": "Fire Fang",
+                "es": "Colmillo Ígneo"
+            },
+            {
+                "en": "Leaf Storm",
+                "es": "Lluevehojas"
+            },
+            {
+                "en": "Grass Knot",
+                "es": "Hierba Lazo"
+            },
+            {
+                "en": "Overheat",
+                "es": "Sofoco"
+            },
+            {
+                "en": "Flamethrower",
+                "es": "Lanzallamas"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 163,
+            "attack": 216,
+            "defense": 130
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "RELLOR",
+        "formId": "RELLOR",
+        "dexNr": 953,
+        "generation": 9,
+        "primaryType": {
+            "en": "Bug",
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "RELLOR",
+            "es": "RELLOR"
+        },
+        "attacks": [
+            {
+                "en": "Bug Bite",
+                "es": "Picadura"
+            },
+            {
+                "en": "Struggle Bug",
+                "es": "Estoicismo"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            },
+            {
+                "en": "Bug Buzz",
+                "es": "Zumbido"
+            },
+            {
+                "en": "Lunge",
+                "es": "Plancha"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 121,
+            "attack": 86,
+            "defense": 108
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "RABSCA",
+        "formId": "RABSCA",
+        "dexNr": 954,
+        "generation": 9,
+        "primaryType": {
+            "en": "Bug",
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "en": "Psychic",
+            "es": "Psíquico"
+        },
+        "names": {
+            "en": "RABSCA",
+            "es": "RABSCA"
+        },
+        "attacks": [
+            {
+                "en": "Bug Bite",
+                "es": "Picadura"
+            },
+            {
+                "en": "Confusion",
+                "es": "Confusión"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            },
+            {
+                "en": "Bug Buzz",
+                "es": "Zumbido"
+            },
+            {
+                "en": "Lunge",
+                "es": "Plancha"
+            },
+            {
+                "en": "Psybeam",
+                "es": "Psicorrayo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 181,
+            "attack": 201,
+            "defense": 178
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "FLITTLE",
+        "formId": "FLITTLE",
+        "dexNr": 955,
+        "generation": 9,
+        "primaryType": {
+            "en": "Psychic",
+            "es": "Psíquico"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "FLITTLE",
+            "es": "FLITTLE"
+        },
+        "attacks": [
+            {
+                "en": "Peck",
+                "es": "Picotazo"
+            },
+            {
+                "en": "Confusion",
+                "es": "Confusión"
+            },
+            {
+                "en": "Psybeam",
+                "es": "Psicorrayo"
+            },
+            {
+                "en": "Psyshock",
+                "es": "Psicocarga"
+            },
+            {
+                "en": "Psychic",
+                "es": "Psíquico"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 102,
+            "attack": 105,
+            "defense": 60
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "ESPATHRA",
+        "formId": "ESPATHRA",
+        "dexNr": 956,
+        "generation": 9,
+        "primaryType": {
+            "en": "Psychic",
+            "es": "Psíquico"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "ESPATHRA",
+            "es": "ESPATHRA"
+        },
+        "attacks": [
+            {
+                "en": "Peck",
+                "es": "Picotazo"
+            },
+            {
+                "en": "Confusion",
+                "es": "Confusión"
+            },
+            {
+                "en": "Psybeam",
+                "es": "Psicorrayo"
+            },
+            {
+                "en": "Psyshock",
+                "es": "Psicocarga"
+            },
+            {
+                "en": "Psychic",
+                "es": "Psíquico"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 216,
+            "attack": 204,
+            "defense": 127
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "TINKATINK",
+        "formId": "TINKATINK",
+        "dexNr": 957,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fairy",
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "en": "Steel",
+            "es": "Acero"
+        },
+        "names": {
+            "en": "TINKATINK",
+            "es": "TINKATINK"
+        },
+        "attacks": [
+            {
+                "en": "Fairy Wind",
+                "es": "Viento Feérico"
+            },
+            {
+                "en": "Rock Smash",
+                "es": "Golpe Roca"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Brutal Swing",
+                "es": "Giro Vil"
+            },
+            {
+                "en": "Flash Cannon",
+                "es": "Foco Resplandor"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 137,
+            "attack": 85,
+            "defense": 110
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "TINKATUFF",
+        "formId": "TINKATUFF",
+        "dexNr": 958,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fairy",
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "en": "Steel",
+            "es": "Acero"
+        },
+        "names": {
+            "en": "TINKATUFF",
+            "es": "TINKATUFF"
+        },
+        "attacks": [
+            {
+                "en": "Fairy Wind",
+                "es": "Viento Feérico"
+            },
+            {
+                "en": "Rock Smash",
+                "es": "Golpe Roca"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Brutal Swing",
+                "es": "Giro Vil"
+            },
+            {
+                "en": "Flash Cannon",
+                "es": "Foco Resplandor"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 163,
+            "attack": 109,
+            "defense": 145
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "TINKATON",
+        "formId": "TINKATON",
+        "dexNr": 959,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fairy",
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "en": "Steel",
+            "es": "Acero"
+        },
+        "names": {
+            "en": "TINKATON",
+            "es": "TINKATON"
+        },
+        "attacks": [
+            {
+                "en": "Fairy Wind",
+                "es": "Viento Feérico"
+            },
+            {
+                "en": "Rock Smash",
+                "es": "Golpe Roca"
+            },
+            {
+                "en": "Play Rough",
+                "es": "Carantoña"
+            },
+            {
+                "en": "Brutal Swing",
+                "es": "Giro Vil"
+            },
+            {
+                "en": "Flash Cannon",
+                "es": "Foco Resplandor"
+            },
+            {
+                "en": "Heavy Slam",
+                "es": "Cuerpo Pesado"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 198,
+            "attack": 155,
+            "defense": 196
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "WIGLETT",
+        "formId": "WIGLETT",
+        "dexNr": 960,
+        "generation": 9,
+        "primaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "WIGLETT",
+            "es": "WIGLETT"
+        },
+        "attacks": [
+            {
+                "en": "Water Gun",
+                "es": "Pistola Agua"
+            },
+            {
+                "en": "Mud-Slap",
+                "es": "Bofetón Lodo"
+            },
+            {
+                "en": "Liquidation",
+                "es": "Hidroariete"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            },
+            {
+                "en": "Surf",
+                "es": "Surf"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 67,
+            "attack": 109,
+            "defense": 52
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "WUGTRIO",
+        "formId": "WUGTRIO",
+        "dexNr": 961,
+        "generation": 9,
+        "primaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "WUGTRIO",
+            "es": "WUGTRIO"
+        },
+        "attacks": [
+            {
+                "en": "Water Gun",
+                "es": "Pistola Agua"
+            },
+            {
+                "en": "Mud-Slap",
+                "es": "Bofetón Lodo"
+            },
+            {
+                "en": "Liquidation",
+                "es": "Hidroariete"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            },
+            {
+                "en": "Surf",
+                "es": "Surf"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 111,
+            "attack": 205,
+            "defense": 136
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "BOMBIRDIER",
+        "formId": "BOMBIRDIER",
+        "dexNr": 962,
+        "generation": 9,
+        "primaryType": {
+            "en": "Flying",
+            "es": "Volador"
+        },
+        "secondaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "names": {
+            "en": "BOMBIRDIER",
+            "es": "BOMBIRDIER"
+        },
+        "attacks": [
+            {
+                "en": "Wing Attack",
+                "es": "Ataque Ala"
+            },
+            {
+                "en": "Rock Throw",
+                "es": "Lanzarrocas"
+            },
+            {
+                "en": "Payback",
+                "es": "Vendetta"
+            },
+            {
+                "en": "Aerial Ace",
+                "es": "Golpe Aéreo"
+            },
+            {
+                "en": "Fly",
+                "es": "Vuelo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 172,
+            "attack": 198,
+            "defense": 172
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm962.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm962.s.icon.png"
+        }
+    },
+    {
+        "id": "FINIZEN",
+        "formId": "FINIZEN",
+        "dexNr": 963,
+        "generation": 9,
+        "primaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "FINIZEN",
+            "es": "FINIZEN"
+        },
+        "attacks": [
+            {
+                "en": "Waterfall",
+                "es": "Cascada"
+            },
+            {
+                "en": "Charm",
+                "es": "Encanto"
+            },
+            {
+                "en": "Aqua Jet",
+                "es": "Acua Jet"
+            },
+            {
+                "en": "Water Pulse",
+                "es": "Hidropulso"
+            },
+            {
+                "en": "Icy Wind",
+                "es": "Viento Hielo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 172,
+            "attack": 90,
+            "defense": 80
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "PALAFIN",
+        "formId": "PALAFIN",
+        "dexNr": 964,
+        "generation": 9,
+        "primaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "PALAFIN",
+            "es": "PALAFIN"
+        },
+        "attacks": [
+            {
+                "en": "Waterfall",
+                "es": "Cascada"
+            },
+            {
+                "en": "Charm",
+                "es": "Encanto"
+            },
+            {
+                "en": "Counter",
+                "es": "Contraataque"
+            },
+            {
+                "en": "Aqua Jet",
+                "es": "Acua Jet"
+            },
+            {
+                "en": "Water Pulse",
+                "es": "Hidropulso"
+            },
+            {
+                "en": "Icy Wind",
+                "es": "Viento Hielo"
+            },
+            {
+                "en": "Drain Punch",
+                "es": "Puño Drenaje"
+            },
+            {
+                "en": "Acrobatics",
+                "es": "Acróbata"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [
+            {
+                "id": "PALAFIN",
+                "formId": "PALAFIN_HERO",
+                "dexNr": 964,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Water",
+                    "es": "Agua"
+                },
+                "secondaryType": {
+                    "en": null,
+                    "es": null
+                },
+                "names": {
+                    "en": " (Hero of Many Battles)",
+                    "es": " (Guerrero Avezado)"
+                },
+                "attacks": [
+                    {
+                        "en": "Waterfall",
+                        "es": "Cascada"
+                    },
+                    {
+                        "en": "Charm",
+                        "es": "Encanto"
+                    },
+                    {
+                        "en": "Counter",
+                        "es": "Contraataque"
+                    },
+                    {
+                        "en": "Aqua Jet",
+                        "es": "Acua Jet"
+                    },
+                    {
+                        "en": "Water Pulse",
+                        "es": "Hidropulso"
+                    },
+                    {
+                        "en": "Icy Wind",
+                        "es": "Viento Hielo"
+                    },
+                    {
+                        "en": "Drain Punch",
+                        "es": "Puño Drenaje"
+                    },
+                    {
+                        "en": "Acrobatics",
+                        "es": "Acróbata"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            },
+            {
+                "id": "PALAFIN",
+                "formId": "PALAFIN_ZERO",
+                "dexNr": 964,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Water",
+                    "es": "Agua"
+                },
+                "secondaryType": {
+                    "en": null,
+                    "es": null
+                },
+                "names": {
+                    "en": "PALAFIN",
+                    "es": "PALAFIN"
+                },
+                "attacks": [
+                    {
+                        "en": "Waterfall",
+                        "es": "Cascada"
+                    },
+                    {
+                        "en": "Charm",
+                        "es": "Encanto"
+                    },
+                    {
+                        "en": "Counter",
+                        "es": "Contraataque"
+                    },
+                    {
+                        "en": "Aqua Jet",
+                        "es": "Acua Jet"
+                    },
+                    {
+                        "en": "Water Pulse",
+                        "es": "Hidropulso"
+                    },
+                    {
+                        "en": "Icy Wind",
+                        "es": "Viento Hielo"
+                    },
+                    {
+                        "en": "Drain Punch",
+                        "es": "Puño Drenaje"
+                    },
+                    {
+                        "en": "Acrobatics",
+                        "es": "Acróbata"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            }
+        ],
+        "stats": {
+            "stamina": 225,
+            "attack": 143,
+            "defense": 144
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "VAROOM",
+        "formId": "VAROOM",
+        "dexNr": 965,
+        "generation": 9,
+        "primaryType": {
+            "en": "Steel",
+            "es": "Acero"
+        },
+        "secondaryType": {
+            "en": "Poison",
+            "es": "Veneno"
+        },
+        "names": {
+            "en": "VAROOM",
+            "es": "VAROOM"
+        },
+        "attacks": [
+            {
+                "en": "Lick",
+                "es": "Lengüetazo"
+            },
+            {
+                "en": "Poison Jab",
+                "es": "Puya Nociva"
+            },
+            {
+                "en": "Acid Spray",
+                "es": "Bomba Ácida"
+            },
+            {
+                "en": "Gunk Shot",
+                "es": "Lanzamugre"
+            },
+            {
+                "en": "Gyro Ball",
+                "es": "Giro Bola"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 128,
+            "attack": 123,
+            "defense": 107
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "REVAVROOM",
+        "formId": "REVAVROOM",
+        "dexNr": 966,
+        "generation": 9,
+        "primaryType": {
+            "en": "Steel",
+            "es": "Acero"
+        },
+        "secondaryType": {
+            "en": "Poison",
+            "es": "Veneno"
+        },
+        "names": {
+            "en": "REVAVROOM",
+            "es": "REVAVROOM"
+        },
+        "attacks": [
+            {
+                "en": "Lick",
+                "es": "Lengüetazo"
+            },
+            {
+                "en": "Poison Jab",
+                "es": "Puya Nociva"
+            },
+            {
+                "en": "Acid Spray",
+                "es": "Bomba Ácida"
+            },
+            {
+                "en": "Gunk Shot",
+                "es": "Lanzamugre"
+            },
+            {
+                "en": "Gyro Ball",
+                "es": "Giro Bola"
+            },
+            {
+                "en": "Overheat",
+                "es": "Sofoco"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 190,
+            "attack": 229,
+            "defense": 168
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "CYCLIZAR",
+        "formId": "CYCLIZAR",
+        "dexNr": 967,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dragon",
+            "es": "Dragón"
+        },
+        "secondaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "names": {
+            "en": "CYCLIZAR",
+            "es": "CYCLIZAR"
+        },
+        "attacks": [
+            {
+                "en": "Dragon Tail",
+                "es": "Cola Dragón"
+            },
+            {
+                "en": "Take Down",
+                "es": "Derribo"
+            },
+            {
+                "en": "Dragon Claw",
+                "es": "Garra Dragón"
+            },
+            {
+                "en": "Body Slam",
+                "es": "Golpe Cuerpo"
+            },
+            {
+                "en": "392",
+                "es": "392"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 172,
+            "attack": 205,
+            "defense": 142
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "ORTHWORM",
+        "formId": "ORTHWORM",
+        "dexNr": 968,
+        "generation": 9,
+        "primaryType": {
+            "en": "Steel",
+            "es": "Acero"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "ORTHWORM",
+            "es": "ORTHWORM"
+        },
+        "attacks": [
+            {
+                "en": "Iron Tail",
+                "es": "Cola Férrea"
+            },
+            {
+                "en": "Mud-Slap",
+                "es": "Bofetón Lodo"
+            },
+            {
+                "en": "Rock Tomb",
+                "es": "Tumba Rocas"
+            },
+            {
+                "en": "Earthquake",
+                "es": "Terremoto"
+            },
+            {
+                "en": "Iron Head",
+                "es": "Cabeza de Hierro"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 172,
+            "attack": 161,
+            "defense": 219
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "GLIMMET",
+        "formId": "GLIMMET",
+        "dexNr": 969,
+        "generation": 9,
+        "primaryType": {
+            "en": "Rock",
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "en": "Poison",
+            "es": "Veneno"
+        },
+        "names": {
+            "en": "GLIMMET",
+            "es": "GLIMMET"
+        },
+        "attacks": [
+            {
+                "en": "Rock Throw",
+                "es": "Lanzarrocas"
+            },
+            {
+                "en": "Smack Down",
+                "es": "Antiaéreo"
+            },
+            {
+                "en": "Dazzling Gleam",
+                "es": "Brillo Mágico"
+            },
+            {
+                "en": "Rock Slide",
+                "es": "Avalancha"
+            },
+            {
+                "en": "Sludge Wave",
+                "es": "Onda Tóxica"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 134,
+            "attack": 187,
+            "defense": 104
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "GLIMMORA",
+        "formId": "GLIMMORA",
+        "dexNr": 970,
+        "generation": 9,
+        "primaryType": {
+            "en": "Rock",
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "en": "Poison",
+            "es": "Veneno"
+        },
+        "names": {
+            "en": "GLIMMORA",
+            "es": "GLIMMORA"
+        },
+        "attacks": [
+            {
+                "en": "Rock Throw",
+                "es": "Lanzarrocas"
+            },
+            {
+                "en": "Smack Down",
+                "es": "Antiaéreo"
+            },
+            {
+                "en": "Dazzling Gleam",
+                "es": "Brillo Mágico"
+            },
+            {
+                "en": "Rock Slide",
+                "es": "Avalancha"
+            },
+            {
+                "en": "Sludge Wave",
+                "es": "Onda Tóxica"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 195,
+            "attack": 246,
+            "defense": 177
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "GREAVARD",
+        "formId": "GREAVARD",
+        "dexNr": 971,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ghost",
+            "es": "Fantasma"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "GREAVARD",
+            "es": "GREAVARD"
+        },
+        "attacks": [
+            {
+                "en": "Lick",
+                "es": "Lengüetazo"
+            },
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Shadow Ball",
+                "es": "Bola Sombra"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            },
+            {
+                "en": "Psychic Fangs",
+                "es": "Psicocolmillo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 137,
+            "attack": 105,
+            "defense": 106
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "HOUNDSTONE",
+        "formId": "HOUNDSTONE",
+        "dexNr": 972,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ghost",
+            "es": "Fantasma"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "HOUNDSTONE",
+            "es": "HOUNDSTONE"
+        },
+        "attacks": [
+            {
+                "en": "Lick",
+                "es": "Lengüetazo"
+            },
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Shadow Ball",
+                "es": "Bola Sombra"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            },
+            {
+                "en": "Psychic Fangs",
+                "es": "Psicocolmillo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 176,
+            "attack": 186,
+            "defense": 195
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "FLAMIGO",
+        "formId": "FLAMIGO",
+        "dexNr": 973,
+        "generation": 9,
+        "primaryType": {
+            "en": "Flying",
+            "es": "Volador"
+        },
+        "secondaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "names": {
+            "en": "FLAMIGO",
+            "es": "FLAMIGO"
+        },
+        "attacks": [
+            {
+                "en": "Wing Attack",
+                "es": "Ataque Ala"
+            },
+            {
+                "en": "Double Kick",
+                "es": "Doble Patada"
+            },
+            {
+                "en": "Aerial Ace",
+                "es": "Golpe Aéreo"
+            },
+            {
+                "en": "Brave Bird",
+                "es": "Pájaro Osado"
+            },
+            {
+                "en": "Close Combat",
+                "es": "A Bocajarro"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 193,
+            "attack": 227,
+            "defense": 145
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "CETODDLE",
+        "formId": "CETODDLE",
+        "dexNr": 974,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ice",
+            "es": "Hielo"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "CETODDLE",
+            "es": "CETODDLE"
+        },
+        "attacks": [
+            {
+                "en": "Ice Shard",
+                "es": "Canto Helado"
+            },
+            {
+                "en": "Tackle",
+                "es": "Placaje"
+            },
+            {
+                "en": "Body Slam",
+                "es": "Golpe Cuerpo"
+            },
+            {
+                "en": "Avalanche",
+                "es": "Alud"
+            },
+            {
+                "en": "Heavy Slam",
+                "es": "Cuerpo Pesado"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 239,
+            "attack": 119,
+            "defense": 80
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "CETITAN",
+        "formId": "CETITAN",
+        "dexNr": 975,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ice",
+            "es": "Hielo"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "CETITAN",
+            "es": "CETITAN"
+        },
+        "attacks": [
+            {
+                "en": "Ice Shard",
+                "es": "Canto Helado"
+            },
+            {
+                "en": "Tackle",
+                "es": "Placaje"
+            },
+            {
+                "en": "Body Slam",
+                "es": "Golpe Cuerpo"
+            },
+            {
+                "en": "Avalanche",
+                "es": "Alud"
+            },
+            {
+                "en": "Heavy Slam",
+                "es": "Cuerpo Pesado"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 347,
+            "attack": 208,
+            "defense": 123
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "VELUZA",
+        "formId": "VELUZA",
+        "dexNr": 976,
+        "generation": 9,
+        "primaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "en": "Psychic",
+            "es": "Psíquico"
+        },
+        "names": {
+            "en": "VELUZA",
+            "es": "VELUZA"
+        },
+        "attacks": [
+            {
+                "en": "Ice Fang",
+                "es": "Colmillo Hielo"
+            },
+            {
+                "en": "Zen Headbutt",
+                "es": "Cabezazo Zen"
+            },
+            {
+                "en": "Water Pulse",
+                "es": "Hidropulso"
+            },
+            {
+                "en": "Psychic Fangs",
+                "es": "Psicocolmillo"
+            },
+            {
+                "en": "Drill Run",
+                "es": "Taladradora"
+            },
+            {
+                "en": "Crunch",
+                "es": "Triturar"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 207,
+            "attack": 196,
+            "defense": 139
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "DONDOZO",
+        "formId": "DONDOZO",
+        "dexNr": 977,
+        "generation": 9,
+        "primaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "DONDOZO",
+            "es": "DONDOZO"
+        },
+        "attacks": [
+            {
+                "en": "Waterfall",
+                "es": "Cascada"
+            },
+            {
+                "en": "Water Gun",
+                "es": "Pistola Agua"
+            },
+            {
+                "en": "Outrage",
+                "es": "Enfado"
+            },
+            {
+                "en": "Surf",
+                "es": "Surf"
+            },
+            {
+                "en": "Hydro Pump",
+                "es": "Hidrobomba"
+            },
+            {
+                "en": "Liquidation",
+                "es": "Hidroariete"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 312,
+            "attack": 176,
+            "defense": 178
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "TATSUGIRI",
+        "formId": "TATSUGIRI",
+        "dexNr": 978,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dragon",
+            "es": "Dragón"
+        },
+        "secondaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "names": {
+            "en": "TATSUGIRI",
+            "es": "TATSUGIRI"
+        },
+        "attacks": [
+            {
+                "en": "Take Down",
+                "es": "Derribo"
+            },
+            {
+                "en": "Water Gun",
+                "es": "Pistola Agua"
+            },
+            {
+                "en": "Outrage",
+                "es": "Enfado"
+            },
+            {
+                "en": "Surf",
+                "es": "Surf"
+            },
+            {
+                "en": "Hydro Pump",
+                "es": "Hidrobomba"
+            },
+            {
+                "en": "Muddy Water",
+                "es": "Agua Lodosa"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [
+            {
+                "id": "TATSUGIRI",
+                "formId": "TATSUGIRI_CURLY",
+                "dexNr": 978,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Dragon",
+                    "es": "Dragón"
+                },
+                "secondaryType": {
+                    "en": "Water",
+                    "es": "Agua"
+                },
+                "names": {
+                    "en": "TATSUGIRI",
+                    "es": "TATSUGIRI"
+                },
+                "attacks": [
+                    {
+                        "en": "Take Down",
+                        "es": "Derribo"
+                    },
+                    {
+                        "en": "Water Gun",
+                        "es": "Pistola Agua"
+                    },
+                    {
+                        "en": "Outrage",
+                        "es": "Enfado"
+                    },
+                    {
+                        "en": "Surf",
+                        "es": "Surf"
+                    },
+                    {
+                        "en": "Hydro Pump",
+                        "es": "Hidrobomba"
+                    },
+                    {
+                        "en": "Muddy Water",
+                        "es": "Agua Lodosa"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            },
+            {
+                "id": "TATSUGIRI",
+                "formId": "TATSUGIRI_DROOPY",
+                "dexNr": 978,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Dragon",
+                    "es": "Dragón"
+                },
+                "secondaryType": {
+                    "en": "Water",
+                    "es": "Agua"
+                },
+                "names": {
+                    "en": "TATSUGIRI",
+                    "es": "TATSUGIRI"
+                },
+                "attacks": [
+                    {
+                        "en": "Take Down",
+                        "es": "Derribo"
+                    },
+                    {
+                        "en": "Water Gun",
+                        "es": "Pistola Agua"
+                    },
+                    {
+                        "en": "Outrage",
+                        "es": "Enfado"
+                    },
+                    {
+                        "en": "Surf",
+                        "es": "Surf"
+                    },
+                    {
+                        "en": "Hydro Pump",
+                        "es": "Hidrobomba"
+                    },
+                    {
+                        "en": "Muddy Water",
+                        "es": "Agua Lodosa"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            },
+            {
+                "id": "TATSUGIRI",
+                "formId": "TATSUGIRI_STRETCHY",
+                "dexNr": 978,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Dragon",
+                    "es": "Dragón"
+                },
+                "secondaryType": {
+                    "en": "Water",
+                    "es": "Agua"
+                },
+                "names": {
+                    "en": "TATSUGIRI",
+                    "es": "TATSUGIRI"
+                },
+                "attacks": [
+                    {
+                        "en": "Take Down",
+                        "es": "Derribo"
+                    },
+                    {
+                        "en": "Water Gun",
+                        "es": "Pistola Agua"
+                    },
+                    {
+                        "en": "Outrage",
+                        "es": "Enfado"
+                    },
+                    {
+                        "en": "Surf",
+                        "es": "Surf"
+                    },
+                    {
+                        "en": "Hydro Pump",
+                        "es": "Hidrobomba"
+                    },
+                    {
+                        "en": "Muddy Water",
+                        "es": "Agua Lodosa"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            }
+        ],
+        "stats": {
+            "stamina": 169,
+            "attack": 226,
+            "defense": 166
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "ANNIHILAPE",
+        "formId": "ANNIHILAPE",
+        "dexNr": 979,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "secondaryType": {
+            "en": "Ghost",
+            "es": "Fantasma"
+        },
+        "names": {
+            "en": "ANNIHILAPE",
+            "es": "ANNIHILAPE"
+        },
+        "attacks": [
+            {
+                "en": "Low Kick",
+                "es": "Patada Baja"
+            },
+            {
+                "en": "Counter",
+                "es": "Contraataque"
+            },
+            {
+                "en": "Close Combat",
+                "es": "A Bocajarro"
+            },
+            {
+                "en": "Low Sweep",
+                "es": "Puntapié"
+            },
+            {
+                "en": "Night Slash",
+                "es": "Tajo Umbrío"
+            },
+            {
+                "en": "Ice Punch",
+                "es": "Puño Hielo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 242,
+            "attack": 220,
+            "defense": 178
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "CLODSIRE",
+        "formId": "CLODSIRE",
+        "dexNr": 980,
+        "generation": 9,
+        "primaryType": {
+            "en": "Poison",
+            "es": "Veneno"
+        },
+        "secondaryType": {
+            "en": "Ground",
+            "es": "Tierra"
+        },
+        "names": {
+            "en": "CLODSIRE",
+            "es": "CLODSIRE"
+        },
+        "attacks": [
+            {
+                "en": "Poison Jab",
+                "es": "Puya Nociva"
+            },
+            {
+                "en": "Mud Shot",
+                "es": "Disparo Lodo"
+            },
+            {
+                "en": "Sludge Bomb",
+                "es": "Bomba Lodo"
+            },
+            {
+                "en": "Earthquake",
+                "es": "Terremoto"
+            },
+            {
+                "en": "Stone Edge",
+                "es": "Roca Afilada"
+            },
+            {
+                "en": "Acid Spray",
+                "es": "Bomba Ácida"
+            },
+            {
+                "en": "Surf",
+                "es": "Surf"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 277,
+            "attack": 127,
+            "defense": 151
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "FARIGIRAF",
+        "formId": "FARIGIRAF",
+        "dexNr": 981,
+        "generation": 9,
+        "primaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "en": "Psychic",
+            "es": "Psíquico"
+        },
+        "names": {
+            "en": "FARIGIRAF",
+            "es": "FARIGIRAF"
+        },
+        "attacks": [
+            {
+                "en": "Tackle",
+                "es": "Placaje"
+            },
+            {
+                "en": "Confusion",
+                "es": "Confusión"
+            },
+            {
+                "en": "Double Kick",
+                "es": "Doble Patada"
+            },
+            {
+                "en": "Psychic",
+                "es": "Psíquico"
+            },
+            {
+                "en": "Thunderbolt",
+                "es": "Rayo"
+            },
+            {
+                "en": "Mirror Coat",
+                "es": "Manto Espejo"
+            },
+            {
+                "en": "Psychic Fangs",
+                "es": "Psicocolmillo"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 260,
+            "attack": 209,
+            "defense": 136
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "DUDUNSPARCE",
+        "formId": "DUDUNSPARCE",
+        "dexNr": 982,
+        "generation": 9,
+        "primaryType": {
+            "en": "Normal",
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "en": null,
+            "es": null
+        },
+        "names": {
+            "en": "DUDUNSPARCE",
+            "es": "DUDUNSPARCE"
+        },
+        "attacks": [
+            {
+                "en": "Bite",
+                "es": "Mordisco"
+            },
+            {
+                "en": "Astonish",
+                "es": "Impresionar"
+            },
+            {
+                "en": "Rollout",
+                "es": "Desenrollar"
+            },
+            {
+                "en": "Dig",
+                "es": "Excavar"
+            },
+            {
+                "en": "Rock Slide",
+                "es": "Avalancha"
+            },
+            {
+                "en": "Drill Run",
+                "es": "Taladradora"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [
+            {
+                "id": "DUDUNSPARCE",
+                "formId": "DUDUNSPARCE_THREE",
+                "dexNr": 982,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Normal",
+                    "es": "Normal"
+                },
+                "secondaryType": {
+                    "en": null,
+                    "es": null
+                },
+                "names": {
+                    "en": "DUDUNSPARCE",
+                    "es": "DUDUNSPARCE"
+                },
+                "attacks": [
+                    {
+                        "en": "Bite",
+                        "es": "Mordisco"
+                    },
+                    {
+                        "en": "Astonish",
+                        "es": "Impresionar"
+                    },
+                    {
+                        "en": "Rollout",
+                        "es": "Desenrollar"
+                    },
+                    {
+                        "en": "Dig",
+                        "es": "Excavar"
+                    },
+                    {
+                        "en": "Rock Slide",
+                        "es": "Avalancha"
+                    },
+                    {
+                        "en": "Drill Run",
+                        "es": "Taladradora"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            },
+            {
+                "id": "DUDUNSPARCE",
+                "formId": "DUDUNSPARCE_TWO",
+                "dexNr": 982,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Normal",
+                    "es": "Normal"
+                },
+                "secondaryType": {
+                    "en": null,
+                    "es": null
+                },
+                "names": {
+                    "en": "DUDUNSPARCE",
+                    "es": "DUDUNSPARCE"
+                },
+                "attacks": [
+                    {
+                        "en": "Bite",
+                        "es": "Mordisco"
+                    },
+                    {
+                        "en": "Astonish",
+                        "es": "Impresionar"
+                    },
+                    {
+                        "en": "Rollout",
+                        "es": "Desenrollar"
+                    },
+                    {
+                        "en": "Dig",
+                        "es": "Excavar"
+                    },
+                    {
+                        "en": "Rock Slide",
+                        "es": "Avalancha"
+                    },
+                    {
+                        "en": "Drill Run",
+                        "es": "Taladradora"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            }
+        ],
+        "stats": {
+            "stamina": 268,
+            "attack": 188,
+            "defense": 150
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "KINGAMBIT",
+        "formId": "KINGAMBIT",
+        "dexNr": 983,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "en": "Steel",
+            "es": "Acero"
+        },
+        "names": {
+            "en": "KINGAMBIT",
+            "es": "KINGAMBIT"
+        },
+        "attacks": [
+            {
+                "en": "Snarl",
+                "es": "Alarido"
+            },
+            {
+                "en": "Metal Claw",
+                "es": "Garra Metal"
+            },
+            {
+                "en": "Dark Pulse",
+                "es": "Pulso Umbrío"
+            },
+            {
+                "en": "Iron Head",
+                "es": "Cabeza de Hierro"
+            },
+            {
+                "en": "X-Scissor",
+                "es": "Tijera X"
+            },
+            {
+                "en": "Focus Blast",
+                "es": "Onda Certera"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 225,
+            "attack": 238,
+            "defense": 203
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "GREATTUSK",
+        "formId": "GREATTUSK",
+        "dexNr": 984,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ground",
+            "es": "Tierra"
+        },
+        "secondaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "names": {
+            "en": "GREATTUSK",
+            "es": "GREATTUSK"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 251,
+            "attack": 249,
+            "defense": 209
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "SCREAMTAIL",
+        "formId": "SCREAMTAIL",
+        "dexNr": 985,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fairy",
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "en": "Psychic",
+            "es": "Psíquico"
+        },
+        "names": {
+            "en": "SCREAMTAIL",
+            "es": "SCREAMTAIL"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 251,
+            "attack": 139,
+            "defense": 234
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "BRUTEBONNET",
+        "formId": "BRUTEBONNET",
+        "dexNr": 986,
+        "generation": 9,
+        "primaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "names": {
+            "en": "BRUTEBONNET",
+            "es": "BRUTEBONNET"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 244,
+            "attack": 232,
+            "defense": 190
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "FLUTTERMANE",
+        "formId": "FLUTTERMANE",
+        "dexNr": 987,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ghost",
+            "es": "Fantasma"
+        },
+        "secondaryType": {
+            "en": "Fairy",
+            "es": "Hada"
+        },
+        "names": {
+            "en": "FLUTTERMANE",
+            "es": "FLUTTERMANE"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 146,
+            "attack": 280,
+            "defense": 235
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "SLITHERWING",
+        "formId": "SLITHERWING",
+        "dexNr": 988,
+        "generation": 9,
+        "primaryType": {
+            "en": "Bug",
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "names": {
+            "en": "SLITHERWING",
+            "es": "SLITHERWING"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 198,
+            "attack": 261,
+            "defense": 193
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "SANDYSHOCKS",
+        "formId": "SANDYSHOCKS",
+        "dexNr": 989,
+        "generation": 9,
+        "primaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "secondaryType": {
+            "en": "Ground",
+            "es": "Tierra"
+        },
+        "names": {
+            "en": "SANDYSHOCKS",
+            "es": "SANDYSHOCKS"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 198,
+            "attack": 244,
+            "defense": 195
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "IRONTREADS",
+        "formId": "IRONTREADS",
+        "dexNr": 990,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ground",
+            "es": "Tierra"
+        },
+        "secondaryType": {
+            "en": "Steel",
+            "es": "Acero"
+        },
+        "names": {
+            "en": "IRONTREADS",
+            "es": "IRONTREADS"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 207,
+            "attack": 227,
+            "defense": 216
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "IRONBUNDLE",
+        "formId": "IRONBUNDLE",
+        "dexNr": 991,
+        "generation": 9,
+        "primaryType": {
+            "en": "Ice",
+            "es": "Hielo"
+        },
+        "secondaryType": {
+            "en": "Water",
+            "es": "Agua"
+        },
+        "names": {
+            "en": "IRONBUNDLE",
+            "es": "IRONBUNDLE"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 148,
+            "attack": 266,
+            "defense": 211
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "IRONHANDS",
+        "formId": "IRONHANDS",
+        "dexNr": 992,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "secondaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "names": {
+            "en": "IRONHANDS",
+            "es": "IRONHANDS"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 319,
+            "attack": 245,
+            "defense": 177
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "IRONJUGULIS",
+        "formId": "IRONJUGULIS",
+        "dexNr": 993,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "en": "Flying",
+            "es": "Volador"
+        },
+        "names": {
+            "en": "IRONJUGULIS",
+            "es": "IRONJUGULIS"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 214,
+            "attack": 249,
+            "defense": 179
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "IRONMOTH",
+        "formId": "IRONMOTH",
+        "dexNr": 994,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fire",
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "en": "Poison",
+            "es": "Veneno"
+        },
+        "names": {
+            "en": "IRONMOTH",
+            "es": "IRONMOTH"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 190,
+            "attack": 281,
+            "defense": 196
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "IRONTHORNS",
+        "formId": "IRONTHORNS",
+        "dexNr": 995,
+        "generation": 9,
+        "primaryType": {
+            "en": "Rock",
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "names": {
+            "en": "IRONTHORNS",
+            "es": "IRONTHORNS"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 225,
+            "attack": 250,
+            "defense": 200
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "FRIGIBAX",
+        "formId": "FRIGIBAX",
+        "dexNr": 996,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dragon",
+            "es": "Dragón"
+        },
+        "secondaryType": {
+            "en": "Ice",
+            "es": "Hielo"
+        },
+        "names": {
+            "en": "FRIGIBAX",
+            "es": "FRIGIBAX"
+        },
+        "attacks": [
+            {
+                "en": "Dragon Breath",
+                "es": "Dragoaliento"
+            },
+            {
+                "en": "Ice Fang",
+                "es": "Colmillo Hielo"
+            },
+            {
+                "en": "Dragon Claw",
+                "es": "Garra Dragón"
+            },
+            {
+                "en": "Avalanche",
+                "es": "Alud"
+            },
+            {
+                "en": "Outrage",
+                "es": "Enfado"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 163,
+            "attack": 134,
+            "defense": 86
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm996.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm996.s.icon.png"
+        }
+    },
+    {
+        "id": "ARCTIBAX",
+        "formId": "ARCTIBAX",
+        "dexNr": 997,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dragon",
+            "es": "Dragón"
+        },
+        "secondaryType": {
+            "en": "Ice",
+            "es": "Hielo"
+        },
+        "names": {
+            "en": "ARCTIBAX",
+            "es": "ARCTIBAX"
+        },
+        "attacks": [
+            {
+                "en": "Dragon Breath",
+                "es": "Dragoaliento"
+            },
+            {
+                "en": "Ice Fang",
+                "es": "Colmillo Hielo"
+            },
+            {
+                "en": "Dragon Claw",
+                "es": "Garra Dragón"
+            },
+            {
+                "en": "Avalanche",
+                "es": "Alud"
+            },
+            {
+                "en": "Outrage",
+                "es": "Enfado"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 207,
+            "attack": 173,
+            "defense": 128
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm997.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm997.s.icon.png"
+        }
+    },
+    {
+        "id": "BAXCALIBUR",
+        "formId": "BAXCALIBUR",
+        "dexNr": 998,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dragon",
+            "es": "Dragón"
+        },
+        "secondaryType": {
+            "en": "Ice",
+            "es": "Hielo"
+        },
+        "names": {
+            "en": "BAXCALIBUR",
+            "es": "BAXCALIBUR"
+        },
+        "attacks": [
+            {
+                "en": "Dragon Breath",
+                "es": "Dragoaliento"
+            },
+            {
+                "en": "Ice Fang",
+                "es": "Colmillo Hielo"
+            },
+            {
+                "en": "Dragon Claw",
+                "es": "Garra Dragón"
+            },
+            {
+                "en": "Avalanche",
+                "es": "Alud"
+            },
+            {
+                "en": "Outrage",
+                "es": "Enfado"
+            },
+            {
+                "en": "Blizzard",
+                "es": "Ventisca"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 229,
+            "attack": 254,
+            "defense": 168
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm998.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm998.s.icon.png"
+        }
+    },
+    {
         "id": "GIMMIGHOUL",
         "formId": "GIMMIGHOUL",
         "dexNr": 999,
@@ -64409,6 +70355,392 @@
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm1000.icon.png",
             "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm1000.s.icon.png"
+        }
+    },
+    {
+        "id": "WOCHIEN",
+        "formId": "WOCHIEN",
+        "dexNr": 1001,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "en": "Grass",
+            "es": "Planta"
+        },
+        "names": {
+            "en": "WOCHIEN",
+            "es": "WOCHIEN"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 198,
+            "attack": 186,
+            "defense": 242
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "CHIENPAO",
+        "formId": "CHIENPAO",
+        "dexNr": 1002,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "en": "Ice",
+            "es": "Hielo"
+        },
+        "names": {
+            "en": "CHIENPAO",
+            "es": "CHIENPAO"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 190,
+            "attack": 261,
+            "defense": 167
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "TINGLU",
+        "formId": "TINGLU",
+        "dexNr": 1003,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "en": "Ground",
+            "es": "Tierra"
+        },
+        "names": {
+            "en": "TINGLU",
+            "es": "TINGLU"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 321,
+            "attack": 194,
+            "defense": 203
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "CHIYU",
+        "formId": "CHIYU",
+        "dexNr": 1004,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "en": "Fire",
+            "es": "Fuego"
+        },
+        "names": {
+            "en": "CHIYU",
+            "es": "CHIYU"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 146,
+            "attack": 269,
+            "defense": 221
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "ROARINGMOON",
+        "formId": "ROARINGMOON",
+        "dexNr": 1005,
+        "generation": 9,
+        "primaryType": {
+            "en": "Dragon",
+            "es": "Dragón"
+        },
+        "secondaryType": {
+            "en": "Dark",
+            "es": "Siniestro"
+        },
+        "names": {
+            "en": "ROARINGMOON",
+            "es": "ROARINGMOON"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 233,
+            "attack": 280,
+            "defense": 196
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "IRONVALIANT",
+        "formId": "IRONVALIANT",
+        "dexNr": 1006,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fairy",
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "names": {
+            "en": "IRONVALIANT",
+            "es": "IRONVALIANT"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [],
+        "stats": {
+            "stamina": 179,
+            "attack": 279,
+            "defense": 171
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "KORAIDON",
+        "formId": "KORAIDON",
+        "dexNr": 1007,
+        "generation": 9,
+        "primaryType": {
+            "en": "Fighting",
+            "es": "Lucha"
+        },
+        "secondaryType": {
+            "en": "Dragon",
+            "es": "Dragón"
+        },
+        "names": {
+            "en": "KORAIDON",
+            "es": "KORAIDON"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [
+            {
+                "id": "KORAIDON",
+                "formId": "KORAIDON_APEX",
+                "dexNr": 1007,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Fighting",
+                    "es": "Lucha"
+                },
+                "secondaryType": {
+                    "en": "Dragon",
+                    "es": "Dragón"
+                },
+                "names": {
+                    "en": "KORAIDON",
+                    "es": "KORAIDON"
+                },
+                "attacks": [
+                    {
+                        "en": "Splash",
+                        "es": "Salpicadura"
+                    },
+                    {
+                        "en": "Struggle",
+                        "es": "Combate"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            }
+        ],
+        "stats": {
+            "stamina": 205,
+            "attack": 263,
+            "defense": 223
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
+        }
+    },
+    {
+        "id": "MIRAIDON",
+        "formId": "MIRAIDON",
+        "dexNr": 1008,
+        "generation": 9,
+        "primaryType": {
+            "en": "Electric",
+            "es": "Eléctrico"
+        },
+        "secondaryType": {
+            "en": "Dragon",
+            "es": "Dragón"
+        },
+        "names": {
+            "en": "MIRAIDON",
+            "es": "MIRAIDON"
+        },
+        "attacks": [
+            {
+                "en": "Splash",
+                "es": "Salpicadura"
+            },
+            {
+                "en": "Struggle",
+                "es": "Combate"
+            }
+        ],
+        "hasMegaEvolution": false,
+        "megaEvolutions": [],
+        "regionForms": [
+            {
+                "id": "MIRAIDON",
+                "formId": "MIRAIDON_ULTIMATE",
+                "dexNr": 1008,
+                "generation": 9,
+                "primaryType": {
+                    "en": "Electric",
+                    "es": "Eléctrico"
+                },
+                "secondaryType": {
+                    "en": "Dragon",
+                    "es": "Dragón"
+                },
+                "names": {
+                    "en": "MIRAIDON",
+                    "es": "MIRAIDON"
+                },
+                "attacks": [
+                    {
+                        "en": "Splash",
+                        "es": "Salpicadura"
+                    },
+                    {
+                        "en": "Struggle",
+                        "es": "Combate"
+                    }
+                ],
+                "assets": {
+                    "image": null,
+                    "shinyImage": null
+                }
+            }
+        ],
+        "stats": {
+            "stamina": 205,
+            "attack": 263,
+            "defense": 223
+        },
+        "assets": {
+            "image": null,
+            "shinyImage": null
         }
     }
 ]
