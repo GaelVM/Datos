@@ -1,890 +1,1038 @@
 [
     {
-        "ID": "13",
-        "Name": "Weedle",
-        "Shiny Rate": "1/500",
-        "Sample Size": "2,003"
-    },
-    {
-        "ID": "15",
-        "Name": "Beedrill",
-        "Shiny Rate": "1/170",
-        "Sample Size": "170"
-    },
-    {
-        "ID": "16",
-        "Name": "Pidgey",
-        "Shiny Rate": "1/670",
-        "Sample Size": "6,705"
-    },
-    {
-        "ID": "18",
-        "Name": "Pidgeot",
-        "Shiny Rate": "1/73",
-        "Sample Size": "587"
-    },
-    {
-        "ID": "19",
-        "Name": "Rattata",
-        "Shiny Rate": "1/554",
-        "Sample Size": "2,219"
-    },
-    {
-        "ID": "23",
-        "Name": "Ekans",
-        "Shiny Rate": "1/245",
-        "Sample Size": "1,474"
-    },
-    {
-        "ID": "25",
-        "Name": "Pikachu",
-        "Shiny Rate": "1/63",
-        "Sample Size": "70,022"
-    },
-    {
-        "ID": "27",
-        "Name": "Sandshrew",
-        "Shiny Rate": "1/451",
-        "Sample Size": "3,613"
-    },
-    {
-        "ID": "29",
-        "Name": "Nidoran\u2640",
-        "Shiny Rate": "1/374",
-        "Sample Size": "2,994"
-    },
-    {
-        "ID": "32",
-        "Name": "Nidoran\u2642",
-        "Shiny Rate": "1/616",
-        "Sample Size": "2,466"
-    },
-    {
-        "ID": "35",
-        "Name": "Clefairy",
-        "Shiny Rate": "1/330",
-        "Sample Size": "2,977"
-    },
-    {
-        "ID": "37",
-        "Name": "Vulpix",
-        "Shiny Rate": "1/719",
-        "Sample Size": "6,473"
-    },
-    {
-        "ID": "41",
-        "Name": "Zubat",
-        "Shiny Rate": "1/547",
-        "Sample Size": "4,927"
-    },
-    {
-        "ID": "48",
-        "Name": "Venonat",
-        "Shiny Rate": "1/570",
-        "Sample Size": "1,710"
-    },
-    {
-        "ID": "52",
-        "Name": "Meowth",
-        "Shiny Rate": "1/281",
-        "Sample Size": "2,817"
-    },
-    {
-        "ID": "54",
-        "Name": "Psyduck",
-        "Shiny Rate": "1/258",
-        "Sample Size": "517"
-    },
-    {
-        "ID": "58",
-        "Name": "Growlithe",
-        "Shiny Rate": "1/507",
-        "Sample Size": "382,856"
-    },
-    {
-        "ID": "74",
-        "Name": "Geodude",
-        "Shiny Rate": "1/582",
-        "Sample Size": "1,748"
+        "ID": "142",
+        "Name": "Aerodactyl",
+        "Shiny Rate": "1/28",
+        "Sample Size": "28",
+        "Top Number": 1
     },
     {
         "ID": "77",
         "Name": "Ponyta",
         "Shiny Rate": "1/44",
-        "Sample Size": "220"
-    },
-    {
-        "ID": "79",
-        "Name": "Slowpoke",
-        "Shiny Rate": "1/64",
-        "Sample Size": "242,978"
-    },
-    {
-        "ID": "80",
-        "Name": "Slowbro",
-        "Shiny Rate": "1/91",
-        "Sample Size": "728"
-    },
-    {
-        "ID": "81",
-        "Name": "Magnemite",
-        "Shiny Rate": "1/662",
-        "Sample Size": "3,313"
-    },
-    {
-        "ID": "84",
-        "Name": "Doduo",
-        "Shiny Rate": "1/388",
-        "Sample Size": "2,718"
-    },
-    {
-        "ID": "92",
-        "Name": "Gastly",
-        "Shiny Rate": "1/578",
-        "Sample Size": "4,047"
-    },
-    {
-        "ID": "94",
-        "Name": "Gengar",
-        "Shiny Rate": "1/72",
-        "Sample Size": "145"
+        "Sample Size": "220",
+        "Top Number": 2
     },
     {
         "ID": "95",
         "Name": "Onix",
         "Shiny Rate": "1/45",
-        "Sample Size": "90"
+        "Sample Size": "90",
+        "Top Number": 3
     },
     {
-        "ID": "98",
-        "Name": "Krabby",
-        "Shiny Rate": "1/444",
-        "Sample Size": "444"
-    },
-    {
-        "ID": "103",
-        "Name": "Exeggutor",
-        "Shiny Rate": "1/60",
-        "Sample Size": "68,919"
-    },
-    {
-        "ID": "104",
-        "Name": "Cubone",
-        "Shiny Rate": "1/253",
-        "Sample Size": "1,520"
+        "ID": "594",
+        "Name": "Alomomola",
+        "Shiny Rate": "1/49",
+        "Sample Size": "49",
+        "Top Number": 4
     },
     {
         "ID": "108",
         "Name": "Lickitung",
         "Shiny Rate": "1/51",
-        "Sample Size": "2,688"
-    },
-    {
-        "ID": "109",
-        "Name": "Koffing",
-        "Shiny Rate": "1/502",
-        "Sample Size": "16,076"
-    },
-    {
-        "ID": "111",
-        "Name": "Rhyhorn",
-        "Shiny Rate": "1/924",
-        "Sample Size": "2,772"
-    },
-    {
-        "ID": "113",
-        "Name": "Chansey",
-        "Shiny Rate": "1/89",
-        "Sample Size": "1,258"
-    },
-    {
-        "ID": "115",
-        "Name": "Kangaskhan",
-        "Shiny Rate": "1/303",
-        "Sample Size": "1,215"
-    },
-    {
-        "ID": "122",
-        "Name": "Mr. Mime",
-        "Shiny Rate": "1/239",
-        "Sample Size": "1,197"
+        "Sample Size": "2,694",
+        "Top Number": 5
     },
     {
         "ID": "123",
         "Name": "Scyther",
         "Shiny Rate": "1/53",
-        "Sample Size": "588"
-    },
-    {
-        "ID": "127",
-        "Name": "Pinsir",
-        "Shiny Rate": "1/101",
-        "Sample Size": "303"
-    },
-    {
-        "ID": "128",
-        "Name": "Tauros",
-        "Shiny Rate": "1/208",
-        "Sample Size": "832"
-    },
-    {
-        "ID": "129",
-        "Name": "Magikarp",
-        "Shiny Rate": "1/512",
-        "Sample Size": "277,317"
-    },
-    {
-        "ID": "131",
-        "Name": "Lapras",
-        "Shiny Rate": "1/59",
-        "Sample Size": "710"
-    },
-    {
-        "ID": "133",
-        "Name": "Eevee",
-        "Shiny Rate": "1/486",
-        "Sample Size": "12,165"
-    },
-    {
-        "ID": "142",
-        "Name": "Aerodactyl",
-        "Shiny Rate": "1/28",
-        "Sample Size": "28"
-    },
-    {
-        "ID": "143",
-        "Name": "Snorlax",
-        "Shiny Rate": "1/153",
-        "Sample Size": "922"
-    },
-    {
-        "ID": "152",
-        "Name": "Chikorita",
-        "Shiny Rate": "1/456",
-        "Sample Size": "4,111"
-    },
-    {
-        "ID": "155",
-        "Name": "Cyndaquil",
-        "Shiny Rate": "1/982",
-        "Sample Size": "3,930"
-    },
-    {
-        "ID": "158",
-        "Name": "Totodile",
-        "Shiny Rate": "1/1,297",
-        "Sample Size": "5,190"
-    },
-    {
-        "ID": "163",
-        "Name": "Hoothoot",
-        "Shiny Rate": "1/463",
-        "Sample Size": "3,243"
-    },
-    {
-        "ID": "167",
-        "Name": "Spinarak",
-        "Shiny Rate": "1/258",
-        "Sample Size": "2,325"
-    },
-    {
-        "ID": "170",
-        "Name": "Chinchou",
-        "Shiny Rate": "1/499",
-        "Sample Size": "5,498"
-    },
-    {
-        "ID": "176",
-        "Name": "Togetic",
-        "Shiny Rate": "1/410",
-        "Sample Size": "22,181"
-    },
-    {
-        "ID": "179",
-        "Name": "Mareep",
-        "Shiny Rate": "1/458",
-        "Sample Size": "2,750"
-    },
-    {
-        "ID": "181",
-        "Name": "Ampharos",
-        "Shiny Rate": "1/182",
-        "Sample Size": "365"
-    },
-    {
-        "ID": "185",
-        "Name": "Sudowoodo",
-        "Shiny Rate": "1/452",
-        "Sample Size": "904"
-    },
-    {
-        "ID": "190",
-        "Name": "Aipom",
-        "Shiny Rate": "1/341",
-        "Sample Size": "4,102"
-    },
-    {
-        "ID": "194",
-        "Name": "Wooper",
-        "Shiny Rate": "1/591",
-        "Sample Size": "8,875"
-    },
-    {
-        "ID": "200",
-        "Name": "Misdreavus",
-        "Shiny Rate": "1/1,059",
-        "Sample Size": "1,059"
-    },
-    {
-        "ID": "203",
-        "Name": "Girafarig",
-        "Shiny Rate": "1/248",
-        "Sample Size": "1,987"
-    },
-    {
-        "ID": "204",
-        "Name": "Pineco",
-        "Shiny Rate": "1/60",
-        "Sample Size": "1,393"
-    },
-    {
-        "ID": "207",
-        "Name": "Gligar",
-        "Shiny Rate": "1/90",
-        "Sample Size": "90"
-    },
-    {
-        "ID": "216",
-        "Name": "Teddiursa",
-        "Shiny Rate": "1/417",
-        "Sample Size": "2,507"
-    },
-    {
-        "ID": "220",
-        "Name": "Swinub",
-        "Shiny Rate": "1/1,064",
-        "Sample Size": "2,129"
-    },
-    {
-        "ID": "228",
-        "Name": "Houndour",
-        "Shiny Rate": "1/220",
-        "Sample Size": "1,765"
-    },
-    {
-        "ID": "234",
-        "Name": "Stantler",
-        "Shiny Rate": "1/507",
-        "Sample Size": "1,522"
-    },
-    {
-        "ID": "237",
-        "Name": "Hitmontop",
-        "Shiny Rate": "1/1,379",
-        "Sample Size": "5,519"
-    },
-    {
-        "ID": "261",
-        "Name": "Poochyena",
-        "Shiny Rate": "1/801",
-        "Sample Size": "4,806"
-    },
-    {
-        "ID": "263",
-        "Name": "Zigzagoon",
-        "Shiny Rate": "1/62",
-        "Sample Size": "4,383"
-    },
-    {
-        "ID": "265",
-        "Name": "Wurmple",
-        "Shiny Rate": "1/389",
-        "Sample Size": "3,118"
-    },
-    {
-        "ID": "270",
-        "Name": "Lotad",
-        "Shiny Rate": "1/526",
-        "Sample Size": "277,738"
-    },
-    {
-        "ID": "273",
-        "Name": "Seedot",
-        "Shiny Rate": "1/574",
-        "Sample Size": "5,173"
-    },
-    {
-        "ID": "276",
-        "Name": "Taillow",
-        "Shiny Rate": "1/251",
-        "Sample Size": "2,769"
-    },
-    {
-        "ID": "278",
-        "Name": "Wingull",
-        "Shiny Rate": "1/637",
-        "Sample Size": "2,549"
-    },
-    {
-        "ID": "280",
-        "Name": "Ralts",
-        "Shiny Rate": "1/442",
-        "Sample Size": "2,211"
-    },
-    {
-        "ID": "282",
-        "Name": "Gardevoir",
-        "Shiny Rate": "1/200",
-        "Sample Size": "601"
-    },
-    {
-        "ID": "285",
-        "Name": "Shroomish",
-        "Shiny Rate": "1/965",
-        "Sample Size": "4,828"
-    },
-    {
-        "ID": "287",
-        "Name": "Slakoth",
-        "Shiny Rate": "1/953",
-        "Sample Size": "2,860"
-    },
-    {
-        "ID": "296",
-        "Name": "Makuhita",
-        "Shiny Rate": "1/1,066",
-        "Sample Size": "3,198"
-    },
-    {
-        "ID": "302",
-        "Name": "Sableye",
-        "Shiny Rate": "1/100",
-        "Sample Size": "900"
-    },
-    {
-        "ID": "304",
-        "Name": "Aron",
-        "Shiny Rate": "1/322",
-        "Sample Size": "1,610"
-    },
-    {
-        "ID": "307",
-        "Name": "Meditite",
-        "Shiny Rate": "1/935",
-        "Sample Size": "1,871"
-    },
-    {
-        "ID": "308",
-        "Name": "Medicham",
-        "Shiny Rate": "1/137",
-        "Sample Size": "550"
-    },
-    {
-        "ID": "309",
-        "Name": "Electrike",
-        "Shiny Rate": "1/733",
-        "Sample Size": "2,201"
-    },
-    {
-        "ID": "310",
-        "Name": "Manectric",
-        "Shiny Rate": "1/188",
-        "Sample Size": "188"
-    },
-    {
-        "ID": "316",
-        "Name": "Gulpin",
-        "Shiny Rate": "1/659",
-        "Sample Size": "3,296"
-    },
-    {
-        "ID": "318",
-        "Name": "Carvanha",
-        "Shiny Rate": "1/212",
-        "Sample Size": "425"
-    },
-    {
-        "ID": "328",
-        "Name": "Trapinch",
-        "Shiny Rate": "1/169",
-        "Sample Size": "676"
-    },
-    {
-        "ID": "333",
-        "Name": "Swablu",
-        "Shiny Rate": "1/556",
-        "Sample Size": "7,229"
-    },
-    {
-        "ID": "335",
-        "Name": "Zangoose",
-        "Shiny Rate": "1/255",
-        "Sample Size": "255"
-    },
-    {
-        "ID": "336",
-        "Name": "Seviper",
-        "Shiny Rate": "1/197",
-        "Sample Size": "197"
-    },
-    {
-        "ID": "337",
-        "Name": "Lunatone",
-        "Shiny Rate": "1/282",
-        "Sample Size": "565"
-    },
-    {
-        "ID": "338",
-        "Name": "Solrock",
-        "Shiny Rate": "1/403",
-        "Sample Size": "1,614"
-    },
-    {
-        "ID": "343",
-        "Name": "Baltoy",
-        "Shiny Rate": "1/134",
-        "Sample Size": "269"
-    },
-    {
-        "ID": "345",
-        "Name": "Lileep",
-        "Shiny Rate": "1/503",
-        "Sample Size": "503"
-    },
-    {
-        "ID": "347",
-        "Name": "Anorith",
-        "Shiny Rate": "1/542",
-        "Sample Size": "542"
-    },
-    {
-        "ID": "353",
-        "Name": "Shuppet",
-        "Shiny Rate": "1/476",
-        "Sample Size": "2,860"
-    },
-    {
-        "ID": "354",
-        "Name": "Banette",
-        "Shiny Rate": "1/166",
-        "Sample Size": "332"
-    },
-    {
-        "ID": "358",
-        "Name": "Chimecho",
-        "Shiny Rate": "1/523",
-        "Sample Size": "138,600"
-    },
-    {
-        "ID": "359",
-        "Name": "Absol",
-        "Shiny Rate": "1/99",
-        "Sample Size": "99"
-    },
-    {
-        "ID": "371",
-        "Name": "Bagon",
-        "Shiny Rate": "1/2,753",
-        "Sample Size": "2,753"
-    },
-    {
-        "ID": "373",
-        "Name": "Salamence",
-        "Shiny Rate": "1/81",
-        "Sample Size": "162"
-    },
-    {
-        "ID": "374",
-        "Name": "Beldum",
-        "Shiny Rate": "1/637",
-        "Sample Size": "3,187"
-    },
-    {
-        "ID": "396",
-        "Name": "Starly",
-        "Shiny Rate": "1/607",
-        "Sample Size": "3,644"
-    },
-    {
-        "ID": "399",
-        "Name": "Bidoof",
-        "Shiny Rate": "1/675",
-        "Sample Size": "2,701"
-    },
-    {
-        "ID": "422",
-        "Name": "Shellos",
-        "Shiny Rate": "1/207",
-        "Sample Size": "623"
-    },
-    {
-        "ID": "427",
-        "Name": "Buneary",
-        "Shiny Rate": "1/417",
-        "Sample Size": "5,011"
-    },
-    {
-        "ID": "428",
-        "Name": "Lopunny",
-        "Shiny Rate": "1/107",
-        "Sample Size": "1,926"
-    },
-    {
-        "ID": "431",
-        "Name": "Glameow",
-        "Shiny Rate": "1/549",
-        "Sample Size": "3,294"
-    },
-    {
-        "ID": "436",
-        "Name": "Bronzor",
-        "Shiny Rate": "1/63",
-        "Sample Size": "17,256"
-    },
-    {
-        "ID": "453",
-        "Name": "Croagunk",
-        "Shiny Rate": "1/381",
-        "Sample Size": "6,111"
-    },
-    {
-        "ID": "456",
-        "Name": "Finneon",
-        "Shiny Rate": "1/473",
-        "Sample Size": "2,369"
-    },
-    {
-        "ID": "495",
-        "Name": "Snivy",
-        "Shiny Rate": "1/411",
-        "Sample Size": "1,234"
-    },
-    {
-        "ID": "498",
-        "Name": "Tepig",
-        "Shiny Rate": "1/1,082",
-        "Sample Size": "1,082"
-    },
-    {
-        "ID": "501",
-        "Name": "Oshawott",
-        "Shiny Rate": "1/1,440",
-        "Sample Size": "1,440"
-    },
-    {
-        "ID": "506",
-        "Name": "Lillipup",
-        "Shiny Rate": "1/362",
-        "Sample Size": "6,888"
-    },
-    {
-        "ID": "511",
-        "Name": "Pansage",
-        "Shiny Rate": "1/479",
-        "Sample Size": "958"
-    },
-    {
-        "ID": "513",
-        "Name": "Pansear",
-        "Shiny Rate": "1/281",
-        "Sample Size": "281"
-    },
-    {
-        "ID": "515",
-        "Name": "Panpour",
-        "Shiny Rate": "1/1,520",
-        "Sample Size": "1,520"
-    },
-    {
-        "ID": "519",
-        "Name": "Pidove",
-        "Shiny Rate": "1/534",
-        "Sample Size": "4,814"
-    },
-    {
-        "ID": "527",
-        "Name": "Woobat",
-        "Shiny Rate": "1/407",
-        "Sample Size": "3,663"
-    },
-    {
-        "ID": "529",
-        "Name": "Drilbur",
-        "Shiny Rate": "1/502",
-        "Sample Size": "1,004"
-    },
-    {
-        "ID": "535",
-        "Name": "Tympole",
-        "Shiny Rate": "1/478",
-        "Sample Size": "956"
-    },
-    {
-        "ID": "538",
-        "Name": "Throh",
-        "Shiny Rate": "1/281",
-        "Sample Size": "844"
-    },
-    {
-        "ID": "539",
-        "Name": "Sawk",
-        "Shiny Rate": "1/458",
-        "Sample Size": "1,374"
-    },
-    {
-        "ID": "543",
-        "Name": "Venipede",
-        "Shiny Rate": "1/209",
-        "Sample Size": "627"
-    },
-    {
-        "ID": "548",
-        "Name": "Petilil",
-        "Shiny Rate": "1/561",
-        "Sample Size": "2,246"
-    },
-    {
-        "ID": "554",
-        "Name": "Darumaka",
-        "Shiny Rate": "1/840",
-        "Sample Size": "3,360"
-    },
-    {
-        "ID": "557",
-        "Name": "Dwebble",
-        "Shiny Rate": "1/835",
-        "Sample Size": "2,505"
-    },
-    {
-        "ID": "559",
-        "Name": "Scraggy",
-        "Shiny Rate": "1/483",
-        "Sample Size": "1,451"
-    },
-    {
-        "ID": "588",
-        "Name": "Karrablast",
-        "Shiny Rate": "1/1,184",
-        "Sample Size": "2,368"
-    },
-    {
-        "ID": "590",
-        "Name": "Foongus",
-        "Shiny Rate": "1/580",
-        "Sample Size": "4,060"
-    },
-    {
-        "ID": "594",
-        "Name": "Alomomola",
-        "Shiny Rate": "1/48",
-        "Sample Size": "48"
-    },
-    {
-        "ID": "605",
-        "Name": "Elgyem",
-        "Shiny Rate": "1/791",
-        "Sample Size": "791"
-    },
-    {
-        "ID": "613",
-        "Name": "Cubchoo",
-        "Shiny Rate": "1/737",
-        "Sample Size": "2,211"
-    },
-    {
-        "ID": "616",
-        "Name": "Shelmet",
-        "Shiny Rate": "1/771",
-        "Sample Size": "1,542"
+        "Sample Size": "590",
+        "Top Number": 6
     },
     {
         "ID": "618",
         "Name": "Stunfisk",
         "Shiny Rate": "1/55",
-        "Sample Size": "1,491"
+        "Sample Size": "1,491",
+        "Top Number": 7
+    },
+    {
+        "ID": "131",
+        "Name": "Lapras",
+        "Shiny Rate": "1/59",
+        "Sample Size": "717",
+        "Top Number": 8
+    },
+    {
+        "ID": "103",
+        "Name": "Exeggutor",
+        "Shiny Rate": "1/60",
+        "Sample Size": "68,934",
+        "Top Number": 9
+    },
+    {
+        "ID": "204",
+        "Name": "Pineco",
+        "Shiny Rate": "1/60",
+        "Sample Size": "1,388",
+        "Top Number": 10
+    },
+    {
+        "ID": "263",
+        "Name": "Zigzagoon",
+        "Shiny Rate": "1/61",
+        "Sample Size": "4,391",
+        "Top Number": 11
+    },
+    {
+        "ID": "436",
+        "Name": "Bronzor",
+        "Shiny Rate": "1/63",
+        "Sample Size": "17,267",
+        "Top Number": 12
+    },
+    {
+        "ID": "25",
+        "Name": "Pikachu",
+        "Shiny Rate": "1/64",
+        "Sample Size": "70,055",
+        "Top Number": 13
+    },
+    {
+        "ID": "79",
+        "Name": "Slowpoke",
+        "Shiny Rate": "1/64",
+        "Sample Size": "243,044",
+        "Top Number": 14
+    },
+    {
+        "ID": "18",
+        "Name": "Pidgeot",
+        "Shiny Rate": "1/73",
+        "Sample Size": "588",
+        "Top Number": 15
+    },
+    {
+        "ID": "94",
+        "Name": "Gengar",
+        "Shiny Rate": "1/73",
+        "Sample Size": "146",
+        "Top Number": 16
+    },
+    {
+        "ID": "373",
+        "Name": "Salamence",
+        "Shiny Rate": "1/80",
+        "Sample Size": "161",
+        "Top Number": 17
+    },
+    {
+        "ID": "113",
+        "Name": "Chansey",
+        "Shiny Rate": "1/89",
+        "Sample Size": "1,255",
+        "Top Number": 18
+    },
+    {
+        "ID": "207",
+        "Name": "Gligar",
+        "Shiny Rate": "1/90",
+        "Sample Size": "90",
+        "Top Number": 19
+    },
+    {
+        "ID": "80",
+        "Name": "Slowbro",
+        "Shiny Rate": "1/91",
+        "Sample Size": "728",
+        "Top Number": 20
+    },
+    {
+        "ID": "359",
+        "Name": "Absol",
+        "Shiny Rate": "1/98",
+        "Sample Size": "98",
+        "Top Number": 21
+    },
+    {
+        "ID": "302",
+        "Name": "Sableye",
+        "Shiny Rate": "1/99",
+        "Sample Size": "897",
+        "Top Number": 22
+    },
+    {
+        "ID": "127",
+        "Name": "Pinsir",
+        "Shiny Rate": "1/100",
+        "Sample Size": "302",
+        "Top Number": 23
+    },
+    {
+        "ID": "428",
+        "Name": "Lopunny",
+        "Shiny Rate": "1/106",
+        "Sample Size": "1,925",
+        "Top Number": 24
+    },
+    {
+        "ID": "343",
+        "Name": "Baltoy",
+        "Shiny Rate": "1/134",
+        "Sample Size": "269",
+        "Top Number": 25
+    },
+    {
+        "ID": "308",
+        "Name": "Medicham",
+        "Shiny Rate": "1/137",
+        "Sample Size": "551",
+        "Top Number": 26
+    },
+    {
+        "ID": "690",
+        "Name": "Skrelp",
+        "Shiny Rate": "1/138",
+        "Sample Size": "277",
+        "Top Number": 27
+    },
+    {
+        "ID": "143",
+        "Name": "Snorlax",
+        "Shiny Rate": "1/153",
+        "Sample Size": "923",
+        "Top Number": 28
+    },
+    {
+        "ID": "354",
+        "Name": "Banette",
+        "Shiny Rate": "1/165",
+        "Sample Size": "330",
+        "Top Number": 29
+    },
+    {
+        "ID": "328",
+        "Name": "Trapinch",
+        "Shiny Rate": "1/168",
+        "Sample Size": "675",
+        "Top Number": 30
+    },
+    {
+        "ID": "15",
+        "Name": "Beedrill",
+        "Shiny Rate": "1/170",
+        "Sample Size": "170",
+        "Top Number": 31
+    },
+    {
+        "ID": "181",
+        "Name": "Ampharos",
+        "Shiny Rate": "1/182",
+        "Sample Size": "365",
+        "Top Number": 32
+    },
+    {
+        "ID": "310",
+        "Name": "Manectric",
+        "Shiny Rate": "1/188",
+        "Sample Size": "188",
+        "Top Number": 33
+    },
+    {
+        "ID": "336",
+        "Name": "Seviper",
+        "Shiny Rate": "1/197",
+        "Sample Size": "197",
+        "Top Number": 34
     },
     {
         "ID": "632",
         "Name": "Durant",
         "Shiny Rate": "1/198",
-        "Sample Size": "396"
+        "Sample Size": "396",
+        "Top Number": 35
+    },
+    {
+        "ID": "282",
+        "Name": "Gardevoir",
+        "Shiny Rate": "1/200",
+        "Sample Size": "601",
+        "Top Number": 36
+    },
+    {
+        "ID": "128",
+        "Name": "Tauros",
+        "Shiny Rate": "1/207",
+        "Sample Size": "828",
+        "Top Number": 37
+    },
+    {
+        "ID": "422",
+        "Name": "Shellos",
+        "Shiny Rate": "1/209",
+        "Sample Size": "628",
+        "Top Number": 38
+    },
+    {
+        "ID": "543",
+        "Name": "Venipede",
+        "Shiny Rate": "1/209",
+        "Sample Size": "627",
+        "Top Number": 39
+    },
+    {
+        "ID": "318",
+        "Name": "Carvanha",
+        "Shiny Rate": "1/212",
+        "Sample Size": "425",
+        "Top Number": 40
     },
     {
         "ID": "633",
         "Name": "Deino",
-        "Shiny Rate": "1/215",
-        "Sample Size": "431"
+        "Shiny Rate": "1/216",
+        "Sample Size": "432",
+        "Top Number": 41
     },
     {
-        "ID": "661",
-        "Name": "Fletchling",
-        "Shiny Rate": "1/258",
-        "Sample Size": "1,807"
+        "ID": "228",
+        "Name": "Houndour",
+        "Shiny Rate": "1/220",
+        "Sample Size": "1,762",
+        "Top Number": 42
     },
     {
-        "ID": "667",
-        "Name": "Litleo",
-        "Shiny Rate": "1/1,435",
-        "Sample Size": "1,435"
+        "ID": "122",
+        "Name": "Mr. Mime",
+        "Shiny Rate": "1/239",
+        "Sample Size": "1,196",
+        "Top Number": 43
     },
     {
-        "ID": "682",
-        "Name": "Spritzee",
-        "Shiny Rate": "1/943",
-        "Sample Size": "943"
+        "ID": "23",
+        "Name": "Ekans",
+        "Shiny Rate": "1/245",
+        "Sample Size": "1,474",
+        "Top Number": 44
     },
     {
-        "ID": "684",
-        "Name": "Swirlix",
-        "Shiny Rate": "1/676",
-        "Sample Size": "4,058"
+        "ID": "203",
+        "Name": "Girafarig",
+        "Shiny Rate": "1/247",
+        "Sample Size": "1,982",
+        "Top Number": 45
     },
     {
-        "ID": "690",
-        "Name": "Skrelp",
-        "Shiny Rate": "1/139",
-        "Sample Size": "278"
+        "ID": "276",
+        "Name": "Taillow",
+        "Shiny Rate": "1/251",
+        "Sample Size": "2,770",
+        "Top Number": 46
+    },
+    {
+        "ID": "104",
+        "Name": "Cubone",
+        "Shiny Rate": "1/252",
+        "Sample Size": "1,512",
+        "Top Number": 47
+    },
+    {
+        "ID": "335",
+        "Name": "Zangoose",
+        "Shiny Rate": "1/255",
+        "Sample Size": "255",
+        "Top Number": 48
     },
     {
         "ID": "696",
         "Name": "Tyrunt",
-        "Shiny Rate": "1/256",
-        "Sample Size": "256"
+        "Shiny Rate": "1/255",
+        "Sample Size": "255",
+        "Top Number": 49
     },
     {
-        "ID": "702",
-        "Name": "Dedenne",
-        "Shiny Rate": "1/737",
-        "Sample Size": "4,423"
+        "ID": "661",
+        "Name": "Fletchling",
+        "Shiny Rate": "1/257",
+        "Sample Size": "1,802",
+        "Top Number": 50
     },
     {
-        "ID": "704",
-        "Name": "Goomy",
-        "Shiny Rate": "1/671",
-        "Sample Size": "2,015"
+        "ID": "167",
+        "Name": "Spinarak",
+        "Shiny Rate": "1/258",
+        "Sample Size": "2,329",
+        "Top Number": 51
     },
     {
-        "ID": "736",
-        "Name": "Grubbin",
-        "Shiny Rate": "1/3,792",
-        "Sample Size": "3,792"
+        "ID": "54",
+        "Name": "Psyduck",
+        "Shiny Rate": "1/260",
+        "Sample Size": "521",
+        "Top Number": 52
     },
     {
-        "ID": "751",
-        "Name": "Dewpider",
-        "Shiny Rate": "1/1,938",
-        "Sample Size": "1,938"
+        "ID": "513",
+        "Name": "Pansear",
+        "Shiny Rate": "1/280",
+        "Sample Size": "280",
+        "Top Number": 53
+    },
+    {
+        "ID": "52",
+        "Name": "Meowth",
+        "Shiny Rate": "1/281",
+        "Sample Size": "2,815",
+        "Top Number": 54
+    },
+    {
+        "ID": "538",
+        "Name": "Throh",
+        "Shiny Rate": "1/281",
+        "Sample Size": "844",
+        "Top Number": 55
+    },
+    {
+        "ID": "337",
+        "Name": "Lunatone",
+        "Shiny Rate": "1/282",
+        "Sample Size": "565",
+        "Top Number": 56
+    },
+    {
+        "ID": "115",
+        "Name": "Kangaskhan",
+        "Shiny Rate": "1/305",
+        "Sample Size": "1,220",
+        "Top Number": 57
+    },
+    {
+        "ID": "304",
+        "Name": "Aron",
+        "Shiny Rate": "1/321",
+        "Sample Size": "1,608",
+        "Top Number": 58
+    },
+    {
+        "ID": "35",
+        "Name": "Clefairy",
+        "Shiny Rate": "1/331",
+        "Sample Size": "2,980",
+        "Top Number": 59
+    },
+    {
+        "ID": "190",
+        "Name": "Aipom",
+        "Shiny Rate": "1/342",
+        "Sample Size": "4,108",
+        "Top Number": 60
+    },
+    {
+        "ID": "506",
+        "Name": "Lillipup",
+        "Shiny Rate": "1/362",
+        "Sample Size": "6,881",
+        "Top Number": 61
+    },
+    {
+        "ID": "280",
+        "Name": "Ralts",
+        "Shiny Rate": "1/368",
+        "Sample Size": "2,211",
+        "Top Number": 62
+    },
+    {
+        "ID": "29",
+        "Name": "Nidoran\u2640",
+        "Shiny Rate": "1/374",
+        "Sample Size": "2,994",
+        "Top Number": 63
+    },
+    {
+        "ID": "453",
+        "Name": "Croagunk",
+        "Shiny Rate": "1/382",
+        "Sample Size": "6,120",
+        "Top Number": 64
+    },
+    {
+        "ID": "84",
+        "Name": "Doduo",
+        "Shiny Rate": "1/388",
+        "Sample Size": "2,716",
+        "Top Number": 65
+    },
+    {
+        "ID": "265",
+        "Name": "Wurmple",
+        "Shiny Rate": "1/389",
+        "Sample Size": "3,117",
+        "Top Number": 66
+    },
+    {
+        "ID": "338",
+        "Name": "Solrock",
+        "Shiny Rate": "1/404",
+        "Sample Size": "1,616",
+        "Top Number": 67
+    },
+    {
+        "ID": "176",
+        "Name": "Togetic",
+        "Shiny Rate": "1/410",
+        "Sample Size": "22,174",
+        "Top Number": 68
+    },
+    {
+        "ID": "495",
+        "Name": "Snivy",
+        "Shiny Rate": "1/412",
+        "Sample Size": "1,238",
+        "Top Number": 69
+    },
+    {
+        "ID": "427",
+        "Name": "Buneary",
+        "Shiny Rate": "1/417",
+        "Sample Size": "5,009",
+        "Top Number": 70
+    },
+    {
+        "ID": "216",
+        "Name": "Teddiursa",
+        "Shiny Rate": "1/418",
+        "Sample Size": "2,510",
+        "Top Number": 71
+    },
+    {
+        "ID": "98",
+        "Name": "Krabby",
+        "Shiny Rate": "1/447",
+        "Sample Size": "447",
+        "Top Number": 72
+    },
+    {
+        "ID": "27",
+        "Name": "Sandshrew",
+        "Shiny Rate": "1/450",
+        "Sample Size": "3,602",
+        "Top Number": 73
+    },
+    {
+        "ID": "185",
+        "Name": "Sudowoodo",
+        "Shiny Rate": "1/453",
+        "Sample Size": "906",
+        "Top Number": 74
+    },
+    {
+        "ID": "152",
+        "Name": "Chikorita",
+        "Shiny Rate": "1/456",
+        "Sample Size": "4,109",
+        "Top Number": 75
+    },
+    {
+        "ID": "179",
+        "Name": "Mareep",
+        "Shiny Rate": "1/457",
+        "Sample Size": "2,743",
+        "Top Number": 76
+    },
+    {
+        "ID": "527",
+        "Name": "Woobat",
+        "Shiny Rate": "1/457",
+        "Sample Size": "3,656",
+        "Top Number": 77
+    },
+    {
+        "ID": "539",
+        "Name": "Sawk",
+        "Shiny Rate": "1/458",
+        "Sample Size": "1,374",
+        "Top Number": 78
     },
     {
         "ID": "753",
         "Name": "Fomantis",
         "Shiny Rate": "1/470",
-        "Sample Size": "2,821"
+        "Sample Size": "2,824",
+        "Top Number": 79
+    },
+    {
+        "ID": "456",
+        "Name": "Finneon",
+        "Shiny Rate": "1/475",
+        "Sample Size": "2,379",
+        "Top Number": 80
+    },
+    {
+        "ID": "353",
+        "Name": "Shuppet",
+        "Shiny Rate": "1/477",
+        "Sample Size": "2,866",
+        "Top Number": 81
+    },
+    {
+        "ID": "535",
+        "Name": "Tympole",
+        "Shiny Rate": "1/478",
+        "Sample Size": "957",
+        "Top Number": 82
+    },
+    {
+        "ID": "559",
+        "Name": "Scraggy",
+        "Shiny Rate": "1/485",
+        "Sample Size": "1,455",
+        "Top Number": 83
+    },
+    {
+        "ID": "133",
+        "Name": "Eevee",
+        "Shiny Rate": "1/486",
+        "Sample Size": "12,164",
+        "Top Number": 84
+    },
+    {
+        "ID": "170",
+        "Name": "Chinchou",
+        "Shiny Rate": "1/500",
+        "Sample Size": "5,501",
+        "Top Number": 85
+    },
+    {
+        "ID": "13",
+        "Name": "Weedle",
+        "Shiny Rate": "1/501",
+        "Sample Size": "2,006",
+        "Top Number": 86
+    },
+    {
+        "ID": "345",
+        "Name": "Lileep",
+        "Shiny Rate": "1/502",
+        "Sample Size": "502",
+        "Top Number": 87
+    },
+    {
+        "ID": "109",
+        "Name": "Koffing",
+        "Shiny Rate": "1/503",
+        "Sample Size": "16,097",
+        "Top Number": 88
+    },
+    {
+        "ID": "529",
+        "Name": "Drilbur",
+        "Shiny Rate": "1/503",
+        "Sample Size": "1,006",
+        "Top Number": 89
+    },
+    {
+        "ID": "58",
+        "Name": "Growlithe",
+        "Shiny Rate": "1/507",
+        "Sample Size": "382,695",
+        "Top Number": 90
+    },
+    {
+        "ID": "234",
+        "Name": "Stantler",
+        "Shiny Rate": "1/508",
+        "Sample Size": "1,524",
+        "Top Number": 91
+    },
+    {
+        "ID": "129",
+        "Name": "Magikarp",
+        "Shiny Rate": "1/514",
+        "Sample Size": "277,283",
+        "Top Number": 92
+    },
+    {
+        "ID": "396",
+        "Name": "Starly",
+        "Shiny Rate": "1/519",
+        "Sample Size": "3,637",
+        "Top Number": 93
+    },
+    {
+        "ID": "358",
+        "Name": "Chimecho",
+        "Shiny Rate": "1/522",
+        "Sample Size": "138,549",
+        "Top Number": 94
+    },
+    {
+        "ID": "270",
+        "Name": "Lotad",
+        "Shiny Rate": "1/525",
+        "Sample Size": "277,696",
+        "Top Number": 95
+    },
+    {
+        "ID": "519",
+        "Name": "Pidove",
+        "Shiny Rate": "1/534",
+        "Sample Size": "4,811",
+        "Top Number": 96
+    },
+    {
+        "ID": "163",
+        "Name": "Hoothoot",
+        "Shiny Rate": "1/540",
+        "Sample Size": "3,242",
+        "Top Number": 97
+    },
+    {
+        "ID": "347",
+        "Name": "Anorith",
+        "Shiny Rate": "1/541",
+        "Sample Size": "541",
+        "Top Number": 98
+    },
+    {
+        "ID": "41",
+        "Name": "Zubat",
+        "Shiny Rate": "1/547",
+        "Sample Size": "4,924",
+        "Top Number": 99
+    },
+    {
+        "ID": "431",
+        "Name": "Glameow",
+        "Shiny Rate": "1/549",
+        "Sample Size": "3,297",
+        "Top Number": 100
+    },
+    {
+        "ID": "316",
+        "Name": "Gulpin",
+        "Shiny Rate": "1/550",
+        "Sample Size": "3,303",
+        "Top Number": 101
+    },
+    {
+        "ID": "19",
+        "Name": "Rattata",
+        "Shiny Rate": "1/555",
+        "Sample Size": "2,221",
+        "Top Number": 102
+    },
+    {
+        "ID": "333",
+        "Name": "Swablu",
+        "Shiny Rate": "1/555",
+        "Sample Size": "7,227",
+        "Top Number": 103
+    },
+    {
+        "ID": "548",
+        "Name": "Petilil",
+        "Shiny Rate": "1/558",
+        "Sample Size": "2,234",
+        "Top Number": 104
+    },
+    {
+        "ID": "48",
+        "Name": "Venonat",
+        "Shiny Rate": "1/570",
+        "Sample Size": "1,712",
+        "Top Number": 105
+    },
+    {
+        "ID": "273",
+        "Name": "Seedot",
+        "Shiny Rate": "1/573",
+        "Sample Size": "5,165",
+        "Top Number": 106
+    },
+    {
+        "ID": "92",
+        "Name": "Gastly",
+        "Shiny Rate": "1/579",
+        "Sample Size": "4,053",
+        "Top Number": 107
+    },
+    {
+        "ID": "590",
+        "Name": "Foongus",
+        "Shiny Rate": "1/580",
+        "Sample Size": "4,061",
+        "Top Number": 108
+    },
+    {
+        "ID": "74",
+        "Name": "Geodude",
+        "Shiny Rate": "1/581",
+        "Sample Size": "1,745",
+        "Top Number": 109
+    },
+    {
+        "ID": "194",
+        "Name": "Wooper",
+        "Shiny Rate": "1/591",
+        "Sample Size": "8,875",
+        "Top Number": 110
+    },
+    {
+        "ID": "32",
+        "Name": "Nidoran\u2642",
+        "Shiny Rate": "1/616",
+        "Sample Size": "2,465",
+        "Top Number": 111
+    },
+    {
+        "ID": "374",
+        "Name": "Beldum",
+        "Shiny Rate": "1/636",
+        "Sample Size": "3,183",
+        "Top Number": 112
+    },
+    {
+        "ID": "278",
+        "Name": "Wingull",
+        "Shiny Rate": "1/637",
+        "Sample Size": "2,549",
+        "Top Number": 113
+    },
+    {
+        "ID": "81",
+        "Name": "Magnemite",
+        "Shiny Rate": "1/664",
+        "Sample Size": "3,322",
+        "Top Number": 114
+    },
+    {
+        "ID": "16",
+        "Name": "Pidgey",
+        "Shiny Rate": "1/670",
+        "Sample Size": "6,708",
+        "Top Number": 115
+    },
+    {
+        "ID": "399",
+        "Name": "Bidoof",
+        "Shiny Rate": "1/675",
+        "Sample Size": "2,702",
+        "Top Number": 116
+    },
+    {
+        "ID": "684",
+        "Name": "Swirlix",
+        "Shiny Rate": "1/675",
+        "Sample Size": "4,054",
+        "Top Number": 117
+    },
+    {
+        "ID": "704",
+        "Name": "Goomy",
+        "Shiny Rate": "1/676",
+        "Sample Size": "2,028",
+        "Top Number": 118
     },
     {
         "ID": "915",
         "Name": "Lechonk",
         "Shiny Rate": "1/681",
-        "Sample Size": "10,222"
+        "Sample Size": "10,222",
+        "Top Number": 119
+    },
+    {
+        "ID": "37",
+        "Name": "Vulpix",
+        "Shiny Rate": "1/719",
+        "Sample Size": "6,474",
+        "Top Number": 120
+    },
+    {
+        "ID": "309",
+        "Name": "Electrike",
+        "Shiny Rate": "1/733",
+        "Sample Size": "2,201",
+        "Top Number": 121
+    },
+    {
+        "ID": "613",
+        "Name": "Cubchoo",
+        "Shiny Rate": "1/737",
+        "Sample Size": "2,213",
+        "Top Number": 122
+    },
+    {
+        "ID": "702",
+        "Name": "Dedenne",
+        "Shiny Rate": "1/738",
+        "Sample Size": "4,432",
+        "Top Number": 123
+    },
+    {
+        "ID": "616",
+        "Name": "Shelmet",
+        "Shiny Rate": "1/769",
+        "Sample Size": "1,539",
+        "Top Number": 124
+    },
+    {
+        "ID": "605",
+        "Name": "Elgyem",
+        "Shiny Rate": "1/789",
+        "Sample Size": "789",
+        "Top Number": 125
+    },
+    {
+        "ID": "261",
+        "Name": "Poochyena",
+        "Shiny Rate": "1/801",
+        "Sample Size": "4,810",
+        "Top Number": 126
+    },
+    {
+        "ID": "557",
+        "Name": "Dwebble",
+        "Shiny Rate": "1/836",
+        "Sample Size": "2,509",
+        "Top Number": 127
+    },
+    {
+        "ID": "554",
+        "Name": "Darumaka",
+        "Shiny Rate": "1/840",
+        "Sample Size": "3,362",
+        "Top Number": 128
+    },
+    {
+        "ID": "111",
+        "Name": "Rhyhorn",
+        "Shiny Rate": "1/925",
+        "Sample Size": "2,777",
+        "Top Number": 129
+    },
+    {
+        "ID": "307",
+        "Name": "Meditite",
+        "Shiny Rate": "1/936",
+        "Sample Size": "1,872",
+        "Top Number": 130
+    },
+    {
+        "ID": "682",
+        "Name": "Spritzee",
+        "Shiny Rate": "1/942",
+        "Sample Size": "942",
+        "Top Number": 131
+    },
+    {
+        "ID": "287",
+        "Name": "Slakoth",
+        "Shiny Rate": "1/953",
+        "Sample Size": "2,859",
+        "Top Number": 132
+    },
+    {
+        "ID": "511",
+        "Name": "Pansage",
+        "Shiny Rate": "1/958",
+        "Sample Size": "958",
+        "Top Number": 133
+    },
+    {
+        "ID": "285",
+        "Name": "Shroomish",
+        "Shiny Rate": "1/965",
+        "Sample Size": "4,828",
+        "Top Number": 134
+    },
+    {
+        "ID": "155",
+        "Name": "Cyndaquil",
+        "Shiny Rate": "1/982",
+        "Sample Size": "3,930",
+        "Top Number": 135
+    },
+    {
+        "ID": "200",
+        "Name": "Misdreavus",
+        "Shiny Rate": "1/1,060",
+        "Sample Size": "1,060",
+        "Top Number": 136
+    },
+    {
+        "ID": "220",
+        "Name": "Swinub",
+        "Shiny Rate": "1/1,061",
+        "Sample Size": "2,122",
+        "Top Number": 137
+    },
+    {
+        "ID": "296",
+        "Name": "Makuhita",
+        "Shiny Rate": "1/1,067",
+        "Sample Size": "3,202",
+        "Top Number": 138
+    },
+    {
+        "ID": "498",
+        "Name": "Tepig",
+        "Shiny Rate": "1/1,090",
+        "Sample Size": "1,090",
+        "Top Number": 139
+    },
+    {
+        "ID": "588",
+        "Name": "Karrablast",
+        "Shiny Rate": "1/1,187",
+        "Sample Size": "2,375",
+        "Top Number": 140
+    },
+    {
+        "ID": "158",
+        "Name": "Totodile",
+        "Shiny Rate": "1/1,296",
+        "Sample Size": "5,187",
+        "Top Number": 141
+    },
+    {
+        "ID": "237",
+        "Name": "Hitmontop",
+        "Shiny Rate": "1/1,381",
+        "Sample Size": "5,526",
+        "Top Number": 142
+    },
+    {
+        "ID": "667",
+        "Name": "Litleo",
+        "Shiny Rate": "1/1,430",
+        "Sample Size": "1,430",
+        "Top Number": 143
+    },
+    {
+        "ID": "501",
+        "Name": "Oshawott",
+        "Shiny Rate": "1/1,437",
+        "Sample Size": "1,437",
+        "Top Number": 144
+    },
+    {
+        "ID": "515",
+        "Name": "Panpour",
+        "Shiny Rate": "1/1,518",
+        "Sample Size": "1,518",
+        "Top Number": 145
+    },
+    {
+        "ID": "751",
+        "Name": "Dewpider",
+        "Shiny Rate": "1/1,936",
+        "Sample Size": "1,936",
+        "Top Number": 146
+    },
+    {
+        "ID": "371",
+        "Name": "Bagon",
+        "Shiny Rate": "1/2,760",
+        "Sample Size": "2,760",
+        "Top Number": 147
+    },
+    {
+        "ID": "736",
+        "Name": "Grubbin",
+        "Shiny Rate": "1/3,795",
+        "Sample Size": "3,795",
+        "Top Number": 148
     }
 ]
