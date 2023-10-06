@@ -34,7 +34,7 @@ if response_shinyrates.status_code == 200 and response_pokedex.status_code == 20
             formatted_data.append(formatted_item)
 
     # Ahora, puedes guardar formatted_data como JSON si lo deseas
-    with open("ShinyRatWithAdditionalData.json", "w") as file:
+    with open("ShinyRat.json", "w") as file:
         json.dump(formatted_data, file, indent=4)
 
 else:
