@@ -33,9 +33,18 @@ if response_shinyrates.status_code == 200 and response_pokedex.status_code == 20
             }
             formatted_data.append(formatted_item)
 
-    # Ahora, puedes guardar formatted_data como JSON si lo deseas
+    # Ordenar la lista por "Shiny Rate" en orden ascendente
+    sorted_data = sorted(formatted_data, key=lambda x: int(x["Shiny Rate"].replace(",", "").split("/")[1]))
+
+    # Asignar un número secuencial a los elementos
+    contador = 1
+    for item in sorted_data:
+        item["Top Number"] = contador
+        contador += 1
+
+    # Ahora, puedes guardar sorted_data como JSON si lo deseas
     with open("ShinyRat.json", "w") as file:
-        json.dump(formatted_data, file, indent=4)
+        json.dump(sorted_data, file, indent=4)
 
 else:
     print("No se pudo acceder a una de las URLs.")
