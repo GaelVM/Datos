@@ -19,7 +19,7 @@ if response.status_code == 200:
         formatted_data.append(formatted_item)
 
     # Ahora, puedes guardar formatted_data como JSON si lo deseas
-    with open("datos.json", "w") as file:
+    with open("ShinyRat.json", "w") as file:
         json.dump(formatted_data, file, indent=4)
 
 else:
