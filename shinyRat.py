@@ -16,14 +16,14 @@ if response_shinyrates.status_code == 200 and response_pokedex.status_code == 20
 
     for item in data_shinyrates:
         # Buscar el elemento correspondiente en el JSON de la pokedex por nombre
-        matching_pokemon = next((pokemon for pokemon in data_pokedex if pokemon["nombre"] == item["Name"]), None)
+        matching_pokemon = next((pokemon for pokemon in data_pokedex if pokemon["nombre"] == item["name"]), None)
 
         if matching_pokemon:
             formatted_item = {
                 "ID": item["id"],
-                "Name": item["Name"],
-                "Shiny Rate": item["Shiny Rate"],
-                "Sample Size": item["Sample Size"],
+                "Name": item["name"],
+                "Shiny Rate": item["rate"],
+                "Sample Size": item["total"],
                 "assets": {
                     "image": matching_pokemon["assets"]["image"]
                 },
@@ -34,7 +34,7 @@ if response_shinyrates.status_code == 200 and response_pokedex.status_code == 20
             formatted_data.append(formatted_item)
 
     # Ahora, puedes guardar formatted_data como JSON si lo deseas
-    with open("ShinyRat.json", "w") as file:
+    with open("ShinyRatWithAdditionalData.json", "w") as file:
         json.dump(formatted_data, file, indent=4)
 
 else:
