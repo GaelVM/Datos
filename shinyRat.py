@@ -18,9 +18,12 @@ if response.status_code == 200:
         }
         formatted_data.append(formatted_item)
 
-    # Ahora, puedes guardar formatted_data como JSON si lo deseas
-    with open("ShinyRat.json", "w") as file:
-        json.dump(formatted_data, file, indent=4)
+    # Ordenar los datos por "Shiny Rate" en orden ascendente
+    sorted_data = sorted(formatted_data, key=lambda x: float(x["Shiny Rate"].split("/")[1]) / float(x["Shiny Rate"].split("/")[0]))
+
+    # Ahora, puedes guardar sorted_data como JSON si lo deseas
+    with open("ShinyRatSorted.json", "w") as file:
+        json.dump(sorted_data, file, indent=4)
 
 else:
     print("No se pudo acceder al sitio web.")
