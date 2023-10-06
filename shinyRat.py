@@ -29,6 +29,9 @@ if response_shinyrates.status_code == 200 and response_pokedex.status_code == 20
                 },
                 "primaryType": {
                     "es": matching_pokemon["primaryType"]["es"]
+                },
+                "secondaryType": {
+                    "es": matching_pokemon["secondaryType"]["es"]
                 }
             }
             formatted_data.append(formatted_item)
