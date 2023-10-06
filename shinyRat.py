@@ -1,38 +1,42 @@
 import requests
 import json
 
-url = "https://shinyrates.com/data/rate/"
+# Obtener los datos de tu URL
+url_shinyrates = "https://shinyrates.com/data/rate/"
+url_pokedex = "https://raw.githubusercontent.com/GaelVM/Datos/main/pokedex2023.json"
 
-response = requests.get(url)
+response_shinyrates = requests.get(url_shinyrates)
+response_pokedex = requests.get(url_pokedex)
 
-if response.status_code == 200:
-    data = response.json()
+if response_shinyrates.status_code == 200 and response_pokedex.status_code == 200:
+    data_shinyrates = response_shinyrates.json()
+    data_pokedex = response_pokedex.json()
+
     formatted_data = []
 
-    for item in data:
-        formatted_item = {
-            "ID": item["id"],
-            "Name": item["name"],
-            "Shiny Rate": item["rate"],
-            "Sample Size": item["total"]
-        }
-        formatted_data.append(formatted_item)
+    for item in data_shinyrates:
+        # Buscar el elemento correspondiente en el JSON de la pokedex por nombre
+        matching_pokemon = next((pokemon for pokemon in data_pokedex if pokemon["nombre"] == item["Name"]), None)
 
-    # Ordenar los datos por el segundo valor en "Shiny Rate" en orden ascendente
-    sorted_data = sorted(formatted_data, key=lambda x: int(x["Shiny Rate"].replace(",", "").split("/")[1]))
+        if matching_pokemon:
+            formatted_item = {
+                "ID": item["id"],
+                "Name": item["Name"],
+                "Shiny Rate": item["Shiny Rate"],
+                "Sample Size": item["Sample Size"],
+                "assets": {
+                    "image": matching_pokemon["assets"]["image"]
+                },
+                "primaryType": {
+                    "es": matching_pokemon["primaryType"]["es"]
+                }
+            }
+            formatted_data.append(formatted_item)
 
-    # Asignar un número secuencial a los elementos con "Shiny Rate" que contiene "1"
-    contador = 1
-    for item in sorted_data:
-        if "1" in item["Shiny Rate"]:
-            item["Top Number"] = contador
-            contador += 1
-        else:
-            item["Top Number"] = None
-
-    # Ahora, puedes guardar sorted_data como JSON si lo deseas
-    with open("ShinyRat.json", "w") as file:
-        json.dump(sorted_data, file, indent=4)
+    # Ahora, puedes guardar formatted_data como JSON si lo deseas
+    with open("ShinyRatWithAdditionalData.json", "w") as file:
+        json.dump(formatted_data, file, indent=4)
 
 else:
-    print("No se pudo acceder al sitio web.")
+    print("No se pudo acceder a una de las URLs.")
+
