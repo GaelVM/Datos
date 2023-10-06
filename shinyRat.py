@@ -39,4 +39,3 @@ if response_shinyrates.status_code == 200 and response_pokedex.status_code == 20
 
 else:
     print("No se pudo acceder a una de las URLs.")
-
