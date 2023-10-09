@@ -1,15 +1,18 @@
 {
   "name": "raspado-web",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "description": "Una descripción de tu aplicación",
+  "main": "app.js",
   "dependencies": {
-    "express": "^4.18.2",
-    "node-fetch": "^3.3.2"
-  }
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "cheerio": "1.0.0-rc.5"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  
+  "author": "Tu Nombre",
+  "license": "ISC"
+  
 }
