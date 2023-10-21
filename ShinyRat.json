@@ -1,57 +1,57 @@
 [
     {
-        "ID": "95",
-        "Name": "Onix",
-        "Shiny Rate": "1/45",
-        "Sample Size": "91",
+        "ID": "354",
+        "Name": "Banette",
+        "Shiny Rate": "1/26",
+        "Sample Size": "158",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm95.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm354.icon.png"
         },
         "primaryType": {
-            "es": "Roca"
+            "es": "Fantasma"
         },
         "secondaryType": {
-            "es": "Tierra"
+            "es": null
         },
         "Top Number": 1
     },
     {
-        "ID": "594",
-        "Name": "Alomomola",
-        "Shiny Rate": "1/46",
-        "Sample Size": "46",
+        "ID": "343",
+        "Name": "Baltoy",
+        "Shiny Rate": "1/39",
+        "Sample Size": "159",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm594.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm343.icon.png"
         },
         "primaryType": {
-            "es": "Agua"
+            "es": "Tierra"
         },
         "secondaryType": {
-            "es": null
+            "es": "Ps\u00edquico"
         },
         "Top Number": 2
     },
     {
-        "ID": "108",
-        "Name": "Lickitung",
-        "Shiny Rate": "1/50",
-        "Sample Size": "2,700",
+        "ID": "207",
+        "Name": "Gligar",
+        "Shiny Rate": "1/60",
+        "Sample Size": "60",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm108.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm207.icon.png"
         },
         "primaryType": {
-            "es": "Normal"
+            "es": "Tierra"
         },
         "secondaryType": {
-            "es": null
+            "es": "Volador"
         },
         "Top Number": 3
     },
     {
         "ID": "618",
         "Name": "Stunfisk",
-        "Shiny Rate": "1/53",
-        "Sample Size": "1,510",
+        "Shiny Rate": "1/60",
+        "Sample Size": "965",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm618.icon.png"
         },
@@ -64,90 +64,26 @@
         "Top Number": 4
     },
     {
-        "ID": "123",
-        "Name": "Scyther",
-        "Shiny Rate": "1/54",
-        "Sample Size": "604",
+        "ID": "108",
+        "Name": "Lickitung",
+        "Shiny Rate": "1/65",
+        "Sample Size": "2,430",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm123.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm108.icon.png"
         },
         "primaryType": {
-            "es": "Bicho"
+            "es": "Normal"
         },
         "secondaryType": {
-            "es": "Volador"
+            "es": null
         },
         "Top Number": 5
     },
     {
-        "ID": "77",
-        "Name": "Ponyta",
-        "Shiny Rate": "1/55",
-        "Sample Size": "222",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm77.icon.png"
-        },
-        "primaryType": {
-            "es": "Fuego"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 6
-    },
-    {
-        "ID": "103",
-        "Name": "Exeggutor",
-        "Shiny Rate": "1/60",
-        "Sample Size": "68,937",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm103.icon.png"
-        },
-        "primaryType": {
-            "es": "Planta"
-        },
-        "secondaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "Top Number": 7
-    },
-    {
-        "ID": "131",
-        "Name": "Lapras",
-        "Shiny Rate": "1/60",
-        "Sample Size": "730",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm131.icon.png"
-        },
-        "primaryType": {
-            "es": "Agua"
-        },
-        "secondaryType": {
-            "es": "Hielo"
-        },
-        "Top Number": 8
-    },
-    {
-        "ID": "204",
-        "Name": "Pineco",
-        "Shiny Rate": "1/60",
-        "Sample Size": "1,395",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm204.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 9
-    },
-    {
         "ID": "263",
         "Name": "Zigzagoon",
-        "Shiny Rate": "1/63",
-        "Sample Size": "4,360",
+        "Shiny Rate": "1/65",
+        "Sample Size": "2,948",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm263.icon.png"
         },
@@ -157,669 +93,45 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 10
+        "Top Number": 6
     },
     {
-        "ID": "25",
-        "Name": "Pikachu",
-        "Shiny Rate": "1/64",
-        "Sample Size": "70,997",
+        "ID": "131",
+        "Name": "Lapras",
+        "Shiny Rate": "1/68",
+        "Sample Size": "482",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm25.icon.png"
-        },
-        "primaryType": {
-            "es": "El\u00e9ctrico"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 11
-    },
-    {
-        "ID": "79",
-        "Name": "Slowpoke",
-        "Shiny Rate": "1/64",
-        "Sample Size": "245,129",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm79.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm131.icon.png"
         },
         "primaryType": {
             "es": "Agua"
         },
         "secondaryType": {
-            "es": "Ps\u00edquico"
+            "es": "Hielo"
         },
-        "Top Number": 12
+        "Top Number": 7
     },
     {
-        "ID": "436",
-        "Name": "Bronzor",
-        "Shiny Rate": "1/64",
-        "Sample Size": "17,280",
+        "ID": "95",
+        "Name": "Onix",
+        "Shiny Rate": "1/69",
+        "Sample Size": "69",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm436.icon.png"
-        },
-        "primaryType": {
-            "es": "Acero"
-        },
-        "secondaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "Top Number": 13
-    },
-    {
-        "ID": "18",
-        "Name": "Pidgeot",
-        "Shiny Rate": "1/67",
-        "Sample Size": "604",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm18.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 14
-    },
-    {
-        "ID": "94",
-        "Name": "Gengar",
-        "Shiny Rate": "1/73",
-        "Sample Size": "147",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm94.icon.png"
-        },
-        "primaryType": {
-            "es": "Fantasma"
-        },
-        "secondaryType": {
-            "es": "Veneno"
-        },
-        "Top Number": 15
-    },
-    {
-        "ID": "373",
-        "Name": "Salamence",
-        "Shiny Rate": "1/80",
-        "Sample Size": "161",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm373.icon.png"
-        },
-        "primaryType": {
-            "es": "Drag\u00f3n"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 16
-    },
-    {
-        "ID": "113",
-        "Name": "Chansey",
-        "Shiny Rate": "1/83",
-        "Sample Size": "1,252",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm113.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 17
-    },
-    {
-        "ID": "207",
-        "Name": "Gligar",
-        "Shiny Rate": "1/90",
-        "Sample Size": "90",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm207.icon.png"
-        },
-        "primaryType": {
-            "es": "Tierra"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 18
-    },
-    {
-        "ID": "80",
-        "Name": "Slowbro",
-        "Shiny Rate": "1/92",
-        "Sample Size": "740",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm80.icon.png"
-        },
-        "primaryType": {
-            "es": "Agua"
-        },
-        "secondaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "Top Number": 19
-    },
-    {
-        "ID": "310",
-        "Name": "Manectric",
-        "Shiny Rate": "1/92",
-        "Sample Size": "184",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm310.icon.png"
-        },
-        "primaryType": {
-            "es": "El\u00e9ctrico"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 20
-    },
-    {
-        "ID": "359",
-        "Name": "Absol",
-        "Shiny Rate": "1/97",
-        "Sample Size": "97",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm359.icon.png"
-        },
-        "primaryType": {
-            "es": "Siniestro"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 21
-    },
-    {
-        "ID": "302",
-        "Name": "Sableye",
-        "Shiny Rate": "1/100",
-        "Sample Size": "904",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm302.icon.png"
-        },
-        "primaryType": {
-            "es": "Siniestro"
-        },
-        "secondaryType": {
-            "es": "Fantasma"
-        },
-        "Top Number": 22
-    },
-    {
-        "ID": "127",
-        "Name": "Pinsir",
-        "Shiny Rate": "1/101",
-        "Sample Size": "304",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm127.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 23
-    },
-    {
-        "ID": "181",
-        "Name": "Ampharos",
-        "Shiny Rate": "1/119",
-        "Sample Size": "357",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm181.icon.png"
-        },
-        "primaryType": {
-            "es": "El\u00e9ctrico"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 24
-    },
-    {
-        "ID": "343",
-        "Name": "Baltoy",
-        "Shiny Rate": "1/136",
-        "Sample Size": "272",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm343.icon.png"
-        },
-        "primaryType": {
-            "es": "Tierra"
-        },
-        "secondaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "Top Number": 25
-    },
-    {
-        "ID": "308",
-        "Name": "Medicham",
-        "Shiny Rate": "1/138",
-        "Sample Size": "555",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm308.icon.png"
-        },
-        "primaryType": {
-            "es": "Lucha"
-        },
-        "secondaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "Top Number": 26
-    },
-    {
-        "ID": "318",
-        "Name": "Carvanha",
-        "Shiny Rate": "1/141",
-        "Sample Size": "423",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm318.icon.png"
-        },
-        "primaryType": {
-            "es": "Agua"
-        },
-        "secondaryType": {
-            "es": "Siniestro"
-        },
-        "Top Number": 27
-    },
-    {
-        "ID": "690",
-        "Name": "Skrelp",
-        "Shiny Rate": "1/141",
-        "Sample Size": "282",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm690.icon.png"
-        },
-        "primaryType": {
-            "es": "Veneno"
-        },
-        "secondaryType": {
-            "es": "Agua"
-        },
-        "Top Number": 28
-    },
-    {
-        "ID": "428",
-        "Name": "Lopunny",
-        "Shiny Rate": "1/146",
-        "Sample Size": "1,907",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm428.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 29
-    },
-    {
-        "ID": "143",
-        "Name": "Snorlax",
-        "Shiny Rate": "1/152",
-        "Sample Size": "916",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm143.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 30
-    },
-    {
-        "ID": "354",
-        "Name": "Banette",
-        "Shiny Rate": "1/165",
-        "Sample Size": "330",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm354.icon.png"
-        },
-        "primaryType": {
-            "es": "Fantasma"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 31
-    },
-    {
-        "ID": "282",
-        "Name": "Gardevoir",
-        "Shiny Rate": "1/195",
-        "Sample Size": "586",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm282.icon.png"
-        },
-        "primaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "secondaryType": {
-            "es": "Hada"
-        },
-        "Top Number": 32
-    },
-    {
-        "ID": "632",
-        "Name": "Durant",
-        "Shiny Rate": "1/197",
-        "Sample Size": "395",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm632.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": "Acero"
-        },
-        "Top Number": 33
-    },
-    {
-        "ID": "128",
-        "Name": "Tauros",
-        "Shiny Rate": "1/200",
-        "Sample Size": "801",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm128.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 34
-    },
-    {
-        "ID": "336",
-        "Name": "Seviper",
-        "Shiny Rate": "1/201",
-        "Sample Size": "201",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm336.icon.png"
-        },
-        "primaryType": {
-            "es": "Veneno"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 35
-    },
-    {
-        "ID": "543",
-        "Name": "Venipede",
-        "Shiny Rate": "1/205",
-        "Sample Size": "616",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm543.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": "Veneno"
-        },
-        "Top Number": 36
-    },
-    {
-        "ID": "422",
-        "Name": "Shellos",
-        "Shiny Rate": "1/207",
-        "Sample Size": "623",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm422.fWEST_SEA.icon.png"
-        },
-        "primaryType": {
-            "es": "Agua"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 37
-    },
-    {
-        "ID": "328",
-        "Name": "Trapinch",
-        "Shiny Rate": "1/216",
-        "Sample Size": "650",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm328.icon.png"
-        },
-        "primaryType": {
-            "es": "Tierra"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 38
-    },
-    {
-        "ID": "228",
-        "Name": "Houndour",
-        "Shiny Rate": "1/217",
-        "Sample Size": "1,741",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm228.icon.png"
-        },
-        "primaryType": {
-            "es": "Siniestro"
-        },
-        "secondaryType": {
-            "es": "Fuego"
-        },
-        "Top Number": 39
-    },
-    {
-        "ID": "633",
-        "Name": "Deino",
-        "Shiny Rate": "1/218",
-        "Sample Size": "437",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm633.icon.png"
-        },
-        "primaryType": {
-            "es": "Siniestro"
-        },
-        "secondaryType": {
-            "es": "Drag\u00f3n"
-        },
-        "Top Number": 40
-    },
-    {
-        "ID": "122",
-        "Name": "Mr. Mime",
-        "Shiny Rate": "1/239",
-        "Sample Size": "1,198",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm122.icon.png"
-        },
-        "primaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "secondaryType": {
-            "es": "Hada"
-        },
-        "Top Number": 41
-    },
-    {
-        "ID": "23",
-        "Name": "Ekans",
-        "Shiny Rate": "1/244",
-        "Sample Size": "1,468",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm23.icon.png"
-        },
-        "primaryType": {
-            "es": "Veneno"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 42
-    },
-    {
-        "ID": "115",
-        "Name": "Kangaskhan",
-        "Shiny Rate": "1/247",
-        "Sample Size": "1,236",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm115.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 43
-    },
-    {
-        "ID": "696",
-        "Name": "Tyrunt",
-        "Shiny Rate": "1/248",
-        "Sample Size": "248",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm696.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm95.icon.png"
         },
         "primaryType": {
             "es": "Roca"
         },
         "secondaryType": {
-            "es": "Drag\u00f3n"
-        },
-        "Top Number": 44
-    },
-    {
-        "ID": "203",
-        "Name": "Girafarig",
-        "Shiny Rate": "1/251",
-        "Sample Size": "2,008",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm203.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "Top Number": 45
-    },
-    {
-        "ID": "276",
-        "Name": "Taillow",
-        "Shiny Rate": "1/251",
-        "Sample Size": "2,765",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm276.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 46
-    },
-    {
-        "ID": "104",
-        "Name": "Cubone",
-        "Shiny Rate": "1/253",
-        "Sample Size": "1,520",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm104.icon.png"
-        },
-        "primaryType": {
             "es": "Tierra"
         },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 47
-    },
-    {
-        "ID": "661",
-        "Name": "Fletchling",
-        "Shiny Rate": "1/257",
-        "Sample Size": "1,803",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm661.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 48
-    },
-    {
-        "ID": "335",
-        "Name": "Zangoose",
-        "Shiny Rate": "1/258",
-        "Sample Size": "258",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm335.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 49
-    },
-    {
-        "ID": "167",
-        "Name": "Spinarak",
-        "Shiny Rate": "1/262",
-        "Sample Size": "2,359",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm167.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": "Veneno"
-        },
-        "Top Number": 50
-    },
-    {
-        "ID": "54",
-        "Name": "Psyduck",
-        "Shiny Rate": "1/263",
-        "Sample Size": "527",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm54.icon.png"
-        },
-        "primaryType": {
-            "es": "Agua"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 51
+        "Top Number": 8
     },
     {
         "ID": "52",
         "Name": "Meowth",
-        "Shiny Rate": "1/280",
-        "Sample Size": "2,808",
+        "Shiny Rate": "1/70",
+        "Sample Size": "41,211",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm52.icon.png"
         },
@@ -829,29 +141,365 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 52
+        "Top Number": 9
     },
     {
-        "ID": "337",
-        "Name": "Lunatone",
-        "Shiny Rate": "1/282",
-        "Sample Size": "564",
+        "ID": "204",
+        "Name": "Pineco",
+        "Shiny Rate": "1/84",
+        "Sample Size": "2,438",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm337.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm204.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 10
+    },
+    {
+        "ID": "113",
+        "Name": "Chansey",
+        "Shiny Rate": "1/103",
+        "Sample Size": "930",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm113.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 11
+    },
+    {
+        "ID": "302",
+        "Name": "Sableye",
+        "Shiny Rate": "1/105",
+        "Sample Size": "315",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm302.icon.png"
+        },
+        "primaryType": {
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "es": "Fantasma"
+        },
+        "Top Number": 12
+    },
+    {
+        "ID": "318",
+        "Name": "Carvanha",
+        "Shiny Rate": "1/118",
+        "Sample Size": "354",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm318.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": "Siniestro"
+        },
+        "Top Number": 13
+    },
+    {
+        "ID": "428",
+        "Name": "Lopunny",
+        "Shiny Rate": "1/119",
+        "Sample Size": "1,316",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm428.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 14
+    },
+    {
+        "ID": "115",
+        "Name": "Kangaskhan",
+        "Shiny Rate": "1/121",
+        "Sample Size": "849",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm115.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 15
+    },
+    {
+        "ID": "77",
+        "Name": "Ponyta",
+        "Shiny Rate": "1/127",
+        "Sample Size": "127",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm77.icon.png"
+        },
+        "primaryType": {
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 16
+    },
+    {
+        "ID": "80",
+        "Name": "Slowbro",
+        "Shiny Rate": "1/127",
+        "Sample Size": "381",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm80.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "Top Number": 17
+    },
+    {
+        "ID": "15",
+        "Name": "Beedrill",
+        "Shiny Rate": "1/140",
+        "Sample Size": "140",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm15.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": "Veneno"
+        },
+        "Top Number": 18
+    },
+    {
+        "ID": "282",
+        "Name": "Gardevoir",
+        "Shiny Rate": "1/145",
+        "Sample Size": "436",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm282.icon.png"
+        },
+        "primaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "secondaryType": {
+            "es": "Hada"
+        },
+        "Top Number": 19
+    },
+    {
+        "ID": "123",
+        "Name": "Scyther",
+        "Shiny Rate": "1/146",
+        "Sample Size": "584",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm123.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": "Volador"
+        },
+        "Top Number": 20
+    },
+    {
+        "ID": "308",
+        "Name": "Medicham",
+        "Shiny Rate": "1/151",
+        "Sample Size": "302",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm308.icon.png"
+        },
+        "primaryType": {
+            "es": "Lucha"
+        },
+        "secondaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "Top Number": 21
+    },
+    {
+        "ID": "127",
+        "Name": "Pinsir",
+        "Shiny Rate": "1/158",
+        "Sample Size": "632",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm127.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 22
+    },
+    {
+        "ID": "181",
+        "Name": "Ampharos",
+        "Shiny Rate": "1/160",
+        "Sample Size": "321",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm181.icon.png"
+        },
+        "primaryType": {
+            "es": "El\u00e9ctrico"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 23
+    },
+    {
+        "ID": "765",
+        "Name": "Oranguru",
+        "Shiny Rate": "1/175",
+        "Sample Size": "351",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm765.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "Top Number": 24
+    },
+    {
+        "ID": "335",
+        "Name": "Zangoose",
+        "Shiny Rate": "1/187",
+        "Sample Size": "187",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm335.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 25
+    },
+    {
+        "ID": "313",
+        "Name": "Volbeat",
+        "Shiny Rate": "1/203",
+        "Sample Size": "203",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm313.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 26
+    },
+    {
+        "ID": "690",
+        "Name": "Skrelp",
+        "Shiny Rate": "1/218",
+        "Sample Size": "218",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm690.icon.png"
+        },
+        "primaryType": {
+            "es": "Veneno"
+        },
+        "secondaryType": {
+            "es": "Agua"
+        },
+        "Top Number": 27
+    },
+    {
+        "ID": "682",
+        "Name": "Spritzee",
+        "Shiny Rate": "1/219",
+        "Sample Size": "879",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm682.icon.png"
+        },
+        "primaryType": {
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 28
+    },
+    {
+        "ID": "218",
+        "Name": "Slugma",
+        "Shiny Rate": "1/273",
+        "Sample Size": "273",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm218.icon.png"
+        },
+        "primaryType": {
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 29
+    },
+    {
+        "ID": "422",
+        "Name": "Shellos",
+        "Shiny Rate": "1/282",
+        "Sample Size": "565",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm422.fWEST_SEA.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 30
+    },
+    {
+        "ID": "185",
+        "Name": "Sudowoodo",
+        "Shiny Rate": "1/286",
+        "Sample Size": "1,145",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm185.icon.png"
         },
         "primaryType": {
             "es": "Roca"
         },
         "secondaryType": {
-            "es": "Ps\u00edquico"
+            "es": null
         },
-        "Top Number": 53
+        "Top Number": 31
     },
     {
         "ID": "538",
         "Name": "Throh",
-        "Shiny Rate": "1/282",
-        "Sample Size": "847",
+        "Shiny Rate": "1/294",
+        "Sample Size": "588",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm538.icon.png"
         },
@@ -861,253 +509,157 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 54
+        "Top Number": 32
     },
     {
-        "ID": "513",
-        "Name": "Pansear",
-        "Shiny Rate": "1/288",
-        "Sample Size": "288",
+        "ID": "19",
+        "Name": "Rattata",
+        "Shiny Rate": "1/301",
+        "Sample Size": "2,414",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm513.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm19.icon.png"
         },
         "primaryType": {
-            "es": "Fuego"
+            "es": "Normal"
         },
         "secondaryType": {
             "es": null
         },
-        "Top Number": 55
+        "Top Number": 33
     },
     {
-        "ID": "280",
-        "Name": "Ralts",
-        "Shiny Rate": "1/317",
-        "Sample Size": "2,220",
+        "ID": "418",
+        "Name": "Buizel",
+        "Shiny Rate": "1/302",
+        "Sample Size": "604",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm280.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm418.icon.png"
         },
         "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 34
+    },
+    {
+        "ID": "124",
+        "Name": "Jynx",
+        "Shiny Rate": "1/309",
+        "Sample Size": "309",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm124.icon.png"
+        },
+        "primaryType": {
+            "es": "Hielo"
+        },
+        "secondaryType": {
             "es": "Ps\u00edquico"
         },
-        "secondaryType": {
-            "es": "Hada"
-        },
-        "Top Number": 56
+        "Top Number": 35
     },
     {
-        "ID": "304",
-        "Name": "Aron",
-        "Shiny Rate": "1/320",
-        "Sample Size": "1,602",
+        "ID": "501",
+        "Name": "Oshawott",
+        "Shiny Rate": "1/310",
+        "Sample Size": "931",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm304.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm501.icon.png"
         },
         "primaryType": {
-            "es": "Acero"
+            "es": "Agua"
         },
         "secondaryType": {
+            "es": null
+        },
+        "Top Number": 36
+    },
+    {
+        "ID": "704",
+        "Name": "Goomy",
+        "Shiny Rate": "1/314",
+        "Sample Size": "2,202",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm704.icon.png"
+        },
+        "primaryType": {
+            "es": "Drag\u00f3n"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 37
+    },
+    {
+        "ID": "339",
+        "Name": "Barboach",
+        "Shiny Rate": "1/331",
+        "Sample Size": "993",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm339.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": "Tierra"
+        },
+        "Top Number": 38
+    },
+    {
+        "ID": "529",
+        "Name": "Drilbur",
+        "Shiny Rate": "1/353",
+        "Sample Size": "1,412",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm529.icon.png"
+        },
+        "primaryType": {
+            "es": "Tierra"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 39
+    },
+    {
+        "ID": "337",
+        "Name": "Lunatone",
+        "Shiny Rate": "1/359",
+        "Sample Size": "359",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm337.icon.png"
+        },
+        "primaryType": {
             "es": "Roca"
         },
-        "Top Number": 57
-    },
-    {
-        "ID": "35",
-        "Name": "Clefairy",
-        "Shiny Rate": "1/330",
-        "Sample Size": "2,973",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm35.icon.png"
-        },
-        "primaryType": {
-            "es": "Hada"
-        },
         "secondaryType": {
-            "es": null
-        },
-        "Top Number": 58
-    },
-    {
-        "ID": "190",
-        "Name": "Aipom",
-        "Shiny Rate": "1/343",
-        "Sample Size": "4,123",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm190.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 59
-    },
-    {
-        "ID": "265",
-        "Name": "Wurmple",
-        "Shiny Rate": "1/349",
-        "Sample Size": "3,144",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm265.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 60
-    },
-    {
-        "ID": "559",
-        "Name": "Scraggy",
-        "Shiny Rate": "1/361",
-        "Sample Size": "1,444",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm559.icon.png"
-        },
-        "primaryType": {
-            "es": "Siniestro"
-        },
-        "secondaryType": {
-            "es": "Lucha"
-        },
-        "Top Number": 61
-    },
-    {
-        "ID": "506",
-        "Name": "Lillipup",
-        "Shiny Rate": "1/363",
-        "Sample Size": "6,911",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm506.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 62
-    },
-    {
-        "ID": "84",
-        "Name": "Doduo",
-        "Shiny Rate": "1/387",
-        "Sample Size": "2,715",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm84.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 63
-    },
-    {
-        "ID": "453",
-        "Name": "Croagunk",
-        "Shiny Rate": "1/390",
-        "Sample Size": "6,250",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm453.icon.png"
-        },
-        "primaryType": {
-            "es": "Veneno"
-        },
-        "secondaryType": {
-            "es": "Lucha"
-        },
-        "Top Number": 64
-    },
-    {
-        "ID": "753",
-        "Name": "Fomantis",
-        "Shiny Rate": "1/396",
-        "Sample Size": "2,777",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm753.icon.png"
-        },
-        "primaryType": {
-            "es": "Planta"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 65
-    },
-    {
-        "ID": "605",
-        "Name": "Elgyem",
-        "Shiny Rate": "1/397",
-        "Sample Size": "794",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm605.icon.png"
-        },
-        "primaryType": {
             "es": "Ps\u00edquico"
         },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 66
+        "Top Number": 40
     },
     {
-        "ID": "176",
-        "Name": "Togetic",
-        "Shiny Rate": "1/404",
-        "Sample Size": "22,262",
+        "ID": "328",
+        "Name": "Trapinch",
+        "Shiny Rate": "1/362",
+        "Sample Size": "362",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm176.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm328.icon.png"
         },
         "primaryType": {
-            "es": "Hada"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 67
-    },
-    {
-        "ID": "152",
-        "Name": "Chikorita",
-        "Shiny Rate": "1/410",
-        "Sample Size": "4,109",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm152.icon.png"
-        },
-        "primaryType": {
-            "es": "Planta"
+            "es": "Tierra"
         },
         "secondaryType": {
             "es": null
         },
-        "Top Number": 68
-    },
-    {
-        "ID": "495",
-        "Name": "Snivy",
-        "Shiny Rate": "1/410",
-        "Sample Size": "1,230",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm495.icon.png"
-        },
-        "primaryType": {
-            "es": "Planta"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 69
+        "Top Number": 41
     },
     {
         "ID": "427",
         "Name": "Buneary",
-        "Shiny Rate": "1/415",
-        "Sample Size": "4,983",
+        "Shiny Rate": "1/363",
+        "Sample Size": "3,998",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm427.icon.png"
         },
@@ -1117,15 +669,415 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 70
+        "Top Number": 42
     },
     {
-        "ID": "216",
-        "Name": "Teddiursa",
-        "Shiny Rate": "1/422",
-        "Sample Size": "2,536",
+        "ID": "592",
+        "Name": "Frillish",
+        "Shiny Rate": "1/365",
+        "Sample Size": "731",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm216.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm592.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": "Fantasma"
+        },
+        "Top Number": 43
+    },
+    {
+        "ID": "163",
+        "Name": "Hoothoot",
+        "Shiny Rate": "1/373",
+        "Sample Size": "2,239",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm163.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": "Volador"
+        },
+        "Top Number": 44
+    },
+    {
+        "ID": "548",
+        "Name": "Petilil",
+        "Shiny Rate": "1/375",
+        "Sample Size": "1,503",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm548.icon.png"
+        },
+        "primaryType": {
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 45
+    },
+    {
+        "ID": "524",
+        "Name": "Roggenrola",
+        "Shiny Rate": "1/379",
+        "Sample Size": "379",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm524.icon.png"
+        },
+        "primaryType": {
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 46
+    },
+    {
+        "ID": "276",
+        "Name": "Taillow",
+        "Shiny Rate": "1/412",
+        "Sample Size": "2,060",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm276.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": "Volador"
+        },
+        "Top Number": 47
+    },
+    {
+        "ID": "753",
+        "Name": "Fomantis",
+        "Shiny Rate": "1/421",
+        "Sample Size": "3,369",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm753.icon.png"
+        },
+        "primaryType": {
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 48
+    },
+    {
+        "ID": "176",
+        "Name": "Togetic",
+        "Shiny Rate": "1/422",
+        "Sample Size": "10,571",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm176.icon.png"
+        },
+        "primaryType": {
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "es": "Volador"
+        },
+        "Top Number": 49
+    },
+    {
+        "ID": "605",
+        "Name": "Elgyem",
+        "Shiny Rate": "1/422",
+        "Sample Size": "422",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm605.icon.png"
+        },
+        "primaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 50
+    },
+    {
+        "ID": "109",
+        "Name": "Koffing",
+        "Shiny Rate": "1/426",
+        "Sample Size": "10,657",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm109.icon.png"
+        },
+        "primaryType": {
+            "es": "Veneno"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 51
+    },
+    {
+        "ID": "265",
+        "Name": "Wurmple",
+        "Shiny Rate": "1/431",
+        "Sample Size": "3,023",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm265.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 52
+    },
+    {
+        "ID": "347",
+        "Name": "Anorith",
+        "Shiny Rate": "1/443",
+        "Sample Size": "443",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm347.icon.png"
+        },
+        "primaryType": {
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "es": "Bicho"
+        },
+        "Top Number": 53
+    },
+    {
+        "ID": "453",
+        "Name": "Croagunk",
+        "Shiny Rate": "1/448",
+        "Sample Size": "5,382",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm453.icon.png"
+        },
+        "primaryType": {
+            "es": "Veneno"
+        },
+        "secondaryType": {
+            "es": "Lucha"
+        },
+        "Top Number": 54
+    },
+    {
+        "ID": "559",
+        "Name": "Scraggy",
+        "Shiny Rate": "1/457",
+        "Sample Size": "915",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm559.icon.png"
+        },
+        "primaryType": {
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "es": "Lucha"
+        },
+        "Top Number": 55
+    },
+    {
+        "ID": "278",
+        "Name": "Wingull",
+        "Shiny Rate": "1/458",
+        "Sample Size": "4,129",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm278.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": "Volador"
+        },
+        "Top Number": 56
+    },
+    {
+        "ID": "307",
+        "Name": "Meditite",
+        "Shiny Rate": "1/460",
+        "Sample Size": "1,380",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm307.icon.png"
+        },
+        "primaryType": {
+            "es": "Lucha"
+        },
+        "secondaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "Top Number": 57
+    },
+    {
+        "ID": "316",
+        "Name": "Gulpin",
+        "Shiny Rate": "1/467",
+        "Sample Size": "2,337",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm316.icon.png"
+        },
+        "primaryType": {
+            "es": "Veneno"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 58
+    },
+    {
+        "ID": "353",
+        "Name": "Shuppet",
+        "Shiny Rate": "1/472",
+        "Sample Size": "187,940",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm353.icon.png"
+        },
+        "primaryType": {
+            "es": "Fantasma"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 59
+    },
+    {
+        "ID": "270",
+        "Name": "Lotad",
+        "Shiny Rate": "1/477",
+        "Sample Size": "2,866",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm270.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": "Planta"
+        },
+        "Top Number": 60
+    },
+    {
+        "ID": "607",
+        "Name": "Litwick",
+        "Shiny Rate": "1/483",
+        "Sample Size": "179,273",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm607.icon.png"
+        },
+        "primaryType": {
+            "es": "Fantasma"
+        },
+        "secondaryType": {
+            "es": "Fuego"
+        },
+        "Top Number": 61
+    },
+    {
+        "ID": "661",
+        "Name": "Fletchling",
+        "Shiny Rate": "1/483",
+        "Sample Size": "2,419",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm661.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": "Volador"
+        },
+        "Top Number": 62
+    },
+    {
+        "ID": "158",
+        "Name": "Totodile",
+        "Shiny Rate": "1/495",
+        "Sample Size": "3,468",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm158.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 63
+    },
+    {
+        "ID": "338",
+        "Name": "Solrock",
+        "Shiny Rate": "1/495",
+        "Sample Size": "990",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm338.icon.png"
+        },
+        "primaryType": {
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "Top Number": 64
+    },
+    {
+        "ID": "200",
+        "Name": "Misdreavus",
+        "Shiny Rate": "1/497",
+        "Sample Size": "187,046",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm200.icon.png"
+        },
+        "primaryType": {
+            "es": "Fantasma"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 65
+    },
+    {
+        "ID": "285",
+        "Name": "Shroomish",
+        "Shiny Rate": "1/504",
+        "Sample Size": "3,530",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm285.icon.png"
+        },
+        "primaryType": {
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 66
+    },
+    {
+        "ID": "543",
+        "Name": "Venipede",
+        "Shiny Rate": "1/509",
+        "Sample Size": "509",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm543.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": "Veneno"
+        },
+        "Top Number": 67
+    },
+    {
+        "ID": "234",
+        "Name": "Stantler",
+        "Shiny Rate": "1/510",
+        "Sample Size": "1,021",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm234.icon.png"
         },
         "primaryType": {
             "es": "Normal"
@@ -1133,13 +1085,61 @@
         "secondaryType": {
             "es": null
         },
+        "Top Number": 68
+    },
+    {
+        "ID": "25",
+        "Name": "Pikachu",
+        "Shiny Rate": "1/511",
+        "Sample Size": "2,559",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm25.icon.png"
+        },
+        "primaryType": {
+            "es": "El\u00e9ctrico"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 69
+    },
+    {
+        "ID": "425",
+        "Name": "Drifloon",
+        "Shiny Rate": "1/512",
+        "Sample Size": "186,990",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm425.icon.png"
+        },
+        "primaryType": {
+            "es": "Fantasma"
+        },
+        "secondaryType": {
+            "es": "Volador"
+        },
+        "Top Number": 70
+    },
+    {
+        "ID": "122",
+        "Name": "Mr. Mime",
+        "Shiny Rate": "1/517",
+        "Sample Size": "517",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm122.icon.png"
+        },
+        "primaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "secondaryType": {
+            "es": "Hada"
+        },
         "Top Number": 71
     },
     {
         "ID": "133",
         "Name": "Eevee",
-        "Shiny Rate": "1/431",
-        "Sample Size": "12,082",
+        "Shiny Rate": "1/522",
+        "Sample Size": "4,706",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm133.icon.png"
         },
@@ -1152,15 +1152,15 @@
         "Top Number": 72
     },
     {
-        "ID": "548",
-        "Name": "Petilil",
-        "Shiny Rate": "1/445",
-        "Sample Size": "2,225",
+        "ID": "58",
+        "Name": "Growlithe",
+        "Shiny Rate": "1/523",
+        "Sample Size": "3,142",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm548.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm58.icon.png"
         },
         "primaryType": {
-            "es": "Planta"
+            "es": "Fuego"
         },
         "secondaryType": {
             "es": null
@@ -1168,47 +1168,47 @@
         "Top Number": 73
     },
     {
-        "ID": "27",
-        "Name": "Sandshrew",
-        "Shiny Rate": "1/450",
-        "Sample Size": "3,604",
+        "ID": "396",
+        "Name": "Starly",
+        "Shiny Rate": "1/523",
+        "Sample Size": "3,666",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm27.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm396.icon.png"
         },
         "primaryType": {
-            "es": "Tierra"
+            "es": "Normal"
         },
         "secondaryType": {
-            "es": null
+            "es": "Volador"
         },
         "Top Number": 74
     },
     {
-        "ID": "185",
-        "Name": "Sudowoodo",
-        "Shiny Rate": "1/450",
-        "Sample Size": "901",
+        "ID": "41",
+        "Name": "Zubat",
+        "Shiny Rate": "1/525",
+        "Sample Size": "134,934",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm185.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm41.icon.png"
         },
         "primaryType": {
-            "es": "Roca"
+            "es": "Veneno"
         },
         "secondaryType": {
-            "es": null
+            "es": "Volador"
         },
         "Top Number": 75
     },
     {
-        "ID": "98",
-        "Name": "Krabby",
-        "Shiny Rate": "1/452",
-        "Sample Size": "452",
+        "ID": "23",
+        "Name": "Ekans",
+        "Shiny Rate": "1/526",
+        "Sample Size": "134,888",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm98.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm23.icon.png"
         },
         "primaryType": {
-            "es": "Agua"
+            "es": "Veneno"
         },
         "secondaryType": {
             "es": null
@@ -1216,15 +1216,15 @@
         "Top Number": 76
     },
     {
-        "ID": "539",
-        "Name": "Sawk",
-        "Shiny Rate": "1/453",
-        "Sample Size": "1,361",
+        "ID": "261",
+        "Name": "Poochyena",
+        "Shiny Rate": "1/529",
+        "Sample Size": "190,480",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm539.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm261.icon.png"
         },
         "primaryType": {
-            "es": "Lucha"
+            "es": "Siniestro"
         },
         "secondaryType": {
             "es": null
@@ -1232,12 +1232,12 @@
         "Top Number": 77
     },
     {
-        "ID": "179",
-        "Name": "Mareep",
-        "Shiny Rate": "1/461",
-        "Sample Size": "2,771",
+        "ID": "309",
+        "Name": "Electrike",
+        "Shiny Rate": "1/532",
+        "Sample Size": "2,131",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm179.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm309.icon.png"
         },
         "primaryType": {
             "es": "El\u00e9ctrico"
@@ -1248,42 +1248,10 @@
         "Top Number": 78
     },
     {
-        "ID": "316",
-        "Name": "Gulpin",
-        "Shiny Rate": "1/473",
-        "Sample Size": "3,312",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm316.icon.png"
-        },
-        "primaryType": {
-            "es": "Veneno"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 79
-    },
-    {
-        "ID": "353",
-        "Name": "Shuppet",
-        "Shiny Rate": "1/475",
-        "Sample Size": "2,853",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm353.icon.png"
-        },
-        "primaryType": {
-            "es": "Fantasma"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 80
-    },
-    {
         "ID": "456",
         "Name": "Finneon",
-        "Shiny Rate": "1/478",
-        "Sample Size": "2,393",
+        "Shiny Rate": "1/537",
+        "Sample Size": "2,687",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm456.icon.png"
         },
@@ -1293,63 +1261,31 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 81
+        "Top Number": 79
     },
     {
-        "ID": "535",
-        "Name": "Tympole",
-        "Shiny Rate": "1/481",
-        "Sample Size": "962",
+        "ID": "287",
+        "Name": "Slakoth",
+        "Shiny Rate": "1/538",
+        "Sample Size": "4,307",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm535.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm287.icon.png"
         },
         "primaryType": {
-            "es": "Agua"
+            "es": "Normal"
         },
         "secondaryType": {
             "es": null
         },
-        "Top Number": 82
+        "Top Number": 80
     },
     {
-        "ID": "109",
-        "Name": "Koffing",
-        "Shiny Rate": "1/492",
-        "Sample Size": "16,263",
+        "ID": "554",
+        "Name": "Darumaka",
+        "Shiny Rate": "1/552",
+        "Sample Size": "2,209",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm109.icon.png"
-        },
-        "primaryType": {
-            "es": "Veneno"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 83
-    },
-    {
-        "ID": "13",
-        "Name": "Weedle",
-        "Shiny Rate": "1/505",
-        "Sample Size": "2,022",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm13.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": "Veneno"
-        },
-        "Top Number": 84
-    },
-    {
-        "ID": "58",
-        "Name": "Growlithe",
-        "Shiny Rate": "1/506",
-        "Sample Size": "382,671",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm58.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm554.icon.png"
         },
         "primaryType": {
             "es": "Fuego"
@@ -1357,301 +1293,13 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 85
-    },
-    {
-        "ID": "529",
-        "Name": "Drilbur",
-        "Shiny Rate": "1/506",
-        "Sample Size": "1,013",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm529.icon.png"
-        },
-        "primaryType": {
-            "es": "Tierra"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 86
-    },
-    {
-        "ID": "345",
-        "Name": "Lileep",
-        "Shiny Rate": "1/508",
-        "Sample Size": "508",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm345.icon.png"
-        },
-        "primaryType": {
-            "es": "Roca"
-        },
-        "secondaryType": {
-            "es": "Planta"
-        },
-        "Top Number": 87
-    },
-    {
-        "ID": "234",
-        "Name": "Stantler",
-        "Shiny Rate": "1/509",
-        "Sample Size": "1,527",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm234.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 88
-    },
-    {
-        "ID": "129",
-        "Name": "Magikarp",
-        "Shiny Rate": "1/521",
-        "Sample Size": "277,797",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm129.icon.png"
-        },
-        "primaryType": {
-            "es": "Agua"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 89
-    },
-    {
-        "ID": "527",
-        "Name": "Woobat",
-        "Shiny Rate": "1/528",
-        "Sample Size": "3,697",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm527.icon.png"
-        },
-        "primaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 90
-    },
-    {
-        "ID": "347",
-        "Name": "Anorith",
-        "Shiny Rate": "1/529",
-        "Sample Size": "529",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm347.icon.png"
-        },
-        "primaryType": {
-            "es": "Roca"
-        },
-        "secondaryType": {
-            "es": "Bicho"
-        },
-        "Top Number": 91
-    },
-    {
-        "ID": "358",
-        "Name": "Chimecho",
-        "Shiny Rate": "1/529",
-        "Sample Size": "138,754",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm358.icon.png"
-        },
-        "primaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 92
-    },
-    {
-        "ID": "396",
-        "Name": "Starly",
-        "Shiny Rate": "1/529",
-        "Sample Size": "3,709",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm396.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 93
-    },
-    {
-        "ID": "270",
-        "Name": "Lotad",
-        "Shiny Rate": "1/532",
-        "Sample Size": "278,192",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm270.icon.png"
-        },
-        "primaryType": {
-            "es": "Agua"
-        },
-        "secondaryType": {
-            "es": "Planta"
-        },
-        "Top Number": 94
-    },
-    {
-        "ID": "519",
-        "Name": "Pidove",
-        "Shiny Rate": "1/536",
-        "Sample Size": "4,825",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm519.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 95
-    },
-    {
-        "ID": "338",
-        "Name": "Solrock",
-        "Shiny Rate": "1/539",
-        "Sample Size": "1,617",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm338.icon.png"
-        },
-        "primaryType": {
-            "es": "Roca"
-        },
-        "secondaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "Top Number": 96
-    },
-    {
-        "ID": "41",
-        "Name": "Zubat",
-        "Shiny Rate": "1/546",
-        "Sample Size": "4,918",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm41.icon.png"
-        },
-        "primaryType": {
-            "es": "Veneno"
-        },
-        "secondaryType": {
-            "es": "Volador"
-        },
-        "Top Number": 97
-    },
-    {
-        "ID": "431",
-        "Name": "Glameow",
-        "Shiny Rate": "1/548",
-        "Sample Size": "3,291",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm431.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 98
-    },
-    {
-        "ID": "170",
-        "Name": "Chinchou",
-        "Shiny Rate": "1/554",
-        "Sample Size": "5,546",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm170.icon.png"
-        },
-        "primaryType": {
-            "es": "Agua"
-        },
-        "secondaryType": {
-            "es": "El\u00e9ctrico"
-        },
-        "Top Number": 99
-    },
-    {
-        "ID": "19",
-        "Name": "Rattata",
-        "Shiny Rate": "1/555",
-        "Sample Size": "2,221",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm19.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 100
-    },
-    {
-        "ID": "48",
-        "Name": "Venonat",
-        "Shiny Rate": "1/567",
-        "Sample Size": "1,702",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm48.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": "Veneno"
-        },
-        "Top Number": 101
-    },
-    {
-        "ID": "273",
-        "Name": "Seedot",
-        "Shiny Rate": "1/574",
-        "Sample Size": "5,169",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm273.icon.png"
-        },
-        "primaryType": {
-            "es": "Planta"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 102
-    },
-    {
-        "ID": "74",
-        "Name": "Geodude",
-        "Shiny Rate": "1/575",
-        "Sample Size": "1,726",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm74.icon.png"
-        },
-        "primaryType": {
-            "es": "Roca"
-        },
-        "secondaryType": {
-            "es": "Tierra"
-        },
-        "Top Number": 103
+        "Top Number": 81
     },
     {
         "ID": "92",
         "Name": "Gastly",
-        "Shiny Rate": "1/578",
-        "Sample Size": "4,050",
+        "Shiny Rate": "1/558",
+        "Sample Size": "184,391",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm92.icon.png"
         },
@@ -1661,77 +1309,93 @@
         "secondaryType": {
             "es": "Veneno"
         },
-        "Top Number": 104
+        "Top Number": 82
     },
     {
-        "ID": "590",
-        "Name": "Foongus",
-        "Shiny Rate": "1/579",
-        "Sample Size": "4,053",
+        "ID": "506",
+        "Name": "Lillipup",
+        "Shiny Rate": "1/558",
+        "Sample Size": "5,024",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm590.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm506.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 83
+    },
+    {
+        "ID": "495",
+        "Name": "Snivy",
+        "Shiny Rate": "1/563",
+        "Sample Size": "1,126",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm495.icon.png"
         },
         "primaryType": {
             "es": "Planta"
         },
         "secondaryType": {
-            "es": "Veneno"
+            "es": null
         },
-        "Top Number": 105
+        "Top Number": 84
     },
     {
-        "ID": "194",
-        "Name": "Wooper",
-        "Shiny Rate": "1/632",
-        "Sample Size": "8,861",
+        "ID": "684",
+        "Name": "Swirlix",
+        "Shiny Rate": "1/568",
+        "Sample Size": "3,408",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm194.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm684.icon.png"
         },
         "primaryType": {
-            "es": "Agua"
+            "es": "Hada"
         },
         "secondaryType": {
-            "es": "Tierra"
+            "es": null
         },
-        "Top Number": 106
+        "Top Number": 85
     },
     {
-        "ID": "278",
-        "Name": "Wingull",
-        "Shiny Rate": "1/635",
-        "Sample Size": "2,542",
+        "ID": "237",
+        "Name": "Hitmontop",
+        "Shiny Rate": "1/577",
+        "Sample Size": "4,041",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm278.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm237.icon.png"
         },
         "primaryType": {
-            "es": "Agua"
+            "es": "Lucha"
         },
         "secondaryType": {
-            "es": "Volador"
+            "es": null
         },
-        "Top Number": 107
+        "Top Number": 86
     },
     {
-        "ID": "374",
-        "Name": "Beldum",
-        "Shiny Rate": "1/640",
-        "Sample Size": "3,202",
+        "ID": "557",
+        "Name": "Dwebble",
+        "Shiny Rate": "1/578",
+        "Sample Size": "2,315",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm374.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm557.icon.png"
         },
         "primaryType": {
-            "es": "Acero"
+            "es": "Bicho"
         },
         "secondaryType": {
-            "es": "Ps\u00edquico"
+            "es": "Roca"
         },
-        "Top Number": 108
+        "Top Number": 87
     },
     {
         "ID": "37",
         "Name": "Vulpix",
-        "Shiny Rate": "1/648",
-        "Sample Size": "6,485",
+        "Shiny Rate": "1/583",
+        "Sample Size": "5,247",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm37.icon.png"
         },
@@ -1741,47 +1405,383 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 109
+        "Top Number": 88
     },
     {
-        "ID": "163",
-        "Name": "Hoothoot",
-        "Shiny Rate": "1/653",
-        "Sample Size": "3,266",
+        "ID": "167",
+        "Name": "Spinarak",
+        "Shiny Rate": "1/584",
+        "Sample Size": "46,194",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm163.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm167.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": "Veneno"
+        },
+        "Top Number": 89
+    },
+    {
+        "ID": "708",
+        "Name": "Phantump",
+        "Shiny Rate": "1/605",
+        "Sample Size": "23,603",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm708.icon.png"
+        },
+        "primaryType": {
+            "es": "Fantasma"
+        },
+        "secondaryType": {
+            "es": "Planta"
+        },
+        "Top Number": 90
+    },
+    {
+        "ID": "27",
+        "Name": "Sandshrew",
+        "Shiny Rate": "1/611",
+        "Sample Size": "2,444",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm27.icon.png"
+        },
+        "primaryType": {
+            "es": "Tierra"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 91
+    },
+    {
+        "ID": "702",
+        "Name": "Dedenne",
+        "Shiny Rate": "1/611",
+        "Sample Size": "3,666",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm702.icon.png"
+        },
+        "primaryType": {
+            "es": "El\u00e9ctrico"
+        },
+        "secondaryType": {
+            "es": "Hada"
+        },
+        "Top Number": 92
+    },
+    {
+        "ID": "216",
+        "Name": "Teddiursa",
+        "Shiny Rate": "1/619",
+        "Sample Size": "2,479",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm216.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 93
+    },
+    {
+        "ID": "194",
+        "Name": "Wooper",
+        "Shiny Rate": "1/630",
+        "Sample Size": "6,308",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm194.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": "Tierra"
+        },
+        "Top Number": 94
+    },
+    {
+        "ID": "511",
+        "Name": "Pansage",
+        "Shiny Rate": "1/631",
+        "Sample Size": "631",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm511.icon.png"
+        },
+        "primaryType": {
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 95
+    },
+    {
+        "ID": "190",
+        "Name": "Aipom",
+        "Shiny Rate": "1/645",
+        "Sample Size": "3,225",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm190.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 96
+    },
+    {
+        "ID": "81",
+        "Name": "Magnemite",
+        "Shiny Rate": "1/652",
+        "Sample Size": "3,262",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm81.icon.png"
+        },
+        "primaryType": {
+            "es": "El\u00e9ctrico"
+        },
+        "secondaryType": {
+            "es": "Acero"
+        },
+        "Top Number": 97
+    },
+    {
+        "ID": "54",
+        "Name": "Psyduck",
+        "Shiny Rate": "1/654",
+        "Sample Size": "654",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm54.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 98
+    },
+    {
+        "ID": "228",
+        "Name": "Houndour",
+        "Shiny Rate": "1/660",
+        "Sample Size": "3,300",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm228.icon.png"
+        },
+        "primaryType": {
+            "es": "Siniestro"
+        },
+        "secondaryType": {
+            "es": "Fuego"
+        },
+        "Top Number": 99
+    },
+    {
+        "ID": "35",
+        "Name": "Clefairy",
+        "Shiny Rate": "1/671",
+        "Sample Size": "2,014",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm35.icon.png"
+        },
+        "primaryType": {
+            "es": "Hada"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 100
+    },
+    {
+        "ID": "143",
+        "Name": "Snorlax",
+        "Shiny Rate": "1/673",
+        "Sample Size": "673",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm143.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 101
+    },
+    {
+        "ID": "203",
+        "Name": "Girafarig",
+        "Shiny Rate": "1/683",
+        "Sample Size": "2,734",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm203.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "Top Number": 102
+    },
+    {
+        "ID": "13",
+        "Name": "Weedle",
+        "Shiny Rate": "1/684",
+        "Sample Size": "3,423",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm13.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": "Veneno"
+        },
+        "Top Number": 103
+    },
+    {
+        "ID": "220",
+        "Name": "Swinub",
+        "Shiny Rate": "1/692",
+        "Sample Size": "1,384",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm220.icon.png"
+        },
+        "primaryType": {
+            "es": "Hielo"
+        },
+        "secondaryType": {
+            "es": "Tierra"
+        },
+        "Top Number": 104
+    },
+    {
+        "ID": "179",
+        "Name": "Mareep",
+        "Shiny Rate": "1/718",
+        "Sample Size": "2,155",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm179.icon.png"
+        },
+        "primaryType": {
+            "es": "El\u00e9ctrico"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 105
+    },
+    {
+        "ID": "613",
+        "Name": "Cubchoo",
+        "Shiny Rate": "1/722",
+        "Sample Size": "1,444",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm613.icon.png"
+        },
+        "primaryType": {
+            "es": "Hielo"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 106
+    },
+    {
+        "ID": "590",
+        "Name": "Foongus",
+        "Shiny Rate": "1/736",
+        "Sample Size": "2,945",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm590.icon.png"
+        },
+        "primaryType": {
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "es": "Veneno"
+        },
+        "Top Number": 107
+    },
+    {
+        "ID": "84",
+        "Name": "Doduo",
+        "Shiny Rate": "1/739",
+        "Sample Size": "2,218",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm84.icon.png"
         },
         "primaryType": {
             "es": "Normal"
         },
         "secondaryType": {
             "es": "Volador"
+        },
+        "Top Number": 108
+    },
+    {
+        "ID": "751",
+        "Name": "Dewpider",
+        "Shiny Rate": "1/769",
+        "Sample Size": "2,308",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm751.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": "Bicho"
+        },
+        "Top Number": 109
+    },
+    {
+        "ID": "104",
+        "Name": "Cubone",
+        "Shiny Rate": "1/781",
+        "Sample Size": "2,343",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm104.icon.png"
+        },
+        "primaryType": {
+            "es": "Tierra"
+        },
+        "secondaryType": {
+            "es": null
         },
         "Top Number": 110
     },
     {
-        "ID": "333",
-        "Name": "Swablu",
-        "Shiny Rate": "1/662",
-        "Sample Size": "7,283",
+        "ID": "371",
+        "Name": "Bagon",
+        "Shiny Rate": "1/800",
+        "Sample Size": "1,600",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm333.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm371.icon.png"
         },
         "primaryType": {
-            "es": "Normal"
+            "es": "Drag\u00f3n"
         },
         "secondaryType": {
-            "es": "Volador"
+            "es": null
         },
         "Top Number": 111
     },
     {
-        "ID": "16",
-        "Name": "Pidgey",
-        "Shiny Rate": "1/673",
-        "Sample Size": "6,736",
+        "ID": "333",
+        "Name": "Swablu",
+        "Shiny Rate": "1/808",
+        "Sample Size": "4,848",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm16.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm333.icon.png"
         },
         "primaryType": {
             "es": "Normal"
@@ -1792,298 +1792,10 @@
         "Top Number": 112
     },
     {
-        "ID": "399",
-        "Name": "Bidoof",
-        "Shiny Rate": "1/679",
-        "Sample Size": "2,718",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm399.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 113
-    },
-    {
-        "ID": "684",
-        "Name": "Swirlix",
-        "Shiny Rate": "1/680",
-        "Sample Size": "4,083",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm684.icon.png"
-        },
-        "primaryType": {
-            "es": "Hada"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 114
-    },
-    {
-        "ID": "261",
-        "Name": "Poochyena",
-        "Shiny Rate": "1/686",
-        "Sample Size": "4,808",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm261.icon.png"
-        },
-        "primaryType": {
-            "es": "Siniestro"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 115
-    },
-    {
-        "ID": "704",
-        "Name": "Goomy",
-        "Shiny Rate": "1/690",
-        "Sample Size": "2,072",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm704.icon.png"
-        },
-        "primaryType": {
-            "es": "Drag\u00f3n"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 116
-    },
-    {
-        "ID": "613",
-        "Name": "Cubchoo",
-        "Shiny Rate": "1/740",
-        "Sample Size": "2,221",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm613.icon.png"
-        },
-        "primaryType": {
-            "es": "Hielo"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 117
-    },
-    {
-        "ID": "309",
-        "Name": "Electrike",
-        "Shiny Rate": "1/741",
-        "Sample Size": "2,223",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm309.icon.png"
-        },
-        "primaryType": {
-            "es": "El\u00e9ctrico"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 118
-    },
-    {
-        "ID": "702",
-        "Name": "Dedenne",
-        "Shiny Rate": "1/743",
-        "Sample Size": "4,459",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm702.icon.png"
-        },
-        "primaryType": {
-            "es": "El\u00e9ctrico"
-        },
-        "secondaryType": {
-            "es": "Hada"
-        },
-        "Top Number": 119
-    },
-    {
-        "ID": "515",
-        "Name": "Panpour",
-        "Shiny Rate": "1/753",
-        "Sample Size": "1,507",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm515.icon.png"
-        },
-        "primaryType": {
-            "es": "Agua"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 120
-    },
-    {
-        "ID": "616",
-        "Name": "Shelmet",
-        "Shiny Rate": "1/776",
-        "Sample Size": "1,553",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm616.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 121
-    },
-    {
-        "ID": "81",
-        "Name": "Magnemite",
-        "Shiny Rate": "1/837",
-        "Sample Size": "3,350",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm81.icon.png"
-        },
-        "primaryType": {
-            "es": "El\u00e9ctrico"
-        },
-        "secondaryType": {
-            "es": "Acero"
-        },
-        "Top Number": 122
-    },
-    {
-        "ID": "554",
-        "Name": "Darumaka",
-        "Shiny Rate": "1/838",
-        "Sample Size": "3,354",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm554.icon.png"
-        },
-        "primaryType": {
-            "es": "Fuego"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 123
-    },
-    {
-        "ID": "557",
-        "Name": "Dwebble",
-        "Shiny Rate": "1/848",
-        "Sample Size": "2,546",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm557.icon.png"
-        },
-        "primaryType": {
-            "es": "Bicho"
-        },
-        "secondaryType": {
-            "es": "Roca"
-        },
-        "Top Number": 124
-    },
-    {
-        "ID": "111",
-        "Name": "Rhyhorn",
-        "Shiny Rate": "1/918",
-        "Sample Size": "2,754",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm111.icon.png"
-        },
-        "primaryType": {
-            "es": "Tierra"
-        },
-        "secondaryType": {
-            "es": "Roca"
-        },
-        "Top Number": 125
-    },
-    {
-        "ID": "511",
-        "Name": "Pansage",
-        "Shiny Rate": "1/941",
-        "Sample Size": "941",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm511.icon.png"
-        },
-        "primaryType": {
-            "es": "Planta"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 126
-    },
-    {
-        "ID": "682",
-        "Name": "Spritzee",
-        "Shiny Rate": "1/945",
-        "Sample Size": "945",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm682.icon.png"
-        },
-        "primaryType": {
-            "es": "Hada"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 127
-    },
-    {
-        "ID": "287",
-        "Name": "Slakoth",
-        "Shiny Rate": "1/957",
-        "Sample Size": "2,871",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm287.icon.png"
-        },
-        "primaryType": {
-            "es": "Normal"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 128
-    },
-    {
-        "ID": "307",
-        "Name": "Meditite",
-        "Shiny Rate": "1/958",
-        "Sample Size": "1,916",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm307.icon.png"
-        },
-        "primaryType": {
-            "es": "Lucha"
-        },
-        "secondaryType": {
-            "es": "Ps\u00edquico"
-        },
-        "Top Number": 129
-    },
-    {
-        "ID": "285",
-        "Name": "Shroomish",
-        "Shiny Rate": "1/964",
-        "Sample Size": "4,822",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm285.icon.png"
-        },
-        "primaryType": {
-            "es": "Planta"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 130
-    },
-    {
         "ID": "155",
         "Name": "Cyndaquil",
-        "Shiny Rate": "1/981",
-        "Sample Size": "3,924",
+        "Shiny Rate": "1/826",
+        "Sample Size": "3,305",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm155.icon.png"
         },
@@ -2093,47 +1805,79 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 131
+        "Top Number": 113
     },
     {
-        "ID": "220",
-        "Name": "Swinub",
-        "Shiny Rate": "1/1,059",
-        "Sample Size": "2,118",
+        "ID": "527",
+        "Name": "Woobat",
+        "Shiny Rate": "1/839",
+        "Sample Size": "2,519",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm220.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm527.icon.png"
         },
         "primaryType": {
-            "es": "Hielo"
+            "es": "Ps\u00edquico"
         },
         "secondaryType": {
-            "es": "Tierra"
+            "es": "Volador"
         },
-        "Top Number": 132
+        "Top Number": 114
     },
     {
-        "ID": "200",
-        "Name": "Misdreavus",
-        "Shiny Rate": "1/1,061",
-        "Sample Size": "1,061",
+        "ID": "111",
+        "Name": "Rhyhorn",
+        "Shiny Rate": "1/860",
+        "Sample Size": "2,580",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm200.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm111.icon.png"
         },
         "primaryType": {
-            "es": "Fantasma"
+            "es": "Tierra"
+        },
+        "secondaryType": {
+            "es": "Roca"
+        },
+        "Top Number": 115
+    },
+    {
+        "ID": "170",
+        "Name": "Chinchou",
+        "Shiny Rate": "1/893",
+        "Sample Size": "5,360",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm170.icon.png"
+        },
+        "primaryType": {
+            "es": "Agua"
+        },
+        "secondaryType": {
+            "es": "El\u00e9ctrico"
+        },
+        "Top Number": 116
+    },
+    {
+        "ID": "616",
+        "Name": "Shelmet",
+        "Shiny Rate": "1/915",
+        "Sample Size": "2,747",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm616.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
         },
         "secondaryType": {
             "es": null
         },
-        "Top Number": 133
+        "Top Number": 117
     },
     {
-        "ID": "296",
-        "Name": "Makuhita",
-        "Shiny Rate": "1/1,077",
-        "Sample Size": "3,233",
+        "ID": "539",
+        "Name": "Sawk",
+        "Shiny Rate": "1/983",
+        "Sample Size": "983",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm296.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm539.icon.png"
         },
         "primaryType": {
             "es": "Lucha"
@@ -2141,29 +1885,13 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 134
-    },
-    {
-        "ID": "498",
-        "Name": "Tepig",
-        "Shiny Rate": "1/1,105",
-        "Sample Size": "1,105",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm498.icon.png"
-        },
-        "primaryType": {
-            "es": "Fuego"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 135
+        "Top Number": 118
     },
     {
         "ID": "588",
         "Name": "Karrablast",
-        "Shiny Rate": "1/1,201",
-        "Sample Size": "2,403",
+        "Shiny Rate": "1/988",
+        "Sample Size": "1,976",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm588.icon.png"
         },
@@ -2173,31 +1901,31 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 136
+        "Top Number": 119
     },
     {
-        "ID": "667",
-        "Name": "Litleo",
-        "Shiny Rate": "1/1,380",
-        "Sample Size": "1,380",
+        "ID": "498",
+        "Name": "Tepig",
+        "Shiny Rate": "1/1,034",
+        "Sample Size": "1,034",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm667.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm498.icon.png"
         },
         "primaryType": {
             "es": "Fuego"
         },
         "secondaryType": {
-            "es": "Normal"
+            "es": null
         },
-        "Top Number": 137
+        "Top Number": 120
     },
     {
-        "ID": "237",
-        "Name": "Hitmontop",
-        "Shiny Rate": "1/1,393",
-        "Sample Size": "5,575",
+        "ID": "296",
+        "Name": "Makuhita",
+        "Shiny Rate": "1/1,065",
+        "Sample Size": "2,130",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm237.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm296.icon.png"
         },
         "primaryType": {
             "es": "Lucha"
@@ -2205,77 +1933,93 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 138
+        "Top Number": 121
     },
     {
-        "ID": "501",
-        "Name": "Oshawott",
-        "Shiny Rate": "1/1,446",
-        "Sample Size": "1,446",
+        "ID": "273",
+        "Name": "Seedot",
+        "Shiny Rate": "1/1,075",
+        "Sample Size": "3,225",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm501.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm273.icon.png"
         },
         "primaryType": {
-            "es": "Agua"
+            "es": "Planta"
         },
         "secondaryType": {
             "es": null
         },
-        "Top Number": 139
+        "Top Number": 122
     },
     {
-        "ID": "158",
-        "Name": "Totodile",
-        "Shiny Rate": "1/1,730",
-        "Sample Size": "5,190",
+        "ID": "74",
+        "Name": "Geodude",
+        "Shiny Rate": "1/1,077",
+        "Sample Size": "1,077",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm158.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm74.icon.png"
         },
         "primaryType": {
-            "es": "Agua"
+            "es": "Roca"
+        },
+        "secondaryType": {
+            "es": "Tierra"
+        },
+        "Top Number": 123
+    },
+    {
+        "ID": "519",
+        "Name": "Pidove",
+        "Shiny Rate": "1/1,108",
+        "Sample Size": "4,435",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm519.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": "Volador"
+        },
+        "Top Number": 124
+    },
+    {
+        "ID": "399",
+        "Name": "Bidoof",
+        "Shiny Rate": "1/1,157",
+        "Sample Size": "2,314",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm399.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
         },
         "secondaryType": {
             "es": null
         },
-        "Top Number": 140
+        "Top Number": 125
     },
     {
-        "ID": "751",
-        "Name": "Dewpider",
-        "Shiny Rate": "1/1,931",
-        "Sample Size": "1,931",
+        "ID": "280",
+        "Name": "Ralts",
+        "Shiny Rate": "1/1,195",
+        "Sample Size": "2,390",
         "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm751.icon.png"
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm280.icon.png"
         },
         "primaryType": {
-            "es": "Agua"
+            "es": "Ps\u00edquico"
         },
         "secondaryType": {
-            "es": "Bicho"
+            "es": "Hada"
         },
-        "Top Number": 141
-    },
-    {
-        "ID": "371",
-        "Name": "Bagon",
-        "Shiny Rate": "1/2,796",
-        "Sample Size": "2,796",
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm371.icon.png"
-        },
-        "primaryType": {
-            "es": "Drag\u00f3n"
-        },
-        "secondaryType": {
-            "es": null
-        },
-        "Top Number": 142
+        "Top Number": 126
     },
     {
         "ID": "736",
         "Name": "Grubbin",
-        "Shiny Rate": "1/3,847",
-        "Sample Size": "3,847",
+        "Shiny Rate": "1/1,230",
+        "Sample Size": "3,692",
         "assets": {
             "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm736.icon.png"
         },
@@ -2285,6 +2029,102 @@
         "secondaryType": {
             "es": null
         },
-        "Top Number": 143
+        "Top Number": 127
+    },
+    {
+        "ID": "16",
+        "Name": "Pidgey",
+        "Shiny Rate": "1/1,616",
+        "Sample Size": "4,849",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm16.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": "Volador"
+        },
+        "Top Number": 128
+    },
+    {
+        "ID": "374",
+        "Name": "Beldum",
+        "Shiny Rate": "1/1,877",
+        "Sample Size": "1,877",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm374.icon.png"
+        },
+        "primaryType": {
+            "es": "Acero"
+        },
+        "secondaryType": {
+            "es": "Ps\u00edquico"
+        },
+        "Top Number": 129
+    },
+    {
+        "ID": "431",
+        "Name": "Glameow",
+        "Shiny Rate": "1/1,954",
+        "Sample Size": "1,954",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm431.icon.png"
+        },
+        "primaryType": {
+            "es": "Normal"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 130
+    },
+    {
+        "ID": "48",
+        "Name": "Venonat",
+        "Shiny Rate": "1/2,118",
+        "Sample Size": "2,118",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm48.icon.png"
+        },
+        "primaryType": {
+            "es": "Bicho"
+        },
+        "secondaryType": {
+            "es": "Veneno"
+        },
+        "Top Number": 131
+    },
+    {
+        "ID": "667",
+        "Name": "Litleo",
+        "Shiny Rate": "1/2,135",
+        "Sample Size": "2,135",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm667.icon.png"
+        },
+        "primaryType": {
+            "es": "Fuego"
+        },
+        "secondaryType": {
+            "es": "Normal"
+        },
+        "Top Number": 132
+    },
+    {
+        "ID": "152",
+        "Name": "Chikorita",
+        "Shiny Rate": "1/3,239",
+        "Sample Size": "3,239",
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm152.icon.png"
+        },
+        "primaryType": {
+            "es": "Planta"
+        },
+        "secondaryType": {
+            "es": null
+        },
+        "Top Number": 133
     }
 ]
