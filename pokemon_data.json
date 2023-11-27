@@ -2792,8 +2792,8 @@
                 "es": "Terratemblor"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             },
             {
                 "en": "Night Slash",
@@ -3486,8 +3486,8 @@
                 "es": "Meteorobola"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             },
             {
                 "en": "Ember",
@@ -4527,8 +4527,8 @@
                         "es": "Excavar"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     },
                     {
                         "en": "Body Slam",
@@ -5048,8 +5048,8 @@
                 "es": "Psicocolmillo"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             },
             {
                 "en": "Bite",
@@ -6434,8 +6434,8 @@
                 "es": "Nitrocarga"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             },
             {
                 "en": "Ember",
@@ -9710,8 +9710,8 @@
                         "es": "Puño Hielo"
                     },
                     {
-                        "en": "391",
-                        "es": "391"
+                        "en": "Triple Axel",
+                        "es": "Triple Axel"
                     }
                 ],
                 "assets": {
@@ -9769,8 +9769,8 @@
                 "es": "Golpe Aéreo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             },
             {
                 "en": "Steel Wing",
@@ -9949,8 +9949,8 @@
                 "es": "Lanzallamas"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -10094,8 +10094,8 @@
                 "es": "Terremoto"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -11623,6 +11623,15 @@
                 "es": "Hiperrayo"
             }
         ],
+        "stats": {
+            "stamina": 214,
+            "attack": 300,
+            "defense": 182
+        },
+        "assets": {
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm150.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm150.s.icon.png"
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": [],
         "regionForms": [
@@ -11686,16 +11695,7 @@
                     "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_pm0150_00_pgo_a_shiny.png"
                 }
             }
-        ],
-        "stats": {
-            "stamina": 214,
-            "attack": 300,
-            "defense": 182
-        },
-        "assets": {
-            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm150.icon.png",
-            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm150.s.icon.png"
-        }
+        ]
     },
     {
         "id": "MEW",
@@ -13416,8 +13416,8 @@
                 "es": "Chispazo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -13472,8 +13472,8 @@
                 "es": "Chispazo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -13540,8 +13540,8 @@
                 "es": "Giro Vil"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             },
             {
                 "en": "Dragon Pulse",
@@ -13797,8 +13797,8 @@
                 "es": "Rayo Meteórico"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -14299,7 +14299,52 @@
         ],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "regionForms": [],
+        "regionForms": [
+            {
+                "id": "WOOPER",
+                "formId": "WOOPER_PALDEA",
+                "dexNr": 194,
+                "generation": 2,
+                "primaryType": {
+                    "en": "Poison",
+                    "es": "Veneno"
+                },
+                "secondaryType": {
+                    "en": "Ground",
+                    "es": "Tierra"
+                },
+                "names": {
+                    "en": "Wooper",
+                    "es": "Wooper"
+                },
+                "attacks": [
+                    {
+                        "en": "Poison Jab",
+                        "es": "Puya Nociva"
+                    },
+                    {
+                        "en": "Mud Shot",
+                        "es": "Disparo Lodo"
+                    },
+                    {
+                        "en": "Sludge Wave",
+                        "es": "Onda Tóxica"
+                    },
+                    {
+                        "en": "Dig",
+                        "es": "Excavar"
+                    },
+                    {
+                        "en": "Body Slam",
+                        "es": "Golpe Cuerpo"
+                    }
+                ],
+                "assets": {
+                    "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm194.fPALDEA.icon.png",
+                    "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm194.fPALDEA.s.icon.png"
+                }
+            }
+        ],
         "stats": {
             "stamina": 146,
             "attack": 75,
@@ -14838,8 +14883,8 @@
                 "es": "Psicocolmillo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -15424,8 +15469,8 @@
                 "es": "Tajo Umbrío"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": true,
@@ -15613,8 +15658,8 @@
                 "es": "Juego Sucio"
             },
             {
-                "en": "391",
-                "es": "391"
+                "en": "Triple Axel",
+                "es": "Triple Axel"
             }
         ],
         "hasMegaEvolution": false,
@@ -15714,8 +15759,8 @@
                 "es": "Carantoña"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -15774,8 +15819,8 @@
                 "es": "Carantoña"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -16571,8 +16616,8 @@
                 "es": "Golpe Cuerpo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -16639,8 +16684,8 @@
                 "es": "Golpe Cuerpo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -16890,8 +16935,8 @@
                 "es": "Roca Afilada"
             },
             {
-                "en": "391",
-                "es": "391"
+                "en": "Triple Axel",
+                "es": "Triple Axel"
             }
         ],
         "hasMegaEvolution": false,
@@ -17343,8 +17388,8 @@
                 "es": "Nitrocarga"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -17397,8 +17442,8 @@
                         "es": "Nitrocarga"
                     },
                     {
-                        "en": "393",
-                        "es": "393"
+                        "en": "Scorching Sands",
+                        "es": "Arenas Ardientes"
                     }
                 ],
                 "assets": {
@@ -19773,8 +19818,8 @@
                 "es": "Sombra Vil"
             },
             {
-                "en": "391",
-                "es": "391"
+                "en": "Triple Axel",
+                "es": "Triple Axel"
             }
         ],
         "hasMegaEvolution": false,
@@ -19837,8 +19882,8 @@
                 "es": "Bola Sombra"
             },
             {
-                "en": "391",
-                "es": "391"
+                "en": "Triple Axel",
+                "es": "Triple Axel"
             },
             {
                 "en": "Synchronoise",
@@ -22462,8 +22507,8 @@
                 "es": "Triturar"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -22518,8 +22563,8 @@
                 "es": "Zumbido"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -22578,8 +22623,8 @@
                 "es": "Estruendo"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             },
             {
                 "en": "Earth Power",
@@ -23383,8 +23428,8 @@
                 "es": "Tumba Rocas"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -28981,8 +29026,8 @@
                 "es": "Onda Certera"
             },
             {
-                "en": "391",
-                "es": "391"
+                "en": "Triple Axel",
+                "es": "Triple Axel"
             }
         ],
         "hasMegaEvolution": true,
@@ -29330,8 +29375,8 @@
                 "es": "Bomba Lodo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -29386,8 +29431,8 @@
                 "es": "Bomba Lodo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -30218,8 +30263,8 @@
                 "es": "Meteorobola"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -30855,8 +30900,8 @@
                 "es": "Juego Sucio"
             },
             {
-                "en": "391",
-                "es": "391"
+                "en": "Triple Axel",
+                "es": "Triple Axel"
             }
         ],
         "hasMegaEvolution": false,
@@ -31223,8 +31268,8 @@
                 "es": "Psíquico"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             },
             {
                 "en": "Thunderbolt",
@@ -32472,8 +32517,8 @@
                 "es": "Tierra Viva"
             },
             {
-                "en": "MAGMA_STORM",
-                "es": "MAGMA_STORM"
+                "en": "Magma Storm",
+                "es": "Lluvia Ígnea"
             }
         ],
         "hasMegaEvolution": false,
@@ -32937,10 +32982,6 @@
                 "es": "Cabezazo Zen"
             },
             {
-                "en": "Magical Leaf",
-                "es": "Hoja Mágica"
-            },
-            {
                 "en": "Energy Ball",
                 "es": "Energibola"
             },
@@ -32985,10 +33026,6 @@
                     {
                         "en": "Zen Headbutt",
                         "es": "Cabezazo Zen"
-                    },
-                    {
-                        "en": "Magical Leaf",
-                        "es": "Hoja Mágica"
                     },
                     {
                         "en": "Energy Ball",
@@ -33037,10 +33074,6 @@
                     {
                         "en": "Zen Headbutt",
                         "es": "Cabezazo Zen"
-                    },
-                    {
-                        "en": "Magical Leaf",
-                        "es": "Hoja Mágica"
                     },
                     {
                         "en": "Energy Ball",
@@ -35843,8 +35876,8 @@
                 "es": "Cabeza de Hierro"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -36053,6 +36086,10 @@
             {
                 "en": "Stone Edge",
                 "es": "Roca Afilada"
+            },
+            {
+                "en": "Brutal Swing",
+                "es": "Giro Vil"
             }
         ],
         "hasMegaEvolution": false,
@@ -39107,8 +39144,8 @@
                 "es": "Voltio Cruel"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -39153,8 +39190,8 @@
                         "es": "Voltio Cruel"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -39201,8 +39238,8 @@
                         "es": "Voltio Cruel"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -39249,8 +39286,8 @@
                         "es": "Voltio Cruel"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -39297,8 +39334,8 @@
                         "es": "Voltio Cruel"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -39360,8 +39397,8 @@
                 "es": "Hiperrayo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -39410,8 +39447,8 @@
                         "es": "Hiperrayo"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -39462,8 +39499,8 @@
                         "es": "Hiperrayo"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -39514,8 +39551,8 @@
                         "es": "Hiperrayo"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -39566,8 +39603,8 @@
                         "es": "Hiperrayo"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -41335,8 +41372,8 @@
                 "es": "Acoso"
             },
             {
-                "en": "WATER_SHURIKEN_FAST",
-                "es": "WATER_SHURIKEN_FAST"
+                "en": "Water Shuriken",
+                "es": "Shuriken de Agua"
             },
             {
                 "en": "Bug Buzz",
@@ -44476,8 +44513,8 @@
                 "es": "Burbuja"
             },
             {
-                "en": "WATER_SHURIKEN_FAST",
-                "es": "WATER_SHURIKEN_FAST"
+                "en": "Water Shuriken",
+                "es": "Shuriken de Agua"
             },
             {
                 "en": "Night Slash",
@@ -44608,8 +44645,8 @@
                 "es": "Puño Fuego"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -48363,10 +48400,6 @@
                 "es": "Demolición"
             },
             {
-                "en": "Rock Slide",
-                "es": "Avalancha"
-            },
-            {
                 "en": "Seed Bomb",
                 "es": "Bomba Germen"
             }
@@ -48417,10 +48450,6 @@
             {
                 "en": "Brick Break",
                 "es": "Demolición"
-            },
-            {
-                "en": "Rock Slide",
-                "es": "Avalancha"
             },
             {
                 "en": "Leaf Blade",
@@ -51760,8 +51789,8 @@
                 "es": "Trueno"
             },
             {
-                "en": "387",
-                "es": "387"
+                "en": "Geomancy",
+                "es": "Geocontrol"
             }
         ],
         "hasMegaEvolution": false,
@@ -51828,8 +51857,8 @@
                 "es": "Psíquico"
             },
             {
-                "en": "389",
-                "es": "389"
+                "en": "Oblivion Wing",
+                "es": "Ala Mortífera"
             }
         ],
         "hasMegaEvolution": false,
@@ -51969,8 +51998,8 @@
                     "es": "Tierra"
                 },
                 "names": {
-                    "en": "Zygarde",
-                    "es": "Zygarde"
+                    "en": "Zygarde (50% Forme)",
+                    "es": "Zygarde (Forma 50%)"
                 },
                 "attacks": [
                     {
@@ -52025,8 +52054,8 @@
                     "es": "Tierra"
                 },
                 "names": {
-                    "en": "Zygarde",
-                    "es": "Zygarde"
+                    "en": "Zygarde (10% Forme)",
+                    "es": "Zygarde (Forma 10%)"
                 },
                 "attacks": [
                     {
@@ -53321,6 +53350,10 @@
             {
                 "en": "Crunch",
                 "es": "Triturar"
+            },
+            {
+                "en": "Volt Switch",
+                "es": "Voltiocambio"
             }
         ],
         "hasMegaEvolution": false,
@@ -53377,6 +53410,10 @@
             {
                 "en": "Crunch",
                 "es": "Triturar"
+            },
+            {
+                "en": "Volt Switch",
+                "es": "Voltiocambio"
             }
         ],
         "hasMegaEvolution": false,
@@ -53864,8 +53901,8 @@
                 "es": "Triturar"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -53920,8 +53957,8 @@
                 "es": "Triturar"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -53970,8 +54007,8 @@
                         "es": "Triturar"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -54018,8 +54055,8 @@
                         "es": "Triturar"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -54066,8 +54103,8 @@
                         "es": "Triturar"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     }
                 ],
                 "assets": {
@@ -54598,8 +54635,8 @@
                 "es": "Hierba Lazo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -54662,8 +54699,8 @@
                 "es": "Tijera X"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -55078,8 +55115,8 @@
                 "es": "Hierba Lazo"
             },
             {
-                "en": "391",
-                "es": "391"
+                "en": "Triple Axel",
+                "es": "Triple Axel"
             }
         ],
         "hasMegaEvolution": false,
@@ -55142,8 +55179,8 @@
                 "es": "Pisotón"
             },
             {
-                "en": "391",
-                "es": "391"
+                "en": "Triple Axel",
+                "es": "Triple Axel"
             }
         ],
         "hasMegaEvolution": false,
@@ -55470,8 +55507,8 @@
                 "es": "Tierra Viva"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -55526,8 +55563,8 @@
                 "es": "Tierra Viva"
             },
             {
-                "en": "393",
-                "es": "393"
+                "en": "Scorching Sands",
+                "es": "Arenas Ardientes"
             }
         ],
         "hasMegaEvolution": false,
@@ -56636,8 +56673,8 @@
                     "es": "Volador"
                 },
                 "names": {
-                    "en": "Minior",
-                    "es": "Minior"
+                    "en": "Minior (Blue Plumage)",
+                    "es": "Minior (Plumaje Azul)"
                 },
                 "attacks": [
                     {
@@ -56680,8 +56717,8 @@
                     "es": "Volador"
                 },
                 "names": {
-                    "en": "Minior",
-                    "es": "Minior"
+                    "en": "Minior (Green Plumage)",
+                    "es": "Minior (Plumaje Verde)"
                 },
                 "attacks": [
                     {
@@ -56900,8 +56937,8 @@
                     "es": "Volador"
                 },
                 "names": {
-                    "en": "Minior",
-                    "es": "Minior"
+                    "en": "Minior (Yellow Plumage)",
+                    "es": "Minior (Plumaje Amarillo)"
                 },
                 "attacks": [
                     {
@@ -59415,8 +59452,8 @@
                 "es": "Triturar"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -61358,7 +61395,7 @@
                 },
                 "names": {
                     "en": "Sinistea (Phony Form)",
-                    "es": "Sinistea (Forma Arcaica)"
+                    "es": "Sinistea (Forma Falsificada)"
                 },
                 "attacks": [
                     {
@@ -61507,7 +61544,7 @@
                 },
                 "names": {
                     "en": "Polteageist (Phony Form)",
-                    "es": "Polteageist (Forma Arcaica)"
+                    "es": "Polteageist (Forma Falsificada)"
                 },
                 "attacks": [
                     {
@@ -61982,8 +62019,8 @@
                 "es": "Juego Sucio"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -62158,8 +62195,8 @@
                 "es": "Viento Hielo"
             },
             {
-                "en": "391",
-                "es": "391"
+                "en": "Triple Axel",
+                "es": "Triple Axel"
             }
         ],
         "hasMegaEvolution": false,
@@ -64578,8 +64615,8 @@
                 "es": "Roca Afilada"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -64638,8 +64675,8 @@
                 "es": "Puño Hielo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             },
             {
                 "en": "High Horsepower",
@@ -64789,8 +64826,8 @@
             "es": null
         },
         "names": {
-            "en": "SPRIGATITO",
-            "es": "SPRIGATITO"
+            "en": "Sprigatito",
+            "es": "Sprigatito"
         },
         "attacks": [
             {
@@ -64841,8 +64878,8 @@
             "es": null
         },
         "names": {
-            "en": "FLORAGATO",
-            "es": "FLORAGATO"
+            "en": "Floragato",
+            "es": "Floragato"
         },
         "attacks": [
             {
@@ -64893,8 +64930,8 @@
             "es": "Siniestro"
         },
         "names": {
-            "en": "MEOWSCARADA",
-            "es": "MEOWSCARADA"
+            "en": "Meowscarada",
+            "es": "Meowscarada"
         },
         "attacks": [
             {
@@ -64949,8 +64986,8 @@
             "es": null
         },
         "names": {
-            "en": "FUECOCO",
-            "es": "FUECOCO"
+            "en": "Fuecoco",
+            "es": "Fuecoco"
         },
         "attacks": [
             {
@@ -65001,8 +65038,8 @@
             "es": null
         },
         "names": {
-            "en": "CROCALOR",
-            "es": "CROCALOR"
+            "en": "Crocalor",
+            "es": "Crocalor"
         },
         "attacks": [
             {
@@ -65053,8 +65090,8 @@
             "es": "Fantasma"
         },
         "names": {
-            "en": "SKELEDIRGE",
-            "es": "SKELEDIRGE"
+            "en": "Skeledirge",
+            "es": "Skeledirge"
         },
         "attacks": [
             {
@@ -65109,8 +65146,8 @@
             "es": null
         },
         "names": {
-            "en": "QUAXLY",
-            "es": "QUAXLY"
+            "en": "Quaxly",
+            "es": "Quaxly"
         },
         "attacks": [
             {
@@ -65161,8 +65198,8 @@
             "es": null
         },
         "names": {
-            "en": "QUAXWELL",
-            "es": "QUAXWELL"
+            "en": "Quaxwell",
+            "es": "Quaxwell"
         },
         "attacks": [
             {
@@ -65213,8 +65250,8 @@
             "es": "Lucha"
         },
         "names": {
-            "en": "QUAQUAVAL",
-            "es": "QUAQUAVAL"
+            "en": "Quaquaval",
+            "es": "Quaquaval"
         },
         "attacks": [
             {
@@ -65269,8 +65306,8 @@
             "es": null
         },
         "names": {
-            "en": "LECHONK",
-            "es": "LECHONK"
+            "en": "Lechonk",
+            "es": "Lechonk"
         },
         "attacks": [
             {
@@ -65286,8 +65323,8 @@
                 "es": "Excavar"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             },
             {
                 "en": "Body Slam",
@@ -65321,8 +65358,8 @@
             "es": null
         },
         "names": {
-            "en": "OINKOLOGNE",
-            "es": "OINKOLOGNE"
+            "en": "Oinkologne",
+            "es": "Oinkologne"
         },
         "attacks": [
             {
@@ -65338,8 +65375,8 @@
                 "es": "Excavar"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             },
             {
                 "en": "Body Slam",
@@ -65363,8 +65400,8 @@
                     "es": null
                 },
                 "names": {
-                    "en": " (Female)",
-                    "es": " (Hembra)"
+                    "en": "Oinkologne (Female)",
+                    "es": "Oinkologne (Hembra)"
                 },
                 "attacks": [
                     {
@@ -65380,8 +65417,8 @@
                         "es": "Excavar"
                     },
                     {
-                        "en": "392",
-                        "es": "392"
+                        "en": "Trailblaze",
+                        "es": "Abrecaminos"
                     },
                     {
                         "en": "Body Slam",
@@ -65418,8 +65455,8 @@
             "es": null
         },
         "names": {
-            "en": "TAROUNTULA",
-            "es": "TAROUNTULA"
+            "en": "Tarountula",
+            "es": "Tarountula"
         },
         "attacks": [
             {
@@ -65470,8 +65507,8 @@
             "es": null
         },
         "names": {
-            "en": "SPIDOPS",
-            "es": "SPIDOPS"
+            "en": "Spidops",
+            "es": "Spidops"
         },
         "attacks": [
             {
@@ -65526,8 +65563,8 @@
             "es": null
         },
         "names": {
-            "en": "NYMBLE",
-            "es": "NYMBLE"
+            "en": "Nymble",
+            "es": "Nymble"
         },
         "attacks": [
             {
@@ -65543,8 +65580,8 @@
                 "es": "Tijera X"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             },
             {
                 "en": "Bug Buzz",
@@ -65578,8 +65615,8 @@
             "es": "Siniestro"
         },
         "names": {
-            "en": "LOKIX",
-            "es": "LOKIX"
+            "en": "Lokix",
+            "es": "Lokix"
         },
         "attacks": [
             {
@@ -65595,8 +65632,8 @@
                 "es": "Tijera X"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             },
             {
                 "en": "Bug Buzz",
@@ -65634,8 +65671,8 @@
             "es": null
         },
         "names": {
-            "en": "PAWMI",
-            "es": "PAWMI"
+            "en": "Pawmi",
+            "es": "Pawmi"
         },
         "attacks": [
             {
@@ -65686,8 +65723,8 @@
             "es": "Lucha"
         },
         "names": {
-            "en": "PAWMO",
-            "es": "PAWMO"
+            "en": "Pawmo",
+            "es": "Pawmo"
         },
         "attacks": [
             {
@@ -65738,8 +65775,8 @@
             "es": "Lucha"
         },
         "names": {
-            "en": "PAWMOT",
-            "es": "PAWMOT"
+            "en": "Pawmot",
+            "es": "Pawmot"
         },
         "attacks": [
             {
@@ -65798,8 +65835,8 @@
             "es": null
         },
         "names": {
-            "en": "TANDEMAUS",
-            "es": "TANDEMAUS"
+            "en": "Tandemaus",
+            "es": "Tandemaus"
         },
         "attacks": [
             {
@@ -65854,8 +65891,8 @@
             "es": null
         },
         "names": {
-            "en": "MAUSHOLD",
-            "es": "MAUSHOLD"
+            "en": "Maushold",
+            "es": "Maushold"
         },
         "attacks": [
             {
@@ -65900,8 +65937,8 @@
                     "es": null
                 },
                 "names": {
-                    "en": "MAUSHOLD",
-                    "es": "MAUSHOLD"
+                    "en": "Maushold (Family of Four)",
+                    "es": "Maushold (Familia de Cuatro)"
                 },
                 "attacks": [
                     {
@@ -65948,8 +65985,8 @@
                     "es": null
                 },
                 "names": {
-                    "en": "MAUSHOLD",
-                    "es": "MAUSHOLD"
+                    "en": "Maushold (Family of Three)",
+                    "es": "Maushold (Familia de Tres)"
                 },
                 "attacks": [
                     {
@@ -66007,8 +66044,8 @@
             "es": null
         },
         "names": {
-            "en": "FIDOUGH",
-            "es": "FIDOUGH"
+            "en": "Fidough",
+            "es": "Fidough"
         },
         "attacks": [
             {
@@ -66059,8 +66096,8 @@
             "es": null
         },
         "names": {
-            "en": "DACHSBUN",
-            "es": "DACHSBUN"
+            "en": "Dachsbun",
+            "es": "Dachsbun"
         },
         "attacks": [
             {
@@ -66111,8 +66148,8 @@
             "es": "Normal"
         },
         "names": {
-            "en": "SMOLIV",
-            "es": "SMOLIV"
+            "en": "Smoliv",
+            "es": "Smoliv"
         },
         "attacks": [
             {
@@ -66145,8 +66182,8 @@
             "defense": 89
         },
         "assets": {
-            "image": null,
-            "shinyImage": null
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm928.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm928.s.icon.png"
         }
     },
     {
@@ -66163,8 +66200,8 @@
             "es": "Normal"
         },
         "names": {
-            "en": "DOLLIV",
-            "es": "DOLLIV"
+            "en": "Dolliv",
+            "es": "Dolliv"
         },
         "attacks": [
             {
@@ -66201,8 +66238,8 @@
             "defense": 131
         },
         "assets": {
-            "image": null,
-            "shinyImage": null
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm929.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm929.s.icon.png"
         }
     },
     {
@@ -66219,8 +66256,8 @@
             "es": "Normal"
         },
         "names": {
-            "en": "ARBOLIVA",
-            "es": "ARBOLIVA"
+            "en": "Arboliva",
+            "es": "Arboliva"
         },
         "attacks": [
             {
@@ -66257,8 +66294,8 @@
             "defense": 189
         },
         "assets": {
-            "image": null,
-            "shinyImage": null
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm930.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm930.s.icon.png"
         }
     },
     {
@@ -66275,8 +66312,8 @@
             "es": "Volador"
         },
         "names": {
-            "en": "SQUAWKABILLY",
-            "es": "SQUAWKABILLY"
+            "en": "Squawkabilly",
+            "es": "Squawkabilly"
         },
         "attacks": [
             {
@@ -66317,8 +66354,8 @@
                     "es": "Volador"
                 },
                 "names": {
-                    "en": "SQUAWKABILLY",
-                    "es": "SQUAWKABILLY"
+                    "en": "Squawkabilly (Blue Plumage)",
+                    "es": "Squawkabilly (Plumaje Azul)"
                 },
                 "attacks": [
                     {
@@ -66361,8 +66398,8 @@
                     "es": "Volador"
                 },
                 "names": {
-                    "en": "SQUAWKABILLY",
-                    "es": "SQUAWKABILLY"
+                    "en": "Squawkabilly (Green Plumage)",
+                    "es": "Squawkabilly (Plumaje Verde)"
                 },
                 "attacks": [
                     {
@@ -66405,8 +66442,8 @@
                     "es": "Volador"
                 },
                 "names": {
-                    "en": " (White Kyurem)",
-                    "es": " (Kyurem Blanco)"
+                    "en": "Squawkabilly (White Kyurem)",
+                    "es": "Squawkabilly (Kyurem Blanco)"
                 },
                 "attacks": [
                     {
@@ -66449,8 +66486,8 @@
                     "es": "Volador"
                 },
                 "names": {
-                    "en": "SQUAWKABILLY",
-                    "es": "SQUAWKABILLY"
+                    "en": "Squawkabilly (Yellow Plumage)",
+                    "es": "Squawkabilly (Plumaje Amarillo)"
                 },
                 "attacks": [
                     {
@@ -66504,8 +66541,8 @@
             "es": null
         },
         "names": {
-            "en": "NACLI",
-            "es": "NACLI"
+            "en": "Nacli",
+            "es": "Nacli"
         },
         "attacks": [
             {
@@ -66556,8 +66593,8 @@
             "es": null
         },
         "names": {
-            "en": "NACLSTACK",
-            "es": "NACLSTACK"
+            "en": "Naclstack",
+            "es": "Naclstack"
         },
         "attacks": [
             {
@@ -66608,8 +66645,8 @@
             "es": null
         },
         "names": {
-            "en": "GARGANACL",
-            "es": "GARGANACL"
+            "en": "Garganacl",
+            "es": "Garganacl"
         },
         "attacks": [
             {
@@ -66660,8 +66697,8 @@
             "es": null
         },
         "names": {
-            "en": "CHARCADET",
-            "es": "CHARCADET"
+            "en": "Charcadet",
+            "es": "Charcadet"
         },
         "attacks": [
             {
@@ -66712,8 +66749,8 @@
             "es": "Psíquico"
         },
         "names": {
-            "en": "ARMAROUGE",
-            "es": "ARMAROUGE"
+            "en": "Armarouge",
+            "es": "Armarouge"
         },
         "attacks": [
             {
@@ -66768,8 +66805,8 @@
             "es": "Fantasma"
         },
         "names": {
-            "en": "CERULEDGE",
-            "es": "CERULEDGE"
+            "en": "Ceruledge",
+            "es": "Ceruledge"
         },
         "attacks": [
             {
@@ -66824,8 +66861,8 @@
             "es": null
         },
         "names": {
-            "en": "TADBULB",
-            "es": "TADBULB"
+            "en": "Tadbulb",
+            "es": "Tadbulb"
         },
         "attacks": [
             {
@@ -66858,8 +66895,8 @@
             "defense": 73
         },
         "assets": {
-            "image": null,
-            "shinyImage": null
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm938.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm938.s.icon.png"
         }
     },
     {
@@ -66876,8 +66913,8 @@
             "es": null
         },
         "names": {
-            "en": "BELLIBOLT",
-            "es": "BELLIBOLT"
+            "en": "Bellibolt",
+            "es": "Bellibolt"
         },
         "attacks": [
             {
@@ -66910,8 +66947,8 @@
             "defense": 165
         },
         "assets": {
-            "image": null,
-            "shinyImage": null
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm939.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm939.s.icon.png"
         }
     },
     {
@@ -66928,8 +66965,8 @@
             "es": "Volador"
         },
         "names": {
-            "en": "WATTREL",
-            "es": "WATTREL"
+            "en": "Wattrel",
+            "es": "Wattrel"
         },
         "attacks": [
             {
@@ -66980,8 +67017,8 @@
             "es": "Volador"
         },
         "names": {
-            "en": "KILOWATTREL",
-            "es": "KILOWATTREL"
+            "en": "Kilowattrel",
+            "es": "Kilowattrel"
         },
         "attacks": [
             {
@@ -67032,8 +67069,8 @@
             "es": null
         },
         "names": {
-            "en": "MASCHIFF",
-            "es": "MASCHIFF"
+            "en": "Maschiff",
+            "es": "Maschiff"
         },
         "attacks": [
             {
@@ -67084,8 +67121,8 @@
             "es": null
         },
         "names": {
-            "en": "MABOSSTIFF",
-            "es": "MABOSSTIFF"
+            "en": "Mabosstiff",
+            "es": "Mabosstiff"
         },
         "attacks": [
             {
@@ -67136,8 +67173,8 @@
             "es": "Normal"
         },
         "names": {
-            "en": "SHROODLE",
-            "es": "SHROODLE"
+            "en": "Shroodle",
+            "es": "Shroodle"
         },
         "attacks": [
             {
@@ -67188,8 +67225,8 @@
             "es": "Normal"
         },
         "names": {
-            "en": "GRAFAIAI",
-            "es": "GRAFAIAI"
+            "en": "Grafaiai",
+            "es": "Grafaiai"
         },
         "attacks": [
             {
@@ -67240,8 +67277,8 @@
             "es": "Fantasma"
         },
         "names": {
-            "en": "BRAMBLIN",
-            "es": "BRAMBLIN"
+            "en": "Bramblin",
+            "es": "Bramblin"
         },
         "attacks": [
             {
@@ -67292,8 +67329,8 @@
             "es": "Fantasma"
         },
         "names": {
-            "en": "BRAMBLEGHAST",
-            "es": "BRAMBLEGHAST"
+            "en": "Brambleghast",
+            "es": "Brambleghast"
         },
         "attacks": [
             {
@@ -67344,8 +67381,8 @@
             "es": "Planta"
         },
         "names": {
-            "en": "TOEDSCOOL",
-            "es": "TOEDSCOOL"
+            "en": "Toedscool",
+            "es": "Toedscool"
         },
         "attacks": [
             {
@@ -67396,8 +67433,8 @@
             "es": "Planta"
         },
         "names": {
-            "en": "TOEDSCRUEL",
-            "es": "TOEDSCRUEL"
+            "en": "Toedscruel",
+            "es": "Toedscruel"
         },
         "attacks": [
             {
@@ -67448,8 +67485,8 @@
             "es": null
         },
         "names": {
-            "en": "KLAWF",
-            "es": "KLAWF"
+            "en": "Klawf",
+            "es": "Klawf"
         },
         "attacks": [
             {
@@ -67500,8 +67537,8 @@
             "es": null
         },
         "names": {
-            "en": "CAPSAKID",
-            "es": "CAPSAKID"
+            "en": "Capsakid",
+            "es": "Capsakid"
         },
         "attacks": [
             {
@@ -67552,8 +67589,8 @@
             "es": "Fuego"
         },
         "names": {
-            "en": "SCOVILLAIN",
-            "es": "SCOVILLAIN"
+            "en": "Scovillain",
+            "es": "Scovillain"
         },
         "attacks": [
             {
@@ -67608,8 +67645,8 @@
             "es": null
         },
         "names": {
-            "en": "RELLOR",
-            "es": "RELLOR"
+            "en": "Rellor",
+            "es": "Rellor"
         },
         "attacks": [
             {
@@ -67660,8 +67697,8 @@
             "es": "Psíquico"
         },
         "names": {
-            "en": "RABSCA",
-            "es": "RABSCA"
+            "en": "Rabsca",
+            "es": "Rabsca"
         },
         "attacks": [
             {
@@ -67716,8 +67753,8 @@
             "es": null
         },
         "names": {
-            "en": "FLITTLE",
-            "es": "FLITTLE"
+            "en": "Flittle",
+            "es": "Flittle"
         },
         "attacks": [
             {
@@ -67768,8 +67805,8 @@
             "es": null
         },
         "names": {
-            "en": "ESPATHRA",
-            "es": "ESPATHRA"
+            "en": "Espathra",
+            "es": "Espathra"
         },
         "attacks": [
             {
@@ -67820,8 +67857,8 @@
             "es": "Acero"
         },
         "names": {
-            "en": "TINKATINK",
-            "es": "TINKATINK"
+            "en": "Tinkatink",
+            "es": "Tinkatink"
         },
         "attacks": [
             {
@@ -67872,8 +67909,8 @@
             "es": "Acero"
         },
         "names": {
-            "en": "TINKATUFF",
-            "es": "TINKATUFF"
+            "en": "Tinkatuff",
+            "es": "Tinkatuff"
         },
         "attacks": [
             {
@@ -67924,8 +67961,8 @@
             "es": "Acero"
         },
         "names": {
-            "en": "TINKATON",
-            "es": "TINKATON"
+            "en": "Tinkaton",
+            "es": "Tinkaton"
         },
         "attacks": [
             {
@@ -67980,8 +68017,8 @@
             "es": null
         },
         "names": {
-            "en": "WIGLETT",
-            "es": "WIGLETT"
+            "en": "Wiglett",
+            "es": "Wiglett"
         },
         "attacks": [
             {
@@ -68032,8 +68069,8 @@
             "es": null
         },
         "names": {
-            "en": "WUGTRIO",
-            "es": "WUGTRIO"
+            "en": "Wugtrio",
+            "es": "Wugtrio"
         },
         "attacks": [
             {
@@ -68084,8 +68121,8 @@
             "es": "Siniestro"
         },
         "names": {
-            "en": "BOMBIRDIER",
-            "es": "BOMBIRDIER"
+            "en": "Bombirdier",
+            "es": "Bombirdier"
         },
         "attacks": [
             {
@@ -68136,8 +68173,8 @@
             "es": null
         },
         "names": {
-            "en": "FINIZEN",
-            "es": "FINIZEN"
+            "en": "Finizen",
+            "es": "Finizen"
         },
         "attacks": [
             {
@@ -68188,8 +68225,8 @@
             "es": null
         },
         "names": {
-            "en": "PALAFIN",
-            "es": "PALAFIN"
+            "en": "Palafin",
+            "es": "Palafin"
         },
         "attacks": [
             {
@@ -68242,8 +68279,8 @@
                     "es": null
                 },
                 "names": {
-                    "en": " (Hero of Many Battles)",
-                    "es": " (Guerrero Avezado)"
+                    "en": "Palafin (Hero Form)",
+                    "es": "Palafin (Forma Heroica)"
                 },
                 "attacks": [
                     {
@@ -68298,8 +68335,8 @@
                     "es": null
                 },
                 "names": {
-                    "en": "PALAFIN",
-                    "es": "PALAFIN"
+                    "en": "Palafin (Zero Form)",
+                    "es": "Palafin (Forma Ingenua)"
                 },
                 "attacks": [
                     {
@@ -68365,8 +68402,8 @@
             "es": "Veneno"
         },
         "names": {
-            "en": "VAROOM",
-            "es": "VAROOM"
+            "en": "Varoom",
+            "es": "Varoom"
         },
         "attacks": [
             {
@@ -68417,8 +68454,8 @@
             "es": "Veneno"
         },
         "names": {
-            "en": "REVAVROOM",
-            "es": "REVAVROOM"
+            "en": "Revavroom",
+            "es": "Revavroom"
         },
         "attacks": [
             {
@@ -68473,8 +68510,8 @@
             "es": "Normal"
         },
         "names": {
-            "en": "CYCLIZAR",
-            "es": "CYCLIZAR"
+            "en": "Cyclizar",
+            "es": "Cyclizar"
         },
         "attacks": [
             {
@@ -68494,8 +68531,8 @@
                 "es": "Golpe Cuerpo"
             },
             {
-                "en": "392",
-                "es": "392"
+                "en": "Trailblaze",
+                "es": "Abrecaminos"
             }
         ],
         "hasMegaEvolution": false,
@@ -68525,8 +68562,8 @@
             "es": null
         },
         "names": {
-            "en": "ORTHWORM",
-            "es": "ORTHWORM"
+            "en": "Orthworm",
+            "es": "Orthworm"
         },
         "attacks": [
             {
@@ -68577,8 +68614,8 @@
             "es": "Veneno"
         },
         "names": {
-            "en": "GLIMMET",
-            "es": "GLIMMET"
+            "en": "Glimmet",
+            "es": "Glimmet"
         },
         "attacks": [
             {
@@ -68629,8 +68666,8 @@
             "es": "Veneno"
         },
         "names": {
-            "en": "GLIMMORA",
-            "es": "GLIMMORA"
+            "en": "Glimmora",
+            "es": "Glimmora"
         },
         "attacks": [
             {
@@ -68681,8 +68718,8 @@
             "es": null
         },
         "names": {
-            "en": "GREAVARD",
-            "es": "GREAVARD"
+            "en": "Greavard",
+            "es": "Greavard"
         },
         "attacks": [
             {
@@ -68715,8 +68752,8 @@
             "defense": 106
         },
         "assets": {
-            "image": null,
-            "shinyImage": null
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm971.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm971.s.icon.png"
         }
     },
     {
@@ -68733,8 +68770,8 @@
             "es": null
         },
         "names": {
-            "en": "HOUNDSTONE",
-            "es": "HOUNDSTONE"
+            "en": "Houndstone",
+            "es": "Houndstone"
         },
         "attacks": [
             {
@@ -68767,8 +68804,8 @@
             "defense": 195
         },
         "assets": {
-            "image": null,
-            "shinyImage": null
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm972.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm972.s.icon.png"
         }
     },
     {
@@ -68785,8 +68822,8 @@
             "es": "Lucha"
         },
         "names": {
-            "en": "FLAMIGO",
-            "es": "FLAMIGO"
+            "en": "Flamigo",
+            "es": "Flamigo"
         },
         "attacks": [
             {
@@ -68837,8 +68874,8 @@
             "es": null
         },
         "names": {
-            "en": "CETODDLE",
-            "es": "CETODDLE"
+            "en": "Cetoddle",
+            "es": "Cetoddle"
         },
         "attacks": [
             {
@@ -68889,8 +68926,8 @@
             "es": null
         },
         "names": {
-            "en": "CETITAN",
-            "es": "CETITAN"
+            "en": "Cetitan",
+            "es": "Cetitan"
         },
         "attacks": [
             {
@@ -68941,8 +68978,8 @@
             "es": "Psíquico"
         },
         "names": {
-            "en": "VELUZA",
-            "es": "VELUZA"
+            "en": "Veluza",
+            "es": "Veluza"
         },
         "attacks": [
             {
@@ -68997,8 +69034,8 @@
             "es": null
         },
         "names": {
-            "en": "DONDOZO",
-            "es": "DONDOZO"
+            "en": "Dondozo",
+            "es": "Dondozo"
         },
         "attacks": [
             {
@@ -69053,8 +69090,8 @@
             "es": "Agua"
         },
         "names": {
-            "en": "TATSUGIRI",
-            "es": "TATSUGIRI"
+            "en": "Tatsugiri",
+            "es": "Tatsugiri"
         },
         "attacks": [
             {
@@ -69099,8 +69136,8 @@
                     "es": "Agua"
                 },
                 "names": {
-                    "en": "TATSUGIRI",
-                    "es": "TATSUGIRI"
+                    "en": "Tatsugiri (Curly Form)",
+                    "es": "Tatsugiri (Forma Curvada)"
                 },
                 "attacks": [
                     {
@@ -69147,8 +69184,8 @@
                     "es": "Agua"
                 },
                 "names": {
-                    "en": "TATSUGIRI",
-                    "es": "TATSUGIRI"
+                    "en": "Tatsugiri (Droopy Form)",
+                    "es": "Tatsugiri (Forma Lánguida)"
                 },
                 "attacks": [
                     {
@@ -69195,8 +69232,8 @@
                     "es": "Agua"
                 },
                 "names": {
-                    "en": "TATSUGIRI",
-                    "es": "TATSUGIRI"
+                    "en": "Tatsugiri (Stretchy Form)",
+                    "es": "Tatsugiri (Forma Recta)"
                 },
                 "attacks": [
                     {
@@ -69254,8 +69291,8 @@
             "es": "Fantasma"
         },
         "names": {
-            "en": "ANNIHILAPE",
-            "es": "ANNIHILAPE"
+            "en": "Annihilape",
+            "es": "Annihilape"
         },
         "attacks": [
             {
@@ -69310,13 +69347,13 @@
             "es": "Tierra"
         },
         "names": {
-            "en": "CLODSIRE",
-            "es": "CLODSIRE"
+            "en": "Clodsire",
+            "es": "Clodsire"
         },
         "attacks": [
             {
-                "en": "Poison Jab",
-                "es": "Puya Nociva"
+                "en": "Poison Sting",
+                "es": "Picotazo Veneno"
             },
             {
                 "en": "Mud Shot",
@@ -69339,8 +69376,8 @@
                 "es": "Bomba Ácida"
             },
             {
-                "en": "Surf",
-                "es": "Surf"
+                "en": "Water Pulse",
+                "es": "Hidropulso"
             }
         ],
         "hasMegaEvolution": false,
@@ -69352,8 +69389,8 @@
             "defense": 151
         },
         "assets": {
-            "image": null,
-            "shinyImage": null
+            "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm980.icon.png",
+            "shinyImage": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm980.s.icon.png"
         }
     },
     {
@@ -69370,8 +69407,8 @@
             "es": "Psíquico"
         },
         "names": {
-            "en": "FARIGIRAF",
-            "es": "FARIGIRAF"
+            "en": "Farigiraf",
+            "es": "Farigiraf"
         },
         "attacks": [
             {
@@ -69430,8 +69467,8 @@
             "es": null
         },
         "names": {
-            "en": "DUDUNSPARCE",
-            "es": "DUDUNSPARCE"
+            "en": "Dudunsparce",
+            "es": "Dudunsparce"
         },
         "attacks": [
             {
@@ -69476,8 +69513,8 @@
                     "es": null
                 },
                 "names": {
-                    "en": "DUDUNSPARCE",
-                    "es": "DUDUNSPARCE"
+                    "en": "Dudunsparce (Three-Segment Form)",
+                    "es": "Dudunsparce (Forma Trinodular)"
                 },
                 "attacks": [
                     {
@@ -69524,8 +69561,8 @@
                     "es": null
                 },
                 "names": {
-                    "en": "DUDUNSPARCE",
-                    "es": "DUDUNSPARCE"
+                    "en": "Dudunsparce (Two-Segment Form)",
+                    "es": "Dudunsparce (Forma Binodular)"
                 },
                 "attacks": [
                     {
@@ -69583,8 +69620,8 @@
             "es": "Acero"
         },
         "names": {
-            "en": "KINGAMBIT",
-            "es": "KINGAMBIT"
+            "en": "Kingambit",
+            "es": "Kingambit"
         },
         "attacks": [
             {
@@ -69639,8 +69676,8 @@
             "es": "Lucha"
         },
         "names": {
-            "en": "GREATTUSK",
-            "es": "GREATTUSK"
+            "en": "Great Tusk",
+            "es": "Colmilargo"
         },
         "attacks": [
             {
@@ -69679,8 +69716,8 @@
             "es": "Psíquico"
         },
         "names": {
-            "en": "SCREAMTAIL",
-            "es": "SCREAMTAIL"
+            "en": "Scream Tail",
+            "es": "Colagrito"
         },
         "attacks": [
             {
@@ -69719,8 +69756,8 @@
             "es": "Siniestro"
         },
         "names": {
-            "en": "BRUTEBONNET",
-            "es": "BRUTEBONNET"
+            "en": "Brute Bonnet",
+            "es": "Furioseta"
         },
         "attacks": [
             {
@@ -69759,8 +69796,8 @@
             "es": "Hada"
         },
         "names": {
-            "en": "FLUTTERMANE",
-            "es": "FLUTTERMANE"
+            "en": "Flutter Mane",
+            "es": "Melenaleteo"
         },
         "attacks": [
             {
@@ -69799,8 +69836,8 @@
             "es": "Lucha"
         },
         "names": {
-            "en": "SLITHERWING",
-            "es": "SLITHERWING"
+            "en": "Slither Wing",
+            "es": "Reptalada"
         },
         "attacks": [
             {
@@ -69839,8 +69876,8 @@
             "es": "Tierra"
         },
         "names": {
-            "en": "SANDYSHOCKS",
-            "es": "SANDYSHOCKS"
+            "en": "Sandy Shocks",
+            "es": "Pelarena"
         },
         "attacks": [
             {
@@ -69879,8 +69916,8 @@
             "es": "Acero"
         },
         "names": {
-            "en": "IRONTREADS",
-            "es": "IRONTREADS"
+            "en": "Iron Treads",
+            "es": "Ferrodada"
         },
         "attacks": [
             {
@@ -69919,8 +69956,8 @@
             "es": "Agua"
         },
         "names": {
-            "en": "IRONBUNDLE",
-            "es": "IRONBUNDLE"
+            "en": "Iron Bundle",
+            "es": "Ferrosaco"
         },
         "attacks": [
             {
@@ -69959,8 +69996,8 @@
             "es": "Eléctrico"
         },
         "names": {
-            "en": "IRONHANDS",
-            "es": "IRONHANDS"
+            "en": "Iron Hands",
+            "es": "Ferropalmas"
         },
         "attacks": [
             {
@@ -69999,8 +70036,8 @@
             "es": "Volador"
         },
         "names": {
-            "en": "IRONJUGULIS",
-            "es": "IRONJUGULIS"
+            "en": "Iron Jugulis",
+            "es": "Ferrocuello"
         },
         "attacks": [
             {
@@ -70039,8 +70076,8 @@
             "es": "Veneno"
         },
         "names": {
-            "en": "IRONMOTH",
-            "es": "IRONMOTH"
+            "en": "Iron Moth",
+            "es": "Ferropolilla"
         },
         "attacks": [
             {
@@ -70079,8 +70116,8 @@
             "es": "Eléctrico"
         },
         "names": {
-            "en": "IRONTHORNS",
-            "es": "IRONTHORNS"
+            "en": "Iron Thorns",
+            "es": "Ferropúas"
         },
         "attacks": [
             {
@@ -70119,8 +70156,8 @@
             "es": "Hielo"
         },
         "names": {
-            "en": "FRIGIBAX",
-            "es": "FRIGIBAX"
+            "en": "Frigibax",
+            "es": "Frigibax"
         },
         "attacks": [
             {
@@ -70171,8 +70208,8 @@
             "es": "Hielo"
         },
         "names": {
-            "en": "ARCTIBAX",
-            "es": "ARCTIBAX"
+            "en": "Arctibax",
+            "es": "Arctibax"
         },
         "attacks": [
             {
@@ -70223,8 +70260,8 @@
             "es": "Hielo"
         },
         "names": {
-            "en": "BAXCALIBUR",
-            "es": "BAXCALIBUR"
+            "en": "Baxcalibur",
+            "es": "Baxcalibur"
         },
         "attacks": [
             {
@@ -70371,8 +70408,8 @@
             "es": "Planta"
         },
         "names": {
-            "en": "WOCHIEN",
-            "es": "WOCHIEN"
+            "en": "Wo-Chien",
+            "es": "Wo-Chien"
         },
         "attacks": [
             {
@@ -70411,8 +70448,8 @@
             "es": "Hielo"
         },
         "names": {
-            "en": "CHIENPAO",
-            "es": "CHIENPAO"
+            "en": "Chien-Pao",
+            "es": "Chien-Pao"
         },
         "attacks": [
             {
@@ -70451,8 +70488,8 @@
             "es": "Tierra"
         },
         "names": {
-            "en": "TINGLU",
-            "es": "TINGLU"
+            "en": "Ting-Lu",
+            "es": "Ting-Lu"
         },
         "attacks": [
             {
@@ -70491,8 +70528,8 @@
             "es": "Fuego"
         },
         "names": {
-            "en": "CHIYU",
-            "es": "CHIYU"
+            "en": "Chi-Yu",
+            "es": "Chi-Yu"
         },
         "attacks": [
             {
@@ -70531,8 +70568,8 @@
             "es": "Siniestro"
         },
         "names": {
-            "en": "ROARINGMOON",
-            "es": "ROARINGMOON"
+            "en": "Roaring Moon",
+            "es": "Bramaluna"
         },
         "attacks": [
             {
@@ -70571,8 +70608,8 @@
             "es": "Lucha"
         },
         "names": {
-            "en": "IRONVALIANT",
-            "es": "IRONVALIANT"
+            "en": "Iron Valiant",
+            "es": "Ferropaladín"
         },
         "attacks": [
             {
@@ -70611,8 +70648,8 @@
             "es": "Dragón"
         },
         "names": {
-            "en": "KORAIDON",
-            "es": "KORAIDON"
+            "en": "Koraidon",
+            "es": "Koraidon"
         },
         "attacks": [
             {
@@ -70641,8 +70678,8 @@
                     "es": "Dragón"
                 },
                 "names": {
-                    "en": "KORAIDON",
-                    "es": "KORAIDON"
+                    "en": "Koraidon (Apex Build)",
+                    "es": "Koraidon (Fisonomía Plena)"
                 },
                 "attacks": [
                     {
@@ -70684,8 +70721,8 @@
             "es": "Dragón"
         },
         "names": {
-            "en": "MIRAIDON",
-            "es": "MIRAIDON"
+            "en": "Miraidon",
+            "es": "Miraidon"
         },
         "attacks": [
             {
@@ -70714,8 +70751,8 @@
                     "es": "Dragón"
                 },
                 "names": {
-                    "en": "MIRAIDON",
-                    "es": "MIRAIDON"
+                    "en": "Miraidon (Ultimate Mode)",
+                    "es": "Miraidon (Modo Pleno)"
                 },
                 "attacks": [
                     {
